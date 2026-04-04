@@ -1,15 +1,18 @@
 name: Update Gaming Calendar
 on:
   schedule:
-    - cron: '0 */6 * * *' # Runs every 6 hours
-  workflow_dispatch: # Allows you to run it manually for testing
+    - cron: '0 * * * *' # Runs exactly once an hour
+  workflow_dispatch: 
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Fetch IGDB Data
         env:
@@ -19,15 +22,15 @@ jobs:
           # 1. Get Access Token
           TOKEN=$(curl -s -X POST "https://id.twitch.tv/oauth2/token?client_id=$CLIENT_ID&client_secret=$CLIENT_SECRET&grant_type=client_credentials" | jq -r '.access_token')
           
-          # 2. Get Unix timestamps for "30 days ago" and "90 days ahead"
+          # 2. Get Unix timestamps (Correct Ubuntu Syntax)
           START_DATE=$(date -d "30 days ago" +%s)
-          END_DATE=$(date -d "90 days ahead" +%s)
+          END_DATE=$(date -d "+6 months" +%s)
 
-          # 3. Query IGDB for games in that range
+          # 3. Query IGDB (Increased limit to 100 for the 6-month window)
           curl -X POST 'https://api.igdb.com/v4/release_dates' \
           -H "Client-ID: $CLIENT_ID" \
           -H "Authorization: Bearer $TOKEN" \
-          -d "fields game.name, game.cover.url, date, platform.name; where date > $START_DATE & date < $END_DATE; sort date asc; limit 50;" \
+          -d "fields game.name, game.cover.url, date, platform.name; where date > $START_DATE & date < $END_DATE; sort date asc; limit 100;" \
           -o games.json
 
       - name: Commit and Push
@@ -35,5 +38,5 @@ jobs:
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git add games.json
-          git commit -m "Update games list" || exit 0
+          git commit -m "Update games list (Hourly Sync)" || exit 0
           git push
