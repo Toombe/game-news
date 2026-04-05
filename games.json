@@ -1,905 +1,5 @@
 [
   {
-    "id": 876112,
-    "date": 1772841600,
-    "game": {
-      "id": 390495,
-      "cover": {
-        "id": 538989,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobjvx.jpg"
-      },
-      "name": "Evergreen Meadow"
-    },
-    "platform": {
-      "id": 130,
-      "name": "Nintendo Switch"
-    }
-  },
-  {
-    "id": 883482,
-    "date": 1772841600,
-    "game": {
-      "id": 393003,
-      "cover": {
-        "id": 544222,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobnxa.jpg"
-      },
-      "name": "Hustle Battle: Card Gamers"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 886278,
-    "date": 1772841600,
-    "game": {
-      "id": 380831,
-      "cover": {
-        "id": 512386,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coazcy.jpg"
-      },
-      "name": "Rail Rescue"
-    },
-    "platform": {
-      "id": 130,
-      "name": "Nintendo Switch"
-    }
-  },
-  {
-    "id": 886298,
-    "date": 1772841600,
-    "game": {
-      "id": 393900,
-      "name": "Rail Rescue: Puzzle Lines - Quest Track"
-    },
-    "platform": {
-      "id": 130,
-      "name": "Nintendo Switch"
-    }
-  },
-  {
-    "id": 886299,
-    "date": 1772841600,
-    "game": {
-      "id": 393899,
-      "name": "Rail Rescue: Puzzle Lines - Challenge Track"
-    },
-    "platform": {
-      "id": 130,
-      "name": "Nintendo Switch"
-    }
-  },
-  {
-    "id": 886912,
-    "date": 1772841600,
-    "game": {
-      "id": 394075,
-      "cover": {
-        "id": 547113,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobq5l.jpg"
-      },
-      "name": "Valkeala Climb Race"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 887030,
-    "date": 1772841600,
-    "game": {
-      "id": 316499,
-      "cover": {
-        "id": 410792,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8syw.jpg"
-      },
-      "name": "Sonic Tameshi"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 887108,
-    "date": 1772841600,
-    "game": {
-      "id": 392117,
-      "cover": {
-        "id": 545617,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobp01.jpg"
-      },
-      "name": "Juggle Star DX"
-    },
-    "platform": {
-      "id": 3,
-      "name": "Linux"
-    }
-  },
-  {
-    "id": 887109,
-    "date": 1772841600,
-    "game": {
-      "id": 392117,
-      "cover": {
-        "id": 545617,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobp01.jpg"
-      },
-      "name": "Juggle Star DX"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 887110,
-    "date": 1772841600,
-    "game": {
-      "id": 392207,
-      "cover": {
-        "id": 550481,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobsr5.jpg"
-      },
-      "name": "Koltera 2"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 887188,
-    "date": 1772841600,
-    "game": {
-      "id": 394171,
-      "cover": {
-        "id": 547341,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobqbx.jpg"
-      },
-      "name": "The Guest: Home Alone"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 887196,
-    "date": 1772841600,
-    "game": {
-      "id": 390182,
-      "cover": {
-        "id": 538553,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobjjt.jpg"
-      },
-      "name": "Stellar Industrialist"
-    },
-    "platform": {
-      "id": 14,
-      "name": "Mac"
-    }
-  },
-  {
-    "id": 887197,
-    "date": 1772841600,
-    "game": {
-      "id": 390182,
-      "cover": {
-        "id": 538553,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobjjt.jpg"
-      },
-      "name": "Stellar Industrialist"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 887198,
-    "date": 1772841600,
-    "game": {
-      "id": 390740,
-      "cover": {
-        "id": 539383,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobk6v.jpg"
-      },
-      "name": "Idle Sailor"
-    },
-    "platform": {
-      "id": 14,
-      "name": "Mac"
-    }
-  },
-  {
-    "id": 887199,
-    "date": 1772841600,
-    "game": {
-      "id": 390740,
-      "cover": {
-        "id": 539383,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobk6v.jpg"
-      },
-      "name": "Idle Sailor"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 887510,
-    "date": 1772841600,
-    "game": {
-      "id": 393478,
-      "cover": {
-        "id": 545536,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coboxs.jpg"
-      },
-      "name": "B\u0026F 1: The Dark Corridor"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 887739,
-    "date": 1772841600,
-    "game": {
-      "id": 325523,
-      "cover": {
-        "id": 436639,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9cwv.jpg"
-      },
-      "name": "Rogue Monster Rush"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 888121,
-    "date": 1772841600,
-    "game": {
-      "id": 394482,
-      "cover": {
-        "id": 548193,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobqzl.jpg"
-      },
-      "name": "Road Jumper"
-    },
-    "platform": {
-      "id": 167,
-      "name": "PlayStation 5"
-    }
-  },
-  {
-    "id": 888122,
-    "date": 1772841600,
-    "game": {
-      "id": 394482,
-      "cover": {
-        "id": 548193,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobqzl.jpg"
-      },
-      "name": "Road Jumper"
-    },
-    "platform": {
-      "id": 48,
-      "name": "PlayStation 4"
-    }
-  },
-  {
-    "id": 888396,
-    "date": 1772841600,
-    "game": {
-      "id": 394592,
-      "name": "SM64CoopDX: Kirby Deluxe!"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 888856,
-    "date": 1772841600,
-    "game": {
-      "id": 394724,
-      "cover": {
-        "id": 548781,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobrfx.jpg"
-      },
-      "name": "10 Casual Games Collection"
-    },
-    "platform": {
-      "id": 130,
-      "name": "Nintendo Switch"
-    }
-  },
-  {
-    "id": 888878,
-    "date": 1772841600,
-    "game": {
-      "id": 394567,
-      "cover": {
-        "id": 548415,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobr5r.jpg"
-      },
-      "name": "Noire Police Detective: Gangster Drama Simulator"
-    },
-    "platform": {
-      "id": 130,
-      "name": "Nintendo Switch"
-    }
-  },
-  {
-    "id": 888879,
-    "date": 1772841600,
-    "game": {
-      "id": 394554,
-      "cover": {
-        "id": 548404,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobr5g.jpg"
-      },
-      "name": "Spin Path 2"
-    },
-    "platform": {
-      "id": 130,
-      "name": "Nintendo Switch"
-    }
-  },
-  {
-    "id": 888887,
-    "date": 1772841600,
-    "game": {
-      "id": 394557,
-      "cover": {
-        "id": 548406,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobr5i.jpg"
-      },
-      "name": "Twins or Tens"
-    },
-    "platform": {
-      "id": 130,
-      "name": "Nintendo Switch"
-    }
-  },
-  {
-    "id": 889074,
-    "date": 1772841600,
-    "game": {
-      "id": 365845,
-      "cover": {
-        "id": 485918,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coaexq.jpg"
-      },
-      "name": "On Your Notebook"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 889076,
-    "date": 1772841600,
-    "game": {
-      "id": 392975,
-      "cover": {
-        "id": 547802,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobqoq.jpg"
-      },
-      "name": "The Witch\u0027s Warehouse Management"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 889077,
-    "date": 1772841600,
-    "game": {
-      "id": 394630,
-      "cover": {
-        "id": 552622,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobuem.jpg"
-      },
-      "name": "Pizza Empire"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 892619,
-    "date": 1772841600,
-    "game": {
-      "id": 395845,
-      "cover": {
-        "id": 551619,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobtmr.jpg"
-      },
-      "name": "Lusty Bubbles: Animated Edition"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 893639,
-    "date": 1772841600,
-    "game": {
-      "id": 396050,
-      "cover": {
-        "id": 552013,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobtxp.jpg"
-      },
-      "name": "LRDZ: Le roi des Zosties"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 848124,
-    "date": 1772928000,
-    "game": {
-      "id": 358392,
-      "cover": {
-        "id": 476085,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coa7cl.jpg"
-      },
-      "name": "Current"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 884170,
-    "date": 1772928000,
-    "game": {
-      "id": 368792,
-      "cover": {
-        "id": 492548,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coak1w.jpg"
-      },
-      "name": "Warlords Battleground: Extraction"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 884171,
-    "date": 1772928000,
-    "game": {
-      "id": 392137,
-      "cover": {
-        "id": 544684,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coboa4.jpg"
-      },
-      "name": "Desktop Raid"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 887195,
-    "date": 1772928000,
-    "game": {
-      "id": 368807,
-      "cover": {
-        "id": 490493,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coaigt.jpg"
-      },
-      "name": "Kaiju Cracking Corporation"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 887240,
-    "date": 1772928000,
-    "game": {
-      "id": 394220,
-      "cover": {
-        "id": 547458,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobqf6.jpg"
-      },
-      "name": "Go Big"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 887272,
-    "date": 1772928000,
-    "game": {
-      "id": 394159,
-      "cover": {
-        "id": 547482,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobqfu.jpg"
-      },
-      "name": "Vanguard Of Armor"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 887439,
-    "date": 1772928000,
-    "game": {
-      "id": 394257,
-      "cover": {
-        "id": 547646,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobqke.jpg"
-      },
-      "name": "Defense Grid 2: Aftermath"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 887718,
-    "date": 1772928000,
-    "game": {
-      "id": 394290,
-      "cover": {
-        "id": 547840,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobqps.jpg"
-      },
-      "name": "Panic of the Apes"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 887813,
-    "date": 1772928000,
-    "game": {
-      "id": 311797,
-      "cover": {
-        "id": 401931,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8m4r.jpg"
-      },
-      "name": "Escape Gaia: Departure"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 887814,
-    "date": 1772928000,
-    "game": {
-      "id": 346847,
-      "cover": {
-        "id": 462097,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9wk1.jpg"
-      },
-      "name": "Bestia Forge"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 887815,
-    "date": 1772928000,
-    "game": {
-      "id": 374149,
-      "cover": {
-        "id": 499442,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coapde.jpg"
-      },
-      "name": "Teddy Horses"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 887816,
-    "date": 1772928000,
-    "game": {
-      "id": 385921,
-      "cover": {
-        "id": 527122,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobaqa.jpg"
-      },
-      "name": "Samurai Standoff"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 887962,
-    "date": 1772928000,
-    "game": {
-      "id": 382917,
-      "cover": {
-        "id": 535267,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobh0j.jpg"
-      },
-      "name": "Only Faces Remain"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 888762,
-    "date": 1772928000,
-    "game": {
-      "id": 394701,
-      "cover": {
-        "id": 548714,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobre2.jpg"
-      },
-      "name": "Kira vs. Akira"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 889071,
-    "date": 1772928000,
-    "game": {
-      "id": 390002,
-      "cover": {
-        "id": 538214,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobjae.jpg"
-      },
-      "name": "Pawns Survival"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 889072,
-    "date": 1772928000,
-    "game": {
-      "id": 389728,
-      "cover": {
-        "id": 537842,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobj02.jpg"
-      },
-      "name": "Pit of the Lord"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 889073,
-    "date": 1772928000,
-    "game": {
-      "id": 392591,
-      "cover": {
-        "id": 542636,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobmp8.jpg"
-      },
-      "name": "Wasteland With Robots"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 889807,
-    "date": 1772928000,
-    "game": {
-      "id": 389682,
-      "cover": {
-        "id": 537766,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobixy.jpg"
-      },
-      "name": "Billiard Rampage"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 890340,
-    "date": 1772928000,
-    "game": {
-      "id": 395157,
-      "cover": {
-        "id": 549813,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobs8l.jpg"
-      },
-      "name": "Punk Plush Panic"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 891390,
-    "date": 1772928000,
-    "game": {
-      "id": 226560,
-      "cover": {
-        "id": 270799,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5sy7.jpg"
-      },
-      "name": "Fear of Mine"
-    },
-    "platform": {
-      "id": 3,
-      "name": "Linux"
-    }
-  },
-  {
-    "id": 893508,
-    "date": 1772928000,
-    "game": {
-      "id": 396017,
-      "cover": {
-        "id": 551964,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobtwc.jpg"
-      },
-      "name": "Gorilla Simulator"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 894695,
-    "date": 1772928000,
-    "game": {
-      "id": 396477,
-      "cover": {
-        "id": 552796,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobujg.jpg"
-      },
-      "name": "Psycho Inn"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 894703,
-    "date": 1772928000,
-    "game": {
-      "id": 394844,
-      "cover": {
-        "id": 552174,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobu26.jpg"
-      },
-      "name": "Rooftop Rascal: The Pirate Cat"
-    },
-    "platform": {
-      "id": 48,
-      "name": "PlayStation 4"
-    }
-  },
-  {
-    "id": 894704,
-    "date": 1772928000,
-    "game": {
-      "id": 394844,
-      "cover": {
-        "id": 552174,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobu26.jpg"
-      },
-      "name": "Rooftop Rascal: The Pirate Cat"
-    },
-    "platform": {
-      "id": 167,
-      "name": "PlayStation 5"
-    }
-  },
-  {
-    "id": 829110,
-    "date": 1773014400,
-    "game": {
-      "id": 375991,
-      "cover": {
-        "id": 503305,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coascp.jpg"
-      },
-      "name": "Astro Fighters 2"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 860146,
-    "date": 1773014400,
-    "game": {
-      "id": 278789,
-      "cover": {
-        "id": 429983,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co97rz.jpg"
-      },
-      "name": "Connected Clue"
-    },
-    "platform": {
-      "id": 14,
-      "name": "Mac"
-    }
-  },
-  {
-    "id": 860147,
-    "date": 1773014400,
-    "game": {
-      "id": 278789,
-      "cover": {
-        "id": 429983,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co97rz.jpg"
-      },
-      "name": "Connected Clue"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 872231,
-    "date": 1773014400,
-    "game": {
-      "id": 388973,
-      "cover": {
-        "id": 536325,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobhtx.jpg"
-      },
-      "name": "Captain of Industry: Trains Expansion"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
     "id": 872877,
     "date": 1773014400,
     "game": {
@@ -908,6 +8,7 @@
         "id": 493081,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/coakgp.jpg"
       },
+      "hypes": 4,
       "name": "Pluto"
     },
     "platform": {
@@ -924,6 +25,7 @@
         "id": 493081,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/coakgp.jpg"
       },
+      "hypes": 4,
       "name": "Pluto"
     },
     "platform": {
@@ -940,6 +42,7 @@
         "id": 493081,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/coakgp.jpg"
       },
+      "hypes": 4,
       "name": "Pluto"
     },
     "platform": {
@@ -948,15 +51,16 @@
     }
   },
   {
-    "id": 875403,
-    "date": 1773014400,
+    "id": 857575,
+    "date": 1773100800,
     "game": {
-      "id": 390072,
+      "id": 172821,
       "cover": {
-        "id": 538326,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobjdi.jpg"
+        "id": 459729,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9uq9.jpg"
       },
-      "name": "Dead Bit"
+      "hypes": 5,
+      "name": "Mr. Sleepy Man"
     },
     "platform": {
       "id": 6,
@@ -964,15 +68,16 @@
     }
   },
   {
-    "id": 875794,
-    "date": 1773014400,
+    "id": 862484,
+    "date": 1773100800,
     "game": {
-      "id": 390307,
+      "id": 201961,
       "cover": {
-        "id": 538731,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobjor.jpg"
+        "id": 532791,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobf3r.jpg"
       },
-      "name": "Holy Nope!"
+      "hypes": 14,
+      "name": "GreedFall: The Dying World"
     },
     "platform": {
       "id": 6,
@@ -980,207 +85,16 @@
     }
   },
   {
-    "id": 876219,
-    "date": 1773014400,
+    "id": 874062,
+    "date": 1773100800,
     "game": {
-      "id": 390558,
+      "id": 361893,
       "cover": {
-        "id": 554033,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobvht.jpg"
+        "id": 480807,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coaazr.jpg"
       },
-      "name": "Card Corner"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 876699,
-    "date": 1773014400,
-    "game": {
-      "id": 390835,
-      "cover": {
-        "id": 545332,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobos4.jpg"
-      },
-      "name": "LoopMage: The Infinite Trials"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 877225,
-    "date": 1773014400,
-    "game": {
-      "id": 391151,
-      "cover": {
-        "id": 540088,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobkqg.jpg"
-      },
-      "name": "Project Starblade"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 878414,
-    "date": 1773014400,
-    "game": {
-      "id": 316071,
-      "cover": {
-        "id": 490106,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coai62.jpg"
-      },
-      "name": "Iter-8"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 879042,
-    "date": 1773014400,
-    "game": {
-      "id": 392091,
-      "cover": {
-        "id": 541642,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coblxm.jpg"
-      },
-      "name": "Knight of Noshland"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 879101,
-    "date": 1773014400,
-    "game": {
-      "id": 392138,
-      "cover": {
-        "id": 544683,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coboa3.jpg"
-      },
-      "name": "Tree of Knowledge"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 879162,
-    "date": 1773014400,
-    "game": {
-      "id": 392182,
-      "cover": {
-        "id": 544676,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobo9w.jpg"
-      },
-      "name": "Drft"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 879192,
-    "date": 1773014400,
-    "game": {
-      "id": 392208,
-      "cover": {
-        "id": 541788,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobm1o.jpg"
-      },
-      "name": "Puppy Park"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 879831,
-    "date": 1773014400,
-    "game": {
-      "id": 392118,
-      "cover": {
-        "id": 542413,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobmj1.jpg"
-      },
-      "name": "Dice Goblin\u0027s Den"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 880110,
-    "date": 1773014400,
-    "game": {
-      "id": 370981,
-      "cover": {
-        "id": 542595,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobmo3.jpg"
-      },
-      "name": "Blossom: The Seed of Life"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 883722,
-    "date": 1773014400,
-    "game": {
-      "id": 345434,
-      "cover": {
-        "id": 460363,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9v7v.jpg"
-      },
-      "name": "Hive Blight"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 883751,
-    "date": 1773014400,
-    "game": {
-      "id": 393128,
-      "cover": {
-        "id": 544564,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobo6s.jpg"
-      },
-      "name": "Chicken Rescue"
-    },
-    "platform": {
-      "id": 48,
-      "name": "PlayStation 4"
-    }
-  },
-  {
-    "id": 883752,
-    "date": 1773014400,
-    "game": {
-      "id": 393128,
-      "cover": {
-        "id": 544564,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobo6s.jpg"
-      },
-      "name": "Chicken Rescue"
+      "hypes": 11,
+      "name": "Ghost of Yotei: Legends"
     },
     "platform": {
       "id": 167,
@@ -1188,15 +102,16 @@
     }
   },
   {
-    "id": 884075,
-    "date": 1773014400,
+    "id": 888983,
+    "date": 1773100800,
     "game": {
-      "id": 370666,
+      "id": 317052,
       "cover": {
-        "id": 544636,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobo8s.jpg"
+        "id": 417315,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8y03.jpg"
       },
-      "name": "Labyrinth Trailblazer"
+      "hypes": 3,
+      "name": "Runeborn"
     },
     "platform": {
       "id": 6,
@@ -1204,15 +119,16 @@
     }
   },
   {
-    "id": 884148,
-    "date": 1773014400,
+    "id": 889791,
+    "date": 1773100800,
     "game": {
-      "id": 249426,
+      "id": 366709,
       "cover": {
-        "id": 302470,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6hdy.jpg"
+        "id": 487238,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coafye.jpg"
       },
-      "name": "Starweave"
+      "hypes": 4,
+      "name": "Ranger’s Path: National Park Simulator"
     },
     "platform": {
       "id": 6,
@@ -1220,31 +136,16 @@
     }
   },
   {
-    "id": 884149,
-    "date": 1773014400,
+    "id": 884100,
+    "date": 1773187200,
     "game": {
-      "id": 249426,
+      "id": 321991,
       "cover": {
-        "id": 302470,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6hdy.jpg"
+        "id": 427213,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co95n1.jpg"
       },
-      "name": "Starweave"
-    },
-    "platform": {
-      "id": 14,
-      "name": "Mac"
-    }
-  },
-  {
-    "id": 884150,
-    "date": 1773014400,
-    "game": {
-      "id": 309865,
-      "cover": {
-        "id": 399279,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8k33.jpg"
-      },
-      "name": "Temporal Titans"
+      "hypes": 3,
+      "name": "Mama\u0027s Sleeping Angels"
     },
     "platform": {
       "id": 6,
@@ -1252,63 +153,50 @@
     }
   },
   {
-    "id": 884151,
-    "date": 1773014400,
+    "id": 833348,
+    "date": 1773273600,
     "game": {
-      "id": 333977,
+      "id": 366890,
       "cover": {
-        "id": 442270,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9h9a.jpg"
+        "id": 505555,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coau37.jpg"
       },
-      "name": "Plylbl"
+      "hypes": 29,
+      "name": "Fatal Frame II: Crimson Butterfly Remake"
     },
     "platform": {
-      "id": 3,
-      "name": "Linux"
+      "id": 167,
+      "name": "PlayStation 5"
     }
   },
   {
-    "id": 884152,
-    "date": 1773014400,
+    "id": 833370,
+    "date": 1773273600,
     "game": {
-      "id": 333977,
+      "id": 366890,
       "cover": {
-        "id": 442270,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9h9a.jpg"
+        "id": 505555,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coau37.jpg"
       },
-      "name": "Plylbl"
+      "hypes": 29,
+      "name": "Fatal Frame II: Crimson Butterfly Remake"
     },
     "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
+      "id": 508,
+      "name": "Nintendo Switch 2"
     }
   },
   {
-    "id": 884153,
-    "date": 1773014400,
+    "id": 833371,
+    "date": 1773273600,
     "game": {
-      "id": 334695,
+      "id": 366890,
       "cover": {
-        "id": 446022,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9k5i.jpg"
+        "id": 505555,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coau37.jpg"
       },
-      "name": "Thysiastery"
-    },
-    "platform": {
-      "id": 3,
-      "name": "Linux"
-    }
-  },
-  {
-    "id": 884154,
-    "date": 1773014400,
-    "game": {
-      "id": 334695,
-      "cover": {
-        "id": 446022,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9k5i.jpg"
-      },
-      "name": "Thysiastery"
+      "hypes": 29,
+      "name": "Fatal Frame II: Crimson Butterfly Remake"
     },
     "platform": {
       "id": 6,
@@ -1316,207 +204,33 @@
     }
   },
   {
-    "id": 884155,
-    "date": 1773014400,
+    "id": 833372,
+    "date": 1773273600,
     "game": {
-      "id": 356714,
+      "id": 366890,
       "cover": {
-        "id": 483119,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coacrz.jpg"
+        "id": 505555,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coau37.jpg"
       },
-      "name": "Luxuriant"
+      "hypes": 29,
+      "name": "Fatal Frame II: Crimson Butterfly Remake"
     },
     "platform": {
-      "id": 14,
-      "name": "Mac"
+      "id": 169,
+      "name": "Xbox Series X|S"
     }
   },
   {
-    "id": 884156,
-    "date": 1773014400,
+    "id": 844478,
+    "date": 1773273600,
     "game": {
-      "id": 356714,
+      "id": 140794,
       "cover": {
-        "id": 483119,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coacrz.jpg"
+        "id": 199955,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4aab.jpg"
       },
-      "name": "Luxuriant"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 884157,
-    "date": 1773014400,
-    "game": {
-      "id": 357004,
-      "cover": {
-        "id": 542286,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobmfi.jpg"
-      },
-      "name": "TerraScape: Ancient Egypt"
-    },
-    "platform": {
-      "id": 14,
-      "name": "Mac"
-    }
-  },
-  {
-    "id": 884158,
-    "date": 1773014400,
-    "game": {
-      "id": 357004,
-      "cover": {
-        "id": 542286,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobmfi.jpg"
-      },
-      "name": "TerraScape: Ancient Egypt"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 884161,
-    "date": 1773014400,
-    "game": {
-      "id": 391522,
-      "cover": {
-        "id": 541277,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coblnh.jpg"
-      },
-      "name": "Spacefleet: Heat Death"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 884162,
-    "date": 1773014400,
-    "game": {
-      "id": 371022,
-      "cover": {
-        "id": 542287,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobmfj.jpg"
-      },
-      "name": "Age of Wonders 4: Rise from Ruin"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 884163,
-    "date": 1773014400,
-    "game": {
-      "id": 372128,
-      "cover": {
-        "id": 496379,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coan0b.jpg"
-      },
-      "name": "Interstellar Holy Spirit"
-    },
-    "platform": {
-      "id": 14,
-      "name": "Mac"
-    }
-  },
-  {
-    "id": 884164,
-    "date": 1773014400,
-    "game": {
-      "id": 372128,
-      "cover": {
-        "id": 496379,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coan0b.jpg"
-      },
-      "name": "Interstellar Holy Spirit"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 884165,
-    "date": 1773014400,
-    "game": {
-      "id": 377284,
-      "cover": {
-        "id": 547331,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobqbn.jpg"
-      },
-      "name": "Walker"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 884166,
-    "date": 1773014400,
-    "game": {
-      "id": 377585,
-      "cover": {
-        "id": 505805,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coaua5.jpg"
-      },
-      "name": "Space Tower Defense"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 884168,
-    "date": 1773014400,
-    "game": {
-      "id": 379839,
-      "cover": {
-        "id": 510703,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coay27.jpg"
-      },
-      "name": "Echoes From The Soul"
-    },
-    "platform": {
-      "id": 6,
-      "name": "PC (Microsoft Windows)"
-    }
-  },
-  {
-    "id": 884169,
-    "date": 1773014400,
-    "game": {
-      "id": 379839,
-      "cover": {
-        "id": 510703,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coay27.jpg"
-      },
-      "name": "Echoes From The Soul"
-    },
-    "platform": {
-      "id": 3,
-      "name": "Linux"
-    }
-  },
-  {
-    "id": 884182,
-    "date": 1773014400,
-    "game": {
-      "id": 364270,
-      "cover": {
-        "id": 483759,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coad9r.jpg"
-      },
-      "name": "Sushi Cat: Tower Defense"
+      "hypes": 3,
+      "name": "RoadOut"
     },
     "platform": {
       "id": 130,
@@ -1524,15 +238,16 @@
     }
   },
   {
-    "id": 884297,
-    "date": 1773014400,
+    "id": 844479,
+    "date": 1773273600,
     "game": {
-      "id": 390322,
+      "id": 140794,
       "cover": {
-        "id": 538778,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobjq2.jpg"
+        "id": 199955,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4aab.jpg"
       },
-      "name": "Dogfight Darlings"
+      "hypes": 3,
+      "name": "RoadOut"
     },
     "platform": {
       "id": 6,
@@ -1540,15 +255,50 @@
     }
   },
   {
-    "id": 884298,
-    "date": 1773014400,
+    "id": 844480,
+    "date": 1773273600,
     "game": {
-      "id": 390871,
+      "id": 140794,
       "cover": {
-        "id": 539557,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobkbp.jpg"
+        "id": 199955,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4aab.jpg"
       },
-      "name": "Steel Force: Top Down Shooter"
+      "hypes": 3,
+      "name": "RoadOut"
+    },
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    }
+  },
+  {
+    "id": 844481,
+    "date": 1773273600,
+    "game": {
+      "id": 140794,
+      "cover": {
+        "id": 199955,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4aab.jpg"
+      },
+      "hypes": 3,
+      "name": "RoadOut"
+    },
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    }
+  },
+  {
+    "id": 845237,
+    "date": 1773273600,
+    "game": {
+      "id": 325589,
+      "cover": {
+        "id": 446697,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9ko9.jpg"
+      },
+      "hypes": 39,
+      "name": "Solasta II"
     },
     "platform": {
       "id": 6,
@@ -1556,15 +306,16 @@
     }
   },
   {
-    "id": 884314,
-    "date": 1773014400,
+    "id": 845252,
+    "date": 1773273600,
     "game": {
-      "id": 236534,
+      "id": 252485,
       "cover": {
-        "id": 544666,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobo9m.jpg"
+        "id": 514004,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cob0lw.jpg"
       },
-      "name": "Tangy TD"
+      "hypes": 37,
+      "name": "John Carpenter\u0027s Toxic Commando"
     },
     "platform": {
       "id": 6,
@@ -1572,19 +323,3080 @@
     }
   },
   {
-    "id": 887759,
-    "date": 1773014400,
+    "id": 845253,
+    "date": 1773273600,
     "game": {
-      "id": 394378,
+      "id": 252485,
       "cover": {
-        "id": 547860,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobqqc.jpg"
+        "id": 514004,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cob0lw.jpg"
       },
-      "name": "Womb of Worms"
+      "hypes": 37,
+      "name": "John Carpenter\u0027s Toxic Commando"
+    },
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    }
+  },
+  {
+    "id": 845254,
+    "date": 1773273600,
+    "game": {
+      "id": 252485,
+      "cover": {
+        "id": 514004,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cob0lw.jpg"
+      },
+      "hypes": 37,
+      "name": "John Carpenter\u0027s Toxic Commando"
+    },
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    }
+  },
+  {
+    "id": 861498,
+    "date": 1773273600,
+    "game": {
+      "id": 362064,
+      "cover": {
+        "id": 481101,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coab7x.jpg"
+      },
+      "hypes": 29,
+      "name": "1348: Ex Voto"
     },
     "platform": {
       "id": 6,
       "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 861499,
+    "date": 1773273600,
+    "game": {
+      "id": 362064,
+      "cover": {
+        "id": 481101,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coab7x.jpg"
+      },
+      "hypes": 29,
+      "name": "1348: Ex Voto"
+    },
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    }
+  },
+  {
+    "id": 861909,
+    "date": 1773273600,
+    "game": {
+      "id": 201961,
+      "cover": {
+        "id": 532791,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobf3r.jpg"
+      },
+      "hypes": 14,
+      "name": "GreedFall: The Dying World"
+    },
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    }
+  },
+  {
+    "id": 861910,
+    "date": 1773273600,
+    "game": {
+      "id": 201961,
+      "cover": {
+        "id": 532791,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobf3r.jpg"
+      },
+      "hypes": 14,
+      "name": "GreedFall: The Dying World"
+    },
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    }
+  },
+  {
+    "id": 878344,
+    "date": 1773273600,
+    "game": {
+      "id": 298696,
+      "cover": {
+        "id": 419365,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8zl1.jpg"
+      },
+      "hypes": 5,
+      "name": "Collector\u0027s Cove"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 878346,
+    "date": 1773273600,
+    "game": {
+      "id": 298696,
+      "cover": {
+        "id": 419365,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8zl1.jpg"
+      },
+      "hypes": 5,
+      "name": "Collector\u0027s Cove"
+    },
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    }
+  },
+  {
+    "id": 878347,
+    "date": 1773273600,
+    "game": {
+      "id": 298696,
+      "cover": {
+        "id": 419365,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8zl1.jpg"
+      },
+      "hypes": 5,
+      "name": "Collector\u0027s Cove"
+    },
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    }
+  },
+  {
+    "id": 880079,
+    "date": 1773273600,
+    "game": {
+      "id": 126381,
+      "cover": {
+        "id": 551889,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobtu9.jpg"
+      },
+      "hypes": 4,
+      "name": "Timberborn"
+    },
+    "platform": {
+      "id": 14,
+      "name": "Mac"
+    }
+  },
+  {
+    "id": 880080,
+    "date": 1773273600,
+    "game": {
+      "id": 126381,
+      "cover": {
+        "id": 551889,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobtu9.jpg"
+      },
+      "hypes": 4,
+      "name": "Timberborn"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 884067,
+    "date": 1773273600,
+    "game": {
+      "id": 165574,
+      "cover": {
+        "id": 452288,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9ozk.jpg"
+      },
+      "hypes": 3,
+      "name": "Wraith Ops"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 884078,
+    "date": 1773273600,
+    "game": {
+      "id": 356955,
+      "cover": {
+        "id": 509512,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coax54.jpg"
+      },
+      "hypes": 3,
+      "name": "Corner Shop: NightShift"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 887573,
+    "date": 1773273600,
+    "game": {
+      "id": 303164,
+      "cover": {
+        "id": 463477,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9xmd.jpg"
+      },
+      "hypes": 5,
+      "name": "Bloodgrounds"
+    },
+    "platform": {
+      "id": 14,
+      "name": "Mac"
+    }
+  },
+  {
+    "id": 887574,
+    "date": 1773273600,
+    "game": {
+      "id": 303164,
+      "cover": {
+        "id": 463477,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9xmd.jpg"
+      },
+      "hypes": 5,
+      "name": "Bloodgrounds"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 888531,
+    "date": 1773273600,
+    "game": {
+      "id": 338083,
+      "cover": {
+        "id": 548591,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobran.jpg"
+      },
+      "hypes": 4,
+      "name": "Bravely Default: Flying Fairy - HD Remaster"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 888532,
+    "date": 1773273600,
+    "game": {
+      "id": 338083,
+      "cover": {
+        "id": 548591,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobran.jpg"
+      },
+      "hypes": 4,
+      "name": "Bravely Default: Flying Fairy - HD Remaster"
+    },
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    }
+  },
+  {
+    "id": 888570,
+    "date": 1773273600,
+    "game": {
+      "id": 346035,
+      "cover": {
+        "id": 463333,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9xid.jpg"
+      },
+      "hypes": 11,
+      "name": "Ball x Pit"
+    },
+    "platform": {
+      "id": 39,
+      "name": "iOS"
+    }
+  },
+  {
+    "id": 888571,
+    "date": 1773273600,
+    "game": {
+      "id": 346035,
+      "cover": {
+        "id": 463333,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9xid.jpg"
+      },
+      "hypes": 11,
+      "name": "Ball x Pit"
+    },
+    "platform": {
+      "id": 34,
+      "name": "Android"
+    }
+  },
+  {
+    "id": 800721,
+    "date": 1773360000,
+    "game": {
+      "id": 358525,
+      "cover": {
+        "id": 510602,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coaxze.jpg"
+      },
+      "hypes": 16,
+      "name": "Monster Hunter Stories 3: Twisted Reflection"
+    },
+    "platform": {
+      "id": 508,
+      "name": "Nintendo Switch 2"
+    }
+  },
+  {
+    "id": 800722,
+    "date": 1773360000,
+    "game": {
+      "id": 358525,
+      "cover": {
+        "id": 510602,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coaxze.jpg"
+      },
+      "hypes": 16,
+      "name": "Monster Hunter Stories 3: Twisted Reflection"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 800723,
+    "date": 1773360000,
+    "game": {
+      "id": 358525,
+      "cover": {
+        "id": 510602,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coaxze.jpg"
+      },
+      "hypes": 16,
+      "name": "Monster Hunter Stories 3: Twisted Reflection"
+    },
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    }
+  },
+  {
+    "id": 800724,
+    "date": 1773360000,
+    "game": {
+      "id": 358525,
+      "cover": {
+        "id": 510602,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coaxze.jpg"
+      },
+      "hypes": 16,
+      "name": "Monster Hunter Stories 3: Twisted Reflection"
+    },
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    }
+  },
+  {
+    "id": 879810,
+    "date": 1773360000,
+    "game": {
+      "id": 349998,
+      "cover": {
+        "id": 548158,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobqym.jpg"
+      },
+      "hypes": 3,
+      "name": "Lucid Blocks"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 889190,
+    "date": 1773360000,
+    "game": {
+      "id": 333095,
+      "cover": {
+        "id": 440919,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9g7r.jpg"
+      },
+      "hypes": 6,
+      "name": "OpenFront"
+    },
+    "platform": {
+      "id": 82,
+      "name": "Web browser"
+    }
+  },
+  {
+    "id": 873553,
+    "date": 1773619200,
+    "game": {
+      "id": 380415,
+      "cover": {
+        "id": 536622,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobi26.jpg"
+      },
+      "hypes": 6,
+      "name": "Starship Troopers: Ultimate Bug War!"
+    },
+    "platform": {
+      "id": 508,
+      "name": "Nintendo Switch 2"
+    }
+  },
+  {
+    "id": 873554,
+    "date": 1773619200,
+    "game": {
+      "id": 380415,
+      "cover": {
+        "id": 536622,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobi26.jpg"
+      },
+      "hypes": 6,
+      "name": "Starship Troopers: Ultimate Bug War!"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 873555,
+    "date": 1773619200,
+    "game": {
+      "id": 380415,
+      "cover": {
+        "id": 536622,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobi26.jpg"
+      },
+      "hypes": 6,
+      "name": "Starship Troopers: Ultimate Bug War!"
+    },
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    }
+  },
+  {
+    "id": 873556,
+    "date": 1773619200,
+    "game": {
+      "id": 380415,
+      "cover": {
+        "id": 536622,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobi26.jpg"
+      },
+      "hypes": 6,
+      "name": "Starship Troopers: Ultimate Bug War!"
+    },
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    }
+  },
+  {
+    "id": 873997,
+    "date": 1773619200,
+    "game": {
+      "id": 194143,
+      "cover": {
+        "id": 536694,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobi46.jpg"
+      },
+      "hypes": 15,
+      "name": "The Seven Deadly Sins: Origin"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 873998,
+    "date": 1773619200,
+    "game": {
+      "id": 194143,
+      "cover": {
+        "id": 536694,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobi46.jpg"
+      },
+      "hypes": 15,
+      "name": "The Seven Deadly Sins: Origin"
+    },
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    }
+  },
+  {
+    "id": 886137,
+    "date": 1773619200,
+    "game": {
+      "id": 361967,
+      "cover": {
+        "id": 481434,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coabh6.jpg"
+      },
+      "hypes": 3,
+      "name": "Grind Survivors"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 886138,
+    "date": 1773619200,
+    "game": {
+      "id": 361967,
+      "cover": {
+        "id": 481434,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coabh6.jpg"
+      },
+      "hypes": 3,
+      "name": "Grind Survivors"
+    },
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    }
+  },
+  {
+    "id": 886139,
+    "date": 1773619200,
+    "game": {
+      "id": 361967,
+      "cover": {
+        "id": 481434,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coabh6.jpg"
+      },
+      "hypes": 3,
+      "name": "Grind Survivors"
+    },
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    }
+  },
+  {
+    "id": 887557,
+    "date": 1773619200,
+    "game": {
+      "id": 258654,
+      "cover": {
+        "id": 549491,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobrzn.jpg"
+      },
+      "hypes": 3,
+      "name": "Bonnie Bear Saves Frogtime"
+    },
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    }
+  },
+  {
+    "id": 887558,
+    "date": 1773619200,
+    "game": {
+      "id": 258654,
+      "cover": {
+        "id": 549491,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobrzn.jpg"
+      },
+      "hypes": 3,
+      "name": "Bonnie Bear Saves Frogtime"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 889987,
+    "date": 1773619200,
+    "game": {
+      "id": 288865,
+      "cover": {
+        "id": 548288,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobr28.jpg"
+      },
+      "hypes": 15,
+      "name": "Dragonkin: The Banished"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 889988,
+    "date": 1773619200,
+    "game": {
+      "id": 288865,
+      "cover": {
+        "id": 548288,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobr28.jpg"
+      },
+      "hypes": 15,
+      "name": "Dragonkin: The Banished"
+    },
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    }
+  },
+  {
+    "id": 889989,
+    "date": 1773619200,
+    "game": {
+      "id": 288865,
+      "cover": {
+        "id": 548288,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobr28.jpg"
+      },
+      "hypes": 15,
+      "name": "Dragonkin: The Banished"
+    },
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    }
+  },
+  {
+    "id": 879879,
+    "date": 1773705600,
+    "game": {
+      "id": 142304,
+      "cover": {
+        "id": 442391,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9hcn.jpg"
+      },
+      "hypes": 4,
+      "name": "Fallen Tear: The Ascension"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 885321,
+    "date": 1773705600,
+    "game": {
+      "id": 316979,
+      "cover": {
+        "id": 455922,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9rsi.jpg"
+      },
+      "hypes": 4,
+      "name": "Deadzone: Rogue"
+    },
+    "platform": {
+      "id": 508,
+      "name": "Nintendo Switch 2"
+    }
+  },
+  {
+    "id": 887732,
+    "date": 1773705600,
+    "game": {
+      "id": 342138,
+      "cover": {
+        "id": 493998,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coal66.jpg"
+      },
+      "hypes": 7,
+      "name": "Everwind"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 889542,
+    "date": 1773705600,
+    "game": {
+      "id": 115555,
+      "cover": {
+        "id": 486889,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coafop.jpg"
+      },
+      "hypes": 5,
+      "name": "Going Medieval"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 890451,
+    "date": 1773705600,
+    "game": {
+      "id": 389439,
+      "cover": {
+        "id": 537135,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobigf.jpg"
+      },
+      "hypes": 3,
+      "name": "Tekken: Dark Resurrection"
+    },
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    }
+  },
+  {
+    "id": 890452,
+    "date": 1773705600,
+    "game": {
+      "id": 389439,
+      "cover": {
+        "id": 537135,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobigf.jpg"
+      },
+      "hypes": 3,
+      "name": "Tekken: Dark Resurrection"
+    },
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    }
+  },
+  {
+    "id": 894823,
+    "date": 1773705600,
+    "game": {
+      "id": 366870,
+      "cover": {
+        "id": 499120,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coap4g.jpg"
+      },
+      "hypes": 4,
+      "name": "The Cube, Save Us"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 867790,
+    "date": 1773792000,
+    "game": {
+      "id": 19085,
+      "cover": {
+        "id": 81948,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1r8c.jpg"
+      },
+      "hypes": 6,
+      "name": "Shadow Tactics: Blades of the Shogun"
+    },
+    "platform": {
+      "id": 508,
+      "name": "Nintendo Switch 2"
+    }
+  },
+  {
+    "id": 893987,
+    "date": 1773792000,
+    "game": {
+      "id": 214417,
+      "cover": {
+        "id": 487986,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coagj6.jpg"
+      },
+      "hypes": 3,
+      "name": "The Finals"
+    },
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    }
+  },
+  {
+    "id": 810306,
+    "date": 1773878400,
+    "game": {
+      "id": 125633,
+      "cover": {
+        "id": 500634,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coaqai.jpg"
+      },
+      "hypes": 298,
+      "name": "Crimson Desert"
+    },
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    }
+  },
+  {
+    "id": 812470,
+    "date": 1773878400,
+    "game": {
+      "id": 125633,
+      "cover": {
+        "id": 500634,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coaqai.jpg"
+      },
+      "hypes": 298,
+      "name": "Crimson Desert"
+    },
+    "platform": {
+      "id": 14,
+      "name": "Mac"
+    }
+  },
+  {
+    "id": 812471,
+    "date": 1773878400,
+    "game": {
+      "id": 125633,
+      "cover": {
+        "id": 500634,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coaqai.jpg"
+      },
+      "hypes": 298,
+      "name": "Crimson Desert"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 812472,
+    "date": 1773878400,
+    "game": {
+      "id": 125633,
+      "cover": {
+        "id": 500634,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coaqai.jpg"
+      },
+      "hypes": 298,
+      "name": "Crimson Desert"
+    },
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    }
+  },
+  {
+    "id": 872728,
+    "date": 1773878400,
+    "game": {
+      "id": 288865,
+      "cover": {
+        "id": 548288,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobr28.jpg"
+      },
+      "hypes": 15,
+      "name": "Dragonkin: The Banished"
+    },
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    }
+  },
+  {
+    "id": 872729,
+    "date": 1773878400,
+    "game": {
+      "id": 288865,
+      "cover": {
+        "id": 548288,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobr28.jpg"
+      },
+      "hypes": 15,
+      "name": "Dragonkin: The Banished"
+    },
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    }
+  },
+  {
+    "id": 874021,
+    "date": 1773878400,
+    "game": {
+      "id": 228530,
+      "cover": {
+        "id": 444165,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9ipx.jpg"
+      },
+      "hypes": 188,
+      "name": "Death Stranding 2: On the Beach"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 890117,
+    "date": 1773878400,
+    "game": {
+      "id": 288487,
+      "cover": {
+        "id": 487551,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coag73.jpg"
+      },
+      "hypes": 3,
+      "name": "Voidwrought"
+    },
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    }
+  },
+  {
+    "id": 890118,
+    "date": 1773878400,
+    "game": {
+      "id": 288487,
+      "cover": {
+        "id": 487551,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coag73.jpg"
+      },
+      "hypes": 3,
+      "name": "Voidwrought"
+    },
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    }
+  },
+  {
+    "id": 894645,
+    "date": 1773878400,
+    "game": {
+      "id": 216784,
+      "cover": {
+        "id": 418293,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8yr9.jpg"
+      },
+      "hypes": 12,
+      "name": "Urban Myth Dissolution Center"
+    },
+    "platform": {
+      "id": 34,
+      "name": "Android"
+    }
+  },
+  {
+    "id": 894646,
+    "date": 1773878400,
+    "game": {
+      "id": 216784,
+      "cover": {
+        "id": 418293,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8yr9.jpg"
+      },
+      "hypes": 12,
+      "name": "Urban Myth Dissolution Center"
+    },
+    "platform": {
+      "id": 39,
+      "name": "iOS"
+    }
+  },
+  {
+    "id": 886122,
+    "date": 1773964800,
+    "game": {
+      "id": 302969,
+      "cover": {
+        "id": 385440,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co89eo.jpg"
+      },
+      "hypes": 3,
+      "name": "Moto Rush Reborn"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 886123,
+    "date": 1773964800,
+    "game": {
+      "id": 302969,
+      "cover": {
+        "id": 385440,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co89eo.jpg"
+      },
+      "hypes": 3,
+      "name": "Moto Rush Reborn"
+    },
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    }
+  },
+  {
+    "id": 886124,
+    "date": 1773964800,
+    "game": {
+      "id": 302969,
+      "cover": {
+        "id": 385440,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co89eo.jpg"
+      },
+      "hypes": 3,
+      "name": "Moto Rush Reborn"
+    },
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    }
+  },
+  {
+    "id": 873995,
+    "date": 1774224000,
+    "game": {
+      "id": 194143,
+      "cover": {
+        "id": 536694,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobi46.jpg"
+      },
+      "hypes": 15,
+      "name": "The Seven Deadly Sins: Origin"
+    },
+    "platform": {
+      "id": 34,
+      "name": "Android"
+    }
+  },
+  {
+    "id": 873996,
+    "date": 1774224000,
+    "game": {
+      "id": 194143,
+      "cover": {
+        "id": 536694,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobi46.jpg"
+      },
+      "hypes": 15,
+      "name": "The Seven Deadly Sins: Origin"
+    },
+    "platform": {
+      "id": 39,
+      "name": "iOS"
+    }
+  },
+  {
+    "id": 883924,
+    "date": 1774224000,
+    "game": {
+      "id": 342979,
+      "cover": {
+        "id": 456394,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9s5m.jpg"
+      },
+      "hypes": 3,
+      "name": "Pakinpaks"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 890419,
+    "date": 1774224000,
+    "game": {
+      "id": 305539,
+      "cover": {
+        "id": 479204,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coa9r8.jpg"
+      },
+      "hypes": 5,
+      "name": "No Vacation for an Executioner"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 865109,
+    "date": 1774396800,
+    "game": {
+      "id": 351213,
+      "cover": {
+        "id": 505482,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coau16.jpg"
+      },
+      "hypes": 5,
+      "name": "Damon and Baby"
+    },
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    }
+  },
+  {
+    "id": 865110,
+    "date": 1774396800,
+    "game": {
+      "id": 351213,
+      "cover": {
+        "id": 505482,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coau16.jpg"
+      },
+      "hypes": 5,
+      "name": "Damon and Baby"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 865111,
+    "date": 1774396800,
+    "game": {
+      "id": 351213,
+      "cover": {
+        "id": 505482,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coau16.jpg"
+      },
+      "hypes": 5,
+      "name": "Damon and Baby"
+    },
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    }
+  },
+  {
+    "id": 865112,
+    "date": 1774396800,
+    "game": {
+      "id": 351213,
+      "cover": {
+        "id": 505482,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coau16.jpg"
+      },
+      "hypes": 5,
+      "name": "Damon and Baby"
+    },
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    }
+  },
+  {
+    "id": 892281,
+    "date": 1774396800,
+    "game": {
+      "id": 334239,
+      "cover": {
+        "id": 504815,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coatin.jpg"
+      },
+      "hypes": 28,
+      "name": "Absolum"
+    },
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    }
+  },
+  {
+    "id": 893399,
+    "date": 1774396800,
+    "game": {
+      "id": 267648,
+      "cover": {
+        "id": 379017,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co84g9.jpg"
+      },
+      "hypes": 33,
+      "name": "Tales of the Shire"
+    },
+    "platform": {
+      "id": 508,
+      "name": "Nintendo Switch 2"
+    }
+  },
+  {
+    "id": 894459,
+    "date": 1774396800,
+    "game": {
+      "id": 330673,
+      "cover": {
+        "id": 454084,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9qdg.jpg"
+      },
+      "hypes": 10,
+      "name": "Easy Delivery Co."
+    },
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    }
+  },
+  {
+    "id": 841992,
+    "date": 1774483200,
+    "game": {
+      "id": 376699,
+      "cover": {
+        "id": 504748,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coatgs.jpg"
+      },
+      "hypes": 3,
+      "name": "Etrange Overlord"
+    },
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    }
+  },
+  {
+    "id": 841993,
+    "date": 1774483200,
+    "game": {
+      "id": 376699,
+      "cover": {
+        "id": 504748,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coatgs.jpg"
+      },
+      "hypes": 3,
+      "name": "Etrange Overlord"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 841994,
+    "date": 1774483200,
+    "game": {
+      "id": 376699,
+      "cover": {
+        "id": 504748,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coatgs.jpg"
+      },
+      "hypes": 3,
+      "name": "Etrange Overlord"
+    },
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    }
+  },
+  {
+    "id": 841995,
+    "date": 1774483200,
+    "game": {
+      "id": 376699,
+      "cover": {
+        "id": 504748,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coatgs.jpg"
+      },
+      "hypes": 3,
+      "name": "Etrange Overlord"
+    },
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    }
+  },
+  {
+    "id": 860941,
+    "date": 1774483200,
+    "game": {
+      "id": 386431,
+      "cover": {
+        "id": 528380,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobbp8.jpg"
+      },
+      "hypes": 17,
+      "name": "Life is Strange: Reunion"
+    },
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    }
+  },
+  {
+    "id": 860942,
+    "date": 1774483200,
+    "game": {
+      "id": 386431,
+      "cover": {
+        "id": 528380,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobbp8.jpg"
+      },
+      "hypes": 17,
+      "name": "Life is Strange: Reunion"
+    },
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    }
+  },
+  {
+    "id": 860943,
+    "date": 1774483200,
+    "game": {
+      "id": 386431,
+      "cover": {
+        "id": 528380,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobbp8.jpg"
+      },
+      "hypes": 17,
+      "name": "Life is Strange: Reunion"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 861936,
+    "date": 1774483200,
+    "game": {
+      "id": 366881,
+      "cover": {
+        "id": 529402,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobchm.jpg"
+      },
+      "hypes": 11,
+      "name": "Super Mario Bros. Wonder: Nintendo Switch 2 Edition + Meetup in Bellabel Park"
+    },
+    "platform": {
+      "id": 508,
+      "name": "Nintendo Switch 2"
+    }
+  },
+  {
+    "id": 862936,
+    "date": 1774483200,
+    "game": {
+      "id": 344068,
+      "cover": {
+        "id": 529263,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobcdr.jpg"
+      },
+      "hypes": 7,
+      "name": "EverSiege: Untold Ages"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 864413,
+    "date": 1774483200,
+    "game": {
+      "id": 320723,
+      "cover": {
+        "id": 418902,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8z86.jpg"
+      },
+      "hypes": 10,
+      "name": "Project Songbird"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 864414,
+    "date": 1774483200,
+    "game": {
+      "id": 320723,
+      "cover": {
+        "id": 418902,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8z86.jpg"
+      },
+      "hypes": 10,
+      "name": "Project Songbird"
+    },
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    }
+  },
+  {
+    "id": 864415,
+    "date": 1774483200,
+    "game": {
+      "id": 320723,
+      "cover": {
+        "id": 418902,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8z86.jpg"
+      },
+      "hypes": 10,
+      "name": "Project Songbird"
+    },
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    }
+  },
+  {
+    "id": 865223,
+    "date": 1774483200,
+    "game": {
+      "id": 358822,
+      "cover": {
+        "id": 482586,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coacd6.jpg"
+      },
+      "hypes": 3,
+      "name": "Virtua Fighter 5 R.E.V.O. World Stage"
+    },
+    "platform": {
+      "id": 508,
+      "name": "Nintendo Switch 2"
+    }
+  },
+  {
+    "id": 867815,
+    "date": 1774483200,
+    "game": {
+      "id": 326638,
+      "cover": {
+        "id": 432155,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co99gb.jpg"
+      },
+      "hypes": 10,
+      "name": "Off"
+    },
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    }
+  },
+  {
+    "id": 883578,
+    "date": 1774483200,
+    "game": {
+      "id": 243924,
+      "cover": {
+        "id": 475417,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coa6u1.jpg"
+      },
+      "hypes": 6,
+      "name": "Primal Planet"
+    },
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    }
+  },
+  {
+    "id": 883892,
+    "date": 1774483200,
+    "game": {
+      "id": 325607,
+      "cover": {
+        "id": 480084,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coaafo.jpg"
+      },
+      "hypes": 36,
+      "name": "Screamer"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 883893,
+    "date": 1774483200,
+    "game": {
+      "id": 325607,
+      "cover": {
+        "id": 480084,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coaafo.jpg"
+      },
+      "hypes": 36,
+      "name": "Screamer"
+    },
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    }
+  },
+  {
+    "id": 883894,
+    "date": 1774483200,
+    "game": {
+      "id": 325607,
+      "cover": {
+        "id": 480084,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coaafo.jpg"
+      },
+      "hypes": 36,
+      "name": "Screamer"
+    },
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    }
+  },
+  {
+    "id": 885312,
+    "date": 1774483200,
+    "game": {
+      "id": 317621,
+      "cover": {
+        "id": 413103,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8ur3.jpg"
+      },
+      "hypes": 44,
+      "name": "The Midnight Walk"
+    },
+    "platform": {
+      "id": 508,
+      "name": "Nintendo Switch 2"
+    }
+  },
+  {
+    "id": 891003,
+    "date": 1774483200,
+    "game": {
+      "id": 330673,
+      "cover": {
+        "id": 454084,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9qdg.jpg"
+      },
+      "hypes": 10,
+      "name": "Easy Delivery Co."
+    },
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    }
+  },
+  {
+    "id": 891004,
+    "date": 1774483200,
+    "game": {
+      "id": 330673,
+      "cover": {
+        "id": 454084,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9qdg.jpg"
+      },
+      "hypes": 10,
+      "name": "Easy Delivery Co."
+    },
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    }
+  },
+  {
+    "id": 891006,
+    "date": 1774483200,
+    "game": {
+      "id": 330673,
+      "cover": {
+        "id": 454084,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9qdg.jpg"
+      },
+      "hypes": 10,
+      "name": "Easy Delivery Co."
+    },
+    "platform": {
+      "id": 39,
+      "name": "iOS"
+    }
+  },
+  {
+    "id": 891007,
+    "date": 1774483200,
+    "game": {
+      "id": 330673,
+      "cover": {
+        "id": 454084,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9qdg.jpg"
+      },
+      "hypes": 10,
+      "name": "Easy Delivery Co."
+    },
+    "platform": {
+      "id": 34,
+      "name": "Android"
+    }
+  },
+  {
+    "id": 891018,
+    "date": 1774483200,
+    "game": {
+      "id": 134588,
+      "cover": {
+        "id": 443122,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9hwy.jpg"
+      },
+      "hypes": 34,
+      "name": "Kena: Bridge of Spirits"
+    },
+    "platform": {
+      "id": 508,
+      "name": "Nintendo Switch 2"
+    }
+  },
+  {
+    "id": 893922,
+    "date": 1774483200,
+    "game": {
+      "id": 18167,
+      "cover": {
+        "id": 400145,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8kr5.jpg"
+      },
+      "hypes": 199,
+      "name": "Hello Neighbor"
+    },
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    }
+  },
+  {
+    "id": 894460,
+    "date": 1774483200,
+    "game": {
+      "id": 330673,
+      "cover": {
+        "id": 454084,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9qdg.jpg"
+      },
+      "hypes": 10,
+      "name": "Easy Delivery Co."
+    },
+    "platform": {
+      "id": 49,
+      "name": "Xbox One"
+    }
+  },
+  {
+    "id": 867421,
+    "date": 1774569600,
+    "game": {
+      "id": 256522,
+      "cover": {
+        "id": 549775,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobs7j.jpg"
+      },
+      "hypes": 5,
+      "name": "Who Are You!?"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 892208,
+    "date": 1774569600,
+    "game": {
+      "id": 292876,
+      "cover": {
+        "id": 370624,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7xz4.jpg"
+      },
+      "hypes": 5,
+      "name": "Worshippers of Cthulhu"
+    },
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    }
+  },
+  {
+    "id": 893993,
+    "date": 1774569600,
+    "game": {
+      "id": 389447,
+      "cover": {
+        "id": 552576,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobudc.jpg"
+      },
+      "hypes": 5,
+      "name": "Poké Everworld Online"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 894175,
+    "date": 1774569600,
+    "game": {
+      "id": 18167,
+      "cover": {
+        "id": 400145,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8kr5.jpg"
+      },
+      "hypes": 199,
+      "name": "Hello Neighbor"
+    },
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    }
+  },
+  {
+    "id": 865267,
+    "date": 1774828800,
+    "game": {
+      "id": 345443,
+      "cover": {
+        "id": 460373,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9v85.jpg"
+      },
+      "hypes": 8,
+      "name": "Hozy"
+    },
+    "platform": {
+      "id": 14,
+      "name": "Mac"
+    }
+  },
+  {
+    "id": 865268,
+    "date": 1774828800,
+    "game": {
+      "id": 345443,
+      "cover": {
+        "id": 460373,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9v85.jpg"
+      },
+      "hypes": 8,
+      "name": "Hozy"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 883851,
+    "date": 1774828800,
+    "game": {
+      "id": 345962,
+      "cover": {
+        "id": 465102,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9yvi.jpg"
+      },
+      "hypes": 4,
+      "name": "Cinderia"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 890492,
+    "date": 1774828800,
+    "game": {
+      "id": 250733,
+      "cover": {
+        "id": 308293,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6lvp.jpg"
+      },
+      "hypes": 6,
+      "name": "Fishbowl"
+    },
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    }
+  },
+  {
+    "id": 715691,
+    "date": 1774915200,
+    "game": {
+      "id": 335826,
+      "cover": {
+        "id": 445259,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9jkb.jpg"
+      },
+      "hypes": 3,
+      "name": "Ghost Sector"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 787386,
+    "date": 1774915200,
+    "game": {
+      "id": 361663,
+      "cover": {
+        "id": 480559,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coaasv.jpg"
+      },
+      "hypes": 4,
+      "name": "Gallipoli"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 787387,
+    "date": 1774915200,
+    "game": {
+      "id": 361663,
+      "cover": {
+        "id": 480559,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coaasv.jpg"
+      },
+      "hypes": 4,
+      "name": "Gallipoli"
+    },
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    }
+  },
+  {
+    "id": 787388,
+    "date": 1774915200,
+    "game": {
+      "id": 361663,
+      "cover": {
+        "id": 480559,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coaasv.jpg"
+      },
+      "hypes": 4,
+      "name": "Gallipoli"
+    },
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    }
+  },
+  {
+    "id": 813830,
+    "date": 1774915200,
+    "game": {
+      "id": 332314,
+      "cover": {
+        "id": 439997,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9fi5.jpg"
+      },
+      "hypes": 3,
+      "name": "Baptiste"
+    },
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    }
+  },
+  {
+    "id": 813831,
+    "date": 1774915200,
+    "game": {
+      "id": 332314,
+      "cover": {
+        "id": 439997,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9fi5.jpg"
+      },
+      "hypes": 3,
+      "name": "Baptiste"
+    },
+    "platform": {
+      "id": 508,
+      "name": "Nintendo Switch 2"
+    }
+  },
+  {
+    "id": 813832,
+    "date": 1774915200,
+    "game": {
+      "id": 332314,
+      "cover": {
+        "id": 439997,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9fi5.jpg"
+      },
+      "hypes": 3,
+      "name": "Baptiste"
+    },
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    }
+  },
+  {
+    "id": 821555,
+    "date": 1774915200,
+    "game": {
+      "id": 339674,
+      "cover": {
+        "id": 450595,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9noj.jpg"
+      },
+      "hypes": 5,
+      "name": "Scavland"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 822506,
+    "date": 1774915200,
+    "game": {
+      "id": 172821,
+      "cover": {
+        "id": 459729,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9uq9.jpg"
+      },
+      "hypes": 5,
+      "name": "Mr. Sleepy Man"
+    },
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    }
+  },
+  {
+    "id": 824887,
+    "date": 1774915200,
+    "game": {
+      "id": 373840,
+      "cover": {
+        "id": 501101,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coaqnh.jpg"
+      },
+      "hypes": 3,
+      "name": "It Reaches"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 825104,
+    "date": 1774915200,
+    "game": {
+      "id": 190422,
+      "cover": {
+        "id": 411374,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8tf2.jpg"
+      },
+      "hypes": 5,
+      "name": "Demon Spore"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 827011,
+    "date": 1774915200,
+    "game": {
+      "id": 309862,
+      "cover": {
+        "id": 404661,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8o8l.jpg"
+      },
+      "hypes": 12,
+      "name": "TCG Card Shop Simulator"
+    },
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    }
+  },
+  {
+    "id": 827024,
+    "date": 1774915200,
+    "game": {
+      "id": 320726,
+      "cover": {
+        "id": 418906,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8z8a.jpg"
+      },
+      "hypes": 5,
+      "name": "Deck of Haunts"
+    },
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    }
+  },
+  {
+    "id": 827026,
+    "date": 1774915200,
+    "game": {
+      "id": 320726,
+      "cover": {
+        "id": 418906,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8z8a.jpg"
+      },
+      "hypes": 5,
+      "name": "Deck of Haunts"
+    },
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    }
+  },
+  {
+    "id": 827027,
+    "date": 1774915200,
+    "game": {
+      "id": 320726,
+      "cover": {
+        "id": 418906,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8z8a.jpg"
+      },
+      "hypes": 5,
+      "name": "Deck of Haunts"
+    },
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    }
+  },
+  {
+    "id": 828383,
+    "date": 1774915200,
+    "game": {
+      "id": 365273,
+      "cover": {
+        "id": 547483,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobqfv.jpg"
+      },
+      "hypes": 4,
+      "name": "The Mailroom"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 833270,
+    "date": 1774915200,
+    "game": {
+      "id": 324314,
+      "cover": {
+        "id": 425345,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9475.jpg"
+      },
+      "hypes": 3,
+      "name": "Panzer Strike"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 834070,
+    "date": 1774915200,
+    "game": {
+      "id": 288854,
+      "cover": {
+        "id": 365171,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7trn.jpg"
+      },
+      "hypes": 3,
+      "name": "Endurance Motorsport Series"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 834071,
+    "date": 1774915200,
+    "game": {
+      "id": 288854,
+      "cover": {
+        "id": 365171,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7trn.jpg"
+      },
+      "hypes": 3,
+      "name": "Endurance Motorsport Series"
+    },
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    }
+  },
+  {
+    "id": 834072,
+    "date": 1774915200,
+    "game": {
+      "id": 288854,
+      "cover": {
+        "id": 365171,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7trn.jpg"
+      },
+      "hypes": 3,
+      "name": "Endurance Motorsport Series"
+    },
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    }
+  },
+  {
+    "id": 844420,
+    "date": 1774915200,
+    "game": {
+      "id": 217549,
+      "cover": {
+        "id": 298455,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6eaf.jpg"
+      },
+      "hypes": 4,
+      "name": "Eagle Knight Paradox"
+    },
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    }
+  },
+  {
+    "id": 844421,
+    "date": 1774915200,
+    "game": {
+      "id": 217549,
+      "cover": {
+        "id": 298455,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6eaf.jpg"
+      },
+      "hypes": 4,
+      "name": "Eagle Knight Paradox"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 844422,
+    "date": 1774915200,
+    "game": {
+      "id": 217549,
+      "cover": {
+        "id": 298455,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6eaf.jpg"
+      },
+      "hypes": 4,
+      "name": "Eagle Knight Paradox"
+    },
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    }
+  },
+  {
+    "id": 844423,
+    "date": 1774915200,
+    "game": {
+      "id": 217549,
+      "cover": {
+        "id": 298455,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6eaf.jpg"
+      },
+      "hypes": 4,
+      "name": "Eagle Knight Paradox"
+    },
+    "platform": {
+      "id": 49,
+      "name": "Xbox One"
+    }
+  },
+  {
+    "id": 844463,
+    "date": 1774915200,
+    "game": {
+      "id": 244359,
+      "cover": {
+        "id": 349970,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7i1e.jpg"
+      },
+      "hypes": 4,
+      "name": "One Card One Shot: Mafia"
+    },
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    }
+  },
+  {
+    "id": 844464,
+    "date": 1774915200,
+    "game": {
+      "id": 244359,
+      "cover": {
+        "id": 349970,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7i1e.jpg"
+      },
+      "hypes": 4,
+      "name": "One Card One Shot: Mafia"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 844465,
+    "date": 1774915200,
+    "game": {
+      "id": 244359,
+      "cover": {
+        "id": 349970,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7i1e.jpg"
+      },
+      "hypes": 4,
+      "name": "One Card One Shot: Mafia"
+    },
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    }
+  },
+  {
+    "id": 844466,
+    "date": 1774915200,
+    "game": {
+      "id": 244359,
+      "cover": {
+        "id": 349970,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7i1e.jpg"
+      },
+      "hypes": 4,
+      "name": "One Card One Shot: Mafia"
+    },
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    }
+  },
+  {
+    "id": 848087,
+    "date": 1774915200,
+    "game": {
+      "id": 354556,
+      "cover": {
+        "id": 484287,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coadof.jpg"
+      },
+      "hypes": 4,
+      "name": "Dreadcore: Locked Unit"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 848193,
+    "date": 1774915200,
+    "game": {
+      "id": 317584,
+      "cover": {
+        "id": 413037,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8up9.jpg"
+      },
+      "hypes": 3,
+      "name": "Mörk Borg Heresy Supreme"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 849290,
+    "date": 1774915200,
+    "game": {
+      "id": 345195,
+      "cover": {
+        "id": 507597,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coavnx.jpg"
+      },
+      "hypes": 3,
+      "name": "Gravebound"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 865296,
+    "date": 1774915200,
+    "game": {
+      "id": 330058,
+      "cover": {
+        "id": 436359,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9cp3.jpg"
+      },
+      "hypes": 6,
+      "name": "Unmourned"
+    },
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    }
+  },
+  {
+    "id": 867180,
+    "date": 1774915200,
+    "game": {
+      "id": 255719,
+      "cover": {
+        "id": 313385,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6pt5.jpg"
+      },
+      "hypes": 3,
+      "name": "The Posthumous Investigation"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 873429,
+    "date": 1774915200,
+    "game": {
+      "id": 140804,
+      "cover": {
+        "id": 248581,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5bt1.jpg"
+      },
+      "hypes": 3,
+      "name": "Elementallis"
+    },
+    "platform": {
+      "id": 3,
+      "name": "Linux"
+    }
+  },
+  {
+    "id": 873430,
+    "date": 1774915200,
+    "game": {
+      "id": 140804,
+      "cover": {
+        "id": 248581,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5bt1.jpg"
+      },
+      "hypes": 3,
+      "name": "Elementallis"
+    },
+    "platform": {
+      "id": 14,
+      "name": "Mac"
+    }
+  },
+  {
+    "id": 873431,
+    "date": 1774915200,
+    "game": {
+      "id": 140804,
+      "cover": {
+        "id": 248581,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5bt1.jpg"
+      },
+      "hypes": 3,
+      "name": "Elementallis"
+    },
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    }
+  },
+  {
+    "id": 873432,
+    "date": 1774915200,
+    "game": {
+      "id": 140804,
+      "cover": {
+        "id": 248581,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5bt1.jpg"
+      },
+      "hypes": 3,
+      "name": "Elementallis"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 873433,
+    "date": 1774915200,
+    "game": {
+      "id": 140804,
+      "cover": {
+        "id": 248581,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5bt1.jpg"
+      },
+      "hypes": 3,
+      "name": "Elementallis"
+    },
+    "platform": {
+      "id": 48,
+      "name": "PlayStation 4"
+    }
+  },
+  {
+    "id": 873434,
+    "date": 1774915200,
+    "game": {
+      "id": 140804,
+      "cover": {
+        "id": 248581,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5bt1.jpg"
+      },
+      "hypes": 3,
+      "name": "Elementallis"
+    },
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    }
+  },
+  {
+    "id": 873435,
+    "date": 1774915200,
+    "game": {
+      "id": 140804,
+      "cover": {
+        "id": 248581,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5bt1.jpg"
+      },
+      "hypes": 3,
+      "name": "Elementallis"
+    },
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    }
+  },
+  {
+    "id": 878163,
+    "date": 1774915200,
+    "game": {
+      "id": 204380,
+      "cover": {
+        "id": 543863,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobnnb.jpg"
+      },
+      "hypes": 4,
+      "name": "Little Nemo and the Guardians of Slumberland"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 878336,
+    "date": 1774915200,
+    "game": {
+      "id": 360748,
+      "cover": {
+        "id": 479548,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coaa0s.jpg"
+      },
+      "hypes": 11,
+      "name": "Raccoin: Coin Pusher Roguelike"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 878393,
+    "date": 1774915200,
+    "game": {
+      "id": 262671,
+      "cover": {
+        "id": 325432,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6z3s.jpg"
+      },
+      "hypes": 7,
+      "name": "Grime II"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 883727,
+    "date": 1774915200,
+    "game": {
+      "id": 343635,
+      "cover": {
+        "id": 544522,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobo5m.jpg"
+      },
+      "hypes": 7,
+      "name": "LeMrosh in the Lazy Kingdom"
+    },
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    }
+  },
+  {
+    "id": 883821,
+    "date": 1774915200,
+    "game": {
+      "id": 324575,
+      "cover": {
+        "id": 425517,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co94bx.jpg"
+      },
+      "hypes": 4,
+      "name": "Tombwater"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 883830,
+    "date": 1774915200,
+    "game": {
+      "id": 287791,
+      "cover": {
+        "id": 452408,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9p2w.jpg"
+      },
+      "hypes": 5,
+      "name": "Legends of the Round Table"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 885737,
+    "date": 1774915200,
+    "game": {
+      "id": 233669,
+      "cover": {
+        "id": 503243,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coasaz.jpg"
+      },
+      "hypes": 13,
+      "name": "Subliminal"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 886702,
+    "date": 1774915200,
+    "game": {
+      "id": 252826,
+      "cover": {
+        "id": 388397,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8bot.jpg"
+      },
+      "hypes": 61,
+      "name": "South of Midnight"
+    },
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    }
+  },
+  {
+    "id": 886774,
+    "date": 1774915200,
+    "game": {
+      "id": 252826,
+      "cover": {
+        "id": 388397,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8bot.jpg"
+      },
+      "hypes": 61,
+      "name": "South of Midnight"
+    },
+    "platform": {
+      "id": 508,
+      "name": "Nintendo Switch 2"
+    }
+  },
+  {
+    "id": 890412,
+    "date": 1774915200,
+    "game": {
+      "id": 262671,
+      "cover": {
+        "id": 325432,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6z3s.jpg"
+      },
+      "hypes": 7,
+      "name": "Grime II"
+    },
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    }
+  },
+  {
+    "id": 890413,
+    "date": 1774915200,
+    "game": {
+      "id": 262671,
+      "cover": {
+        "id": 325432,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6z3s.jpg"
+      },
+      "hypes": 7,
+      "name": "Grime II"
+    },
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    }
+  },
+  {
+    "id": 893534,
+    "date": 1774915200,
+    "game": {
+      "id": 348175,
+      "cover": {
+        "id": 464037,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9y1x.jpg"
+      },
+      "hypes": 39,
+      "name": "Super Meat Boy 3D"
+    },
+    "platform": {
+      "id": 508,
+      "name": "Nintendo Switch 2"
+    }
+  },
+  {
+    "id": 893535,
+    "date": 1774915200,
+    "game": {
+      "id": 348175,
+      "cover": {
+        "id": 464037,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9y1x.jpg"
+      },
+      "hypes": 39,
+      "name": "Super Meat Boy 3D"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 893536,
+    "date": 1774915200,
+    "game": {
+      "id": 348175,
+      "cover": {
+        "id": 464037,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9y1x.jpg"
+      },
+      "hypes": 39,
+      "name": "Super Meat Boy 3D"
+    },
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    }
+  },
+  {
+    "id": 893537,
+    "date": 1774915200,
+    "game": {
+      "id": 348175,
+      "cover": {
+        "id": 464037,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9y1x.jpg"
+      },
+      "hypes": 39,
+      "name": "Super Meat Boy 3D"
+    },
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    }
+  },
+  {
+    "id": 895956,
+    "date": 1774915200,
+    "game": {
+      "id": 389423,
+      "cover": {
+        "id": 538743,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobjp3.jpg"
+      },
+      "hypes": 10,
+      "name": "Legacy of Kain: Defiance Remastered"
+    },
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    }
+  },
+  {
+    "id": 887612,
+    "date": 1775001600,
+    "game": {
+      "id": 260649,
+      "cover": {
+        "id": 374825,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co817t.jpg"
+      },
+      "hypes": 4,
+      "name": "SoulQuest"
+    },
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
+    }
+  },
+  {
+    "id": 887613,
+    "date": 1775001600,
+    "game": {
+      "id": 260649,
+      "cover": {
+        "id": 374825,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co817t.jpg"
+      },
+      "hypes": 4,
+      "name": "SoulQuest"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 890376,
+    "date": 1775001600,
+    "game": {
+      "id": 196076,
+      "cover": {
+        "id": 259066,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5jwa.jpg"
+      },
+      "hypes": 3,
+      "name": "Offering App"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 891212,
+    "date": 1775001600,
+    "game": {
+      "id": 330176,
+      "cover": {
+        "id": 436404,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9cqc.jpg"
+      },
+      "hypes": 7,
+      "name": "Forbidden Solitaire"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 895361,
+    "date": 1775001600,
+    "game": {
+      "id": 228918,
+      "cover": {
+        "id": 441553,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9gpd.jpg"
+      },
+      "hypes": 3,
+      "name": "Haste"
+    },
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    }
+  },
+  {
+    "id": 895362,
+    "date": 1775001600,
+    "game": {
+      "id": 228918,
+      "cover": {
+        "id": 441553,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9gpd.jpg"
+      },
+      "hypes": 3,
+      "name": "Haste"
+    },
+    "platform": {
+      "id": 508,
+      "name": "Nintendo Switch 2"
+    }
+  },
+  {
+    "id": 895363,
+    "date": 1775001600,
+    "game": {
+      "id": 228918,
+      "cover": {
+        "id": 441553,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9gpd.jpg"
+      },
+      "hypes": 3,
+      "name": "Haste"
+    },
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    }
+  },
+  {
+    "id": 895981,
+    "date": 1775001600,
+    "game": {
+      "id": 228918,
+      "cover": {
+        "id": 441553,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9gpd.jpg"
+      },
+      "hypes": 3,
+      "name": "Haste"
+    },
+    "platform": {
+      "id": 49,
+      "name": "Xbox One"
+    }
+  },
+  {
+    "id": 896254,
+    "date": 1775001600,
+    "game": {
+      "id": 354933,
+      "cover": {
+        "id": 543489,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobncx.jpg"
+      },
+      "hypes": 5,
+      "name": "The Last Gas Station"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 874043,
+    "date": 1775088000,
+    "game": {
+      "id": 331202,
+      "cover": {
+        "id": 438101,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9e1h.jpg"
+      },
+      "hypes": 40,
+      "name": "Darwin\u0027s Paradox!"
+    },
+    "platform": {
+      "id": 508,
+      "name": "Nintendo Switch 2"
+    }
+  },
+  {
+    "id": 874044,
+    "date": 1775088000,
+    "game": {
+      "id": 331202,
+      "cover": {
+        "id": 438101,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9e1h.jpg"
+      },
+      "hypes": 40,
+      "name": "Darwin\u0027s Paradox!"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 874045,
+    "date": 1775088000,
+    "game": {
+      "id": 331202,
+      "cover": {
+        "id": 438101,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9e1h.jpg"
+      },
+      "hypes": 40,
+      "name": "Darwin\u0027s Paradox!"
+    },
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    }
+  },
+  {
+    "id": 874046,
+    "date": 1775088000,
+    "game": {
+      "id": 331202,
+      "cover": {
+        "id": 438101,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9e1h.jpg"
+      },
+      "hypes": 40,
+      "name": "Darwin\u0027s Paradox!"
+    },
+    "platform": {
+      "id": 169,
+      "name": "Xbox Series X|S"
+    }
+  },
+  {
+    "id": 878766,
+    "date": 1775088000,
+    "game": {
+      "id": 324265,
+      "cover": {
+        "id": 541339,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coblp7.jpg"
+      },
+      "hypes": 12,
+      "name": "Modulus: Factory Automation"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 887907,
+    "date": 1775088000,
+    "game": {
+      "id": 250733,
+      "cover": {
+        "id": 308293,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6lvp.jpg"
+      },
+      "hypes": 6,
+      "name": "Fishbowl"
+    },
+    "platform": {
+      "id": 14,
+      "name": "Mac"
+    }
+  },
+  {
+    "id": 887908,
+    "date": 1775088000,
+    "game": {
+      "id": 250733,
+      "cover": {
+        "id": 308293,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6lvp.jpg"
+      },
+      "hypes": 6,
+      "name": "Fishbowl"
+    },
+    "platform": {
+      "id": 6,
+      "name": "PC (Microsoft Windows)"
+    }
+  },
+  {
+    "id": 888397,
+    "date": 1775088000,
+    "game": {
+      "id": 275847,
+      "cover": {
+        "id": 499642,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coapiy.jpg"
+      },
+      "hypes": 3,
+      "name": "Motionrec"
+    },
+    "platform": {
+      "id": 167,
+      "name": "PlayStation 5"
+    }
+  },
+  {
+    "id": 888398,
+    "date": 1775088000,
+    "game": {
+      "id": 275847,
+      "cover": {
+        "id": 499642,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/coapiy.jpg"
+      },
+      "hypes": 3,
+      "name": "Motionrec"
+    },
+    "platform": {
+      "id": 130,
+      "name": "Nintendo Switch"
     }
   }
 ]
