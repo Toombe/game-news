@@ -49,7 +49,8 @@
       "platforms": [
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         }
       ],
       "screenshots": [
@@ -200,7 +201,8 @@
       "platforms": [
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         }
       ],
       "screenshots": [
@@ -347,7 +349,8 @@
       "platforms": [
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         }
       ],
       "screenshots": [
@@ -502,11 +505,13 @@
       "platforms": [
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         },
         {
           "id": 14,
-          "name": "Mac"
+          "name": "Mac",
+          "platform_logo": 867
         }
       ],
       "screenshots": [
@@ -693,11 +698,13 @@
       "platforms": [
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         },
         {
           "id": 14,
-          "name": "Mac"
+          "name": "Mac",
+          "platform_logo": 867
         }
       ],
       "screenshots": [
@@ -863,7 +870,8 @@
       "platforms": [
         {
           "id": 82,
-          "name": "Web browser"
+          "name": "Web browser",
+          "platform_logo": 825
         }
       ],
       "screenshots": [
@@ -972,23 +980,28 @@
       "platforms": [
         {
           "id": 48,
-          "name": "PlayStation 4"
+          "name": "PlayStation 4",
+          "platform_logo": 231
         },
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         },
         {
           "id": 167,
-          "name": "PlayStation 5"
+          "name": "PlayStation 5",
+          "platform_logo": 892
         },
         {
           "id": 49,
-          "name": "Xbox One"
+          "name": "Xbox One",
+          "platform_logo": 329
         },
         {
           "id": 130,
-          "name": "Nintendo Switch"
+          "name": "Nintendo Switch",
+          "platform_logo": 606
         }
       ],
       "screenshots": [
@@ -1155,7 +1168,8 @@
       "platforms": [
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         }
       ],
       "screenshots": [
@@ -1322,15 +1336,18 @@
       "platforms": [
         {
           "id": 169,
-          "name": "Xbox Series X|S"
+          "name": "Xbox Series X|S",
+          "platform_logo": 561
         },
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         },
         {
           "id": 167,
-          "name": "PlayStation 5"
+          "name": "PlayStation 5",
+          "platform_logo": 892
         }
       ],
       "screenshots": [
@@ -1484,7 +1501,8 @@
       "platforms": [
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         }
       ],
       "screenshots": [
@@ -1611,7 +1629,8 @@
       "platforms": [
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         }
       ],
       "screenshots": [
@@ -1721,7 +1740,8 @@
       "platforms": [
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         }
       ],
       "screenshots": [
@@ -1821,11 +1841,13 @@
       "platforms": [
         {
           "id": 169,
-          "name": "Xbox Series X|S"
+          "name": "Xbox Series X|S",
+          "platform_logo": 561
         },
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         }
       ],
       "screenshots": [
@@ -1973,7 +1995,8 @@
       "platforms": [
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         }
       ],
       "screenshots": [
@@ -2091,7 +2114,8 @@
       "platforms": [
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         }
       ],
       "screenshots": [
@@ -2209,11 +2233,13 @@
       "platforms": [
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         },
         {
           "id": 14,
-          "name": "Mac"
+          "name": "Mac",
+          "platform_logo": 867
         }
       ],
       "screenshots": [
@@ -2327,7 +2353,8 @@
       "platforms": [
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         }
       ],
       "screenshots": [
@@ -2485,7 +2512,8 @@
       "platforms": [
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         }
       ],
       "screenshots": [
@@ -2631,7 +2659,8 @@
       "platforms": [
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         }
       ],
       "screenshots": [
@@ -2736,7 +2765,8 @@
       "platforms": [
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         }
       ],
       "screenshots": [
@@ -2867,7 +2897,8 @@
       "platforms": [
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         }
       ],
       "screenshots": [
@@ -3041,15 +3072,18 @@
       "platforms": [
         {
           "id": 169,
-          "name": "Xbox Series X|S"
+          "name": "Xbox Series X|S",
+          "platform_logo": 561
         },
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         },
         {
           "id": 167,
-          "name": "PlayStation 5"
+          "name": "PlayStation 5",
+          "platform_logo": 892
         }
       ],
       "screenshots": [
@@ -3203,7 +3237,8 @@
       "platforms": [
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         }
       ],
       "screenshots": [
@@ -3322,7 +3357,8 @@
       "platforms": [
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         }
       ],
       "screenshots": [
@@ -3496,15 +3532,18 @@
       "platforms": [
         {
           "id": 3,
-          "name": "Linux"
+          "name": "Linux",
+          "platform_logo": 380
         },
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         },
         {
           "id": 14,
-          "name": "Mac"
+          "name": "Mac",
+          "platform_logo": 867
         }
       ],
       "screenshots": [
@@ -3634,15 +3673,18 @@
       "platforms": [
         {
           "id": 3,
-          "name": "Linux"
+          "name": "Linux",
+          "platform_logo": 380
         },
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         },
         {
           "id": 14,
-          "name": "Mac"
+          "name": "Mac",
+          "platform_logo": 867
         }
       ],
       "screenshots": [
@@ -3772,15 +3814,18 @@
       "platforms": [
         {
           "id": 3,
-          "name": "Linux"
+          "name": "Linux",
+          "platform_logo": 380
         },
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         },
         {
           "id": 14,
-          "name": "Mac"
+          "name": "Mac",
+          "platform_logo": 867
         }
       ],
       "screenshots": [
@@ -3922,27 +3967,33 @@
       "platforms": [
         {
           "id": 3,
-          "name": "Linux"
+          "name": "Linux",
+          "platform_logo": 380
         },
         {
           "id": 34,
-          "name": "Android"
+          "name": "Android",
+          "platform_logo": 831
         },
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         },
         {
           "id": 39,
-          "name": "iOS"
+          "name": "iOS",
+          "platform_logo": 248
         },
         {
           "id": 14,
-          "name": "Mac"
+          "name": "Mac",
+          "platform_logo": 867
         },
         {
           "id": 130,
-          "name": "Nintendo Switch"
+          "name": "Nintendo Switch",
+          "platform_logo": 606
         }
       ],
       "screenshots": [
@@ -4100,15 +4151,18 @@
       "platforms": [
         {
           "id": 3,
-          "name": "Linux"
+          "name": "Linux",
+          "platform_logo": 380
         },
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         },
         {
           "id": 14,
-          "name": "Mac"
+          "name": "Mac",
+          "platform_logo": 867
         }
       ],
       "screenshots": [
@@ -4262,15 +4316,18 @@
       "platforms": [
         {
           "id": 3,
-          "name": "Linux"
+          "name": "Linux",
+          "platform_logo": 380
         },
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         },
         {
           "id": 14,
-          "name": "Mac"
+          "name": "Mac",
+          "platform_logo": 867
         }
       ],
       "screenshots": [
@@ -4424,15 +4481,18 @@
       "platforms": [
         {
           "id": 3,
-          "name": "Linux"
+          "name": "Linux",
+          "platform_logo": 380
         },
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         },
         {
           "id": 14,
-          "name": "Mac"
+          "name": "Mac",
+          "platform_logo": 867
         }
       ],
       "screenshots": [
@@ -4581,7 +4641,8 @@
       "platforms": [
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         }
       ],
       "screenshots": [
@@ -4691,7 +4752,8 @@
       "platforms": [
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         }
       ],
       "screenshots": [
@@ -4837,15 +4899,18 @@
       "platforms": [
         {
           "id": 3,
-          "name": "Linux"
+          "name": "Linux",
+          "platform_logo": 380
         },
         {
           "id": 34,
-          "name": "Android"
+          "name": "Android",
+          "platform_logo": 831
         },
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         }
       ],
       "screenshots": [
@@ -4978,11 +5043,13 @@
       "platforms": [
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         },
         {
           "id": 14,
-          "name": "Mac"
+          "name": "Mac",
+          "platform_logo": 867
         }
       ],
       "screenshots": [
@@ -5129,11 +5196,13 @@
       "platforms": [
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         },
         {
           "id": 14,
-          "name": "Mac"
+          "name": "Mac",
+          "platform_logo": 867
         }
       ],
       "screenshots": [
@@ -5272,7 +5341,8 @@
       "platforms": [
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         }
       ],
       "screenshots": [
@@ -5405,15 +5475,18 @@
       "platforms": [
         {
           "id": 169,
-          "name": "Xbox Series X|S"
+          "name": "Xbox Series X|S",
+          "platform_logo": 561
         },
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         },
         {
           "id": 167,
-          "name": "PlayStation 5"
+          "name": "PlayStation 5",
+          "platform_logo": 892
         }
       ],
       "status": 2,
@@ -5521,7 +5594,8 @@
       "platforms": [
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         }
       ],
       "screenshots": [
@@ -5675,15 +5749,18 @@
       "platforms": [
         {
           "id": 3,
-          "name": "Linux"
+          "name": "Linux",
+          "platform_logo": 380
         },
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         },
         {
           "id": 14,
-          "name": "Mac"
+          "name": "Mac",
+          "platform_logo": 867
         }
       ],
       "screenshots": [
@@ -5825,15 +5902,18 @@
       "platforms": [
         {
           "id": 3,
-          "name": "Linux"
+          "name": "Linux",
+          "platform_logo": 380
         },
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         },
         {
           "id": 14,
-          "name": "Mac"
+          "name": "Mac",
+          "platform_logo": 867
         }
       ],
       "screenshots": [
@@ -5975,15 +6055,18 @@
       "platforms": [
         {
           "id": 3,
-          "name": "Linux"
+          "name": "Linux",
+          "platform_logo": 380
         },
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         },
         {
           "id": 14,
-          "name": "Mac"
+          "name": "Mac",
+          "platform_logo": 867
         }
       ],
       "screenshots": [
@@ -6109,7 +6192,8 @@
       "platforms": [
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         }
       ],
       "screenshots": [
@@ -6264,7 +6348,8 @@
       "platforms": [
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         }
       ],
       "screenshots": [
@@ -6366,7 +6451,8 @@
       "platforms": [
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         }
       ],
       "screenshots": [
@@ -6521,7 +6607,8 @@
       "platforms": [
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         }
       ],
       "screenshots": [
@@ -6679,15 +6766,18 @@
       "platforms": [
         {
           "id": 169,
-          "name": "Xbox Series X|S"
+          "name": "Xbox Series X|S",
+          "platform_logo": 561
         },
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         },
         {
           "id": 167,
-          "name": "PlayStation 5"
+          "name": "PlayStation 5",
+          "platform_logo": 892
         }
       ],
       "screenshots": [
@@ -6833,15 +6923,18 @@
       "platforms": [
         {
           "id": 169,
-          "name": "Xbox Series X|S"
+          "name": "Xbox Series X|S",
+          "platform_logo": 561
         },
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         },
         {
           "id": 167,
-          "name": "PlayStation 5"
+          "name": "PlayStation 5",
+          "platform_logo": 892
         }
       ],
       "screenshots": [
@@ -6987,15 +7080,18 @@
       "platforms": [
         {
           "id": 169,
-          "name": "Xbox Series X|S"
+          "name": "Xbox Series X|S",
+          "platform_logo": 561
         },
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         },
         {
           "id": 167,
-          "name": "PlayStation 5"
+          "name": "PlayStation 5",
+          "platform_logo": 892
         }
       ],
       "screenshots": [
@@ -7149,7 +7245,8 @@
       "platforms": [
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         }
       ],
       "screenshots": [
@@ -7299,7 +7396,8 @@
       "platforms": [
         {
           "id": 386,
-          "name": "Meta Quest 2"
+          "name": "Meta Quest 2",
+          "platform_logo": 756
         }
       ],
       "screenshots": [
@@ -7404,11 +7502,13 @@
       "platforms": [
         {
           "id": 3,
-          "name": "Linux"
+          "name": "Linux",
+          "platform_logo": 380
         },
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         }
       ],
       "screenshots": [
@@ -7561,11 +7661,13 @@
       "platforms": [
         {
           "id": 3,
-          "name": "Linux"
+          "name": "Linux",
+          "platform_logo": 380
         },
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         }
       ],
       "screenshots": [
@@ -7719,23 +7821,28 @@
       "platforms": [
         {
           "id": 169,
-          "name": "Xbox Series X|S"
+          "name": "Xbox Series X|S",
+          "platform_logo": 561
         },
         {
           "id": 508,
-          "name": "Nintendo Switch 2"
+          "name": "Nintendo Switch 2",
+          "platform_logo": 896
         },
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         },
         {
           "id": 167,
-          "name": "PlayStation 5"
+          "name": "PlayStation 5",
+          "platform_logo": 892
         },
         {
           "id": 14,
-          "name": "Mac"
+          "name": "Mac",
+          "platform_logo": 867
         }
       ],
       "screenshots": [
@@ -7861,23 +7968,28 @@
       "platforms": [
         {
           "id": 169,
-          "name": "Xbox Series X|S"
+          "name": "Xbox Series X|S",
+          "platform_logo": 561
         },
         {
           "id": 508,
-          "name": "Nintendo Switch 2"
+          "name": "Nintendo Switch 2",
+          "platform_logo": 896
         },
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         },
         {
           "id": 167,
-          "name": "PlayStation 5"
+          "name": "PlayStation 5",
+          "platform_logo": 892
         },
         {
           "id": 14,
-          "name": "Mac"
+          "name": "Mac",
+          "platform_logo": 867
         }
       ],
       "screenshots": [
@@ -8003,23 +8115,28 @@
       "platforms": [
         {
           "id": 169,
-          "name": "Xbox Series X|S"
+          "name": "Xbox Series X|S",
+          "platform_logo": 561
         },
         {
           "id": 508,
-          "name": "Nintendo Switch 2"
+          "name": "Nintendo Switch 2",
+          "platform_logo": 896
         },
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         },
         {
           "id": 167,
-          "name": "PlayStation 5"
+          "name": "PlayStation 5",
+          "platform_logo": 892
         },
         {
           "id": 14,
-          "name": "Mac"
+          "name": "Mac",
+          "platform_logo": 867
         }
       ],
       "screenshots": [
@@ -8145,23 +8262,28 @@
       "platforms": [
         {
           "id": 169,
-          "name": "Xbox Series X|S"
+          "name": "Xbox Series X|S",
+          "platform_logo": 561
         },
         {
           "id": 508,
-          "name": "Nintendo Switch 2"
+          "name": "Nintendo Switch 2",
+          "platform_logo": 896
         },
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         },
         {
           "id": 167,
-          "name": "PlayStation 5"
+          "name": "PlayStation 5",
+          "platform_logo": 892
         },
         {
           "id": 14,
-          "name": "Mac"
+          "name": "Mac",
+          "platform_logo": 867
         }
       ],
       "screenshots": [
@@ -8287,23 +8409,28 @@
       "platforms": [
         {
           "id": 169,
-          "name": "Xbox Series X|S"
+          "name": "Xbox Series X|S",
+          "platform_logo": 561
         },
         {
           "id": 508,
-          "name": "Nintendo Switch 2"
+          "name": "Nintendo Switch 2",
+          "platform_logo": 896
         },
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         },
         {
           "id": 167,
-          "name": "PlayStation 5"
+          "name": "PlayStation 5",
+          "platform_logo": 892
         },
         {
           "id": 14,
-          "name": "Mac"
+          "name": "Mac",
+          "platform_logo": 867
         }
       ],
       "screenshots": [
@@ -8442,15 +8569,18 @@
       "platforms": [
         {
           "id": 169,
-          "name": "Xbox Series X|S"
+          "name": "Xbox Series X|S",
+          "platform_logo": 561
         },
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         },
         {
           "id": 167,
-          "name": "PlayStation 5"
+          "name": "PlayStation 5",
+          "platform_logo": 892
         }
       ],
       "screenshots": [
@@ -8600,15 +8730,18 @@
       "platforms": [
         {
           "id": 169,
-          "name": "Xbox Series X|S"
+          "name": "Xbox Series X|S",
+          "platform_logo": 561
         },
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         },
         {
           "id": 167,
-          "name": "PlayStation 5"
+          "name": "PlayStation 5",
+          "platform_logo": 892
         }
       ],
       "screenshots": [
@@ -8762,15 +8895,18 @@
       "platforms": [
         {
           "id": 169,
-          "name": "Xbox Series X|S"
+          "name": "Xbox Series X|S",
+          "platform_logo": 561
         },
         {
           "id": 6,
-          "name": "PC (Microsoft Windows)"
+          "name": "PC (Microsoft Windows)",
+          "platform_logo": 670
         },
         {
           "id": 167,
-          "name": "PlayStation 5"
+          "name": "PlayStation 5",
+          "platform_logo": 892
         }
       ],
       "screenshots": [
