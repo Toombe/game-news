@@ -50,7 +50,10 @@
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -202,7 +205,10 @@
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -350,7 +356,10 @@
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -506,12 +515,18 @@
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         },
         {
           "id": 14,
           "name": "Mac",
-          "platform_logo": 867
+          "platform_logo": {
+            "id": 867,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plo3.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -699,12 +714,18 @@
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         },
         {
           "id": 14,
           "name": "Mac",
-          "platform_logo": 867
+          "platform_logo": {
+            "id": 867,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plo3.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -871,7 +892,10 @@
         {
           "id": 82,
           "name": "Web browser",
-          "platform_logo": 825
+          "platform_logo": {
+            "id": 825,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plmx.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -981,27 +1005,42 @@
         {
           "id": 48,
           "name": "PlayStation 4",
-          "platform_logo": 231
+          "platform_logo": {
+            "id": 231,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pl6f.jpg"
+          }
         },
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         },
         {
           "id": 167,
           "name": "PlayStation 5",
-          "platform_logo": 892
+          "platform_logo": {
+            "id": 892,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plos.jpg"
+          }
         },
         {
           "id": 49,
           "name": "Xbox One",
-          "platform_logo": 329
+          "platform_logo": {
+            "id": 329,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pl95.jpg"
+          }
         },
         {
           "id": 130,
           "name": "Nintendo Switch",
-          "platform_logo": 606
+          "platform_logo": {
+            "id": 606,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plgu.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -1169,7 +1208,10 @@
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -1337,17 +1379,26 @@
         {
           "id": 169,
           "name": "Xbox Series X|S",
-          "platform_logo": 561
+          "platform_logo": {
+            "id": 561,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plfl.jpg"
+          }
         },
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         },
         {
           "id": 167,
           "name": "PlayStation 5",
-          "platform_logo": 892
+          "platform_logo": {
+            "id": 892,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plos.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -1502,7 +1553,10 @@
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -1630,7 +1684,10 @@
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -1741,7 +1798,10 @@
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -1842,12 +1902,18 @@
         {
           "id": 169,
           "name": "Xbox Series X|S",
-          "platform_logo": 561
+          "platform_logo": {
+            "id": 561,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plfl.jpg"
+          }
         },
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -1996,7 +2062,10 @@
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -2115,7 +2184,10 @@
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -2234,12 +2306,18 @@
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         },
         {
           "id": 14,
           "name": "Mac",
-          "platform_logo": 867
+          "platform_logo": {
+            "id": 867,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plo3.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -2354,7 +2432,10 @@
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -2513,7 +2594,10 @@
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -2660,7 +2744,10 @@
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -2766,7 +2853,10 @@
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -2898,7 +2988,10 @@
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -3073,17 +3166,26 @@
         {
           "id": 169,
           "name": "Xbox Series X|S",
-          "platform_logo": 561
+          "platform_logo": {
+            "id": 561,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plfl.jpg"
+          }
         },
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         },
         {
           "id": 167,
           "name": "PlayStation 5",
-          "platform_logo": 892
+          "platform_logo": {
+            "id": 892,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plos.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -3238,7 +3340,10 @@
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -3358,7 +3463,10 @@
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -3533,17 +3641,26 @@
         {
           "id": 3,
           "name": "Linux",
-          "platform_logo": 380
+          "platform_logo": {
+            "id": 380,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plak.jpg"
+          }
         },
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         },
         {
           "id": 14,
           "name": "Mac",
-          "platform_logo": 867
+          "platform_logo": {
+            "id": 867,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plo3.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -3674,17 +3791,26 @@
         {
           "id": 3,
           "name": "Linux",
-          "platform_logo": 380
+          "platform_logo": {
+            "id": 380,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plak.jpg"
+          }
         },
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         },
         {
           "id": 14,
           "name": "Mac",
-          "platform_logo": 867
+          "platform_logo": {
+            "id": 867,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plo3.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -3815,17 +3941,26 @@
         {
           "id": 3,
           "name": "Linux",
-          "platform_logo": 380
+          "platform_logo": {
+            "id": 380,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plak.jpg"
+          }
         },
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         },
         {
           "id": 14,
           "name": "Mac",
-          "platform_logo": 867
+          "platform_logo": {
+            "id": 867,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plo3.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -3968,32 +4103,50 @@
         {
           "id": 3,
           "name": "Linux",
-          "platform_logo": 380
+          "platform_logo": {
+            "id": 380,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plak.jpg"
+          }
         },
         {
           "id": 34,
           "name": "Android",
-          "platform_logo": 831
+          "platform_logo": {
+            "id": 831,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pln3.jpg"
+          }
         },
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         },
         {
           "id": 39,
           "name": "iOS",
-          "platform_logo": 248
+          "platform_logo": {
+            "id": 248,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pl6w.jpg"
+          }
         },
         {
           "id": 14,
           "name": "Mac",
-          "platform_logo": 867
+          "platform_logo": {
+            "id": 867,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plo3.jpg"
+          }
         },
         {
           "id": 130,
           "name": "Nintendo Switch",
-          "platform_logo": 606
+          "platform_logo": {
+            "id": 606,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plgu.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -4152,17 +4305,26 @@
         {
           "id": 3,
           "name": "Linux",
-          "platform_logo": 380
+          "platform_logo": {
+            "id": 380,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plak.jpg"
+          }
         },
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         },
         {
           "id": 14,
           "name": "Mac",
-          "platform_logo": 867
+          "platform_logo": {
+            "id": 867,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plo3.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -4317,17 +4479,26 @@
         {
           "id": 3,
           "name": "Linux",
-          "platform_logo": 380
+          "platform_logo": {
+            "id": 380,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plak.jpg"
+          }
         },
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         },
         {
           "id": 14,
           "name": "Mac",
-          "platform_logo": 867
+          "platform_logo": {
+            "id": 867,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plo3.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -4482,17 +4653,26 @@
         {
           "id": 3,
           "name": "Linux",
-          "platform_logo": 380
+          "platform_logo": {
+            "id": 380,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plak.jpg"
+          }
         },
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         },
         {
           "id": 14,
           "name": "Mac",
-          "platform_logo": 867
+          "platform_logo": {
+            "id": 867,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plo3.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -4642,7 +4822,10 @@
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -4753,7 +4936,10 @@
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -4900,17 +5086,26 @@
         {
           "id": 3,
           "name": "Linux",
-          "platform_logo": 380
+          "platform_logo": {
+            "id": 380,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plak.jpg"
+          }
         },
         {
           "id": 34,
           "name": "Android",
-          "platform_logo": 831
+          "platform_logo": {
+            "id": 831,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pln3.jpg"
+          }
         },
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -5044,12 +5239,18 @@
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         },
         {
           "id": 14,
           "name": "Mac",
-          "platform_logo": 867
+          "platform_logo": {
+            "id": 867,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plo3.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -5197,12 +5398,18 @@
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         },
         {
           "id": 14,
           "name": "Mac",
-          "platform_logo": 867
+          "platform_logo": {
+            "id": 867,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plo3.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -5342,7 +5549,10 @@
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -5476,17 +5686,26 @@
         {
           "id": 169,
           "name": "Xbox Series X|S",
-          "platform_logo": 561
+          "platform_logo": {
+            "id": 561,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plfl.jpg"
+          }
         },
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         },
         {
           "id": 167,
           "name": "PlayStation 5",
-          "platform_logo": 892
+          "platform_logo": {
+            "id": 892,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plos.jpg"
+          }
         }
       ],
       "status": 2,
@@ -5595,7 +5814,10 @@
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -5750,17 +5972,26 @@
         {
           "id": 3,
           "name": "Linux",
-          "platform_logo": 380
+          "platform_logo": {
+            "id": 380,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plak.jpg"
+          }
         },
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         },
         {
           "id": 14,
           "name": "Mac",
-          "platform_logo": 867
+          "platform_logo": {
+            "id": 867,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plo3.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -5903,17 +6134,26 @@
         {
           "id": 3,
           "name": "Linux",
-          "platform_logo": 380
+          "platform_logo": {
+            "id": 380,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plak.jpg"
+          }
         },
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         },
         {
           "id": 14,
           "name": "Mac",
-          "platform_logo": 867
+          "platform_logo": {
+            "id": 867,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plo3.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -6056,17 +6296,26 @@
         {
           "id": 3,
           "name": "Linux",
-          "platform_logo": 380
+          "platform_logo": {
+            "id": 380,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plak.jpg"
+          }
         },
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         },
         {
           "id": 14,
           "name": "Mac",
-          "platform_logo": 867
+          "platform_logo": {
+            "id": 867,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plo3.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -6193,7 +6442,10 @@
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -6349,7 +6601,10 @@
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -6452,7 +6707,10 @@
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -6608,7 +6866,10 @@
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -6767,17 +7028,26 @@
         {
           "id": 169,
           "name": "Xbox Series X|S",
-          "platform_logo": 561
+          "platform_logo": {
+            "id": 561,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plfl.jpg"
+          }
         },
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         },
         {
           "id": 167,
           "name": "PlayStation 5",
-          "platform_logo": 892
+          "platform_logo": {
+            "id": 892,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plos.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -6924,17 +7194,26 @@
         {
           "id": 169,
           "name": "Xbox Series X|S",
-          "platform_logo": 561
+          "platform_logo": {
+            "id": 561,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plfl.jpg"
+          }
         },
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         },
         {
           "id": 167,
           "name": "PlayStation 5",
-          "platform_logo": 892
+          "platform_logo": {
+            "id": 892,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plos.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -7081,17 +7360,26 @@
         {
           "id": 169,
           "name": "Xbox Series X|S",
-          "platform_logo": 561
+          "platform_logo": {
+            "id": 561,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plfl.jpg"
+          }
         },
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         },
         {
           "id": 167,
           "name": "PlayStation 5",
-          "platform_logo": 892
+          "platform_logo": {
+            "id": 892,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plos.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -7246,7 +7534,10 @@
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -7397,7 +7688,10 @@
         {
           "id": 386,
           "name": "Meta Quest 2",
-          "platform_logo": 756
+          "platform_logo": {
+            "id": 756,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/pll0.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -7503,12 +7797,18 @@
         {
           "id": 3,
           "name": "Linux",
-          "platform_logo": 380
+          "platform_logo": {
+            "id": 380,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plak.jpg"
+          }
         },
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -7662,12 +7962,18 @@
         {
           "id": 3,
           "name": "Linux",
-          "platform_logo": 380
+          "platform_logo": {
+            "id": 380,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plak.jpg"
+          }
         },
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -7822,27 +8128,42 @@
         {
           "id": 169,
           "name": "Xbox Series X|S",
-          "platform_logo": 561
+          "platform_logo": {
+            "id": 561,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plfl.jpg"
+          }
         },
         {
           "id": 508,
           "name": "Nintendo Switch 2",
-          "platform_logo": 896
+          "platform_logo": {
+            "id": 896,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plow.jpg"
+          }
         },
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         },
         {
           "id": 167,
           "name": "PlayStation 5",
-          "platform_logo": 892
+          "platform_logo": {
+            "id": 892,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plos.jpg"
+          }
         },
         {
           "id": 14,
           "name": "Mac",
-          "platform_logo": 867
+          "platform_logo": {
+            "id": 867,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plo3.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -7969,27 +8290,42 @@
         {
           "id": 169,
           "name": "Xbox Series X|S",
-          "platform_logo": 561
+          "platform_logo": {
+            "id": 561,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plfl.jpg"
+          }
         },
         {
           "id": 508,
           "name": "Nintendo Switch 2",
-          "platform_logo": 896
+          "platform_logo": {
+            "id": 896,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plow.jpg"
+          }
         },
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         },
         {
           "id": 167,
           "name": "PlayStation 5",
-          "platform_logo": 892
+          "platform_logo": {
+            "id": 892,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plos.jpg"
+          }
         },
         {
           "id": 14,
           "name": "Mac",
-          "platform_logo": 867
+          "platform_logo": {
+            "id": 867,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plo3.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -8116,27 +8452,42 @@
         {
           "id": 169,
           "name": "Xbox Series X|S",
-          "platform_logo": 561
+          "platform_logo": {
+            "id": 561,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plfl.jpg"
+          }
         },
         {
           "id": 508,
           "name": "Nintendo Switch 2",
-          "platform_logo": 896
+          "platform_logo": {
+            "id": 896,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plow.jpg"
+          }
         },
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         },
         {
           "id": 167,
           "name": "PlayStation 5",
-          "platform_logo": 892
+          "platform_logo": {
+            "id": 892,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plos.jpg"
+          }
         },
         {
           "id": 14,
           "name": "Mac",
-          "platform_logo": 867
+          "platform_logo": {
+            "id": 867,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plo3.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -8263,27 +8614,42 @@
         {
           "id": 169,
           "name": "Xbox Series X|S",
-          "platform_logo": 561
+          "platform_logo": {
+            "id": 561,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plfl.jpg"
+          }
         },
         {
           "id": 508,
           "name": "Nintendo Switch 2",
-          "platform_logo": 896
+          "platform_logo": {
+            "id": 896,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plow.jpg"
+          }
         },
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         },
         {
           "id": 167,
           "name": "PlayStation 5",
-          "platform_logo": 892
+          "platform_logo": {
+            "id": 892,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plos.jpg"
+          }
         },
         {
           "id": 14,
           "name": "Mac",
-          "platform_logo": 867
+          "platform_logo": {
+            "id": 867,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plo3.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -8410,27 +8776,42 @@
         {
           "id": 169,
           "name": "Xbox Series X|S",
-          "platform_logo": 561
+          "platform_logo": {
+            "id": 561,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plfl.jpg"
+          }
         },
         {
           "id": 508,
           "name": "Nintendo Switch 2",
-          "platform_logo": 896
+          "platform_logo": {
+            "id": 896,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plow.jpg"
+          }
         },
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         },
         {
           "id": 167,
           "name": "PlayStation 5",
-          "platform_logo": 892
+          "platform_logo": {
+            "id": 892,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plos.jpg"
+          }
         },
         {
           "id": 14,
           "name": "Mac",
-          "platform_logo": 867
+          "platform_logo": {
+            "id": 867,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plo3.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -8570,17 +8951,26 @@
         {
           "id": 169,
           "name": "Xbox Series X|S",
-          "platform_logo": 561
+          "platform_logo": {
+            "id": 561,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plfl.jpg"
+          }
         },
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         },
         {
           "id": 167,
           "name": "PlayStation 5",
-          "platform_logo": 892
+          "platform_logo": {
+            "id": 892,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plos.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -8731,17 +9121,26 @@
         {
           "id": 169,
           "name": "Xbox Series X|S",
-          "platform_logo": 561
+          "platform_logo": {
+            "id": 561,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plfl.jpg"
+          }
         },
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         },
         {
           "id": 167,
           "name": "PlayStation 5",
-          "platform_logo": 892
+          "platform_logo": {
+            "id": 892,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plos.jpg"
+          }
         }
       ],
       "screenshots": [
@@ -8896,17 +9295,26 @@
         {
           "id": 169,
           "name": "Xbox Series X|S",
-          "platform_logo": 561
+          "platform_logo": {
+            "id": 561,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plfl.jpg"
+          }
         },
         {
           "id": 6,
           "name": "PC (Microsoft Windows)",
-          "platform_logo": 670
+          "platform_logo": {
+            "id": 670,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plim.jpg"
+          }
         },
         {
           "id": 167,
           "name": "PlayStation 5",
-          "platform_logo": 892
+          "platform_logo": {
+            "id": 892,
+            "url": "//images.igdb.com/igdb/image/upload/t_thumb/plos.jpg"
+          }
         }
       ],
       "screenshots": [
