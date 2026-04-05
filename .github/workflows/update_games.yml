@@ -52,20 +52,16 @@ jobs:
               videos.video_id,
               platforms.name,
               platforms.platform_logo.url,
-              # The 'websites' field handles Steam links
               websites.url, 
               websites.category,
-              # The crucial 'event' data
               release_dates.date, 
               release_dates.platform.name,
               release_dates.platform.id; 
-
               where release_dates.date > $START_DATE 
               & release_dates.date < $END_DATE 
               & (hypes > 2 | follows > 10) 
               & cover != null 
               & status != 5; 
-
               sort first_release_date asc; 
               limit 500;" \
           -o games.json
