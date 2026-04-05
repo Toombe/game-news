@@ -46,11 +46,11 @@ jobs:
               game.category, 
               game.status,
               game.first_release_date,
-              game.platforms,
+              game.platforms.name,
               date, 
               platform.name; 
               where date > $START_DATE & date < $END_DATE 
-              & game.hypes > 5 
+              & game.hypes > 2 
               & game.cover != null 
               & game.status != 5; 
               sort date asc; limit 200;" \
