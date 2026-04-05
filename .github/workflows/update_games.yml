@@ -30,7 +30,11 @@ jobs:
           curl -X POST 'https://api.igdb.com/v4/release_dates' \
           -H "Client-ID: $CLIENT_ID" \
           -H "Authorization: Bearer $TOKEN" \
-          -d "fields game.name, game.cover.url, date, platform.name; where date > $START_DATE & date < $END_DATE; sort date asc; limit 100;" \
+          -d "fields game.name, game.cover.url, game.hypes, date, platform.name; 
+              where date > $START_DATE & date < $END_DATE 
+              & game.hypes > 2 
+              & game.cover != null; 
+              sort date asc; limit 200;" \
           -o games.json
 
       - name: Commit and Push
