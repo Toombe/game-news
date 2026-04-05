@@ -47,7 +47,7 @@ jobs:
               game.status,
               game.first_release_date,
               game.platforms.name,
-              game.platforms.platform_logo,
+              game.platforms.platform_logo.url,
               date, 
               platform.name; 
               where date > $START_DATE & date < $END_DATE 
