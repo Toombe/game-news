@@ -26,35 +26,48 @@ jobs:
           START_DATE=$(date -d "30 days ago" +%s)
           END_DATE=$(date -d "+6 months" +%s)
 
-          # 3. Query IGDB (Increased limit to 100 for the 6-month window)
-          curl -X POST 'https://api.igdb.com/v4/release_dates' \
+          # 3. Query IGDB - 2 Months of past to 6 Months future
+          START_DATE=$(date -d "60 days ago" +%s)
+          END_DATE=$(date -d "+6 months" +%s)
+
+          curl -X POST 'https://api.igdb.com/v4/games' \
           -H "Client-ID: $CLIENT_ID" \
           -H "Authorization: Bearer $TOKEN" \
           -d "fields 
-              game.name, 
-              game.cover.url, 
-              game.summary, 
-              game.genres.name, 
-              game.involved_companies.developer, 
-              game.involved_companies.publisher, 
-              game.involved_companies.company.name, 
-              game.game_modes.name, 
-              game.screenshots.url, 
-              game.videos.video_id, 
-              game.websites.url, 
-              game.websites.category, 
-              game.category, 
-              game.status,
-              game.first_release_date,
-              game.platforms.name,
-              game.platforms.platform_logo.url,
-              date, 
-              platform.name; 
-              where date > $START_DATE & date < $END_DATE 
-              & game.hypes > 2 
-              & game.cover != null 
-              & game.status != 5; 
-              sort date asc; limit 200;" \
+              name, 
+              summary, 
+              storyline,
+              hypes, 
+              follows, 
+              category, 
+              status,
+              first_release_date,
+              cover.url,
+              genres.name,
+              game_modes.name,
+              involved_companies.developer,
+              involved_companies.publisher,
+              involved_companies.company.name,
+              screenshots.url,
+              videos.video_id,
+              platforms.name,
+              platforms.platform_logo.url,
+              # The 'websites' field handles Steam links
+              websites.url, 
+              websites.category,
+              # The crucial 'event' data
+              release_dates.date, 
+              release_dates.platform.name,
+              release_dates.platform.id; 
+
+              where release_dates.date > $START_DATE 
+              & release_dates.date < $END_DATE 
+              & (hypes > 2 | follows > 10) 
+              & cover != null 
+              & status != 5; 
+
+              sort first_release_date asc; 
+              limit 500;" \
           -o games.json
 
       - name: Commit and Push
