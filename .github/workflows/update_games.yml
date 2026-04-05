@@ -45,13 +45,15 @@ jobs:
               game.websites.category, 
               game.category, 
               game.status,
+              game.first_release_date,
+              game.platforms,
               date, 
               platform.name; 
               where date > $START_DATE & date < $END_DATE 
-              & game.hypes > 2 
+              & game.hypes > 5 
               & game.cover != null 
               & game.status != 5; 
-              sort date asc; limit 100;" \
+              sort date asc; limit 200;" \
           -o games.json
 
       - name: Commit and Push
