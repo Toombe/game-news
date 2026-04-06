@@ -3,58 +3,33 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Release Radar</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
-    <style>
-        .game-card { margin-bottom: 20px; padding: 15px; }
-        .past-game { opacity: 0.6; filter: grayscale(50%); }
-        .platform { font-size: 0.8rem; background: #333; padding: 2px 8px; border-radius: 5px; }
-    </style>
+    <title>Gaming Dashboard</title>
+    <link rel="stylesheet" href="style.css">
 </head>
-<body class="container">
-    <nav>
-        <ul><li><strong>🎮 Release Radar</strong></li></ul>
-    </nav>
-    
-    <main id="calendar">
-        <p>Loading the latest releases...</p>
+<body>
+    <header class="main-header">
+        <h1>Dashboard</h1>
+        <button id="theme-toggle" onclick="toggleTheme()">Light Mode</button>
+    </header>
+
+    <main>
+        <h2 class="section-title">Upcoming Releases</h2>
+        <div class="timeline-frame">
+        <div class="carousel-wrapper">
+            <div id="carousel" class="carousel-container"></div>
+        </div>
+        <div class="wall left-wall"></div> <div class="wall right-wall"></div> </div>
+
+        <div id="game-modal" class="modal-overlay">
+            <div class="modal-content">
+                <aside id="modal-sidebar" class="modal-sidebar"></aside>
+
+                <div id="modal-main" class="modal-main">
+                </div>
+            </div>
+        </div>
     </main>
 
-    <script>
-        async function loadGames() {
-            try {
-                const response = await fetch('./games.json');
-                const data = await response.json();
-                const container = document.getElementById('calendar');
-                container.innerHTML = '';
-
-                const now = Math.floor(Date.now() / 1000);
-
-                data.forEach(item => {
-                    if (!item.game) return;
-                    
-                    const isPast = item.date < now;
-                    const dateStr = new Date(item.date * 1000).toLocaleDateString();
-                    const cover = item.game.cover ? item.game.cover.url.replace('t_thumb', 't_cover_big') : 'https://via.placeholder.com/150';
-
-                    container.innerHTML += `
-                        <article class="game-card ${isPast ? 'past-game' : ''}">
-                            <div class="grid">
-                                <div><img src="https:${cover}" style="border-radius:8px"></div>
-                                <div>
-                                    <h3>${item.game.name}</h3>
-                                    <p>📅 <strong>${dateStr}</strong> ${isPast ? '(Released)' : ''}</p>
-                                    <p><span class="platform">${item.platform.name}</span></p>
-                                </div>
-                            </div>
-                        </article>
-                    `;
-                });
-            } catch (e) {
-                document.getElementById('calendar').innerHTML = "No games found. Try running the GitHub Action first!";
-            }
-        }
-        loadGames();
-    </script>
+    <script src="script.js"></script>
 </body>
 </html>

@@ -1,0 +1,391 @@
+/* --- 1. GLOBAL SETTINGS --- */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&display=swap');
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+    --bg: #0b0e14;
+    --container-bg: #11141b;
+    --card-bg: #1a1d2e;
+    --accent: #5865f2;
+    --text: #ffffff;
+    --text-dim: #a3a6aa;
+}
+
+[data-theme="light"] {
+    --bg: #ffffff;
+    --container-bg: #f2f3f5;
+    --card-bg: #ffffff;
+    --text: #060607;
+    --text-dim: #11141b;
+}
+
+body { 
+    background: var(--bg); color: var(--text); 
+    font-family: 'Inter', sans-serif; 
+    min-height: 100vh;
+}
+
+/* Global Drag State */
+body.is-dragging-cards, 
+body.is-dragging-cards .game-card { 
+    cursor: grabbing !important; 
+}
+
+.main-header { display: flex; justify-content: space-between; align-items: center; padding: 20px 40px; }
+.section-title { text-align: center; margin: 20px 0; font-size: 1rem; color: var(--text-dim); text-transform: uppercase; letter-spacing: 1px; font-weight: 800; }
+
+/* --- 2. MAIN CAROUSEL (The "Window") --- */
+.carousel-wrapper { 
+    position: relative; 
+    width: 100%; 
+    background: var(--container-bg); 
+    padding: 30px 0;
+    border-top: 1px solid rgba(255,255,255,0.05);
+    border-bottom: 1px solid rgba(255,255,255,0.05);
+    /* MOVE SCROLLBAR HERE */
+    overflow-x: auto;
+}
+/* --- THE OUTER FRAME --- */
+.timeline-frame {
+    position: relative;
+    width: 100%;
+    overflow: hidden; /* Clips anything that tries to peek out */
+}
+
+/* --- THE PHYSICAL WALLS --- */
+.wall {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 180px; /* How deep the "darkness" goes */
+    z-index: 30; /* Sits HIGHER than the cards and scrollbar */
+    pointer-events: none; /* Allows you to click "through" the shadow */
+}
+
+.left-wall {
+    left: 0;
+    /* Solid color for 40px, then a very fast fade to transparent */
+    background: linear-gradient(to right, 
+        var(--bg) 0%, 
+        rgba(11, 14, 20, 0.8) 50%, 
+        transparent 100%);
+}
+
+.right-wall {
+    right: 0;
+    background: linear-gradient(to left, 
+        var(--bg) 0%, 
+        rgba(11, 14, 20, 0.8) 50%, 
+        transparent 100%);
+}
+
+/* --- ADJUST THE WRAPPER --- */
+.carousel-wrapper {
+    position: relative;
+    width: 100%;
+    background: var(--container-bg);
+    padding: 10px 0; /* Tighten vertical space */
+    overflow-x: auto;
+    /* This ensures the scrollbar stays visible but gets "cut off" by the walls */
+    scrollbar-gutter: stable; 
+}
+
+/* --- 3. CAROUSEL CONTAINER (The "Content") --- */
+.carousel-container {
+    display: flex; 
+    gap: 10px; 
+    padding: 2px 0px 15px 100px; 
+    cursor: default; /* No man's land is safe */
+    user-select: none;
+    overflow: visible; /* Let the wrapper handle the scroll */
+    width: max-content;
+}
+
+.carousel-container::after {
+    content: "";
+    flex: 0 0 80px; /* This gives you ~2 cards of empty space on the right */
+}
+
+/* --- 4. SCROLLBAR STYLING (Targeting Wrapper) --- */
+.carousel-wrapper::-webkit-scrollbar { height: 20px; display: block; }
+.carousel-wrapper::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    margin: 0 150px;
+}
+.carousel-wrapper::-webkit-scrollbar-thumb {
+    background: var(--accent);
+    border-radius: 10px;
+    border: 3px solid var(--container-bg);
+}
+
+/* --- 5. GAME CARDS --- */
+.game-card { flex: 0 0 110px; position: relative; cursor: grab; transition: 0.2s; }
+.game-card:hover { transform: scale(1.05); }
+
+.poster-wrapper { width: 110px; height: 155px; border-radius: 8px; overflow: hidden; position: relative; }
+.game-card img.main-cover { width: 100%; height: 100%; object-fit: cover; pointer-events: none; }
+
+.hover-info {
+    position: absolute; inset: 0; 
+    background: linear-gradient(to top, rgba(0,0,0,0.9), transparent);
+    display: flex; align-items: flex-end; padding: 8px; gap: 4px;
+    opacity: 0; transition: opacity 0.2s; pointer-events: none;
+}
+.game-card:hover .hover-info { opacity: 1; }
+.game-card:hover .main-cover { filter: brightness(0.4); }
+
+.platform-svg { width: 14px; height: 14px; filter: invert(1); }
+.date-label { display: block; text-align: center; font-size: 0.7rem; margin-top: 10px; font-weight: 800; color: var(--text-dim); }
+
+/* --- 6. MODAL / POPUP --- */
+.modal-overlay { 
+    position: fixed; 
+    inset: 0; 
+    background: rgba(0, 0, 0, 0.85); 
+    backdrop-filter: blur(5px); /* Makes the background pop */
+    display: none; 
+    align-items: center; 
+    justify-content: center; 
+    z-index: 200; /* Must be higher than our 'walls' */
+}
+.modal-content { 
+    background: var(--card-bg); 
+    width: 95vw; 
+    max-width: 1100px; 
+    height: 85vh; 
+    border-radius: 16px; 
+    display: flex; 
+    flex-direction: row; /* Sidebar on left, Content on right */
+    overflow: hidden;
+    box-shadow: 0 20px 50px rgba(0,0,0,0.5);
+    border: 1px solid rgba(255,255,255,0.1);
+}
+/* Sidebar: Fixed width, holds the cover and key stats */
+.modal-sidebar { 
+    width: 280px; 
+    background: #090c12; 
+    padding: 20px; 
+    border-right: 1px solid rgba(255,255,255,0.05);
+    display: flex; 
+    flex-direction: column;
+    gap: 20px;
+    overflow-y: auto;
+}
+.sidebar-cover { 
+    width: 140px;
+    margin: 0 auto;
+    display: block;
+    border-radius: 8px; 
+    box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+}
+.sidebar-stats {display: flex; flex-direction: column; gap: 12px; max-height: 100%;}
+.stat-item .label {font-size: 0.65rem; color: var(--accent); font-weight: 800; display: block; margin-bottom: 3px;}
+.stat-item {font-size: 0.75rem; color: var(--text-dim); line-height: 1.4;}
+.update-banner {
+    display: inline-block;
+    padding: 4px 5px;
+    background: rgba(88, 101, 242, 0.1);
+    border: 1px solid var(--accent);
+    color: var(--accent);
+    border-radius: 4px;
+    font-size: 0.7rem;
+    font-weight: 800;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+/* Main Content: Hero image/trailer and description */
+.modal-main { 
+    display: flex;
+    flex-direction: column;
+    height: 100%; /* Ensure it fills the modal height */
+    padding: 20px; /* Consistent internal spacing */
+}
+#modal-header h1 {
+    font-size: 1.6rem;
+    font-weight: 800;
+    color: var(--text);
+    margin: 0;
+}
+#modal-header h2 { 
+    font-size: 2rem; 
+    margin-bottom: 10px; 
+    font-weight: 800; 
+}
+.media-carousel { 
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    gap: 10px;
+    background: #000;
+    border-radius: 12px;
+    margin: 20px 0;
+    min-height: 350px;
+}
+.media-item {
+    flex: 0 0 100%;
+    height: 350px;
+    object-fit: cover;
+    scroll-snap-align: start;
+    border: none;
+}
+.modal-description {
+    font-size: 0.95rem;
+    line-height: 1.6;
+    color: rgba(255, 255, 255, 0.8);
+    margin-bottom: 5px;
+    max-width: 800px;
+    overflow-y: auto;
+    max-height: 200px;
+}
+.modal-footer-row {
+    display: flex;
+    flex-direction: row;
+    align-items: center; /* Change flex-start to center */
+    margin-top: auto; 
+    width: 100%;
+    padding-bottom: 28px; /* Give it some breathing room from the window edge */
+}
+.steam-link {
+    width: 100%;
+    text-align: center;
+    padding: 15px 10px;
+    font-size: 0.8rem;
+}
+
+/* --- 7. BUTTONS & UI --- */
+#theme-toggle { background: #2a2d33; color: #fff; border: 1px solid #444; padding: 6px 14px; border-radius: 4px; font-size: 0.7rem; cursor: pointer; }
+.steam-link { display: inline-block; padding: 8px 12px; border: 1px solid var(--accent); color: var(--accent); text-decoration: none; font-size: 0.7rem; font-weight: 800; border-radius: 4px; text-align: center; }
+.steam-link:hover { background: var(--accent); color: white; }
+
+/* Container for stacked tags */
+.tag-container {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+    z-index: 25;
+    align-items: flex-end;
+}
+
+.status-tag {
+    font-size: 0.5rem;
+    font-weight: 800;
+    padding: 2px 5px;
+    border-radius: 3px;
+    color: #fff;
+    white-space: nowrap;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+}
+
+/* Specific Colors */
+.tag-ea { background: #f1c40f; color: #000; }   /* Yellow */
+.tag-exp { background: #9b59b6; }              /* Purple */
+.tag-port { background: #3498db; }             /* Blue */
+
+/* --- POPUP MEDIA GALLERY (Isolated from Main Carousel) --- */
+.gallery-wrapper {
+    position: relative;
+    flex: 0 0 350px;
+    padding: 0 50px; 
+    margin: 0;
+    margin-bottom: -28px;
+}
+
+.gallery-viewport { 
+    display: flex; 
+    overflow: hidden;
+    border-radius: 8px;
+    background: #000;
+}
+
+.gallery-slide { 
+    flex: 0 0 100%; 
+    aspect-ratio: 16/9; 
+    overflow: hidden;
+}
+
+.gallery-slide img, 
+.gallery-slide iframe { 
+    width: 100%; 
+    height: 100%; 
+    object-fit: contain; 
+    border: none;
+}
+
+/* Gallery Navigation */
+.gallery-nav {
+    position: absolute; 
+    top: 42%; /* Center to the media, not 25% */
+    transform: translateY(-50%);
+    background: var(--accent) !important; /* Force the purple background */
+    color: #ffffff !important; /* Force the arrow to be WHITE */
+    border: none;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 100;
+    cursor: pointer;
+    border-radius: 50%;
+    font-size: 1.5rem; /* Make the arrow larger */
+    line-height: 1;
+}
+.gallery-nav:hover { background: var(--accent); }
+.gallery-nav.prev { left: 5px; } 
+.gallery-nav.next { right: 5px; }
+
+/* Dots Indicator */
+.gallery-dots { 
+    display: flex; 
+    justify-content: center; 
+    gap: 10px; 
+    margin-top: 20px; 
+}
+.gallery-dot { 
+    width: 8px; 
+    height: 8px; 
+    background: rgba(255,255,255,0.2); 
+    border-radius: 50%; 
+    cursor: pointer;
+    transition: 0.3s; 
+}
+.gallery-dot.active { 
+    background: var(--accent); 
+    transform: scale(1.3); 
+}
+
+/* --- SHOP SECTION --- */
+.shop-section {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.steam-link {
+    width: 220px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 250px; /* Don't let the button get comically wide */
+    padding: 18px 0;
+    font-size: 0.9rem;
+    letter-spacing: 2px;
+    background: #1b2838;
+    border: 1px solid var(--accent);
+    color: #fff;
+    text-align: center;
+    border-radius: 4px;
+    transition: 0.3s;
+    white-space: nowrap;
+}
+
+.steam-link:hover {
+    filter: brightness(1.2);
+    transform: translateY(-2px);
+}
