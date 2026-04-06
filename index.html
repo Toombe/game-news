@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>Gaming Dashboard</title>
     <link rel="stylesheet" href="style.css">
 </head>
@@ -22,6 +22,7 @@
 
         <div id="game-modal" class="modal-overlay">
             <div class="modal-content">
+                <button class="modal-close-sticky" onclick="closeModal()">&#10005;</button>
                 <aside id="modal-sidebar" class="modal-sidebar"></aside>
 
                 <div id="modal-main" class="modal-main">

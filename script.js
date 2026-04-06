@@ -272,9 +272,26 @@ function openPopup(index) {
     }
 
     // 3. Media HTML
-    let mediaHtml = (game.videos?.[0] ? `<div class="gallery-slide"><iframe src="https://www.youtube.com/embed/${game.videos[0].video_id}" frameborder="0" allowfullscreen></iframe></div>` : '') +
-        (game.screenshots ? game.screenshots.slice(0, 4).map(ss => `<div class="gallery-slide"><img src="${fixUrl(ss.url.replace('t_thumb', 't_screenshot_huge'))}"></div>`).join('') : '');
+    // --- Inside your openPopup function, update the mediaHtml mapping ---
+    let mediaHtml = '';
 
+    // 1. Add Video (Keep as is)
+    if (game.videos?.[0]) {
+        mediaHtml += `<div class="gallery-slide"><iframe src="https://www.youtube.com/embed/${game.videos[0].video_id}" frameborder="0" allowfullscreen></iframe></div>`;
+    }
+
+    // 2. Add Clickable Screenshots
+    if (game.screenshots) {
+        const allFullRes = game.screenshots.map(ss => fixUrl(ss.url.replace('t_thumb', 't_1080p')));
+        const urlsJson = JSON.stringify(allFullRes).replace(/"/g, '&quot;'); // Escape for HTML attribute
+
+        mediaHtml += allFullRes.slice(0, 5).map((url, idx) => `
+            <div class="gallery-slide">
+                <img src="${url}" 
+                    class="clickable-screenshot" 
+                    onclick="openFullscreenPreview('${url}', ${idx}, '${urlsJson}')">
+            </div>`).join('');
+    }
     // 4. MAIN INJECTION (Gallery & Button in Footer)
     const updateText = item.labels.map(l => l.text).join(' & ') || 'FULL RELEASE';
     
@@ -305,10 +322,10 @@ function openPopup(index) {
 }
 
 // THE CLOSE LOGIC (Add this once at the bottom of your file)
-function closeModal() {
-    document.getElementById('game-modal').style.display = 'none';
-    document.body.style.overflow = 'auto';
-}
+//function closeModal() {
+//    document.getElementById('game-modal').style.display = 'none';
+//    document.body.style.overflow = 'auto';
+//}
 
 window.addEventListener('keydown', (e) => { if (e.key === "Escape") closeModal(); });
 window.addEventListener('mousedown', (e) => {
@@ -373,3 +390,58 @@ function goToGallerySlide(index) {
     currentGalleryIndex = index;
     moveGallery(0);
 }
+
+let currentPreviewArray = [];
+let currentPreviewIndex = 0;
+
+function openFullscreenPreview(url, index, allUrlsJson) {
+    currentPreviewArray = JSON.parse(allUrlsJson);
+    currentPreviewIndex = index;
+
+    let previewOverlay = document.getElementById('screenshot-preview');
+    if (!previewOverlay) {
+        previewOverlay = document.createElement('div');
+        previewOverlay.id = 'screenshot-preview';
+        document.body.appendChild(previewOverlay);
+    }
+
+    renderPreview();
+    previewOverlay.style.display = 'flex';
+}
+
+function renderPreview() {
+    const url = currentPreviewArray[currentPreviewIndex];
+    const overlay = document.getElementById('screenshot-preview');
+    
+    overlay.innerHTML = `
+        <div class="preview-container">
+            <button class="preview-nav prev" onclick="changePreview(-1); event.stopPropagation();">&#10094;</button>
+            <img src="${url}" class="preview-image">
+            <button class="preview-nav next" onclick="changePreview(1); event.stopPropagation();">&#10095;</button>
+            <button class="preview-close" onclick="closeFullscreenPreview()">&#10005;</button>
+        </div>
+    `;
+    
+    // Clicking the dark background still closes it
+    overlay.onclick = closeFullscreenPreview;
+}
+
+function changePreview(step) {
+    currentPreviewIndex += step;
+    if (currentPreviewIndex < 0) currentPreviewIndex = currentPreviewArray.length - 1;
+    if (currentPreviewIndex >= currentPreviewArray.length) currentPreviewIndex = 0;
+    renderPreview();
+}
+
+function closeFullscreenPreview() {
+    document.getElementById('screenshot-preview').style.display = 'none';
+}
+
+document.addEventListener('keydown', (e) => {
+    const preview = document.getElementById('screenshot-preview');
+    if (preview && preview.style.display === 'flex') {
+        if (e.key === "ArrowLeft") changePreview(-1);
+        if (e.key === "ArrowRight") changePreview(1);
+        if (e.key === "Escape") closeFullscreenPreview();
+    }
+});

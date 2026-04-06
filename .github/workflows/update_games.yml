@@ -64,10 +64,13 @@ jobs:
               limit 500;" \
           -o games.json
 
+      - name: Fetch and Filter News
+        run: node fetch_news.js
+
       - name: Commit and Push
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add games.json
-          git commit -m "Update games list (Hourly Sync)" || exit 0
+          git add games.json news.json
+          git commit -m "Update games and news (Hourly Sync)" || exit 0
           git push

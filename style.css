@@ -10,6 +10,10 @@
     --accent: #5865f2;
     --text: #ffffff;
     --text-dim: #a3a6aa;
+    --dot-color: rgba(255, 255, 255, 0.2);
+    --wall-color: rgba(11, 14, 20, 0.8); /* Added this */
+    --button-bg: #1b2838; /* Keep the classic Steam blue for Dark Mode */
+    --button-text: #ffffff;
 }
 
 [data-theme="light"] {
@@ -17,7 +21,11 @@
     --container-bg: #f2f3f5;
     --card-bg: #ffffff;
     --text: #060607;
-    --text-dim: #11141b;
+    --text-dim: #444444; /* Darkened for better contrast on light */
+    --dot-color: rgba(0, 0, 0, 0.2); /* Soft dark dots for light mode */
+    --wall-color: rgba(255, 255, 255, 0.8); /* Added this */
+    --button-bg: var(--accent); 
+    --button-text: #ffffff;
 }
 
 body { 
@@ -68,7 +76,7 @@ body.is-dragging-cards .game-card {
     /* Solid color for 40px, then a very fast fade to transparent */
     background: linear-gradient(to right, 
         var(--bg) 0%, 
-        rgba(11, 14, 20, 0.8) 50%, 
+        var(--wall-color) 50%, 
         transparent 100%);
 }
 
@@ -76,7 +84,7 @@ body.is-dragging-cards .game-card {
     right: 0;
     background: linear-gradient(to left, 
         var(--bg) 0%, 
-        rgba(11, 14, 20, 0.8) 50%, 
+        var(--wall-color) 50%, 
         transparent 100%);
 }
 
@@ -165,9 +173,10 @@ body.is-dragging-cards .game-card {
 /* Sidebar: Fixed width, holds the cover and key stats */
 .modal-sidebar { 
     width: 280px; 
-    background: #090c12; 
+    background: var(--bg); 
+    filter: brightness(0.95);
     padding: 20px; 
-    border-right: 1px solid rgba(255,255,255,0.05);
+    border-right: 1px solid rgba(0,0,0,0.05);
     display: flex; 
     flex-direction: column;
     gap: 20px;
@@ -202,6 +211,33 @@ body.is-dragging-cards .game-card {
     height: 100%; /* Ensure it fills the modal height */
     padding: 20px; /* Consistent internal spacing */
 }
+.modal-close-sticky {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background: rgba(0, 0, 0, 0.2); /* Subtle background */
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: var(--text);
+    font-size: 1.1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    z-index: 500; /* High enough to stay above all content */
+    transition: all 0.2s ease;
+}
+[data-theme="light"] .modal-close-sticky {
+    background: rgba(0, 0, 0, 0.05);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.modal-close-sticky:hover {
+    background: var(--accent);
+    color: white;
+}
 #modal-header h1 {
     font-size: 1.6rem;
     font-weight: 800;
@@ -233,7 +269,8 @@ body.is-dragging-cards .game-card {
 .modal-description {
     font-size: 0.95rem;
     line-height: 1.6;
-    color: rgba(255, 255, 255, 0.8);
+    color: var(--text);
+    opacity: 0.8;
     margin-bottom: 5px;
     max-width: 800px;
     overflow-y: auto;
@@ -256,8 +293,37 @@ body.is-dragging-cards .game-card {
 
 /* --- 7. BUTTONS & UI --- */
 #theme-toggle { background: #2a2d33; color: #fff; border: 1px solid #444; padding: 6px 14px; border-radius: 4px; font-size: 0.7rem; cursor: pointer; }
-.steam-link { display: inline-block; padding: 8px 12px; border: 1px solid var(--accent); color: var(--accent); text-decoration: none; font-size: 0.7rem; font-weight: 800; border-radius: 4px; text-align: center; }
-.steam-link:hover { background: var(--accent); color: white; }
+.shop-section {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.steam-link {
+    width: 220px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 250px; /* Don't let the button get comically wide */
+    padding: 18px 0;
+    font-size: 0.9rem;
+    letter-spacing: 2px;
+    background: var(--button-bg, #1b2838);
+    border: 1px solid var(--accent);
+    color: var(--button-text, #ffffff);
+    text-align: center;
+    border-radius: 4px;
+    transition: 0.3s;
+    white-space: nowrap;
+    font-weight: 800;
+    text-decoration: none;
+}
+
+.steam-link:hover {
+    background: var(--button-bg);
+    filter: brightness(1.5);
+}
 
 /* Container for stacked tags */
 .tag-container {
@@ -321,9 +387,9 @@ body.is-dragging-cards .game-card {
     position: absolute; 
     top: 42%; /* Center to the media, not 25% */
     transform: translateY(-50%);
-    background: var(--accent) !important; /* Force the purple background */
+    background: var(--button-bg);
     color: #ffffff !important; /* Force the arrow to be WHITE */
-    border: none;
+    border: 1px solid var(--accent);
     width: 40px;
     height: 40px;
     display: flex;
@@ -335,7 +401,7 @@ body.is-dragging-cards .game-card {
     font-size: 1.5rem; /* Make the arrow larger */
     line-height: 1;
 }
-.gallery-nav:hover { background: var(--accent); }
+.gallery-nav:hover { background: var(--button-bg); filter: brightness(1.5); }
 .gallery-nav.prev { left: 5px; } 
 .gallery-nav.next { right: 5px; }
 
@@ -349,7 +415,7 @@ body.is-dragging-cards .game-card {
 .gallery-dot { 
     width: 8px; 
     height: 8px; 
-    background: rgba(255,255,255,0.2); 
+    background: var(--dot-color, rgba(255,255,255,0.2)); 
     border-radius: 50%; 
     cursor: pointer;
     transition: 0.3s; 
@@ -359,33 +425,185 @@ body.is-dragging-cards .game-card {
     transform: scale(1.3); 
 }
 
-/* --- SHOP SECTION --- */
-.shop-section {
-    flex-grow: 1;
-    display: flex;
-    justify-content: center;
-}
-
-.steam-link {
-    width: 220px;
-    height: 60px;
+/* --- Screenshots --- */
+/* --- FULLSCREEN SCREENSHOT PREVIEW --- */
+.preview-container {
+    position: relative;
     display: flex;
     align-items: center;
     justify-content: center;
-    max-width: 250px; /* Don't let the button get comically wide */
-    padding: 18px 0;
-    font-size: 0.9rem;
-    letter-spacing: 2px;
-    background: #1b2838;
-    border: 1px solid var(--accent);
-    color: #fff;
-    text-align: center;
-    border-radius: 4px;
-    transition: 0.3s;
-    white-space: nowrap;
+}
+#screenshot-preview {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.9);
+    z-index: 1000;
+    display: none;
+    align-items: center;
+    justify-content: center;
+}
+.preview-image {
+    max-width: 90vw;
+    max-height: 85vh;
+    object-fit: contain;
+    user-select: none;
+}
+.preview-nav {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(255, 255, 255, 0.1);
+    color: white;
+    border: none;
+    width: 60px;
+    height: 100%; /* Giant hit area for easy clicking */
+    font-size: 2rem;
+    cursor: pointer;
+    opacity: 0; /* Hidden by default */
+    transition: opacity 0.2s, background 0.2s;
+    z-index: 1010;
+}
+/* Show buttons when hovering the container */
+.preview-container:hover .preview-nav {
+    opacity: 1;
+}
+.preview-nav:hover {
+    background: rgba(255, 255, 255, 0.2);
+}
+.preview-nav.prev { left: 0; }
+.preview-nav.next { right: 0; }
+/* Close Button */
+.preview-close {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background: rgba(0, 0, 0, 0.5);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    color: white;
+    font-size: 1.5rem;
+    cursor: pointer;
+    z-index: 1100; /* HIGHER than the .preview-nav (which is 1010) */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.8;
+}
+.preview-close:hover { opacity: 1; background: var(--accent)}
+@keyframes zoomIn {
+    from { transform: scale(0.9); opacity: 0; }
+    to { transform: scale(1); opacity: 1; }
+}
+.clickable-screenshot {
+    cursor: zoom-in;
+    transition: filter 0.2s;
+}
+.clickable-screenshot:hover {
+    filter: brightness(1.2);
 }
 
-.steam-link:hover {
-    filter: brightness(1.2);
-    transform: translateY(-2px);
+/* --- 8. MOBILE OPTIMIZATIONS (Max-width: 768px) --- */
+@media (max-width: 768px) {
+    /* 1. Yeet the Scrollbar but keep functionality */
+    .carousel-wrapper::-webkit-scrollbar {
+        display: none;
+    }
+    .carousel-wrapper {
+        scrollbar-width: none; /* Firefox */
+        padding: 15px 0;
+    }
+
+    /* 2. Shrink the 'Walls' to save real estate */
+    .wall {
+        width: 60px; /* Reduced from 180px */
+    }
+    .carousel-container {
+        padding-left: 40px; /* Bring cards closer to edge */
+    }
+
+    /* 3. The Big Modal Reset (Stack everything vertically) */
+    .modal-content {
+        flex-direction: column; /* Stack Sidebar over Main */
+        height: 95vh; /* Take up more height on mobile */
+        overflow-y: auto; /* Allow the whole modal to scroll */
+    }
+
+    .modal-close-sticky {
+        top: 15px;
+        right: 15px;
+        background: var(--accent); /* Make it more obvious on mobile */
+        color: white;
+        width: 45px;
+        height: 45px;
+    }
+
+    .modal-sidebar {
+        width: 100%; /* Full width */
+        border-right: none;
+        border-bottom: 1px solid rgba(255,255,255,0.1);
+        padding: 15px;
+        flex: 0 0 auto; /* Don't grow/shrink weirdly */
+    }
+
+    .sidebar-cover {
+        width: 100px; /* Smaller cover for mobile */
+    }
+
+    .modal-main {
+        padding: 15px;
+        display: block; /* Remove flex to allow natural scrolling */
+    }
+
+    .modal-description {
+        max-height: none; /* Let it expand since the whole modal scrolls */
+        margin-bottom: 20px;
+    }
+
+    /* 4. Footer & Gallery Stack */
+    .modal-footer-row {
+        flex-direction: column; /* Stack Gallery over Button */
+        gap: 20px;
+        padding-bottom: 20px;
+        margin-bottom: 0;
+    }
+
+    .gallery-wrapper {
+        flex: 0 0 auto;
+        width: 100%;
+        padding: 0 40px; /* Ensure arrows have room */
+        margin-bottom: 0; /* Reset your desktop offset */
+    }
+
+    .shop-section {
+        width: 100%;
+        padding: 10px 0;
+    }
+
+    .steam-link {
+        width: 100%; /* Full width button for easy thumb-tapping */
+        max-width: none;
+    }
+
+    /* 5. Navigation Tweaks */
+    .gallery-nav {
+        width: 35px;
+        height: 35px;
+        font-size: 1.2rem;
+    }
+    .preview-nav {
+        height: 70%; /* Pull the hit area down so it doesn't overlap the top X */
+        top: 60%; 
+    }
+    
+    /* Make the screenshot preview close button easier to hit */
+    .preview-close {
+        top: 10px;
+        right: 10px;
+        font-size: 2rem;
+        padding: 10px;
+    }
 }
+
+/* ----------------------------THE NEWS SECTION OF THE WEB PAGE----------------------*/
