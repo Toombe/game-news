@@ -142,11 +142,38 @@ function renderCarousel() {
     }).join('');
 }
 
-function formatDate(timestamp) {
+function formatDate(timestamp, mode = 'short') {
     if (!timestamp) return "TBA";
+    
     const d = new Date(timestamp * 1000);
-    const months = ["JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JUL", "AUG", "SEP", "OCT", "NOV", "DEC"];
-    return `${d.getDate()} ${months[d.getMonth()]}`;
+    const day = d.getDate();
+    const year = d.getFullYear();
+    
+    const months = [
+        "January", "February", "March", "April", "May", "June",
+        "July", "August", "September", "October", "November", "December"
+    ];
+
+    const getSuffix = (n) => {
+        if (n > 3 && n < 21) return 'th'; 
+        switch (n % 10) {
+            case 1:  return "st";
+            case 2:  return "nd";
+            case 3:  return "rd";
+            default: return "th";
+        }
+    };
+
+    const monthName = months[d.getMonth()];
+
+    // Mode 1: 'short' -> "7 APR" (Perfect for Carousel Cards)
+    if (mode === 'short') {
+        return `${day} ${monthName.slice(0, 3).toUpperCase()}`;
+    }
+
+    // Mode 2: 'long' -> "7th of April 2026" (Perfect for Popups/Articles)
+    const formattedDay = `${day}${getSuffix(day)}`;
+    return `${formattedDay} of ${monthName} ${year}`;
 }
 
 // THEME TOGGLE
@@ -257,7 +284,7 @@ function openPopup(index) {
             <div class="stat-item"><span class="label">GAME MODES</span><p>${modes}</p></div>
             <div class="stat-item"><span class="label">ALL PLATFORMS</span><p>${allPlatforms}</p></div>
             <div class="stat-item"><span class="label">GENRES</span><p>${game.genres?.map(g => g.name).join(', ') || 'N/A'}</p></div>
-            <div class="stat-item"><span class="label">ORIGINAL RELEASE</span><p>${new Date(game.first_release_date * 1000).toLocaleDateString()}</p></div>
+            <div class="stat-item"><span class="label">ORIGINAL RELEASE</span><p>${formatDate(game.first_release_date, "long")}</p></div>
         </div>
     `;
 
@@ -445,3 +472,48 @@ document.addEventListener('keydown', (e) => {
         if (e.key === "Escape") closeFullscreenPreview();
     }
 });
+
+// news stuff
+
+async function loadNews() {
+    try {
+        const response = await fetch('news.json');
+        const news = await response.json();
+        const grid = document.getElementById('news-grid');
+
+        grid.innerHTML = news.map(item => `
+            <div class="news-card">
+                <div class="news-image-wrapper">
+                    <img src="${item.thumbnail}" class="news-image" loading="lazy">
+                </div>
+                <div class="news-body">
+                    <div class="news-meta">
+                        <span class="news-source">${item.source} • ${formatDate(item.date / 1000, 'long')}</span>
+                        <span class="news-category-tag">${item.category}</span>
+                    </div>
+                    <h3 class="news-title">${item.title}</h3>
+                    <div class="news-footer">
+                        <a href="${item.link}" target="_blank" class="btn-news btn-visit">READ ARTICLE</a>
+                        <button class="btn-news btn-copy" onclick="copyToClipboard('${item.link}', this)">COPY LINK</button>
+                    </div>
+                </div>
+            </div>
+        `).join('');
+    } catch (err) {
+        console.error("News load failed:", err);
+    }
+}
+
+function copyToClipboard(url, btn) {
+    navigator.clipboard.writeText(url);
+    const original = btn.innerText;
+    btn.innerText = "COPIED!";
+    btn.style.color = "#4BB543"; // Success Green
+    setTimeout(() => {
+        btn.innerText = original;
+        btn.style.color = "";
+    }, 2000);
+}
+
+// Call this on page load
+loadNews();

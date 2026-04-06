@@ -607,3 +607,158 @@ body.is-dragging-cards .game-card {
 }
 
 /* ----------------------------THE NEWS SECTION OF THE WEB PAGE----------------------*/
+.news-section {
+    padding: 40px 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.news-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 2 per row on PC */
+    gap: 25px;
+}
+
+/* --- THE NEWS CARD --- */
+.news-card {
+    background: var(--card-bg);
+    border-radius: 16px;
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.3s, border-color 0.3s;
+    text-decoration: none; /* In case the whole card is a link */
+}
+
+.news-card:hover {
+    transform: translateY(-5px);
+    border-color: var(--accent);
+}
+
+.news-image-wrapper {
+    width: 100%;
+    aspect-ratio: 16/8; /* Cinematic wide ratio */
+    overflow: hidden;
+    background: #000;
+}
+
+.news-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.5s;
+}
+
+.news-card:hover .news-image {
+    transform: scale(1.05);
+}
+
+.news-body {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.news-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 12px;
+}
+
+.news-source {
+    font-size: 0.7rem;
+    font-weight: 800;
+    color: var(--text-dim);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.news-category-tag {
+    font-size: 0.65rem;
+    font-weight: 800;
+    padding: 3px 10px;
+    background: rgba(88, 101, 242, 0.15);
+    color: var(--accent);
+    border-radius: 6px;
+    text-transform: uppercase;
+}
+
+.news-title {
+    font-size: 1.1rem;
+    font-weight: 700;
+    line-height: 1.4;
+    color: var(--text);
+    margin-bottom: 15px;
+    flex-grow: 1;
+}
+
+.news-footer {
+    display: flex;
+    gap: 10px;
+    margin-top: auto;
+}
+
+.btn-news {
+    flex: 1;
+    padding: 10px;
+    font-size: 0.75rem;
+    font-weight: 800;
+    text-align: center;
+    border-radius: 8px;
+    cursor: pointer;
+    text-decoration: none;
+    border: none;
+    transition: 0.2s;
+}
+
+.btn-visit { background: var(--accent); color: white; }
+.btn-visit:hover { filter: brightness(1.2); }
+
+.btn-copy { 
+    background: rgba(255, 255, 255, 0.05); 
+    color: var(--text-dim);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+.btn-copy:hover { background: rgba(255, 255, 255, 0.1); color: var(--text); }
+
+/* --- MOBILE TWEAKS --- */
+@media (max-width: 768px) {
+    .news-grid { grid-template-columns: 1fr; } /* 1 per row */
+    .news-title { font-size: 1rem; }
+}
+
+/* --- LIGHT MODE NEWS ADJUSTMENTS --- */
+[data-theme="light"] .news-card {
+    background: #ffffff;
+    /* Add a subtle border so the white card stands out from the white background */
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.03);
+}
+
+[data-theme="light"] .news-title {
+    color: #1a1a1a; /* Ensure high contrast for the headline */
+}
+
+[data-theme="light"] .news-source {
+    color: #666666; /* Slightly darker text for the source */
+}
+
+/* --- LIGHT MODE BUTTONS --- */
+[data-theme="light"] .btn-copy {
+    background: #f0f0f2; /* Light gray background instead of transparent */
+    color: #444444;
+    border: 1px solid #e0e0e4;
+}
+
+[data-theme="light"] .btn-copy:hover {
+    background: #e8e8eb;
+    color: #000000;
+}
+
+[data-theme="light"] .news-category-tag {
+    background: rgba(88, 101, 242, 0.1); /* Keep the accent but make it softer */
+    color: var(--accent);
+}
