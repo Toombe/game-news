@@ -4,8 +4,8 @@ const FEEDS = [
     { name: 'PC Gamer', url: 'https://www.pcgamer.com/rss/' },
     { name: 'Rock Paper Shotgun', url: 'https://www.rockpapershotgun.com/feed' },
     { name: 'Eurogamer', url: 'https://www.eurogamer.net/feed/news' },
-    { name: 'The Verge (Games)', url: 'https://www.theverge.com/games/rss/index.xml' },
-    { name: 'The Verge (Tech)', url: 'https://www.theverge.com/tech/rss/index.xml' },
+    { name: 'The Verge (Games)', url: 'https://www.theverge.com/rss/games/index.xml' },
+    { name: 'The Verge (Tech)', url: 'https://www.theverge.com/rss/tech/index.xml' },
     { name: 'Ars Technica', url: 'https://feeds.arstechnica.com/arstechnica/gaming' },
     { name: 'Nintendo Life', url: 'https://www.nintendolife.com/feeds/news' },
     { name: 'Push Square', url: 'https://www.pushsquare.com/feeds/news' },
@@ -13,9 +13,7 @@ const FEEDS = [
 ];
 
 // Scalpel Filter: Only blocks specific AI/Crypto hype words
-const BANNED_WORDS = ['chatgpt', 'openai', 'llm', 'bitcoin', 'ethereum', 'cryptocurrency', ' nft ', 'web3', 'blockchain', 'midjourney', 'stable diffusion'];
-const BANNED_CATS = ['ai', 'artificial intelligence', 'crypto', 'cryptocurrency', 'nft', 'web3', 'blockchain'];
-const AI_REGEX = /\b(ai)\b/gi; // Catches "AI" but not "Trailer" or "Mountain"
+const BANNED_WORDS = ['chatgpt', 'bitcoin', 'ethereum', 'cryptocurrency', 'web3'];
 
 async function getNews() {
     let allArticles = [];
@@ -29,33 +27,54 @@ async function getNews() {
             if (data.items) {
                 const filtered = data.items.filter(item => {
                     const title = item.title.toLowerCase();
-                    const categories = (item.categories || []).map(c => c.toLowerCase());
+                    // Use description instead of content to avoid "Related Links" noise
+                    const desc = (item.description || "").toLowerCase();
                     
-                    // 1. Check Hard Banned Categories from Publisher
-                    if (categories.some(cat => BANNED_CATS.includes(cat))) return false;
+                    // Check Title & Description only
+                    const blob = title + " " + desc;
 
-                    // 2. Check Title for specific tech-hype keywords
-                    if (BANNED_WORDS.some(word => title.includes(word))) return false;
-
-                    // 3. Regex check for standalone "AI" in Title
-                    if (AI_REGEX.test(title)) return false;
+                    // 1. Hard Block (AI/Crypto)
+                    if (BANNED_WORDS.some(word => blob.includes(word))) return false;
 
                     return true;
                 });
 
                 filtered.forEach(item => {
-                    // Pick a clean category (ignore generic 'news' or 'gaming' tags)
+                    let bestImage = item.thumbnail || '';
+                    const src = feed.name;
+
+                    // --- PART A: THE IMAGE FIXER ---
+                    // Only apply to the "Small Image" offenders
+                    const needsUpscale = ['Nintendo Life', 'Pure Xbox', 'Push Square'];
+                    if (needsUpscale.includes(src) && bestImage.includes('small.jpg')) {
+                        bestImage = bestImage.replace('small.jpg', 'large.jpg');
+                    }
+
+                    // --- PART B: THE VERGE IMAGE FIXER ---
+                    if (src.includes('The Verge') && bestImage.includes('/thumb/150/')) {
+                        bestImage = bestImage.replace('/thumb/150/', '/original/');
+                    }
+
+                    // --- PART C: THE FALLBACK ---
+                    // If the thumbnail is empty, try to scrape the first <img> from the content
+                    if (!bestImage && item.content) {
+                        const imgMatch = item.content.match(/<img[^>]+src="([^">]+)"/);
+                        if (imgMatch) bestImage = imgMatch[1];
+                    }
+
+                    // --- PART D: DATA ASSEMBLY ---
+                    // Clean up generic categories for the UI "Pill"
                     const displayCategory = (item.categories || [])
                         .find(c => {
                             const low = c.toLowerCase();
-                            return low !== 'news' && low !== 'gaming' && low !== 'articles' && low !== 'nintendo switch';
+                            return !['news', 'gaming', 'articles', 'nintendo switch', 'ps5', 'xbox'].includes(low);
                         }) || item.categories[0] || 'Article';
 
                     allArticles.push({
                         title: item.title,
                         link: item.link,
-                        thumbnail: item.thumbnail || item.enclosure?.link || '',
-                        source: feed.name,
+                        thumbnail: bestImage,
+                        source: src,
                         category: displayCategory,
                         date: new Date(item.pubDate).getTime()
                     });
