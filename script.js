@@ -281,9 +281,9 @@ function openPopup(index) {
         <div class="sidebar-stats">
             <div class="stat-item"><span class="label">DEVELOPER</span><p>${devs}</p></div>
             <div class="stat-item"><span class="label">PUBLISHER</span><p>${pubs}</p></div>
+            <div class="stat-item"><span class="label">GENRES</span><p>${game.genres?.map(g => g.name).join(', ') || 'N/A'}</p></div>
             <div class="stat-item"><span class="label">GAME MODES</span><p>${modes}</p></div>
             <div class="stat-item"><span class="label">ALL PLATFORMS</span><p>${allPlatforms}</p></div>
-            <div class="stat-item"><span class="label">GENRES</span><p>${game.genres?.map(g => g.name).join(', ') || 'N/A'}</p></div>
             <div class="stat-item"><span class="label">ORIGINAL RELEASE</span><p>${formatDate(game.first_release_date, "long")}</p></div>
         </div>
     `;
@@ -327,9 +327,9 @@ function openPopup(index) {
             <h1>${game.name}</h1>
             <div class="update-banner">${updateText} ON ${item.platforms.join(', ').toUpperCase()}</div>
         </div>
-        
+        <div class="modal-divider"></div>
         <div class="modal-description">${game.summary || 'No description available.'}</div>
-        
+        <div class="modal-divider"></div>
         <div class="modal-footer-row">
             <div class="gallery-wrapper">
                 <button class="gallery-nav prev" onclick="moveGallery(-1)">&#10094;</button>
@@ -347,12 +347,6 @@ function openPopup(index) {
     setupGalleryDots();
     modal.style.display = 'flex';
 }
-
-// THE CLOSE LOGIC (Add this once at the bottom of your file)
-//function closeModal() {
-//    document.getElementById('game-modal').style.display = 'none';
-//    document.body.style.overflow = 'auto';
-//}
 
 window.addEventListener('keydown', (e) => { if (e.key === "Escape") closeModal(); });
 window.addEventListener('mousedown', (e) => {

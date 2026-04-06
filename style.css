@@ -183,15 +183,37 @@ body.is-dragging-cards .game-card {
     overflow-y: auto;
 }
 .sidebar-cover { 
-    width: 140px;
+    width: 120px;
     margin: 0 auto;
     display: block;
     border-radius: 8px; 
     box-shadow: 0 10px 20px rgba(0,0,0,0.3);
 }
 .sidebar-stats {display: flex; flex-direction: column; gap: 12px; max-height: 100%;}
-.stat-item .label {font-size: 0.65rem; color: var(--accent); font-weight: 800; display: block; margin-bottom: 3px;}
+.stat-item .label {font-size: 0.65rem; color: var(--accent); font-weight: 800; display: block;}
 .stat-item {font-size: 0.75rem; color: var(--text-dim); line-height: 1.4;}
+.modal-divider {
+    height: 1px;
+    width: 100%;
+    /* This creates a line that fades into the background at the edges */
+    background: linear-gradient(to right, 
+        transparent, 
+        var(--text-dim), 
+        transparent
+    );
+    opacity: 0.2; /* Keeps it very subtle */
+    margin: 20px 0; /* Adds consistent spacing around the line */
+}
+
+/* Light mode tweak to make the line slightly more visible */
+[data-theme="light"] .modal-divider {
+    opacity: 0.15;
+    background: linear-gradient(to right, 
+        transparent, 
+        #000, 
+        transparent
+    );
+}
 .update-banner {
     display: inline-block;
     padding: 4px 5px;
@@ -275,6 +297,7 @@ body.is-dragging-cards .game-card {
     max-width: 800px;
     overflow-y: auto;
     max-height: 200px;
+    flex-grow: 1;
 }
 .modal-footer-row {
     display: flex;
