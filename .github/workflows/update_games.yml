@@ -35,8 +35,7 @@ jobs:
           -H "Authorization: Bearer $TOKEN" \
           -d "fields 
               name, 
-              summary, 
-              storyline,
+              summary,
               hypes, 
               follows, 
               category, 
@@ -51,15 +50,14 @@ jobs:
               screenshots.url,
               videos.video_id,
               platforms.name,
-              platforms.platform_logo.url,
               websites.url, 
-              websites.category,
+              websites.type.type,
               release_dates.date, 
               release_dates.platform.name,
               release_dates.platform.id; 
               where release_dates.date > $START_DATE 
               & release_dates.date < $END_DATE 
-              & (hypes > 2 | follows > 10) 
+              & (hypes > 1 | follows > 10) 
               & cover != null 
               & status != 5; 
               sort first_release_date asc; 
