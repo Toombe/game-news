@@ -1,10 +1,66 @@
 [
   {
+    "title": "The case for banning cookie banners",
+    "link": "https://www.theverge.com/podcast/907919/ban-cookie-banners-gemini-maps-vergecast",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/VRG_VST_0407_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source": "The Verge (Tech)",
+    "category": "Podcasts",
+    "date": 1775566963000
+  },
+  {
+    "title": "Pebblebee’s new Halo tracker doubles as a personal safety device",
+    "link": "https://www.theverge.com/tech/907352/pebblebee-safe-haven-halo-location-tracker-personal-safety-alarm-siren-strobe",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/pebblebee_halo2.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source": "The Verge (Tech)",
+    "category": "Gadgets",
+    "date": 1775566800000
+  },
+  {
+    "title": "UK Charts: Mario Galaxy Jumps Up The Rankings Thanks To A Big-Screen Boost",
+    "link": "https://www.nintendolife.com/news/2026/04/uk-charts-mario-galaxy-jumps-up-the-rankings-thanks-to-a-big-screen-boost",
+    "thumbnail": "https://images.nintendolife.com/ce48ba1245b84/large.jpg",
+    "source": "Nintendo Life",
+    "category": "Article",
+    "date": 1775566800000
+  },
+  {
+    "title": "Marathon players are fiercely debating how to best change one of the game's most \"present and dominant\" weapon attachments",
+    "link": "https://www.eurogamer.net/marathon-thermal-sights-nerfs-changes",
+    "thumbnail": "https://assetsio.gnwcdn.com/marathon-bungie_5UWu4c4.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "source": "Eurogamer",
+    "category": "Multiplayer Competitive",
+    "date": 1775565166000
+  },
+  {
+    "title": "Modder uses Claude AI to code new BIOS that gets obscure all P-core Intel Bartlett Lake CPUs running on a Z790 motherboard",
+    "link": "https://www.pcgamer.com/hardware/motherboards/modder-uses-claude-ai-to-code-new-bios-that-gets-obscure-all-p-core-intel-bartlett-lake-cpus-running-on-a-z790-motherboard/",
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/7tjpjrMrVubLmHVzSRuFFB-1280-80.jpg",
+    "source": "PC Gamer",
+    "category": "Motherboards",
+    "date": 1775564252000
+  },
+  {
+    "title": "'I have crawled through depths of hell': One coder's suffering is a potential joy to every web user, as their project could make sluggish browsers a thing of the past",
+    "link": "https://www.pcgamer.com/software/browsers/i-have-crawled-through-depths-of-hell-one-coders-suffering-is-a-potential-joy-to-every-web-user-as-their-project-could-make-sluggish-browsers-a-thing-of-the-past/",
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/aGJH4CXwhizVMBo7m8pLsK-1280-80.jpg",
+    "source": "PC Gamer",
+    "category": "Browsers",
+    "date": 1775563790000
+  },
+  {
+    "title": "Blizzard reveals Overwatch hero Anran's new \"fiery and fierce\" look, following player backlash over 'same-face syndrome'",
+    "link": "https://www.eurogamer.net/blizzard-reveals-overwatch-hero-anran-reworked-look",
+    "thumbnail": "https://assetsio.gnwcdn.com/Anran-animated-cutscene---Overwatch.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "source": "Eurogamer",
+    "category": "Blizzard Entertainment",
+    "date": 1775562916000
+  },
+  {
     "title": "This week in PC games: gritty GTA 4-coded brawler Samson, Ancient Greek bull defender Minos, and a wobbly violinist battles some stairs",
     "link": "https://www.rockpapershotgun.com/this-week-in-pc-games-gritty-gta-4-coded-brawler-samson-ancient-greek-bull-defender-minos-and-a-wobbly-violinist-battles-some-stairs",
-    "thumbnail": "https://assetsio.gnwcdn.com/the-maw-samson-01.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
+    "thumbnail": "https://assetsio.gnwcdn.com/the-maw-samson-01.jpg?width=690&quality=85&format=jpg&auto=webp",
     "source": "Rock Paper Shotgun",
-    "category": "Devolver Digital",
+    "category": "Puzzle",
     "date": 1775561772000
   },
   {
@@ -24,9 +80,9 @@
     "date": 1775561346000
   },
   {
-    "title": "A wild, wide foldable iPhone dummy emerges amid rumors of a delay",
+    "title": "A wide foldable iPhone dummy emerges amid rumors of a delay",
     "link": "https://www.theverge.com/tech/907856/iphone-fold-dummy-design-delay-production",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/iphone-fold-dummy-unit.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/iphone-fold-dummy-unit.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source": "The Verge (Tech)",
     "category": "Apple",
     "date": 1775561224000
@@ -48,11 +104,11 @@
     "date": 1775560799000
   },
   {
-    "title": "11 years later, Obsidian's Pillars of Eternity gets a turn-based combat mode to make it a little bit more like Baldur's Gate 3",
+    "title": "11 years later, Obsidian's Pillars of Eternity gets a turn-based combat mode, making it a little bit more like Baldur's Gate 3",
     "link": "https://www.eurogamer.net/obsidian-turn-based-update-pillars-of-eternity",
     "thumbnail": "https://assetsio.gnwcdn.com/PoE_party-attack.jpg?width=690&quality=85&format=jpg&auto=webp",
     "source": "Eurogamer",
-    "category": "Action Adventure",
+    "category": "Xbox Game Studios",
     "date": 1775560197000
   },
   {
@@ -82,33 +138,17 @@
   {
     "title": "\"We're not doing zombie animals\", says State of Decay 3 studio head, but you can turn a tea kettle into an undead-attracting bomb",
     "link": "https://www.rockpapershotgun.com/were-not-doing-zombie-animals-says-state-of-decay-3-studio-head-but-you-can-turn-a-tea-kettle-into-an-undead-attracting-bomb",
-    "thumbnail": "https://assetsio.gnwcdn.com/state-of-decay-3-teaser-trailer.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
+    "thumbnail": "https://assetsio.gnwcdn.com/state-of-decay-3-teaser-trailer.jpg?width=690&quality=85&format=jpg&auto=webp",
     "source": "Rock Paper Shotgun",
-    "category": "Xbox Game Studios",
+    "category": "Undead Labs",
     "date": 1775556270000
-  },
-  {
-    "title": "PS5 Home Page Refresh Live Now for Some Users",
-    "link": "https://www.pushsquare.com/news/2026/04/ps5-home-page-refresh-live-now-for-some-users",
-    "thumbnail": "https://images.pushsquare.com/d3da13d83a975/large.jpg",
-    "source": "Push Square",
-    "category": "Article",
-    "date": 1775556000000
-  },
-  {
-    "title": "Five Xbox Games Are Being Delisted In April &amp; May 2026",
-    "link": "https://www.purexbox.com/news/2026/04/five-xbox-games-are-being-delisted-in-april-and-may-2026",
-    "thumbnail": "https://images.purexbox.com/bb9a347a1b167/large.jpg",
-    "source": "Pure Xbox",
-    "category": "Article",
-    "date": 1775556000000
   },
   {
     "title": "Quantic Dream's cinematic Star Wars game Eclipse is reportedly still \"years off from completion\"",
     "link": "https://www.eurogamer.net/star-wars-eclipse-development-worries-quantic-dream",
     "thumbnail": "https://assetsio.gnwcdn.com/Star-Wars-Eclipse-trailer-screens-1.jpeg?width=690&quality=85&format=jpg&auto=webp",
     "source": "Eurogamer",
-    "category": "PC",
+    "category": "Action Adventure",
     "date": 1775555281000
   },
   {
@@ -132,24 +172,16 @@
     "link": "https://www.eurogamer.net/state-of-decay-3-reveal-trailer-wasnt-reflective-of-actual-game-says-studio-head",
     "thumbnail": "https://assetsio.gnwcdn.com/state-of-decay-3-report-details-troubled-development-1648811289149.jpg?width=690&quality=85&format=jpg&auto=webp",
     "source": "Eurogamer",
-    "category": "Action Adventure",
+    "category": "Xbox Game Studios",
     "date": 1775553446000
   },
   {
     "title": "The Witcher 3 multiplayer mod's latest major update adds the only mount you'll ever need - your fellow players",
     "link": "https://www.rockpapershotgun.com/the-witcher-3-multiplayer-mods-latest-major-update-adds-the-only-mount-youll-ever-need-your-fellow-players",
-    "thumbnail": "https://assetsio.gnwcdn.com/the-witcher-3-online-mod-mounts-update-01.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
+    "thumbnail": "https://assetsio.gnwcdn.com/the-witcher-3-online-mod-mounts-update-01.jpg?width=690&quality=85&format=jpg&auto=webp",
     "source": "Rock Paper Shotgun",
-    "category": "PC",
+    "category": "Third person",
     "date": 1775552979000
-  },
-  {
-    "title": "April 2026 PS Plus Essential Games Available to Download Now",
-    "link": "https://www.pushsquare.com/news/2026/04/april-2026-ps-plus-essential-games-available-to-download-now",
-    "thumbnail": "https://images.pushsquare.com/d847aece86f2c/large.jpg",
-    "source": "Push Square",
-    "category": "Article",
-    "date": 1775552400000
   },
   {
     "title": "Rumour: The Legend Of Zelda Movie May Have Found Its Composer",
@@ -184,36 +216,12 @@
     "date": 1775525100000
   },
   {
-    "title": "Five new Steam games you probably missed (April 7, 2026)",
-    "link": "https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-april-7-2026/",
-    "thumbnail": "https://cdn.mos.cms.futurecdn.net/r3GFfAQ3CHnrYaQvCVYmzi-1280-80.jpg",
-    "source": "PC Gamer",
-    "category": "Platforms",
-    "date": 1775524231000
-  },
-  {
-    "title": "11 years after launch, Pillars of Eternity's new turn-based mode feels like the way it's meant to be played",
-    "link": "https://www.pcgamer.com/games/rpg/11-years-after-launch-pillars-of-eternitys-new-turn-based-mode-feels-like-the-way-its-meant-to-be-played/",
-    "thumbnail": "https://cdn.mos.cms.futurecdn.net/iwWECtoXmktzbvoYvqxB2G-1280-80.jpg",
-    "source": "PC Gamer",
-    "category": "RPG",
-    "date": 1775523377000
-  },
-  {
     "title": "Bleak Survival City-Builder 'Frostpunk' Is Finally Coming To The Switch",
     "link": "https://www.nintendolife.com/news/2026/04/bleak-survival-city-builder-frostpunk-is-finally-coming-to-the-switch",
     "thumbnail": "https://images.nintendolife.com/dbce13742bb92/large.jpg",
     "source": "Nintendo Life",
     "category": "Article",
     "date": 1775521800000
-  },
-  {
-    "title": "Arknights Endfield Dev Says PS5 Players Want More Than a Genshin Impact Clone",
-    "link": "https://www.pushsquare.com/news/2026/04/arknights-endfield-dev-says-ps5-players-want-more-than-a-genshin-impact-clone",
-    "thumbnail": "https://images.pushsquare.com/cd0023a03ffab/large.jpg",
-    "source": "Push Square",
-    "category": "Article",
-    "date": 1775520000000
   },
   {
     "title": "Assassin's Creed Shadows Switch 2 Update Adds Mouse And Keyboard Support",
@@ -224,33 +232,9 @@
     "date": 1775518500000
   },
   {
-    "title": "'I Was Convinced It Could Never Be Done': Dev Praises 'Breakthrough' in PS3 Emulation",
-    "link": "https://www.pushsquare.com/news/2026/04/i-was-convinced-it-could-never-be-done-dev-praises-breakthrough-in-ps3-emulation",
-    "thumbnail": "https://images.pushsquare.com/4f429d7686bbc/large.jpg",
-    "source": "Push Square",
-    "category": "Article",
-    "date": 1775516400000
-  },
-  {
-    "title": "Ahead of Arrival on PS Plus, Lords of the Fallen Gets a Major PS5 Update",
-    "link": "https://www.pushsquare.com/news/2026/04/ahead-of-arrival-on-ps-plus-lords-of-the-fallen-gets-a-major-ps5-update",
-    "thumbnail": "https://images.pushsquare.com/f3084cb4f9d09/large.jpg",
-    "source": "Push Square",
-    "category": "Article",
-    "date": 1775505600000
-  },
-  {
-    "title": "Capcom's Pragmata Uses Less Than Half the SSD Space as Resident Evil Requiem on PS5",
-    "link": "https://www.pushsquare.com/news/2026/04/capcoms-pragmata-uses-less-than-half-the-ssd-space-as-resident-evil-requiem-on-ps5",
-    "thumbnail": "https://images.pushsquare.com/4dc670d4a2d68/large.jpg",
-    "source": "Push Square",
-    "category": "Article",
-    "date": 1775502000000
-  },
-  {
     "title": "The best deals on MacBooks right now",
     "link": "https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0026.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0026.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source": "The Verge (Tech)",
     "category": "Apple",
     "date": 1775501406000
@@ -258,34 +242,10 @@
   {
     "title": "DJI’s Mic Mini records clear audio on the go, and it’s on sale for $60",
     "link": "https://www.theverge.com/gadgets/907582/dji-mic-mini-two-transmitters-deal-sale",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25755519/dji_mic_mini4.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25755519/dji_mic_mini4.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source": "The Verge (Tech)",
     "category": "Creators",
     "date": 1775499721000
-  },
-  {
-    "title": "Game of the Month: Crimson Desert (March 2026)",
-    "link": "https://www.pushsquare.com/features/game-of-the-month-crimson-desert-march-2026",
-    "thumbnail": "https://images.pushsquare.com/b6db3a44a550e/large.jpg",
-    "source": "Push Square",
-    "category": "Article",
-    "date": 1775498400000
-  },
-  {
-    "title": "Talking Point: How Many Consoles Have You Bought At Launch, And Were They Worth It?",
-    "link": "https://www.purexbox.com/features/talking-point-how-many-consoles-have-you-bought-at-launch-and-were-they-worth-it",
-    "thumbnail": "https://images.purexbox.com/8decbfdbfbe0d/large.jpg",
-    "source": "Pure Xbox",
-    "category": "Article",
-    "date": 1775498400000
-  },
-  {
-    "title": "Assassin's Creed Shadows Patch 1.1.10 Pushes PSSR 2 on PS5 Pro, Unshackles the Bo Staff",
-    "link": "https://www.pushsquare.com/news/2026/04/assassins-creed-shadows-patch-1-1-10-pushes-pssr-2-on-ps5-pro-unshackles-the-bo-staff",
-    "thumbnail": "https://images.pushsquare.com/4020d12b39c4f/large.jpg",
-    "source": "Push Square",
-    "category": "Article",
-    "date": 1775496600000
   },
   {
     "title": "Netflix is launching a new app for kids games",
@@ -296,41 +256,17 @@
     "date": 1775494800000
   },
   {
-    "title": "'I Think So': God of War Actor Hints at the Return of Sex Minigames in PS5 Remake",
-    "link": "https://www.pushsquare.com/news/2026/04/i-think-so-god-of-war-actor-hints-at-the-return-of-sex-minigames-in-ps5-remake",
-    "thumbnail": "https://images.pushsquare.com/e4a7701d7e9f0/large.jpg",
-    "source": "Push Square",
-    "category": "Article",
-    "date": 1775494800000
-  },
-  {
     "title": "Samsung’s Galaxy S27 ‘Pro’ could squeeze in between the Ultra and Plus phones",
     "link": "https://www.theverge.com/tech/907431/samsung-galaxy-s27-pro-privacy-display-rumor",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268399_Samsung_Galaxy_S26_Ultra_review_AJohnson_0004.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268399_Samsung_Galaxy_S26_Ultra_review_AJohnson_0004.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source": "The Verge (Tech)",
     "category": "Gadgets",
     "date": 1775491394000
   },
   {
-    "title": "State Of Decay 3 Dev Explains Why It's Been So Long Since The First 2020 Xbox Trailer",
-    "link": "https://www.purexbox.com/news/2026/04/state-of-decay-3-dev-explains-why-its-been-so-long-since-the-first-2020-xbox-trailer",
-    "thumbnail": "https://images.purexbox.com/35b8d9817c256/large.jpg",
-    "source": "Pure Xbox",
-    "category": "Article",
-    "date": 1775491200000
-  },
-  {
-    "title": "Ghost of Yotei's Brutal Raid Will Have No Matchmaking at Launch, So Bring Friends",
-    "link": "https://www.pushsquare.com/news/2026/04/ghost-of-yoteis-brutal-raid-will-have-no-matchmaking-at-launch-so-bring-friends",
-    "thumbnail": "https://images.pushsquare.com/94469d03899ce/large.jpg",
-    "source": "Push Square",
-    "category": "Article",
-    "date": 1775489400000
-  },
-  {
     "title": "Logitech’s haptics-enhanced MX Master 4 mouse is on sale for under $100",
     "link": "https://www.theverge.com/gadgets/907302/logitech-mx-master-4-mouse-apple-macbook-air-m5-deal-sale",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/mxmaster4deal.png?quality=90&amp;strip=all&amp;crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/mxmaster4deal.png?quality=90&strip=all&crop=0,0,100,100",
     "source": "The Verge (Tech)",
     "category": "Deals",
     "date": 1775488813000
@@ -338,7 +274,7 @@
   {
     "title": "Cisco CEO Chuck Robbins wants data centers in space",
     "link": "https://www.theverge.com/podcast/906727/cisco-ceo-chuck-robbins-data-centers-space-ai-elon-musk-interview",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/DCD-Chuck-Robbins-Cisco.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/DCD-Chuck-Robbins-Cisco.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source": "The Verge (Tech)",
     "category": "AI",
     "date": 1775488500000
@@ -352,14 +288,6 @@
     "date": 1775487600000
   },
   {
-    "title": "'I Brought It Back' - Xbox 360 Voice Messaging Recreated For New 'Xbox Chatting' Website",
-    "link": "https://www.purexbox.com/news/2026/04/i-brought-it-back-xbox-360-voice-messaging-recreated-for-new-xbox-chatting-website",
-    "thumbnail": "https://images.purexbox.com/ce1ea01b6fbbc/large.jpg",
-    "source": "Pure Xbox",
-    "category": "Article",
-    "date": 1775485800000
-  },
-  {
     "title": "New Limited-Time Switch 2 Offer Features A Small Saving On Mario Galaxy",
     "link": "https://www.nintendolife.com/news/2026/04/new-limited-time-switch-2-offer-features-a-small-saving-on-mario-galaxy",
     "thumbnail": "https://images.nintendolife.com/51319919142b8/large.jpg",
@@ -368,65 +296,25 @@
     "date": 1775484900000
   },
   {
-    "title": "Quantum Break Actor Celebrates 10th Anniversary Of The 2016 Xbox Console Exclusive",
-    "link": "https://www.purexbox.com/news/2026/04/quantum-break-actor-celebrates-10th-anniversary-of-the-2016-xbox-console-exclusive",
-    "thumbnail": "https://images.purexbox.com/4ea2ae2703bb1/large.jpg",
-    "source": "Pure Xbox",
-    "category": "Article",
-    "date": 1775482200000
-  },
-  {
     "title": "\"Keeping teams together doesn't seem to matter to people, but for us it did\": Star Wars Zero Company's director on what the industry can learn from XCOM 2",
     "link": "https://www.rockpapershotgun.com/keeping-teams-together-doesnt-seem-to-matter-to-people-but-for-us-it-did-star-wars-zero-companys-director-on-what-the-industry-can-learn-from-xcom-2",
-    "thumbnail": "https://assetsio.gnwcdn.com/xcom-2-screenshot_0006_city-garage-glam-2.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
+    "thumbnail": "https://assetsio.gnwcdn.com/xcom-2-screenshot_0006_city-garage-glam-2.jpg?width=690&quality=85&format=jpg&auto=webp",
     "source": "Rock Paper Shotgun",
-    "category": "Bit Reactor",
+    "category": "Bird view / Isometric",
     "date": 1775480400000
-  },
-  {
-    "title": "Level-5 Will Finally Share News On Its Upcoming Titles In 'Vision 2026' Showcase",
-    "link": "https://www.nintendolife.com/news/2026/04/level-5-will-finally-share-news-on-its-upcoming-titles-in-vision-2026-showcase",
-    "thumbnail": "https://images.nintendolife.com/9f6061a53fa24/large.jpg",
-    "source": "Nintendo Life",
-    "category": "Article",
-    "date": 1775477700000
-  },
-  {
-    "title": "Here's What Crimson Desert's New 4K Performance Mode Looks Like On Xbox Series X",
-    "link": "https://www.purexbox.com/news/2026/04/heres-what-crimson-deserts-new-4k-performance-mode-looks-like-on-xbox-series-x",
-    "thumbnail": "https://images.purexbox.com/63788d3b1e630/large.jpg",
-    "source": "Pure Xbox",
-    "category": "Article",
-    "date": 1775476800000
   },
   {
     "title": "Can AI responses be influenced? The SEO industry is trying",
     "link": "https://www.theverge.com/tech/900302/ai-seo-industry-google-search-chatgpt-gemini-marketing",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268407_Can_AI_responses_be_influenced_SInbar2.gif?quality=90&amp;strip=all&amp;crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268407_Can_AI_responses_be_influenced_SInbar2.gif?quality=90&strip=all&crop=0,0,100,100",
     "source": "The Verge (Tech)",
     "category": "Business",
     "date": 1775473200000
   },
   {
-    "title": "Fascinated By Artemis 2? KSP Is Heavily Discounted In The Xbox Spring Sale Right Now",
-    "link": "https://www.purexbox.com/news/2026/04/fascinated-by-artemis-2-ksp-is-heavily-discounted-in-the-xbox-spring-sale-right-now",
-    "thumbnail": "https://images.purexbox.com/12ca93638ab90/large.jpg",
-    "source": "Pure Xbox",
-    "category": "Article",
-    "date": 1775473200000
-  },
-  {
-    "title": "Starfield's Huge Update Arrives On Xbox This Week, And Here Are The Release Times",
-    "link": "https://www.purexbox.com/news/2026/04/starfields-huge-update-arrives-on-xbox-this-week-and-here-are-the-release-times",
-    "thumbnail": "https://images.purexbox.com/1674ad331c993/large.jpg",
-    "source": "Pure Xbox",
-    "category": "Article",
-    "date": 1775469600000
-  },
-  {
     "title": "The best videogame characters who came back from the dead",
     "link": "https://www.rockpapershotgun.com/the-best-videogame-characters-who-came-back-from-the-dead",
-    "thumbnail": "https://assetsio.gnwcdn.com/legacy-of-kain-raziel.jpeg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
+    "thumbnail": "https://assetsio.gnwcdn.com/legacy-of-kain-raziel.jpeg?width=690&quality=85&format=jpg&auto=webp",
     "source": "Rock Paper Shotgun",
     "category": "Article",
     "date": 1775466000000
@@ -436,7 +324,7 @@
     "link": "https://www.eurogamer.net/arc-raiders-improves-crafting-says-new-streamlined-system-is-just-the-start",
     "thumbnail": "https://assetsio.gnwcdn.com/arc-raiders-headline.jpg?width=690&quality=85&format=jpg&auto=webp",
     "source": "Eurogamer",
-    "category": "PC",
+    "category": "Multiplayer Competitive",
     "date": 1775414220000
   },
   {
@@ -444,7 +332,7 @@
     "link": "https://www.eurogamer.net/sonys-battle-against-shovelware-publishers-persists-as-it-purges-another-load-of-crap-games-from-the-playstation-store",
     "thumbnail": "https://assetsio.gnwcdn.com/Screenshot-2026-04-05-at-19.06.38.png?width=690&quality=85&format=jpg&auto=webp",
     "source": "Eurogamer",
-    "category": "PS4",
+    "category": "Sony Computer Entertainment",
     "date": 1775412592000
   },
   {
@@ -458,7 +346,7 @@
   {
     "title": "Suno is a music copyright nightmare",
     "link": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKB368_SUNO_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKB368_SUNO_C.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source": "The Verge (Tech)",
     "category": "AI",
     "date": 1775404800000
@@ -468,15 +356,127 @@
     "link": "https://www.eurogamer.net/slay-the-spire-2-beats-crimson-desert-and-resident-evil-requiem-as-marchs-biggest-selling-game-on-steam",
     "thumbnail": "https://assetsio.gnwcdn.com/slay-the-spire-2-key-art.webp?width=690&quality=85&format=jpg&auto=webp",
     "source": "Eurogamer",
-    "category": "RPG",
+    "category": "Capcom",
     "date": 1775402038000
   },
   {
-    "title": "80+ Games Are Reduced By 90-95% In The Xbox Spring Sale 2026",
-    "link": "https://www.purexbox.com/news/2026/04/80plus-games-are-reduced-by-90-95percent-in-the-xbox-spring-sale-2026",
-    "thumbnail": "https://images.purexbox.com/20d03c4f81743/large.jpg",
-    "source": "Pure Xbox",
-    "category": "Article",
-    "date": 1775401200000
+    "title": "The Sunday Papers",
+    "link": "https://www.rockpapershotgun.com/the-sunday-papers-804",
+    "thumbnail": "https://assetsio.gnwcdn.com/the-sunday-papers-big.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "source": "Rock Paper Shotgun",
+    "category": "The Sunday Papers",
+    "date": 1775379600000
+  },
+  {
+    "title": "Crimson Desert's latest update makes sure you can always look at Kliff's generic mug and makes running much less annoying",
+    "link": "https://www.rockpapershotgun.com/crimson-deserts-latest-update-makes-sure-you-can-always-look-at-kliffs-generic-mug-and-makes-running-much-less-annoying",
+    "thumbnail": "https://assetsio.gnwcdn.com/getting-sword-of-the-lord-in-crimson-desert.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "source": "Rock Paper Shotgun",
+    "category": "Third person",
+    "date": 1775339754000
+  },
+  {
+    "title": "Have a gander at this cut Elden Ring scene showing a smidge of DLC boss Miquella's past",
+    "link": "https://www.rockpapershotgun.com/have-a-gander-at-this-cut-elden-ring-scene-showing-a-smidge-of-dlc-boss-miquellas-past",
+    "thumbnail": "https://assetsio.gnwcdn.com/elden-ring-shadow-of-the-erdtree-final-boss-miquella-and-radahn.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "source": "Rock Paper Shotgun",
+    "category": "Third person",
+    "date": 1775334422000
+  },
+  {
+    "title": "Comedy games are alive and well in Horse Magnifier, a game where you do just that",
+    "link": "https://www.rockpapershotgun.com/comedy-games-are-alive-and-well-in-horse-magnifier-a-game-where-you-do-just-that",
+    "thumbnail": "https://assetsio.gnwcdn.com/horse-magnifier.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "source": "Rock Paper Shotgun",
+    "category": "Comedy",
+    "date": 1775326038000
+  },
+  {
+    "title": "Crimson Desert patch now available – here's what's new",
+    "link": "https://www.eurogamer.net/crimson-desert-patch-now-available-heres-whats-new",
+    "thumbnail": "https://assetsio.gnwcdn.com/Crimson-Desert_Screenshot_07.png?width=690&quality=85&format=jpg&auto=webp",
+    "source": "Eurogamer",
+    "category": "Action Adventure",
+    "date": 1775325138000
+  },
+  {
+    "title": "Grand Theft Auto 6 publisher Take-Two have seemingly laid off their head of AI and several of the department's staffers",
+    "link": "https://www.rockpapershotgun.com/grand-theft-auto-6-publisher-take-two-have-seemingly-laid-off-their-head-of-ai-and-several-of-the-departments-staffers",
+    "thumbnail": "https://assetsio.gnwcdn.com/gta-6-grand-theft-auto-6-main-characters-hot-7.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "source": "Rock Paper Shotgun",
+    "category": "Take-Two Interactive",
+    "date": 1775322853000
+  },
+  {
+    "title": "Buy two Nintendo Switch games, get $30 off at Target",
+    "link": "https://www.theverge.com/gadgets/906843/nintendo-switch-2-game-sale-target-circle-deal",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/NS2_DonkeyKongBananza_SCRN_25.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source": "The Verge (Games)",
+    "category": "Deals",
+    "date": 1775314800000
+  },
+  {
+    "title": "My dream pair of AR gaming glasses needs to have these nine features",
+    "link": "https://www.theverge.com/gadgets/906586/best-ar-glasses-viture-xreal-gaming-steam-deck-switch-2",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/P4030918.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source": "The Verge (Games)",
+    "category": "Buying Guides",
+    "date": 1775311200000
+  },
+  {
+    "title": "Super Meat Boy 3D makes suffering fun",
+    "link": "https://www.theverge.com/games/904202/super-meat-boy-3d-review",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/ss_642e90291698c85a287b944e41703a22013703dd.1920x1080.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source": "The Verge (Games)",
+    "category": "Entertainment",
+    "date": 1775304000000
+  },
+  {
+    "title": "Lenovo Legion Go 2 suddenly costs $650 more as RAMageddon lays waste to gaming hardware",
+    "link": "https://www.theverge.com/games/906752/lenovo-legion-go-2-suddenly-costs-650-more-as-ramageddon-lays-waste-to-gaming-hardware",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257842_Lenovo_Legion_Go_2_IFA2025_ADiBenedetto_0024.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source": "The Verge (Games)",
+    "category": "Gadgets",
+    "date": 1775243954000
+  },
+  {
+    "title": "Razer gaming accessories include a $25 Taco Bell gift card at Best Buy",
+    "link": "https://www.theverge.com/gadgets/905788/razer-taco-bell-best-buy-gaming-mouse-keyboard-deal-sale",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/razerviperv4prolead.png?quality=90&strip=all&crop=0,0,100,100",
+    "source": "The Verge (Games)",
+    "category": "Deals",
+    "date": 1775144424000
+  },
+  {
+    "title": "Indie Pass is a new subscription service just for indie games",
+    "link": "https://www.theverge.com/games/905476/indie-pass-io-subscription-service-games",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/ss_15a0d5335f0ccb5b6a7e0aee938e485f23756353.1920x1080.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source": "The Verge (Games)",
+    "category": "Entertainment",
+    "date": 1775138400000
+  },
+  {
+    "title": "Transfer Point is a modern adventure game made with 40-year-old software",
+    "link": "https://www.theverge.com/entertainment/905339/transfer-point-mac-adventure-game-world-builder",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-03-30-at-12.09.20PM.png?quality=90&strip=all&crop=0,0,100,100",
+    "source": "The Verge (Games)",
+    "category": "Entertainment",
+    "date": 1775134800000
+  },
+  {
+    "title": "Nvidia rolls out its fix for PC gaming's \"compiling shaders\" wait times",
+    "link": "https://arstechnica.com/gaming/2026/04/nvidias-new-app-lets-you-precompile-gaming-shaders-during-machine-idle-time/",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/nvidia-500x500.jpg",
+    "source": "Ars Technica",
+    "category": "Intel",
+    "date": 1775076408000
+  },
+  {
+    "title": "A YouTuber channeled his distaste for the PS5’s design into slick console covers",
+    "link": "https://www.theverge.com/tech/904086/boxplates-ps5-pro-slim-console-covers-hands-on",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/P3300861.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source": "The Verge (Games)",
+    "category": "Gadgets",
+    "date": 1775052000000
   }
 ]
