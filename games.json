@@ -10573,11 +10573,19 @@
     ],
     "release_dates": [
       {
-        "id": 893131,
+        "id": 898083,
         "date": 1775520000,
         "platform": {
           "id": 6,
           "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 898084,
+        "date": 1775520000,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
         }
       }
     ],
@@ -10603,7 +10611,7 @@
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc8pkp.jpg"
       }
     ],
-    "status": 2,
+    "status": 4,
     "summary": "The hardcore dungeon crawler where you will go to the endless depths of the mysterious grim dungeon.",
     "videos": [
       {
