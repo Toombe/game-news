@@ -7506,6 +7506,10 @@
       {
         "id": 166243,
         "video_id": "V4FhcXVlVO0"
+      },
+      {
+        "id": 180775,
+        "video_id": "SOmhgAZOWsA"
       }
     ],
     "websites": [
@@ -11048,140 +11052,6 @@
         "type": {
           "id": 5,
           "type": "Twitter"
-        }
-      }
-    ]
-  },
-  {
-    "id": 341266,
-    "cover": {
-      "id": 484080,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coadio.jpg"
-    },
-    "first_release_date": 1775692800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 6,
-        "name": "Battle Royale"
-      }
-    ],
-    "genres": [
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 11,
-    "involved_companies": [
-      {
-        "id": 341656,
-        "company": {
-          "id": 38941,
-          "name": "Button Mash Games"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 341655,
-        "company": {
-          "id": 63095,
-          "name": "Polden Publishing"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Final Sentence",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 898445,
-        "date": 1775692800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1578396,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxtwc.jpg"
-      },
-      {
-        "id": 1578397,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxtwd.jpg"
-      },
-      {
-        "id": 1578398,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxtwe.jpg"
-      },
-      {
-        "id": 1578399,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxtwf.jpg"
-      },
-      {
-        "id": 1578400,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxtwg.jpg"
-      }
-    ],
-    "status": 2,
-    "summary": "Final Sentence is a Battle Royale typing game. Together with other players, you find yourself in a hangar, with a typewriter in front of you and a revolver loaded with a single bullet at your temple. Every mistake can be fatal. Only one will remain.",
-    "videos": [
-      {
-        "id": 164879,
-        "video_id": "Tl07u6hQP4E"
-      },
-      {
-        "id": 160696,
-        "video_id": "M2mclKfAWUM"
-      },
-      {
-        "id": 180749,
-        "video_id": "aqQz7c6nFx4"
-      }
-    ],
-    "websites": [
-      {
-        "id": 732469,
-        "url": "https://store.steampowered.com/app/2413950",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 732470,
-        "url": "https://final-sentence.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 890298,
-        "url": "https://discord.com/invite/UtxqEMn37c",
-        "type": {
-          "id": 18,
-          "type": "Discord"
         }
       }
     ]
@@ -16724,6 +16594,10 @@
       {
         "id": 176577,
         "video_id": "VdQKO7JGV1g"
+      },
+      {
+        "id": 180766,
+        "video_id": "kL5_vJSBpqA"
       }
     ],
     "websites": [
