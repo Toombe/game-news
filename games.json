@@ -506,8 +506,8 @@
         }
       },
       {
-        "id": 888114,
-        "date": 1775865600,
+        "id": 898789,
+        "date": 1775779200,
         "platform": {
           "id": 6,
           "name": "PC (Microsoft Windows)"
@@ -11791,6 +11791,144 @@
         "type": {
           "id": 17,
           "type": "GOG"
+        }
+      }
+    ]
+  },
+  {
+    "id": 335857,
+    "cover": {
+      "id": 445291,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9jl7.jpg"
+    },
+    "first_release_date": 1776988800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 35,
+        "name": "Card \u0026 Board Game"
+      }
+    ],
+    "hypes": 2,
+    "name": "Ace Strategy Mecha Nova",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 898785,
+        "date": 1776988800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1523610,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwnmi.jpg"
+      },
+      {
+        "id": 1523608,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwnmg.jpg"
+      },
+      {
+        "id": 1523609,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwnmh.jpg"
+      },
+      {
+        "id": 1523611,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwnmj.jpg"
+      },
+      {
+        "id": 1523616,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwnmo.jpg"
+      },
+      {
+        "id": 1523612,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwnmk.jpg"
+      },
+      {
+        "id": 1523613,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwnml.jpg"
+      },
+      {
+        "id": 1523614,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwnmm.jpg"
+      },
+      {
+        "id": 1523615,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwnmn.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Command powerful mechs in \"ACE Strategy: Mecha Nova,\" a tactical roguelike where you recruit elite allies, stack drones, and deploy strategic abilities across procedural battlefields. Master unit positioning, collect game-changing upgrades, and adapt your tactics for total battlefield dominance",
+    "videos": [
+      {
+        "id": 143438,
+        "video_id": "wHLK4Mc6T7o"
+      }
+    ],
+    "websites": [
+      {
+        "id": 719721,
+        "url": "https://www.youtube.com/@madebyemina",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 719723,
+        "url": "https://discord.gg/invite/ccjdxSyeuz",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 719720,
+        "url": "https://www.eminastudio.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 719722,
+        "url": "https://twitter.com/eminastudios",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 719719,
+        "url": "https://store.steampowered.com/app/3127770/ACE_Strategy_Mecha_Nova/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
         }
       }
     ]
