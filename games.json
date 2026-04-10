@@ -426,256 +426,6 @@
     ]
   },
   {
-    "id": 272600,
-    "cover": {
-      "id": 480789,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coaaz9.jpg"
-    },
-    "first_release_date": 1717113600,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      },
-      {
-        "id": 5,
-        "name": "Massively Multiplayer Online (MMO)"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 5,
-    "involved_companies": [
-      {
-        "id": 297197,
-        "company": {
-          "id": 43068,
-          "name": "Campfire Studio"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 297196,
-        "company": {
-          "id": 51110,
-          "name": "Qooland Games"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Soulmask",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 599349,
-        "date": 1717113600,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 898789,
-        "date": 1775779200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1169449,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp2cp.jpg"
-      },
-      {
-        "id": 1169451,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp2cr.jpg"
-      },
-      {
-        "id": 1169455,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp2cv.jpg"
-      },
-      {
-        "id": 1169459,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp2cz.jpg"
-      },
-      {
-        "id": 1169463,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp2d3.jpg"
-      },
-      {
-        "id": 1169466,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp2d6.jpg"
-      },
-      {
-        "id": 1169470,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp2da.jpg"
-      },
-      {
-        "id": 1169475,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp2df.jpg"
-      },
-      {
-        "id": 1169433,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp2c9.jpg"
-      },
-      {
-        "id": 1169435,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp2cb.jpg"
-      },
-      {
-        "id": 1169438,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp2ce.jpg"
-      },
-      {
-        "id": 1169442,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp2ci.jpg"
-      },
-      {
-        "id": 1169445,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp2cl.jpg"
-      },
-      {
-        "id": 1169447,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp2cn.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Soulmask is a sandbox game that prioritizes an authentic survival experience. As the \"last one\" blessed with the mysterious mask, players will grapple for survival in a primitive land steeped in mysterious faiths, carving out a path to ascendance. Start from nothing, explore, build, recruit tribesmen to fortify your clan, and ultimately unravel the mysterious truths hidden behind the civilizations of this world.",
-    "videos": [
-      {
-        "id": 114877,
-        "video_id": "PuaFdvysulU"
-      },
-      {
-        "id": 114878,
-        "video_id": "Xi1kz6KXbqg"
-      },
-      {
-        "id": 133680,
-        "video_id": "rcVF6dnB7lE"
-      },
-      {
-        "id": 145953,
-        "video_id": "3hrrrYPGDE8"
-      },
-      {
-        "id": 163805,
-        "video_id": "y3rcby0zHVM"
-      },
-      {
-        "id": 178422,
-        "video_id": "KwSq8J_HwLI"
-      }
-    ],
-    "websites": [
-      {
-        "id": 642497,
-        "url": "https://www.facebook.com/profile.php?id\u003d61552665200680",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 642495,
-        "url": "https://mask.qoolandgames.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 680544,
-        "url": "https://www.twitch.tv/directory/category/mystery-mask-the-immortal-soul",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 642500,
-        "url": "https://discord.gg/invite/eVsURRrKU3",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 642498,
-        "url": "https://twitter.com/Soulmask_",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 642496,
-        "url": "https://www.youtube.com/@soulmask_official",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 642499,
-        "url": "https://www.instagram.com/soulmask_official/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 590198,
-        "url": "https://store.steampowered.com/app/2646460",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1027783,
-        "url": "https://store.epicgames.com/p/soulmask-cc7a7c",
-        "type": {
-          "id": 16,
-          "type": "Epic"
-        }
-      }
-    ]
-  },
-  {
     "id": 244178,
     "cover": {
       "id": 388885,
@@ -2578,228 +2328,6 @@
         "type": {
           "id": 13,
           "type": "Steam"
-        }
-      }
-    ]
-  },
-  {
-    "id": 361792,
-    "cover": {
-      "id": 480636,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coaav0.jpg"
-    },
-    "first_release_date": 1770595200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 354388,
-        "company": {
-          "id": 66941,
-          "name": "Old Cake Factory"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 354389,
-        "company": {
-          "id": 63836,
-          "name": "Metaroot"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Goblin Sushi",
-    "platforms": [
-      {
-        "id": 3,
-        "name": "Linux"
-      },
-      {
-        "id": 34,
-        "name": "Android"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 39,
-        "name": "iOS"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 864152,
-        "date": 1770595200,
-        "platform": {
-          "id": 34,
-          "name": "Android"
-        }
-      },
-      {
-        "id": 864153,
-        "date": 1770595200,
-        "platform": {
-          "id": 39,
-          "name": "iOS"
-        }
-      },
-      {
-        "id": 864154,
-        "date": 1770595200,
-        "platform": {
-          "id": 3,
-          "name": "Linux"
-        }
-      },
-      {
-        "id": 864155,
-        "date": 1770595200,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 864156,
-        "date": 1770595200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1614694,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scylwm.jpg"
-      },
-      {
-        "id": 1614693,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scylwl.jpg"
-      },
-      {
-        "id": 1614695,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scylwn.jpg"
-      },
-      {
-        "id": 1614696,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scylwo.jpg"
-      },
-      {
-        "id": 1614697,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scylwp.jpg"
-      },
-      {
-        "id": 1614698,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scylwq.jpg"
-      },
-      {
-        "id": 1614699,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scylwr.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "In this rogue-like restaurant-action-sim, you play as a goblin that has the dream of becoming a sushi chef. Upgrade the restaurant, the menu and your ingredients to feed your fellow goblins the best and most expensive sushi any goblin can find in the cave!",
-    "videos": [
-      {
-        "id": 159489,
-        "video_id": "vSD_H1hPhBw"
-      },
-      {
-        "id": 175688,
-        "video_id": "hhT__eKr4DM"
-      }
-    ],
-    "websites": [
-      {
-        "id": 853658,
-        "url": "https://www.instagram.com/oldcakefactorygames/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 855138,
-        "url": "https://oldcakefactory.games/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 853657,
-        "url": "https://store.steampowered.com/app/3734290/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 853661,
-        "url": "https://bsky.app/profile/oldcakefactory.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 853659,
-        "url": "https://www.youtube.com/channel/UCAlqO3SpGTmgYpJ5HqUWRpQ",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 853660,
-        "url": "https://discord.gg/MfWSMYvSWC",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 1002696,
-        "url": "https://www.twitch.tv/directory/category/goblin-sushi",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 1009201,
-        "url": "https://play.google.com/store/apps/details?id\u003dch.oldcakefactory.goblinsushi",
-        "type": {
-          "id": 12,
-          "type": "Google Play"
         }
       }
     ]
@@ -11057,6 +10585,457 @@
     ]
   },
   {
+    "id": 272600,
+    "cover": {
+      "id": 480789,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coaaz9.jpg"
+    },
+    "first_release_date": 1775779200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 5,
+        "name": "Massively Multiplayer Online (MMO)"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 5,
+    "involved_companies": [
+      {
+        "id": 297197,
+        "company": {
+          "id": 43068,
+          "name": "Campfire Studio"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 297196,
+        "company": {
+          "id": 51110,
+          "name": "Qooland Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Soulmask",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 599349,
+        "date": 1717113600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 898789,
+        "date": 1775779200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1169449,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp2cp.jpg"
+      },
+      {
+        "id": 1169451,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp2cr.jpg"
+      },
+      {
+        "id": 1169455,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp2cv.jpg"
+      },
+      {
+        "id": 1169459,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp2cz.jpg"
+      },
+      {
+        "id": 1169463,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp2d3.jpg"
+      },
+      {
+        "id": 1169466,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp2d6.jpg"
+      },
+      {
+        "id": 1169470,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp2da.jpg"
+      },
+      {
+        "id": 1169475,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp2df.jpg"
+      },
+      {
+        "id": 1169433,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp2c9.jpg"
+      },
+      {
+        "id": 1169435,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp2cb.jpg"
+      },
+      {
+        "id": 1169438,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp2ce.jpg"
+      },
+      {
+        "id": 1169442,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp2ci.jpg"
+      },
+      {
+        "id": 1169445,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp2cl.jpg"
+      },
+      {
+        "id": 1169447,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp2cn.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Soulmask is a sandbox game that prioritizes an authentic survival experience. As the \"last one\" blessed with the mysterious mask, players will grapple for survival in a primitive land steeped in mysterious faiths, carving out a path to ascendance. Start from nothing, explore, build, recruit tribesmen to fortify your clan, and ultimately unravel the mysterious truths hidden behind the civilizations of this world.",
+    "videos": [
+      {
+        "id": 114877,
+        "video_id": "PuaFdvysulU"
+      },
+      {
+        "id": 114878,
+        "video_id": "Xi1kz6KXbqg"
+      },
+      {
+        "id": 133680,
+        "video_id": "rcVF6dnB7lE"
+      },
+      {
+        "id": 145953,
+        "video_id": "3hrrrYPGDE8"
+      },
+      {
+        "id": 163805,
+        "video_id": "y3rcby0zHVM"
+      },
+      {
+        "id": 178422,
+        "video_id": "KwSq8J_HwLI"
+      }
+    ],
+    "websites": [
+      {
+        "id": 642497,
+        "url": "https://www.facebook.com/profile.php?id\u003d61552665200680",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 642495,
+        "url": "https://mask.qoolandgames.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 680544,
+        "url": "https://www.twitch.tv/directory/category/mystery-mask-the-immortal-soul",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 642500,
+        "url": "https://discord.gg/invite/eVsURRrKU3",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 642498,
+        "url": "https://twitter.com/Soulmask_",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 642496,
+        "url": "https://www.youtube.com/@soulmask_official",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 642499,
+        "url": "https://www.instagram.com/soulmask_official/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 590198,
+        "url": "https://store.steampowered.com/app/2646460",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1027783,
+        "url": "https://store.epicgames.com/p/soulmask-cc7a7c",
+        "type": {
+          "id": 16,
+          "type": "Epic"
+        }
+      }
+    ]
+  },
+  {
+    "id": 322477,
+    "cover": {
+      "id": 422465,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co91z5.jpg"
+    },
+    "first_release_date": 1775779200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 5,
+        "name": "Massively Multiplayer Online (MMO)"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 296022,
+        "company": {
+          "id": 59731,
+          "name": "CRG Studio"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Crystalfall",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 892518,
+        "date": 1775779200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1473973,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvlbp.jpg"
+      },
+      {
+        "id": 1473978,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvlbu.jpg"
+      },
+      {
+        "id": 1473979,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvlbv.jpg"
+      },
+      {
+        "id": 1801176,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12lso.jpg"
+      },
+      {
+        "id": 1801177,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12lsp.jpg"
+      },
+      {
+        "id": 1801178,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12lsq.jpg"
+      },
+      {
+        "id": 1801179,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12lsr.jpg"
+      },
+      {
+        "id": 1801180,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12lss.jpg"
+      }
+    ],
+    "status": 3,
+    "summary": "Free Online Action RPG in a Steampunk World\n\nTake on the role of a convict who has been thrown into the dungeons by a powerful ruling organization. Embark on a journey through a world devastated by a mysterious asteroid, scattering powerful crystal shards across distinct world zones brimming with mutated creatures and steampunk enemies.\n\nDelve into post-apocalyptic dungeons that randomize upon each visit and ascend to new heights of power with epic loot, extensive talent tree progression, theorycrafting and lootable skills.",
+    "videos": [
+      {
+        "id": 142040,
+        "video_id": "LPV53Ds0l84"
+      },
+      {
+        "id": 133249,
+        "video_id": "oFIJ2EL7NSE"
+      },
+      {
+        "id": 178866,
+        "video_id": "CzbSwwmOBG4"
+      }
+    ],
+    "websites": [
+      {
+        "id": 858705,
+        "url": "https://www.reddit.com/r/Crystalfall/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 692099,
+        "url": "https://www.instagram.com/playcrystalfall/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 692094,
+        "url": "https://crystalfall.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 692100,
+        "url": "https://discord.gg/ntPmauYuKV",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 692097,
+        "url": "https://www.facebook.com/playcrystalfall",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 692095,
+        "url": "https://www.twitch.tv/playcrystalfall",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 692098,
+        "url": "https://twitter.com/playcrystalfall",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 692096,
+        "url": "https://www.youtube.com/@playcrystalfall",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 692093,
+        "url": "https://store.epicgames.com/p/crystalfall-c79ab5",
+        "type": {
+          "id": 16,
+          "type": "Epic"
+        }
+      },
+      {
+        "id": 692092,
+        "url": "https://store.steampowered.com/app/2574970/Crystalfall/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      }
+    ]
+  },
+  {
     "id": 380788,
     "cover": {
       "id": 534595,
@@ -11207,6 +11186,117 @@
         "type": {
           "id": 6,
           "type": "Twitch"
+        }
+      }
+    ]
+  },
+  {
+    "id": 387248,
+    "cover": {
+      "id": 530328,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobd7c.jpg"
+    },
+    "first_release_date": 1775779200,
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 35,
+        "name": "Card \u0026 Board Game"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 369036,
+        "company": {
+          "id": 73393,
+          "name": "Wired Creations Studio"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Deathmark",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 888373,
+        "date": 1775779200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1749049,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11hkp.jpg"
+      },
+      {
+        "id": 1749050,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11hkq.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "An occult social‑deduction card game for up to 12 players. Play your cards in secret, find and eliminate the opposing team and avoid the Deathmark!",
+    "websites": [
+      {
+        "id": 995254,
+        "url": "https://store.steampowered.com/app/3618560/DEATHMARK/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 995255,
+        "url": "https://x.com/WiredCreations",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 995256,
+        "url": "https://www.youtube.com/@WiredCreationsStudio",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 995257,
+        "url": "https://discord.gg/pmbDAnETG4",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 995258,
+        "url": "https://bsky.app/profile/wiredcreationsstudio.com",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
         }
       }
     ]
@@ -15754,206 +15844,6 @@
     ]
   },
   {
-    "id": 322477,
-    "cover": {
-      "id": 422465,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co91z5.jpg"
-    },
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 5,
-        "name": "Massively Multiplayer Online (MMO)"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 25,
-        "name": "Hack and slash/Beat \u0027em up"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 296022,
-        "company": {
-          "id": 59731,
-          "name": "CRG Studio"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Crystalfall",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 892518,
-        "date": 1775779200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1473973,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvlbp.jpg"
-      },
-      {
-        "id": 1473978,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvlbu.jpg"
-      },
-      {
-        "id": 1473979,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvlbv.jpg"
-      },
-      {
-        "id": 1801176,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12lso.jpg"
-      },
-      {
-        "id": 1801177,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12lsp.jpg"
-      },
-      {
-        "id": 1801178,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12lsq.jpg"
-      },
-      {
-        "id": 1801179,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12lsr.jpg"
-      },
-      {
-        "id": 1801180,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12lss.jpg"
-      }
-    ],
-    "status": 3,
-    "summary": "Free Online Action RPG in a Steampunk World\n\nTake on the role of a convict who has been thrown into the dungeons by a powerful ruling organization. Embark on a journey through a world devastated by a mysterious asteroid, scattering powerful crystal shards across distinct world zones brimming with mutated creatures and steampunk enemies.\n\nDelve into post-apocalyptic dungeons that randomize upon each visit and ascend to new heights of power with epic loot, extensive talent tree progression, theorycrafting and lootable skills.",
-    "videos": [
-      {
-        "id": 142040,
-        "video_id": "LPV53Ds0l84"
-      },
-      {
-        "id": 133249,
-        "video_id": "oFIJ2EL7NSE"
-      },
-      {
-        "id": 178866,
-        "video_id": "CzbSwwmOBG4"
-      }
-    ],
-    "websites": [
-      {
-        "id": 858705,
-        "url": "https://www.reddit.com/r/Crystalfall/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 692099,
-        "url": "https://www.instagram.com/playcrystalfall/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 692094,
-        "url": "https://crystalfall.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 692100,
-        "url": "https://discord.gg/ntPmauYuKV",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 692097,
-        "url": "https://www.facebook.com/playcrystalfall",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 692095,
-        "url": "https://www.twitch.tv/playcrystalfall",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 692098,
-        "url": "https://twitter.com/playcrystalfall",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 692096,
-        "url": "https://www.youtube.com/@playcrystalfall",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 692093,
-        "url": "https://store.epicgames.com/p/crystalfall-c79ab5",
-        "type": {
-          "id": 16,
-          "type": "Epic"
-        }
-      },
-      {
-        "id": 692092,
-        "url": "https://store.steampowered.com/app/2574970/Crystalfall/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      }
-    ]
-  },
-  {
     "id": 330831,
     "cover": {
       "id": 459120,
@@ -17149,116 +17039,6 @@
         "type": {
           "id": 18,
           "type": "Discord"
-        }
-      }
-    ]
-  },
-  {
-    "id": 387248,
-    "cover": {
-      "id": 530328,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobd7c.jpg"
-    },
-    "game_modes": [
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      }
-    ],
-    "genres": [
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      },
-      {
-        "id": 35,
-        "name": "Card \u0026 Board Game"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 369036,
-        "company": {
-          "id": 73393,
-          "name": "Wired Creations Studio"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Deathmark",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 888373,
-        "date": 1775779200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1749049,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11hkp.jpg"
-      },
-      {
-        "id": 1749050,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11hkq.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "An occult social‑deduction card game for up to 12 players. Play your cards in secret, find and eliminate the opposing team and avoid the Deathmark!",
-    "websites": [
-      {
-        "id": 995254,
-        "url": "https://store.steampowered.com/app/3618560/DEATHMARK/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 995255,
-        "url": "https://x.com/WiredCreations",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 995256,
-        "url": "https://www.youtube.com/@WiredCreationsStudio",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 995257,
-        "url": "https://discord.gg/pmbDAnETG4",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 995258,
-        "url": "https://bsky.app/profile/wiredcreationsstudio.com",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
         }
       }
     ]
