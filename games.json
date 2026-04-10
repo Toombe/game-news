@@ -12267,7 +12267,7 @@
         "publisher": false
       },
       {
-        "id": 369946,
+        "id": 380758,
         "company": {
           "id": 6918,
           "name": "PM Studios"
@@ -12281,6 +12281,10 @@
       {
         "id": 6,
         "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
       },
       {
         "id": 14,
@@ -12302,6 +12306,13 @@
         "platform": {
           "id": 6,
           "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 899083,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
         }
       }
     ],
