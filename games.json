@@ -426,6 +426,211 @@
     ]
   },
   {
+    "id": 140793,
+    "cover": {
+      "id": 555582,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobwou.jpg"
+    },
+    "first_release_date": 1717632000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 229394,
+        "company": {
+          "id": 49353,
+          "name": "Astral Clocktower Studios"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Kristala",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 599604,
+        "date": 1717632000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 899216,
+        "date": 1782777600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 899217,
+        "date": 1782777600,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 899218,
+        "date": 1782777600,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1031559,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scm3yf.jpg"
+      },
+      {
+        "id": 1725022,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10z1a.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Kristala is a dark fantasy ARPG featuring Sekiro-inspired combat, acrobatic parkour, and exploration to uncover a detailed story. Embark on a journey to join ranks with Ailur’s most elite warriors as you battle to master the ancient magic of the Sacred Six and uncover the source of a dark curse.\n\nPlay as a catlike warrior from one of six clans, each with its own unique magic specialty. Choose your own style of combat: avoid damage by blocking, dashing/rolling, and deflecting attacks; combo light and heavy attacks; utilize multiple weapon abilities; and cast numerous spells.\n\nYour catlike character will be fully customizable via various Talent Trees, including an innovative Feline Skill tree that allows you to unlock and level a multitude of feline-related skills.",
+    "videos": [
+      {
+        "id": 87551,
+        "video_id": "RsT9fVXXrdw"
+      },
+      {
+        "id": 133901,
+        "video_id": "ZEIAPx5ThgE"
+      },
+      {
+        "id": 133902,
+        "video_id": "zILZ8ukwUXs"
+      }
+    ],
+    "websites": [
+      {
+        "id": 553478,
+        "url": "https://store.steampowered.com/app/1206410",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 544506,
+        "url": "https://www.youtube.com/@AstralClocktowerStudios",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 805612,
+        "url": "https://bsky.app/profile/kristala.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 839213,
+        "url": "https://store.epicgames.com/p/kristala-dbf391",
+        "type": {
+          "id": 16,
+          "type": "Epic"
+        }
+      },
+      {
+        "id": 160079,
+        "url": "https://gamejolt.com/games/kristala/498739",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 544510,
+        "url": "https://discord.gg/kristala",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 544508,
+        "url": "https://twitter.com/acs_games",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 544507,
+        "url": "https://www.facebook.com/ACSGames",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 459387,
+        "url": "https://www.twitch.tv/directory/game/Kristala",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 544509,
+        "url": "https://www.instagram.com/acs_games/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      }
+    ]
+  },
+  {
     "id": 244178,
     "cover": {
       "id": 388885,
@@ -7606,211 +7811,6 @@
         "type": {
           "id": 5,
           "type": "Twitter"
-        }
-      }
-    ]
-  },
-  {
-    "id": 140793,
-    "cover": {
-      "id": 398127,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8j73.jpg"
-    },
-    "first_release_date": 1774915200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 229394,
-        "company": {
-          "id": 49353,
-          "name": "Astral Clocktower Studios"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Kristala",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 844808,
-        "date": 1774915200,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      },
-      {
-        "id": 844806,
-        "date": 1774915200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 844807,
-        "date": 1774915200,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 599604,
-        "date": 1717632000,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1031559,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scm3yf.jpg"
-      },
-      {
-        "id": 1725022,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10z1a.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Kristala is a dark fantasy ARPG featuring Sekiro-inspired combat, acrobatic parkour, and exploration to uncover a detailed story. Embark on a journey to join ranks with Ailur’s most elite warriors as you battle to master the ancient magic of the Sacred Six and uncover the source of a dark curse.\n\nPlay as a catlike warrior from one of six clans, each with its own unique magic specialty. Choose your own style of combat: avoid damage by blocking, dashing/rolling, and deflecting attacks; combo light and heavy attacks; utilize multiple weapon abilities; and cast numerous spells.\n\nYour catlike character will be fully customizable via various Talent Trees, including an innovative Feline Skill tree that allows you to unlock and level a multitude of feline-related skills.",
-    "videos": [
-      {
-        "id": 87551,
-        "video_id": "RsT9fVXXrdw"
-      },
-      {
-        "id": 133901,
-        "video_id": "ZEIAPx5ThgE"
-      },
-      {
-        "id": 133902,
-        "video_id": "zILZ8ukwUXs"
-      }
-    ],
-    "websites": [
-      {
-        "id": 553478,
-        "url": "https://store.steampowered.com/app/1206410",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 544506,
-        "url": "https://www.youtube.com/@AstralClocktowerStudios",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 805612,
-        "url": "https://bsky.app/profile/kristala.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 839213,
-        "url": "https://store.epicgames.com/p/kristala-dbf391",
-        "type": {
-          "id": 16,
-          "type": "Epic"
-        }
-      },
-      {
-        "id": 160079,
-        "url": "https://gamejolt.com/games/kristala/498739",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 544510,
-        "url": "https://discord.gg/kristala",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 544508,
-        "url": "https://twitter.com/acs_games",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 544507,
-        "url": "https://www.facebook.com/ACSGames",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 459387,
-        "url": "https://www.twitch.tv/directory/game/Kristala",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 544509,
-        "url": "https://www.instagram.com/acs_games/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
         }
       }
     ]
