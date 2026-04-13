@@ -4562,7 +4562,7 @@
     "hypes": 3,
     "involved_companies": [
       {
-        "id": 372393,
+        "id": 381205,
         "company": {
           "id": 27317,
           "name": "10tons"
@@ -4600,10 +4600,6 @@
       {
         "id": 167,
         "name": "PlayStation 5"
-      },
-      {
-        "id": 7,
-        "name": "PlayStation"
       },
       {
         "id": 49,
@@ -10025,6 +10021,294 @@
         "type": {
           "id": 19,
           "type": "Bluesky"
+        }
+      }
+    ]
+  },
+  {
+    "id": 305207,
+    "cover": {
+      "id": 463620,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9xqc.jpg"
+    },
+    "first_release_date": 1776038400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 270524,
+        "company": {
+          "id": 55179,
+          "name": "CM Game Studio"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 270525,
+        "company": {
+          "id": 55330,
+          "name": "CGGG"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 270526,
+        "company": {
+          "id": 55331,
+          "name": "NjitRam"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Backpack Survivors",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 892926,
+        "date": 1776038400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1340996,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsqpw.jpg"
+      },
+      {
+        "id": 1340997,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsqpx.jpg"
+      },
+      {
+        "id": 1340998,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsqpy.jpg"
+      },
+      {
+        "id": 1340999,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsqpz.jpg"
+      },
+      {
+        "id": 1341001,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsqq1.jpg"
+      },
+      {
+        "id": 1341002,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsqq2.jpg"
+      },
+      {
+        "id": 1341000,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsqq0.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "A crossover between bullet heaven and inventory management. In Backpack Survivors the player fills his backpack with weapons and items which are then used during the bullet heaven portion of the game. During this, the player will kill hordes of enemies and keep upgrading their backpack to grow stronger and even defeat bosses.\n\nBackpack Survivors has roguelite elements with unlockables and a large talent tree, allowing the player even more customizability over the game.\n\nBackpack Survivors is currently in Alpha and is slated for a release into Early Access in late 2024.",
+    "videos": [
+      {
+        "id": 116406,
+        "video_id": "fi7mpWl96y4"
+      }
+    ],
+    "websites": [
+      {
+        "id": 738921,
+        "url": "https://www.youtube.com/@CMGameStudio",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 645274,
+        "url": "https://store.steampowered.com/app/2294780/Backpack_Survivors",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 645275,
+        "url": "https://discord.gg/z4b8aHtXYK",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      }
+    ]
+  },
+  {
+    "id": 318652,
+    "cover": {
+      "id": 414859,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8w3v.jpg"
+    },
+    "first_release_date": 1776038400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 289718,
+        "company": {
+          "id": 41039,
+          "name": "Barrel Smash Studios"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Oceaneers",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 891541,
+        "date": 1776038400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1402812,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu2f0.jpg"
+      },
+      {
+        "id": 1402807,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu2ev.jpg"
+      },
+      {
+        "id": 1402808,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu2ew.jpg"
+      },
+      {
+        "id": 1402809,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu2ex.jpg"
+      },
+      {
+        "id": 1402810,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu2ey.jpg"
+      },
+      {
+        "id": 1402811,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu2ez.jpg"
+      },
+      {
+        "id": 1402815,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu2f3.jpg"
+      },
+      {
+        "id": 1402813,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu2f1.jpg"
+      },
+      {
+        "id": 1402814,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu2f2.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "A survival-crafting colony sim set in a flooded world of unstable islands. Build a colony, craft gear, design rafts, fend off sharks, manage your survivors, and explore island bunkers to uncover lost Float-Tech from an old-world corporation.",
+    "videos": [
+      {
+        "id": 128660,
+        "video_id": "JraX1YxCPyQ"
+      },
+      {
+        "id": 160981,
+        "video_id": "_ykuHNa_xcw"
+      },
+      {
+        "id": 179318,
+        "video_id": "BGZ0DE0kuCE"
+      }
+    ],
+    "websites": [
+      {
+        "id": 679068,
+        "url": "https://discord.gg/invite/4Xz6qNpwH5",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 679065,
+        "url": "https://store.steampowered.com/app/3052510",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 679066,
+        "url": "https://www.oceaneersgame.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 679067,
+        "url": "https://www.youtube.com/@barrelsmashstudios",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
         }
       }
     ]
