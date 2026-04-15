@@ -10796,6 +10796,179 @@
     ]
   },
   {
+    "id": 397601,
+    "cover": {
+      "id": 554922,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobw6i.jpg"
+    },
+    "first_release_date": 1777852800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 380346,
+        "company": {
+          "id": 75639,
+          "name": "EXA Labs"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Exaverse",
+    "platforms": [
+      {
+        "id": 34,
+        "name": "Android"
+      },
+      {
+        "id": 39,
+        "name": "iOS"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 898188,
+        "date": 1780272000,
+        "platform": {
+          "id": 39,
+          "name": "iOS"
+        }
+      },
+      {
+        "id": 898189,
+        "date": 1780272000,
+        "platform": {
+          "id": 34,
+          "name": "Android"
+        }
+      },
+      {
+        "id": 900199,
+        "date": 1777852800,
+        "platform": {
+          "id": 34,
+          "name": "Android"
+        }
+      },
+      {
+        "id": 900200,
+        "date": 1777852800,
+        "platform": {
+          "id": 39,
+          "name": "iOS"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1813303,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12v5j.jpg"
+      },
+      {
+        "id": 1813304,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12v5k.jpg"
+      },
+      {
+        "id": 1813305,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12v5l.jpg"
+      },
+      {
+        "id": 1813306,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12v5m.jpg"
+      },
+      {
+        "id": 1813307,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12v5n.jpg"
+      },
+      {
+        "id": 1813308,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12v5o.jpg"
+      },
+      {
+        "id": 1813309,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12v5p.jpg"
+      },
+      {
+        "id": 1813310,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12v5q.jpg"
+      },
+      {
+        "id": 1813311,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12v5r.jpg"
+      }
+    ],
+    "status": 3,
+    "summary": "Extinction of the Exaverse is a mobile roguelike where evolved dinosaurs fight back against invading AI machines. Players progress through biome-based runs, choosing powerful upgrades and building unique combat styles each attempt.",
+    "videos": [
+      {
+        "id": 180632,
+        "video_id": "aMvisv1gA28"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1040527,
+        "url": "https://exaverse.gg/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1040529,
+        "url": "https://x.com/Exaverse_gg",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1040530,
+        "url": "https://instagram.com/Exaverse_gg",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1040531,
+        "url": "https://youtube.com/@Exaverse_gg",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1040532,
+        "url": "https://discord.gg/snZQdjSR3P",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      }
+    ]
+  },
+  {
     "id": 374295,
     "cover": {
       "id": 499708,
