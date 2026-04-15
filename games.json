@@ -1974,6 +1974,239 @@
     ]
   },
   {
+    "id": 335125,
+    "cover": {
+      "id": 444531,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9j03.jpg"
+    },
+    "first_release_date": 1762387200,
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 381428,
+        "company": {
+          "id": 46826,
+          "name": "Triangle Factory"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Forefront",
+    "platforms": [
+      {
+        "id": 386,
+        "name": "Meta Quest 2"
+      },
+      {
+        "id": 390,
+        "name": "PlayStation VR2"
+      },
+      {
+        "id": 163,
+        "name": "SteamVR"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 831795,
+        "date": 1762387200,
+        "platform": {
+          "id": 163,
+          "name": "SteamVR"
+        }
+      },
+      {
+        "id": 900331,
+        "date": 1762387200,
+        "platform": {
+          "id": 386,
+          "name": "Meta Quest 2"
+        }
+      },
+      {
+        "id": 900332,
+        "date": 1776902400,
+        "platform": {
+          "id": 386,
+          "name": "Meta Quest 2"
+        }
+      },
+      {
+        "id": 900335,
+        "date": 1776902400,
+        "platform": {
+          "id": 163,
+          "name": "SteamVR"
+        }
+      },
+      {
+        "id": 900336,
+        "date": 1798675200,
+        "platform": {
+          "id": 390,
+          "name": "PlayStation VR2"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1480200,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvq4o.jpg"
+      },
+      {
+        "id": 1480201,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvq4p.jpg"
+      },
+      {
+        "id": 1480202,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvq4q.jpg"
+      },
+      {
+        "id": 1480203,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvq4r.jpg"
+      },
+      {
+        "id": 1480204,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvq4s.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Forefront is an intense VR shooter featuring 32-player large-scale battles, land, sea, and air vehicles, and immersive, tactical combat. You are the tip of the spear in the war between a global energy giant and resistance forces. Which side will you take?",
+    "videos": [
+      {
+        "id": 142815,
+        "video_id": "65kzxTRrYcc"
+      },
+      {
+        "id": 158834,
+        "video_id": "hXzaTK89XZs"
+      },
+      {
+        "id": 181160,
+        "video_id": "AFKfNsDK0Zo"
+      }
+    ],
+    "websites": [
+      {
+        "id": 863961,
+        "url": "https://discord.gg/968nZySA2b",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 912762,
+        "url": "https://www.meta.com/en-us/experiences/forefront/28816918137899319/",
+        "type": {
+          "id": 25,
+          "type": "Meta"
+        }
+      },
+      {
+        "id": 718218,
+        "url": "https://twitter.com/forefrontvr",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 718216,
+        "url": "https://www.youtube.com/@forefrontvr/",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 718215,
+        "url": "https://www.triangle-factory.be/forefront/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 718219,
+        "url": "https://www.instagram.com/forefrontvr",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 718217,
+        "url": "https://www.facebook.com/forefrontvr",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 718221,
+        "url": "https://www.twitch.tv/directory/category/forefront",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 718220,
+        "url": "https://bsky.app/profile/forefrontvr.com",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 718575,
+        "url": "https://store.steampowered.com/app/2981220",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1043660,
+        "url": "https://store.playstation.com/en-gb/concept/10018044",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
+        }
+      }
+    ]
+  },
+  {
     "id": 211659,
     "cover": {
       "id": 259418,
@@ -9450,231 +9683,6 @@
         "type": {
           "id": 9,
           "type": "YouTube"
-        }
-      }
-    ]
-  },
-  {
-    "id": 347665,
-    "cover": {
-      "id": 551819,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobtsb.jpg"
-    },
-    "first_release_date": 1776124800,
-    "game_modes": [
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      }
-    ],
-    "genres": [
-      {
-        "id": 5,
-        "name": "Shooter"
-      },
-      {
-        "id": 36,
-        "name": "MOBA"
-      }
-    ],
-    "hypes": 9,
-    "involved_companies": [
-      {
-        "id": 377841,
-        "company": {
-          "id": 72535,
-          "name": "Night Street Games"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Last Flag",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 880126,
-        "date": 1776124800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 888666,
-        "date": 1790726400,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 888667,
-        "date": 1790726400,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1552122,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx9mi.jpg"
-      },
-      {
-        "id": 1552124,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx9mk.jpg"
-      },
-      {
-        "id": 1805616,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12p80.jpg"
-      },
-      {
-        "id": 1805617,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12p81.jpg"
-      },
-      {
-        "id": 1805618,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12p82.jpg"
-      },
-      {
-        "id": 1805619,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12p83.jpg"
-      },
-      {
-        "id": 1805620,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12p84.jpg"
-      },
-      {
-        "id": 1805621,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12p85.jpg"
-      }
-    ],
-    "status": 3,
-    "summary": "Hide your flag. Find the enemy flag. Run it back, then defend for a minute to win it. Welcome to Last Flag: a fast-paced 5v5 shooter with showstopping contestants, set in a televised competition where strategy, teamwork, and chaos blend in the ultimate game of Capture the Flag.",
-    "videos": [
-      {
-        "id": 152770,
-        "video_id": "v4YiTj82Hb8"
-      },
-      {
-        "id": 159825,
-        "video_id": "VXOpwfMG6hM"
-      },
-      {
-        "id": 170144,
-        "video_id": "ZBwEOQgdMIk"
-      },
-      {
-        "id": 175424,
-        "video_id": "wIaNNtoBeb4"
-      },
-      {
-        "id": 178649,
-        "video_id": "o8IXuDiGLF8"
-      }
-    ],
-    "websites": [
-      {
-        "id": 808649,
-        "url": "https://bsky.app/profile/playlastflag.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 808648,
-        "url": "https://x.com/playlastflag",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 808646,
-        "url": "https://discord.gg/lastflag",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 808647,
-        "url": "https://www.youtube.com/@PlayLastFlag",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 808645,
-        "url": "https://store.steampowered.com/app/2721340",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 808650,
-        "url": "https://www.instagram.com/playlastflag",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 832965,
-        "url": "https://lastflag.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 832964,
-        "url": "https://store.epicgames.com/en-US/p/last-flag-ec8a73",
-        "type": {
-          "id": 16,
-          "type": "Epic"
-        }
-      },
-      {
-        "id": 1034284,
-        "url": "https://www.facebook.com/playlastflag",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 1034291,
-        "url": "https://www.twitch.tv/directory/category/last-flag",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 1034285,
-        "url": "https://www.reddit.com/r/LastFlag/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
         }
       }
     ]
