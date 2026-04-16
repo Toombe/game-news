@@ -14336,6 +14336,182 @@
     ]
   },
   {
+    "id": 324574,
+    "cover": {
+      "id": 425506,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co94bm.jpg"
+    },
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 9,
+    "involved_companies": [
+      {
+        "id": 298261,
+        "company": {
+          "id": 1097,
+          "name": "Shiro Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "SpaceCraft",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 898463,
+        "date": 1779235200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1431177,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuoax.jpg"
+      },
+      {
+        "id": 1431179,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuoaz.jpg"
+      },
+      {
+        "id": 1431181,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuob1.jpg"
+      },
+      {
+        "id": 1431182,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuob2.jpg"
+      },
+      {
+        "id": 1431178,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuoay.jpg"
+      },
+      {
+        "id": 1431180,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuob0.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "The Universe is yours. SpaceCraft is an online space exploration and building game. Explore a vast galaxy of solar systems and planets, mine and craft resources, design and build ships, automate planetary bases and interplanetary logistics, trade and cooperate.",
+    "videos": [
+      {
+        "id": 134606,
+        "video_id": "bdd0avB3t-g"
+      },
+      {
+        "id": 180754,
+        "video_id": "gNbeUS41tX8"
+      },
+      {
+        "id": 181379,
+        "video_id": "4YLnUv-xZ5s"
+      }
+    ],
+    "websites": [
+      {
+        "id": 696048,
+        "url": "https://www.reddit.com/r/SpaceCraftGame/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 696049,
+        "url": "https://www.twitch.tv/directory/category/spacecraft-1",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 696044,
+        "url": "https://www.facebook.com/profile.php?id\u003d61567336205266",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 696045,
+        "url": "https://twitter.com/SpaceCraft_Game",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 696047,
+        "url": "https://discord.gg/invite/7UPwxTGTr6",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 696043,
+        "url": "https://www.youtube.com/@ShiroGamesTV",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 696046,
+        "url": "https://www.instagram.com/spacecraft_game/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 696042,
+        "url": "https://shirogames.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 696050,
+        "url": "https://store.steampowered.com/app/3276050",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      }
+    ]
+  },
+  {
     "id": 330831,
     "cover": {
       "id": 459120,
@@ -14790,6 +14966,170 @@
         "type": {
           "id": 6,
           "type": "Twitch"
+        }
+      }
+    ]
+  },
+  {
+    "id": 348295,
+    "cover": {
+      "id": 463886,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9xxq.jpg"
+    },
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 9,
+    "involved_companies": [
+      {
+        "id": 324568,
+        "company": {
+          "id": 1097,
+          "name": "Shiro Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Farever",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 900763,
+        "date": 1778025600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1554575,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxbin.jpg"
+      },
+      {
+        "id": 1554577,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxbip.jpg"
+      },
+      {
+        "id": 1554580,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxbis.jpg"
+      },
+      {
+        "id": 1554583,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxbiv.jpg"
+      },
+      {
+        "id": 1554586,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxbiy.jpg"
+      },
+      {
+        "id": 1554591,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxbj3.jpg"
+      },
+      {
+        "id": 1554599,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxbjb.jpg"
+      },
+      {
+        "id": 1554598,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxbja.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Forge your legend in a forgotten realm! Farever is an online co-op action RPG set in a vast fantasy open world. Alone or with allies, explore wild landscapes and epic dungeons, build your own playstyle, craft powerful equipment and carve your path through dynamic combat and playful platforming.",
+    "videos": [
+      {
+        "id": 153423,
+        "video_id": "NgiXBZMmCik"
+      },
+      {
+        "id": 181380,
+        "video_id": "u2woTarQeZg"
+      }
+    ],
+    "websites": [
+      {
+        "id": 810889,
+        "url": "https://www.instagram.com/farever_game",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 810888,
+        "url": "https://www.youtube.com/@Shiro_Games",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 810886,
+        "url": "https://x.com/Farever_Game",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 810887,
+        "url": "https://www.facebook.com/FareverGame",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 810883,
+        "url": "https://store.steampowered.com/app/3672400",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 810884,
+        "url": "https://shirogames.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 810885,
+        "url": "https://discord.gg/9JyqFpJpk7",
+        "type": {
+          "id": 18,
+          "type": "Discord"
         }
       }
     ]
