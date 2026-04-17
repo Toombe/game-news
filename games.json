@@ -9710,6 +9710,220 @@
     ]
   },
   {
+    "id": 252769,
+    "cover": {
+      "id": 308258,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6luq.jpg"
+    },
+    "first_release_date": 1776384000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 5,
+    "involved_companies": [
+      {
+        "id": 381813,
+        "company": {
+          "id": 18107,
+          "name": "The Wandering Band"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 381814,
+        "company": {
+          "id": 47970,
+          "name": "Stray Fawn Publishing"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Airborne Empire",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 672876,
+        "date": 1736726400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 901130,
+        "date": 1776384000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 901131,
+        "date": 1775606400,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      },
+      {
+        "id": 901132,
+        "date": 1776384000,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1068346,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmwca.jpg"
+      },
+      {
+        "id": 1068347,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmwcb.jpg"
+      },
+      {
+        "id": 1068350,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmwce.jpg"
+      },
+      {
+        "id": 1068353,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmwch.jpg"
+      },
+      {
+        "id": 1068355,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmwcj.jpg"
+      },
+      {
+        "id": 1068356,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmwck.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Build, manage, and grow your unique city in the skies. Traverse a vast and rich open world full of exotic technologies, relentless dangers, and many hidden treasures. Defend your inhabitants – and the kingdoms below! – from destructive attacks. Only daring leaders can reforge the Airborne Empire!",
+    "videos": [
+      {
+        "id": 91495,
+        "video_id": "hrptaD0CEbw"
+      },
+      {
+        "id": 115768,
+        "video_id": "kYT9DF0cFJw"
+      },
+      {
+        "id": 134512,
+        "video_id": "kUa94emSyrM"
+      },
+      {
+        "id": 181490,
+        "video_id": "XiVEVEEI92M"
+      }
+    ],
+    "websites": [
+      {
+        "id": 644896,
+        "url": "https://www.twitch.tv/directory/category/airborne-empire",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 557271,
+        "url": "https://store.steampowered.com/app/2438680",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 557340,
+        "url": "https://discord.gg/airbornekingdom",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 569413,
+        "url": "https://www.airborneempire.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 668228,
+        "url": "https://twitter.com/awanderingband",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 668227,
+        "url": "https://www.facebook.com/AWanderingBand/",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 668226,
+        "url": "https://www.youtube.com/channel/UCSRxv3u-lFXxJd4H_sMMxBA",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      }
+    ]
+  },
+  {
     "id": 335857,
     "cover": {
       "id": 445291,
