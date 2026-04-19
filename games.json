@@ -3091,143 +3091,6 @@
     ]
   },
   {
-    "id": 362114,
-    "cover": {
-      "id": 481149,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coab99.jpg"
-    },
-    "first_release_date": 1771372800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 4,
-    "involved_companies": [
-      {
-        "id": 372810,
-        "company": {
-          "id": 9064,
-          "name": "Question"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "The Killing Stone",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 877582,
-        "date": 1771372800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1616349,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyn6l.jpg"
-      },
-      {
-        "id": 1616351,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyn6n.jpg"
-      },
-      {
-        "id": 1616347,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyn6j.jpg"
-      },
-      {
-        "id": 1616350,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyn6m.jpg"
-      },
-      {
-        "id": 1616348,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyn6k.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Beat the Devil at his own game. The Killing Stone is a deckbuilding card battler wrapped in a 17th century folk horror narrative. Clean the sins of a cursed family by bargaining against a series of demons - and outwitting the Devil himself.",
-    "videos": [
-      {
-        "id": 159811,
-        "video_id": "T9jhMvdht9c"
-      },
-      {
-        "id": 174054,
-        "video_id": "KaKqREpO01w"
-      }
-    ],
-    "websites": [
-      {
-        "id": 854810,
-        "url": "https://store.steampowered.com/app/2781470",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 885286,
-        "url": "https://discord.gg/TyzEjb9ZnD",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 885283,
-        "url": "https://www.thekillingstone.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 885284,
-        "url": "https://bsky.app/profile/thekillingstone.com",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 885285,
-        "url": "https://x.com/question_games",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 854811,
-        "url": "https://www.twitch.tv/directory/category/the-killing-stone",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      }
-    ]
-  },
-  {
     "id": 277785,
     "cover": {
       "id": 552206,
@@ -9394,6 +9257,204 @@
     ]
   },
   {
+    "id": 380441,
+    "cover": {
+      "id": 555524,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobwn8.jpg"
+    },
+    "first_release_date": 1776124800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 23,
+    "involved_companies": [
+      {
+        "id": 375679,
+        "company": {
+          "id": 74742,
+          "name": "Windrose Crew"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 380745,
+        "company": {
+          "id": 34659,
+          "name": "PocketPair"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Windrose",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 898485,
+        "date": 1776124800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1814882,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12wde.jpg"
+      },
+      {
+        "id": 1814883,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12wdf.jpg"
+      },
+      {
+        "id": 1814874,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12wd6.jpg"
+      },
+      {
+        "id": 1814875,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12wd7.jpg"
+      },
+      {
+        "id": 1814876,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12wd8.jpg"
+      },
+      {
+        "id": 1814877,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12wd9.jpg"
+      },
+      {
+        "id": 1814878,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12wda.jpg"
+      },
+      {
+        "id": 1814881,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12wdd.jpg"
+      },
+      {
+        "id": 1814879,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12wdb.jpg"
+      },
+      {
+        "id": 1814880,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12wdc.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Embark on a PvE survival adventure in the Age of Piracy. Fight on land and sea, solo or with friends. Build, craft and explore vast open world filled with dark secrets. Master soulslite combat and take on challenging bosses, command your ship and plunder unspoken treasures!",
+    "videos": [
+      {
+        "id": 170117,
+        "video_id": "c9smVHZhwgI"
+      },
+      {
+        "id": 180772,
+        "video_id": "UXkodYXZC4Y"
+      },
+      {
+        "id": 180834,
+        "video_id": "Z6vUj2vZ0Wk"
+      }
+    ],
+    "websites": [
+      {
+        "id": 928047,
+        "url": "https://store.steampowered.com/app/3041230/Windrose/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1009402,
+        "url": "https://discord.gg/windrose",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1009403,
+        "url": "https://www.youtube.com/@PlayWindrose",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1009404,
+        "url": "https://www.reddit.com/r/crosswind/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 1009405,
+        "url": "https://x.com/PlayWindrose",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1041310,
+        "url": "https://store.epicgames.com/p/windrose-831c86",
+        "type": {
+          "id": 16,
+          "type": "Epic"
+        }
+      },
+      {
+        "id": 1041810,
+        "url": "https://playwindrose.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1041811,
+        "url": "https://www.twitch.tv/playwindrose",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      }
+    ]
+  },
+  {
     "id": 252769,
     "cover": {
       "id": 308258,
@@ -13213,7 +13274,7 @@
         "name": "Indie"
       }
     ],
-    "hypes": 2,
+    "hypes": 3,
     "name": "DungeonBox",
     "platforms": [
       {
