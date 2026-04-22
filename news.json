@@ -1,5 +1,21 @@
 [
   {
+    "title": "Alice creator American McGee says he was inspired by a Valve demo he saw while working on Quake 2",
+    "link": "https://www.pcgamer.com/games/alice-creator-american-mcgee-says-he-was-inspired-by-a-valve-demo-he-saw-while-working-on-quake-2/",
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/SncDjKRvtEHtYTHEUPTYPB-1280-80.jpg",
+    "source": "PC Gamer",
+    "category": "Games",
+    "date": 1776898944000
+  },
+  {
+    "title": "Elon Musk admits that millions of Tesla vehicles won’t get unsupervised FSD",
+    "link": "https://www.theverge.com/transportation/917167/elon-musk-tesla-hw3-fsd",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24090210/STK171_VRG_Illo_12_Normand_ElonMusk_12.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
+    "source": "The Verge (Tech)",
+    "category": "Electric Cars",
+    "date": 1776897511000
+  },
+  {
     "title": "Blizzard forgot to turn off x-ray vision in World of Warcraft's new prop hunt mode, so you can imagine how fair the matches are right now",
     "link": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-forgot-to-turn-off-x-ray-vision-in-world-of-warcrafts-new-prop-hunt-mode-so-you-can-imagine-how-fair-the-matches-are-right-now/",
     "thumbnail": "https://cdn.mos.cms.futurecdn.net/YwYc4ExLm3HV255C97LaEc-1280-80.jpg",
@@ -26,7 +42,7 @@
   {
     "title": "X is going to let Grok curate your timeline",
     "link": "https://www.theverge.com/tech/917113/x-ai-grok-timeline-curation",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25535555/STK160_X_TWITTER__B.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25535555/STK160_X_TWITTER__B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
     "source": "The Verge (Tech)",
     "category": "Apps",
     "date": 1776890978000
@@ -34,10 +50,18 @@
   {
     "title": "Tesla’s revenue rises again as it prepares for more AI and robotics",
     "link": "https://www.theverge.com/transportation/915217/tesla-q1-2026-earnings-profit-revenue",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKE001_STK086_Tesla_Robotaxi_3_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKE001_STK086_Tesla_Robotaxi_3_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
     "source": "The Verge (Tech)",
     "category": "Autonomous Cars",
     "date": 1776890177000
+  },
+  {
+    "title": "Lawsuit: Nintendo is getting tariff refunds—its customers should get them instead",
+    "link": "https://arstechnica.com/tech-policy/2026/04/lawsuit-nintendo-is-getting-tariff-refunds-its-customers-should-get-them-instead/",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/nintendo-switch-500x500-1776887612.jpg",
+    "source": "Ars Technica",
+    "category": "Policy",
+    "date": 1776889644000
   },
   {
     "title": "Older Call of Duty games are coming to Game Pass in 2026",
@@ -80,6 +104,14 @@
     "date": 1776884625000
   },
   {
+    "title": "Hyper Light Drifter Dev's Gorgeous Metroidvania Jumps To Switch 2 Next Week",
+    "link": "https://www.nintendolife.com/news/2026/04/hyper-light-drifter-devs-gorgeous-metroidvania-jumps-to-switch-2-next-week",
+    "thumbnail": "https://images.nintendolife.com/80fbb3dca39a9/large.jpg",
+    "source": "Nintendo Life",
+    "category": "Article",
+    "date": 1776884400000
+  },
+  {
     "title": "Feature: Xbox Game Pass vs PS Plus: Was Sony Right All Along?",
     "link": "https://www.pushsquare.com/features/xbox-game-pass-vs-ps-plus-was-sony-right-all-along",
     "thumbnail": "https://images.pushsquare.com/cd7e44a492651/large.jpg",
@@ -90,10 +122,18 @@
   {
     "title": "Former MrBeast exec sues over ‘years’ of alleged harassment",
     "link": "https://www.theverge.com/tech/916903/mrbeast-sexual-harassment-lawsuit",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2255013076.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2255013076.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
     "source": "The Verge (Tech)",
     "category": "Creators",
     "date": 1776883742000
+  },
+  {
+    "title": "D-topia Is A Subversive Cozy Puzzler About Making People Happy, Coming To Switch 1 &amp; 2",
+    "link": "https://www.nintendolife.com/news/2026/04/d-topia-is-a-subversive-cozy-puzzler-about-making-people-happy-coming-to-switch-1-and-2",
+    "thumbnail": "https://images.nintendolife.com/e6b553de044fd/large.jpg",
+    "source": "Nintendo Life",
+    "category": "Article",
+    "date": 1776882600000
   },
   {
     "title": "'The Idea Is Not Dead' - Xbox Boss Explains Why She's Still Keen On A Mobile Store",
@@ -102,6 +142,14 @@
     "source": "Pure Xbox",
     "category": "Article",
     "date": 1776882600000
+  },
+  {
+    "title": "Two Of Annapurna's Finest Indies Are Seemingly Getting Switch 2 Editions Very Soon",
+    "link": "https://www.nintendolife.com/news/2026/04/two-of-annapurnas-finest-indies-are-seemingly-getting-switch-2-editions-very-soon",
+    "thumbnail": "https://images.nintendolife.com/0c4bff612f951/large.jpg",
+    "source": "Nintendo Life",
+    "category": "Article",
+    "date": 1776880800000
   },
   {
     "title": "Koei Tecmo Is Absolutely Killing It Right Now as Hits Like Nioh 3 Smash Sales Expectations",
@@ -114,7 +162,7 @@
   {
     "title": "Ember’s self-heating smart mug is more than $50 off ahead of Mother’s Day",
     "link": "https://www.theverge.com/gadgets/916818/ember-smart-mug-2-mothers-day-sale-2026-deal",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25562170/ember_feb2022_benwaugh_6_EDIT_3000.jpg?quality=90&strip=all&crop=20.4,21.289355322339,64.2,61.619190404798",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25562170/ember_feb2022_benwaugh_6_EDIT_3000.jpg?quality=90&amp;strip=all&amp;crop=20.4,21.289355322339,64.2,61.619190404798",
     "source": "The Verge (Tech)",
     "category": "Deals",
     "date": 1776880703000
@@ -122,7 +170,7 @@
   {
     "title": "Watch Sony’s elite ping-pong robot beat top-ranked players",
     "link": "https://www.theverge.com/tech/916800/sony-ai-ace-ping-pong-table-tennis-robot-cameras",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/sony_ace_robot.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/sony_ace_robot.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
     "source": "The Verge (Tech)",
     "category": "AI",
     "date": 1776879818000
@@ -134,6 +182,14 @@
     "source": "Rock Paper Shotgun",
     "category": "Article",
     "date": 1776879796000
+  },
+  {
+    "title": "Round Up: The Previews Are In For Yoshi And The Mysterious Book",
+    "link": "https://www.nintendolife.com/features/round-up-the-previews-are-in-for-yoshi-and-the-mysterious-book",
+    "thumbnail": "https://images.nintendolife.com/db11cd5d6f04e/large.jpg",
+    "source": "Nintendo Life",
+    "category": "Article",
+    "date": 1776879000000
   },
   {
     "title": "A little bit Black &amp; White, a little bit Fable, Molyneux's citybuilder Masters Of Albion has the potential to break free of its influences – but it has a lot of work to do",
@@ -162,7 +218,7 @@
   {
     "title": "Anthropic’s Mythos rollout has missed America’s cybersecurity agency",
     "link": "https://www.theverge.com/policy/916758/anthropic-mythos-preview-cisa-left-out",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&strip=all&crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK269_ANTHROPIC_2_D.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100",
     "source": "The Verge (Tech)",
     "category": "AI",
     "date": 1776877056000
@@ -186,7 +242,7 @@
   {
     "title": "Microsoft teases mysterious Discord and Xbox Game Pass partnership",
     "link": "https://www.theverge.com/news/916787/microsoft-discord-xbox-game-pass-partnership",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/discordxboxgamepass.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/discordxboxgamepass.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
     "source": "The Verge (Tech)",
     "category": "Microsoft",
     "date": 1776876066000
@@ -194,10 +250,18 @@
   {
     "title": "Google Meet will take AI notes for in-person meetings too",
     "link": "https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB354_GOOGLE_MEET_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB354_GOOGLE_MEET_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
     "source": "The Verge (Tech)",
     "category": "AI",
     "date": 1776875899000
+  },
+  {
+    "title": "It Sounds Like Peach's Mario Galaxy Movie Backstory Will Be Canon In Future Games",
+    "link": "https://www.nintendolife.com/news/2026/04/it-sounds-like-peachs-mario-galaxy-movie-backstory-will-be-canon-in-future-games",
+    "thumbnail": "https://images.nintendolife.com/3c0563976ba1a/large.jpg",
+    "source": "Nintendo Life",
+    "category": "Article",
+    "date": 1776875400000
   },
   {
     "title": "There's no memory crisis in space, as astronauts on the ISS are getting new laptops with 128 GB of RAM and a seriously beefy specs sheet",
@@ -206,14 +270,6 @@
     "source": "PC Gamer",
     "category": "Gaming Laptops",
     "date": 1776875321000
-  },
-  {
-    "title": "Someone has apparently snaffled up 31 WordPress plugins and wedged a backdoor in each one",
-    "link": "https://www.pcgamer.com/hardware/someone-has-apparently-snaffled-up-31-wordpress-plugins-and-wedged-a-backdoor-in-each-one/",
-    "thumbnail": "https://cdn.mos.cms.futurecdn.net/SM8hnsh8PPqNMXUJSPvVmW-1280-80.jpg",
-    "source": "PC Gamer",
-    "category": "Hardware",
-    "date": 1776875301000
   },
   {
     "title": "Microsoft says the ‘idea’ of an Xbox mobile store ‘is not dead’",
@@ -226,10 +282,18 @@
   {
     "title": "Microsoft says the ‘idea’ of an Xbox mobile store ‘is not dead’",
     "link": "https://www.theverge.com/news/916601/microsoft-xbox-mobile-store-comment",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/xboxmobile.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/xboxmobile.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
     "source": "The Verge (Tech)",
     "category": "Microsoft",
     "date": 1776875300000
+  },
+  {
+    "title": "Tomodachi Life: Living The Dream Is Reportedly The Best Physical Launch Of 2026 In France",
+    "link": "https://www.nintendolife.com/news/2026/04/tomodachi-life-living-the-dream-is-reportedly-the-best-physical-launch-of-2026-in-france",
+    "thumbnail": "https://images.nintendolife.com/e8521a82f55d3/large.jpg",
+    "source": "Nintendo Life",
+    "category": "Article",
+    "date": 1776873600000
   },
   {
     "title": "Round Up: The Expanse: Osiris Reborn Really Does Sound Like the PS5 Mass Effect Successor We Need",
@@ -256,12 +320,12 @@
     "date": 1776872889000
   },
   {
-    "title": "Will a new CEO help realize Apple’s smart home potential?",
-    "link": "https://www.theverge.com/tech/916698/apple-home-ternus-hardware-homepad-rumors",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKB377_APPLE_HOME_APP_C.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source": "The Verge (Tech)",
-    "category": "Analysis",
-    "date": 1776871894000
+    "title": "Two U.S. Gamers Are Suing Nintendo Over Tariff Refunds",
+    "link": "https://www.nintendolife.com/news/2026/04/two-u-s-gamers-are-suing-nintendo-over-tariff-refunds",
+    "thumbnail": "https://images.nintendolife.com/35f26ac0f6b87/large.jpg",
+    "source": "Nintendo Life",
+    "category": "Article",
+    "date": 1776871800000
   },
   {
     "title": "Ecco the Dolphin Returns in Retro Collection Featuring a Brand New Game, But Will It Be on PS5?",
@@ -280,12 +344,28 @@
     "date": 1776870972000
   },
   {
+    "title": "\"It's Truly Baffling\" - Shigeru Miyamoto Comments On The Mario Galaxy Movie's Critical Reception",
+    "link": "https://www.nintendolife.com/news/2026/04/its-truly-baffling-shigeru-miyamoto-comments-on-the-mario-galaxy-movies-critical-reception",
+    "thumbnail": "https://images.nintendolife.com/0ca24d246b1f2/large.jpg",
+    "source": "Nintendo Life",
+    "category": "Article",
+    "date": 1776870960000
+  },
+  {
     "title": "Vampire Survivors developer Poncle is ramping things up, working on 15 projects and opening studios in Italy and Japan",
     "link": "https://www.eurogamer.net/vampire-survivors-poncle-15-new-games-italy-japan",
     "thumbnail": "https://assetsio.gnwcdn.com/vampire-survivors-castlevania.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
     "source": "Eurogamer",
     "category": "Single Player",
     "date": 1776870011000
+  },
+  {
+    "title": "Ecco The Dolphin: Complete Announced, Includes Remasters &amp; A Brand New Game",
+    "link": "https://www.nintendolife.com/news/2026/04/ecco-the-dolphin-complete-announced-includes-remasters-and-a-brand-new-game",
+    "thumbnail": "https://images.nintendolife.com/93e8c162111ad/large.jpg",
+    "source": "Nintendo Life",
+    "category": "Article",
+    "date": 1776869100000
   },
   {
     "title": "How many pampered hikers can you freeze in alpine tycoon game Above the Snow?",
@@ -333,6 +413,14 @@
     "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/aw4.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
     "source": "The Verge (Games)",
     "category": "Gadgets",
+    "date": 1776866400000
+  },
+  {
+    "title": "Bubsy 4D Gets A Free Demo, Available Now On Switch 1 &amp; 2",
+    "link": "https://www.nintendolife.com/news/2026/04/bubsy-4d-gets-a-free-demo-available-now-on-switch-1-and-2",
+    "thumbnail": "https://images.nintendolife.com/d039bf1b9b4f7/large.jpg",
+    "source": "Nintendo Life",
+    "category": "Article",
     "date": 1776866400000
   },
   {
@@ -390,93 +478,5 @@
     "source": "Push Square",
     "category": "Article",
     "date": 1776862800000
-  },
-  {
-    "title": "11 bit Studios is reimagining This War of Mine, and there's never been a more raw and relevant time for it",
-    "link": "https://www.eurogamer.net/11-bit-studios-reimagining-this-war-of-mine",
-    "thumbnail": "https://assetsio.gnwcdn.com/this-war-of-mine_rzWtv1b.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
-    "source": "Eurogamer",
-    "category": "11 Bit Studios",
-    "date": 1776862243000
-  },
-  {
-    "title": "The Last of Us star Troy Baker teases \"we've not seen the last of Joel\", as he reflects on the impact of the character and how he should be \"proliferated and iterated on\" in future projects",
-    "link": "https://www.eurogamer.net/the-last-of-us-troy-baker-weve-not-seen-the-last-of-joel",
-    "thumbnail": "https://assetsio.gnwcdn.com/Actor-Troy-Baker-overlaid-on-an-image-of-Joel-from-The-Last-of-Us-Part-2.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
-    "source": "Eurogamer",
-    "category": "The Last of Us Part II Remastered",
-    "date": 1776861269000
-  },
-  {
-    "title": "Remedy releases Control on iPhone and iPad with touch controls, reworked gameplay systems, and ray tracing",
-    "link": "https://www.eurogamer.net/remedy-releases-control-ultimate-edition-on-iphone-and-ipad",
-    "thumbnail": "https://assetsio.gnwcdn.com/control_ultimate_edition.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
-    "source": "Eurogamer",
-    "category": "Mac",
-    "date": 1776861055000
-  },
-  {
-    "title": "Round Up: Lord of Hatred Reviews Say This Is the Best Diablo 4 Has Ever Been",
-    "link": "https://www.pushsquare.com/features/round-up-lord-of-hatred-reviews-say-this-is-the-best-diablo-4-has-ever-been",
-    "thumbnail": "https://images.pushsquare.com/71e2f5f4e7c39/large.jpg",
-    "source": "Push Square",
-    "category": "Article",
-    "date": 1776861000000
-  },
-  {
-    "title": "Roundup: Here's What The Reviews Are Saying About Tides Of Tomorrow",
-    "link": "https://www.purexbox.com/news/2026/04/roundup-heres-what-the-reviews-are-saying-about-tides-of-tomorrow",
-    "thumbnail": "https://images.purexbox.com/656cd48a79577/large.jpg",
-    "source": "Pure Xbox",
-    "category": "Article",
-    "date": 1776861000000
-  },
-  {
-    "title": "Dead by Daylight Behavior Interactive appears to have suffered fresh layoffs, as senior animator announces sudden departure",
-    "link": "https://www.eurogamer.net/dead-by-daylight-behavior-interactive-layoffs-senior-animator",
-    "thumbnail": "https://assetsio.gnwcdn.com/dead-by-daylight-is-free-on-the-epic-games-store-next-week-1637871012489.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
-    "source": "Eurogamer",
-    "category": "Behaviour Digital",
-    "date": 1776860226000
-  },
-  {
-    "title": "Ubisoft have reportedly cancelled Alterra, a life sim blending Animal Crossing with Minecraft, after almost three years of dev work",
-    "link": "https://www.rockpapershotgun.com/ubisoft-have-reportedly-cancelled-alterra-a-life-sim-blending-animal-crossing-with-minecraft-after-almost-three-years-of-dev-work",
-    "thumbnail": "https://assetsio.gnwcdn.com/ubisoft-logo-01.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
-    "source": "Rock Paper Shotgun",
-    "category": "PC",
-    "date": 1776859155000
-  },
-  {
-    "title": "A legend gets cheaper as the Logitech G502 Hero gaming mouse cuts 22% off from Amazon",
-    "link": "https://www.rockpapershotgun.com/a-legend-gets-cheaper-as-the-logitech-g502-hero-gaming-mouse-cuts-22-off-from-amazon",
-    "thumbnail": "https://assetsio.gnwcdn.com/g502-hero.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
-    "source": "Rock Paper Shotgun",
-    "category": "PC Gaming Deals",
-    "date": 1776857212000
-  },
-  {
-    "title": "As Elden Ring fans wait for official news, leaked movie set images suggest the film will include significant pre-game backstory",
-    "link": "https://www.eurogamer.net/elden-ring-leaked-movie-set-images-significant-pre-game-backstory",
-    "thumbnail": "https://assetsio.gnwcdn.com/Screenshot-from-Elden-Ring-opening-showing-a-female-character-smashing-down-on-an-object-to-shatter-it.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
-    "source": "Eurogamer",
-    "category": "Elden Ring",
-    "date": 1776856789000
-  },
-  {
-    "title": "£520 for this Asus Prime RTX 5070 GPU and a free copy of Pragmata feels like a solid deal at the moment",
-    "link": "https://www.rockpapershotgun.com/520-for-this-asus-prime-rtx-5070-gpu-and-a-free-copy-of-pragmata-feels-like-a-solid-deal-at-the-moment",
-    "thumbnail": "https://assetsio.gnwcdn.com/asus-prime-rtx-5070-tech-deal.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
-    "source": "Rock Paper Shotgun",
-    "category": "PC Gaming Deals",
-    "date": 1776856065000
-  },
-  {
-    "title": "Rumour: Xbox Might Introduce Customisable Plans For Game Pass In The Future",
-    "link": "https://www.purexbox.com/news/2026/04/rumour-xbox-might-introduce-customisable-plans-for-game-pass-in-the-future",
-    "thumbnail": "https://images.purexbox.com/79b74d6d15bd2/large.jpg",
-    "source": "Pure Xbox",
-    "category": "Article",
-    "date": 1776855600000
   }
 ]
