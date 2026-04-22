@@ -9332,19 +9332,18 @@
     ],
     "release_dates": [
       {
-        "id": 857215,
-        "date": 1776816000,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 857216,
+        "id": 902639,
         "date": 1776816000,
         "platform": {
           "id": 6,
           "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 902640,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
         }
       }
     ],
@@ -9400,14 +9399,6 @@
     ],
     "websites": [
       {
-        "id": 665896,
-        "url": "https://store.steampowered.com/app/3165650/Masters_of_Albion/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
         "id": 981710,
         "url": "https://www.youtube.com/@22CansOfficial",
         "type": {
@@ -9461,6 +9452,14 @@
         "type": {
           "id": 6,
           "type": "Twitch"
+        }
+      },
+      {
+        "id": 1046521,
+        "url": "https://store.steampowered.com/app/3165650/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
         }
       }
     ]
