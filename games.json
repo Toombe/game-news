@@ -9285,6 +9285,187 @@
     ]
   },
   {
+    "id": 314272,
+    "cover": {
+      "id": 558054,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobyli.jpg"
+    },
+    "first_release_date": 1776816000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "hypes": 13,
+    "involved_companies": [
+      {
+        "id": 282776,
+        "company": {
+          "id": 1531,
+          "name": "22Cans"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Masters of Albion",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 857215,
+        "date": 1776816000,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      },
+      {
+        "id": 857216,
+        "date": 1776816000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1384814,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctoj2.jpg"
+      },
+      {
+        "id": 1384815,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctoj3.jpg"
+      },
+      {
+        "id": 1384818,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctoj6.jpg"
+      },
+      {
+        "id": 1384813,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctoj1.jpg"
+      },
+      {
+        "id": 1384816,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctoj4.jpg"
+      },
+      {
+        "id": 1384817,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctoj5.jpg"
+      },
+      {
+        "id": 1821048,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1314o.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "In Masters of Albion, shape a living world as a god - or step into it and experience it through your people. Build, guide and defend your town by day, then survive the night when everything is under threat. There is no single solution. Only yours.",
+    "videos": [
+      {
+        "id": 123475,
+        "video_id": "CSLGKKAuZwo"
+      },
+      {
+        "id": 172830,
+        "video_id": "Gu-pkBoGr4Q"
+      },
+      {
+        "id": 175945,
+        "video_id": "Y_Jph0SH_l4"
+      },
+      {
+        "id": 181491,
+        "video_id": "3zQoSdpDXB0"
+      }
+    ],
+    "websites": [
+      {
+        "id": 665896,
+        "url": "https://store.steampowered.com/app/3165650/Masters_of_Albion/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 981710,
+        "url": "https://www.youtube.com/@22CansOfficial",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 981711,
+        "url": "https://x.com/22cans",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 981712,
+        "url": "https://www.instagram.com/22cans/?hl\u003den",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 981713,
+        "url": "https://www.facebook.com/22Cans/",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 981714,
+        "url": "https://www.reddit.com/r/MastersOfAlbionGame/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 665897,
+        "url": "https://www.mastersofalbion.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 665898,
+        "url": "https://www.twitch.tv/directory/category/masters-of-albion",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      }
+    ]
+  },
+  {
     "id": 335857,
     "cover": {
       "id": 445291,
