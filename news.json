@@ -1,11 +1,27 @@
 [
   {
+    "title": "At least there's one tech company making me feel sane in an increasingly insane world",
+    "link": "https://www.pcgamer.com/hardware/at-least-theres-one-tech-company-making-me-feel-sane-in-an-increasingly-insane-world/",
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/9nekAJUHXFwmK5ByKW3ppE-1280-80.jpg",
+    "source": "PC Gamer",
+    "category": "Hardware",
+    "date": 1776817995000
+  },
+  {
     "title": "Here's when Masters of Albion launches in your timezone",
     "link": "https://www.pcgamer.com/games/sim/masters-of-albion-launch-time-release-date/",
     "thumbnail": "https://cdn.mos.cms.futurecdn.net/GL4zu2UnfXgt6KDjsEAYKm-1280-80.jpg",
     "source": "PC Gamer",
     "category": "Sim",
     "date": 1776812400000
+  },
+  {
+    "title": "SpaceX cuts a deal to maybe buy Cursor for $60 billion",
+    "link": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
+    "source": "The Verge (Tech)",
+    "category": "AI",
+    "date": 1776811537000
   },
   {
     "title": "Would you quit? Meta will put keyloggers on employee PCs for AI training",
@@ -26,9 +42,9 @@
   {
     "title": "Arcade roguelike KAZ will probably break my arrows keys, and yet here I am wanting to play another round",
     "link": "https://www.rockpapershotgun.com/arcade-roguelike-kaz-will-probably-break-my-arrows-keys-and-yet-here-i-am-wanting-to-play-another-round",
-    "thumbnail": "https://assetsio.gnwcdn.com/kaz_hUsiKfo.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "thumbnail": "https://assetsio.gnwcdn.com/kaz_hUsiKfo.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
     "source": "Rock Paper Shotgun",
-    "category": "KAZ",
+    "category": "Indie",
     "date": 1776808559000
   },
   {
@@ -58,15 +74,15 @@
   {
     "title": "Casualties: Unknown is Noita for furries, and oh so deliciously miserable",
     "link": "https://www.rockpapershotgun.com/casualties-unknown-is-noita-for-furries-and-oh-so-deliciously-miserable",
-    "thumbnail": "https://assetsio.gnwcdn.com/casualties-unknown.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "thumbnail": "https://assetsio.gnwcdn.com/casualties-unknown.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
     "source": "Rock Paper Shotgun",
-    "category": "Survival &amp; Crafting",
+    "category": "Indie",
     "date": 1776803829000
   },
   {
     "title": "ISS astronauts are getting new laptops",
     "link": "https://www.theverge.com/science/916300/nasa-iss-computer-upgrades-hp-zbook-fury-g9",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/nasa-astronaut-chris-williams-expedition-74-2-18-26.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/nasa-astronaut-chris-williams-expedition-74-2-18-26.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
     "source": "The Verge (Tech)",
     "category": "HP",
     "date": 1776802322000
@@ -82,7 +98,7 @@
   {
     "title": "Tim Cook was an innovator — just not the Jobs kind",
     "link": "https://www.theverge.com/tech/916172/tim-cook-apple-legacy-supply-chain-ceo",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D_7f4337.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D_7f4337.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
     "source": "The Verge (Tech)",
     "category": "Apple",
     "date": 1776798900000
@@ -106,9 +122,9 @@
   {
     "title": "Take a flight to the uncanny valley with Aion 2, the MMO all about verticality that's going global this year",
     "link": "https://www.rockpapershotgun.com/take-a-flight-to-the-uncanny-valley-with-aion-2-the-mmo-all-about-verticality-thats-going-global-this-year",
-    "thumbnail": "https://assetsio.gnwcdn.com/aion-2_OJOXhHK.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "thumbnail": "https://assetsio.gnwcdn.com/aion-2_OJOXhHK.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
     "source": "Rock Paper Shotgun",
-    "category": "Aion 2",
+    "category": "RPG",
     "date": 1776798332000
   },
   {
@@ -138,7 +154,7 @@
   {
     "title": "X makes it 1,900 percent more expensive to post links",
     "link": "https://www.theverge.com/tech/916178/x-link-post-api-expensive-techmeme",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK160_X_TWITTER_2__C.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK160_X_TWITTER_2__C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
     "source": "The Verge (Tech)",
     "category": "Social Media",
     "date": 1776796038000
@@ -160,14 +176,6 @@
     "date": 1776795489000
   },
   {
-    "title": "Xbox Game Pass prices are going down, but future Call of Duty games won't be added until 'about a year' after they launch",
-    "link": "https://www.pcgamer.com/gaming-industry/xbox-game-pass-prices-are-going-down-but-future-call-of-duty-games-wont-be-added-until-about-a-year-after-they-launch/",
-    "thumbnail": "https://cdn.mos.cms.futurecdn.net/CQ9Eb8mXYfVZSFjopKA2Ai-1280-80.jpg",
-    "source": "PC Gamer",
-    "category": "Gaming Industry",
-    "date": 1776795484000
-  },
-  {
     "title": "Framework Laptop 16 upgrades make it look less like an unfinished prototype",
     "link": "https://arstechnica.com/gadgets/2026/04/framework-laptop-16-upgrades-make-it-look-less-like-an-unfinished-prototype/",
     "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/eGPU_Install_02-500x500.jpg",
@@ -178,7 +186,7 @@
   {
     "title": "Framework announces Laptop 13 Pro, ‘the MacBook Pro for Linux users’",
     "link": "https://www.theverge.com/gadgets/915508/framework-announces-laptop-13-pro-the-macbook-pro-for-linux-users",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/FW13-Pro-Touchscreen-1-RT.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/FW13-Pro-Touchscreen-1-RT.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
     "source": "The Verge (Tech)",
     "category": "Gadgets",
     "date": 1776794880000
@@ -194,7 +202,7 @@
   {
     "title": "Framework is building a better couch keyboard because everyone hates the Logitech one",
     "link": "https://www.theverge.com/tech/915497/framework-is-building-a-better-couch-keyboard-because-everyone-hates-the-logitech-one",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/DSC00390.jpg?quality=90&strip=all&crop=0,10.966095755439,91.958337893168,89.033904244561",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/DSC00397.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
     "source": "The Verge (Tech)",
     "category": "Desktops",
     "date": 1776794789000
@@ -202,9 +210,9 @@
   {
     "title": "\"Mythology, by its nature, is told and retold\": Hades 2 dev on changing its controversial ending",
     "link": "https://www.rockpapershotgun.com/mythology-by-its-nature-is-told-and-retold-hades-2-dev-on-changing-its-controversial-ending",
-    "thumbnail": "https://assetsio.gnwcdn.com/hades-2-prometheus-boss-olympian-update-1.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "thumbnail": "https://assetsio.gnwcdn.com/hades-2-prometheus-boss-olympian-update-1.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
     "source": "Rock Paper Shotgun",
-    "category": "RPG",
+    "category": "Hack &amp; Slash",
     "date": 1776794400000
   },
   {
@@ -226,7 +234,7 @@
   {
     "title": "The AirPods are Tim Cook’s most underrated achievement",
     "link": "https://www.theverge.com/tech/916031/tim-cook-apple-airpods-legacy",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/7674191/akrales_161216_1332_A_0143_v1.0.jpeg?quality=90&strip=all&crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/7674191/akrales_161216_1332_A_0143_v1.0.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
     "source": "The Verge (Tech)",
     "category": "Apple",
     "date": 1776793775000
@@ -234,7 +242,7 @@
   {
     "title": "Celebrities will be able to find and request removal of AI deepfakes on YouTube",
     "link": "https://www.theverge.com/ai-artificial-intelligence/915872/celebrities-will-be-able-to-find-and-request-removal-of-ai-deepfakes-on-youtube",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK419_DEEPFAKE_3_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK419_DEEPFAKE_3_CVIRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
     "source": "The Verge (Tech)",
     "category": "AI",
     "date": 1776792624000
@@ -242,15 +250,15 @@
   {
     "title": "Endless Legend 2's answer to the common 4X problem of \"goldfish\" AI is a cunning system of badges, from Pleasant to Bully",
     "link": "https://www.rockpapershotgun.com/endless-legend-2s-answer-to-the-common-4x-problem-of-goldfish-ai-is-a-cunning-system-of-badges-from-pleasant-to-bully",
-    "thumbnail": "https://assetsio.gnwcdn.com/endlesslegend2badges.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "thumbnail": "https://assetsio.gnwcdn.com/endlesslegend2badges.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
     "source": "Rock Paper Shotgun",
-    "category": "PC",
+    "category": "AMPLITUDE Studios",
     "date": 1776792600000
   },
   {
     "title": "Twelve South’s magnetic PowerBug charger is down to just $35",
     "link": "https://www.theverge.com/gadgets/915978/twelve-south-powerbug-deal-sale",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Twelve-Souths-PowerBug.webp?quality=90&strip=all&crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Twelve-Souths-PowerBug.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100",
     "source": "The Verge (Tech)",
     "category": "Deals",
     "date": 1776792600000
@@ -258,18 +266,10 @@
   {
     "title": "Govee’s new rechargeable table lamp is less than half the price of Hue’s",
     "link": "https://www.theverge.com/tech/915959/govee-table-smart-lamp-classic-battery-rechargeable-matter-pricing",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/goveelamp.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/goveelamp.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
     "source": "The Verge (Tech)",
     "category": "Gadgets",
     "date": 1776792387000
-  },
-  {
-    "title": "The Mac is in good hands in Apple’s post-Cook era",
-    "link": "https://www.theverge.com/tech/915896/john-ternus-apple-ceo-tim-cook-johny-srouji-mac-future",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0006.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source": "The Verge (Tech)",
-    "category": "Analysis",
-    "date": 1776792050000
   },
   {
     "title": "Talking Point: So, What Are Your First Impressions Of Splatoon Raiders?",
@@ -290,9 +290,9 @@
   {
     "title": "Enshrouded approaches the Roblox event horizon with the addition of Adventure Sharing in its latest update",
     "link": "https://www.rockpapershotgun.com/enshrouded-approaches-the-roblox-event-horizon-with-the-addition-of-adventure-sharing-in-its-latest-update",
-    "thumbnail": "https://assetsio.gnwcdn.com/enshrouded-update_5z3woWW.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "thumbnail": "https://assetsio.gnwcdn.com/enshrouded-update_5z3woWW.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
     "source": "Rock Paper Shotgun",
-    "category": "Fantasy",
+    "category": "RPG",
     "date": 1776790282000
   },
   {
@@ -314,9 +314,9 @@
   {
     "title": "Call of Duty won't hit Xbox Game Pass at launch going forwards, as Microsoft's subscription service gets a price cut",
     "link": "https://www.rockpapershotgun.com/call-of-duty-wont-hit-xbox-game-pass-at-launch-going-forwards-as-microsofts-subscription-service-gets-a-price-cut",
-    "thumbnail": "https://assetsio.gnwcdn.com/call-of-duty-black-ops-7-gravemaker-killstreak-backlash-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "thumbnail": "https://assetsio.gnwcdn.com/call-of-duty-black-ops-7-gravemaker-killstreak-backlash-01.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
     "source": "Rock Paper Shotgun",
-    "category": "PS3",
+    "category": "Square Enix",
     "date": 1776788368000
   },
   {
@@ -338,7 +338,7 @@
   {
     "title": "Xbox drops Game Pass prices as Call of Duty officially exits service's Day One launch slate strategy",
     "link": "https://www.eurogamer.net/xbox-drops-game-pass-prices-call-of-duty-exits-day-one",
-    "thumbnail": "https://assetsio.gnwcdn.com/cod-gp.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
+    "thumbnail": "https://assetsio.gnwcdn.com/cod-gp.jpg?width=690&quality=85&format=jpg&auto=webp",
     "source": "Eurogamer",
     "category": "PC",
     "date": 1776787200000
@@ -354,7 +354,7 @@
   {
     "title": "Embark Studios is looking to rework Arc Raiders' skill trees in future updates",
     "link": "https://www.eurogamer.net/embark-studios-teases-arc-raiders-skill-trees-reworks",
-    "thumbnail": "https://assetsio.gnwcdn.com/Arc-Raiders_Riven-Tides-skins.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
+    "thumbnail": "https://assetsio.gnwcdn.com/Arc-Raiders_Riven-Tides-skins.png?width=690&quality=85&format=jpg&auto=webp",
     "source": "Eurogamer",
     "category": "Embark Studios",
     "date": 1776786912000
@@ -370,15 +370,15 @@
   {
     "title": "Unionised Build a Rocket Boy staff take legal action against MindsEye studio, accusing management of breaking the law with \"invasive\" surveillance software",
     "link": "https://www.rockpapershotgun.com/mindseye-studio-build-a-rocket-boy-sued-by-unionised-staff-who-accuse-management-of-breaking-the-law-with-invasive-surveillance-software",
-    "thumbnail": "https://assetsio.gnwcdn.com/build-a--rocket-boy-staff-legal-action-surveilance-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "thumbnail": "https://assetsio.gnwcdn.com/build-a--rocket-boy-staff-legal-action-surveilance-01.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
     "source": "Rock Paper Shotgun",
-    "category": "IO Interactive",
+    "category": "Build A Rocket Boy",
     "date": 1776785132000
   },
   {
     "title": "Helldivers 2 getting exosuit-centric The Exo Experts warbond next week with new mechs and guns",
     "link": "https://www.eurogamer.net/helldivers-2-the-exo-experts-warbond-unveiled",
-    "thumbnail": "https://assetsio.gnwcdn.com/Helldivers-2-Exo-Experts-Warbond_ingame.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
+    "thumbnail": "https://assetsio.gnwcdn.com/Helldivers-2-Exo-Experts-Warbond_ingame.jpg?width=690&quality=85&format=jpg&auto=webp",
     "source": "Eurogamer",
     "category": "Helldivers 2",
     "date": 1776783993000
@@ -386,7 +386,7 @@
   {
     "title": "Dead by Daylight is getting another Attack on Titan crossover, as well as a returning fan-favourite game mode",
     "link": "https://www.eurogamer.net/dead-by-daylight-another-attack-on-titan-crossover-2v8",
-    "thumbnail": "https://assetsio.gnwcdn.com/dead-by-daylight-attack-on-titan.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
+    "thumbnail": "https://assetsio.gnwcdn.com/dead-by-daylight-attack-on-titan.jpg?width=690&quality=85&format=jpg&auto=webp",
     "source": "Eurogamer",
     "category": "Multiplayer Cooperative",
     "date": 1776783625000
@@ -402,7 +402,7 @@
   {
     "title": "Aion 2, sequel to a beloved Korean MMO, is getting a global release this year from publisher NCSoft",
     "link": "https://www.eurogamer.net/aion-2-global-release-announcement",
-    "thumbnail": "https://assetsio.gnwcdn.com/aion-2-lader-with-staff.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
+    "thumbnail": "https://assetsio.gnwcdn.com/aion-2-lader-with-staff.jpg?width=690&quality=85&format=jpg&auto=webp",
     "source": "Eurogamer",
     "category": "PC",
     "date": 1776782567000
@@ -418,9 +418,9 @@
   {
     "title": "\"Not all machines are twisted mechano-socialists\": Helldivers 2's latest warbond brings back a mech suit from the original game",
     "link": "https://www.rockpapershotgun.com/not-all-machines-are-twisted-mechano-socialists-helldivers-2s-latest-warbond-brings-back-a-mech-suit-from-the-original-game",
-    "thumbnail": "https://assetsio.gnwcdn.com/helldivers-2-exo-experts-warbond-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "thumbnail": "https://assetsio.gnwcdn.com/helldivers-2-exo-experts-warbond-01.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
     "source": "Rock Paper Shotgun",
-    "category": "Arrowhead Game Studios",
+    "category": "First person",
     "date": 1776781009000
   },
   {
@@ -442,7 +442,7 @@
   {
     "title": "Splatoon Raiders gets summer Switch 2 release date, as well as a Deep Cut amiibo to add to your collection",
     "link": "https://www.eurogamer.net/splatoon-raiders-summer-switch-2-release-date-deep-cut-amiibo",
-    "thumbnail": "https://assetsio.gnwcdn.com/Splat-Raid.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
+    "thumbnail": "https://assetsio.gnwcdn.com/Splat-Raid.jpg?width=690&quality=85&format=jpg&auto=webp",
     "source": "Eurogamer",
     "category": "Splatoon Raiders",
     "date": 1776779024000
