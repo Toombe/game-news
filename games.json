@@ -8578,6 +8578,203 @@
     ]
   },
   {
+    "id": 116194,
+    "cover": {
+      "id": 549745,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobs6p.jpg"
+    },
+    "first_release_date": 1776902400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 5,
+        "name": "Massively Multiplayer Online (MMO)"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "hypes": 7,
+    "involved_companies": [
+      {
+        "id": 381664,
+        "company": {
+          "id": 51161,
+          "name": "Blue Dot Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "\u002783",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 900780,
+        "date": 1776902400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1659143,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczk7b.jpg"
+      },
+      {
+        "id": 1659144,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczk7c.jpg"
+      },
+      {
+        "id": 1659145,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczk7d.jpg"
+      },
+      {
+        "id": 1659141,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczk79.jpg"
+      },
+      {
+        "id": 1659140,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczk78.jpg"
+      },
+      {
+        "id": 1659142,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczk7a.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "\u002783 is a 40v40 squad based, objective focused online tactical first person shooter set in a Cold-War-Gone-Hot scenario currently in development at Blue Dot Games.\n\nPlayers will have access to a selection of real-world infantry weapons and equipment, as well as a selection of powerful land vehicles which can decisively turn the tide of a battle.\n\nIt\u0027s designed with \u0027accessible realism\u0027 for the most enjoyable, but still hardcore experience that gets you to the action fast, without losing the lethality of war",
+    "videos": [
+      {
+        "id": 25495,
+        "video_id": "1u9oyFkXca4"
+      },
+      {
+        "id": 115987,
+        "video_id": "l6Is2JRWLnU"
+      },
+      {
+        "id": 164553,
+        "video_id": "3iGU_FMjbY8"
+      },
+      {
+        "id": 164554,
+        "video_id": "vxEBWaatcpE"
+      },
+      {
+        "id": 181406,
+        "video_id": "xsRmMwABN6E"
+      }
+    ],
+    "websites": [
+      {
+        "id": 106268,
+        "url": "https://store.steampowered.com/app/1059220",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 102287,
+        "url": "https://www.facebook.com/83-The-Game-",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 122658,
+        "url": "https://www.reddit.com/r/83thegame",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 733155,
+        "url": "https://discord.gg/JhpgysJuex",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 733157,
+        "url": "https://www.instagram.com/83thegame",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 733156,
+        "url": "https://bsky.app/profile/83thegame.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 122657,
+        "url": "https://83thegame.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 102288,
+        "url": "https://twitter.com/83thegame",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 102289,
+        "url": "https://www.youtube.com/channel/UCuTmuBljXHUeKJ7Wuzk0Xvg",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 387852,
+        "url": "https://www.twitch.tv/directory/game/\u002783",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      }
+    ]
+  },
+  {
     "id": 335125,
     "cover": {
       "id": 444531,
