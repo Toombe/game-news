@@ -1750,6 +1750,14 @@
           "id": 18,
           "type": "Discord"
         }
+      },
+      {
+        "id": 1048497,
+        "url": "https://www.nintendo.com/us/store/products/nitro-gen-omega-switch/",
+        "type": {
+          "id": 24,
+          "type": "Nintendo"
+        }
       }
     ]
   },
@@ -9728,6 +9736,14 @@
         "type": {
           "id": 23,
           "type": "Playstation"
+        }
+      },
+      {
+        "id": 1048453,
+        "url": "https://www.nintendo.com/us/store/products/bandit-trap-switch-2/",
+        "type": {
+          "id": 24,
+          "type": "Nintendo"
         }
       }
     ]
