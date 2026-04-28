@@ -9764,6 +9764,10 @@
     "name": "Bandit Trap",
     "platforms": [
       {
+        "id": 508,
+        "name": "Nintendo Switch 2"
+      },
+      {
         "id": 6,
         "name": "PC (Microsoft Windows)"
       },
@@ -9798,6 +9802,14 @@
         "platform": {
           "id": 167,
           "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 904137,
+        "date": 1777507200,
+        "platform": {
+          "id": 508,
+          "name": "Nintendo Switch 2"
         }
       }
     ],
