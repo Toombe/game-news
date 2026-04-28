@@ -7060,6 +7060,279 @@
     ]
   },
   {
+    "id": 113360,
+    "cover": {
+      "id": 528941,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobc4t.jpg"
+    },
+    "first_release_date": 1775779200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "hypes": 132,
+    "involved_companies": [
+      {
+        "id": 362279,
+        "company": {
+          "id": 17066,
+          "name": "Hypixel Studios"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Hytale",
+    "platforms": [
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 845871,
+        "date": 1768262400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 854815,
+        "date": 1768262400,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      },
+      {
+        "id": 854816,
+        "date": 1768262400,
+        "platform": {
+          "id": 3,
+          "name": "Linux"
+        }
+      },
+      {
+        "id": 904233,
+        "date": 1775779200,
+        "platform": {
+          "id": 130,
+          "name": "Nintendo Switch"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 268940,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5rik.jpg"
+      },
+      {
+        "id": 268941,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5ril.jpg"
+      },
+      {
+        "id": 268939,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5rij.jpg"
+      },
+      {
+        "id": 268938,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5rii.jpg"
+      },
+      {
+        "id": 268942,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5rim.jpg"
+      },
+      {
+        "id": 268944,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5rio.jpg"
+      },
+      {
+        "id": 268943,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5rin.jpg"
+      },
+      {
+        "id": 268946,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5riq.jpg"
+      },
+      {
+        "id": 268945,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5rip.jpg"
+      },
+      {
+        "id": 268947,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5rir.jpg"
+      },
+      {
+        "id": 268949,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5rit.jpg"
+      },
+      {
+        "id": 268948,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5ris.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Hytale combines the scope of a sandbox with the depth of a roleplaying game, immersing players in a procedurally generated world where teetering towers and deep dungeons promise rich rewards throughout their adventures. Hytale supports everything from block-by-block construction to scripting and minigame creation, delivered using easy to use and powerful tools.",
+    "videos": [
+      {
+        "id": 168463,
+        "video_id": "o77MzDQT1cg"
+      },
+      {
+        "id": 172429,
+        "video_id": "rhaqjb_S2X8"
+      },
+      {
+        "id": 172430,
+        "video_id": "aavNidH3wnc"
+      },
+      {
+        "id": 172431,
+        "video_id": "BAmnC-ZEaAM"
+      }
+    ],
+    "websites": [
+      {
+        "id": 95374,
+        "url": "https://hytale.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 95377,
+        "url": "https://www.instagram.com/HytaleGame",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 918241,
+        "url": "https://discord.gg/hytale",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 125657,
+        "url": "https://en.wikipedia.org/wiki/Hytale",
+        "type": {
+          "id": 3,
+          "type": "Wikipedia"
+        }
+      },
+      {
+        "id": 95375,
+        "url": "https://www.facebook.com/HytaleGame",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 125658,
+        "url": "https://www.reddit.com/r/Hytale",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 945112,
+        "url": "https://hytalewiki.org/",
+        "type": {
+          "id": 2,
+          "type": "Community Wiki"
+        }
+      },
+      {
+        "id": 984295,
+        "url": "https://www.twitch.tv/directory/category/hytale",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 984296,
+        "url": "https://x.com/Hytale",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 984297,
+        "url": "https://www.youtube.com/@Hytale",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 986055,
+        "url": "https://bsky.app/profile/hytale.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 1048557,
+        "url": "https://www.nintendo.com/us/store/products/hytale-sandbox-rpg-switch/",
+        "type": {
+          "id": 24,
+          "type": "Nintendo"
+        }
+      }
+    ]
+  },
+  {
     "id": 322477,
     "cover": {
       "id": 422465,
@@ -9082,20 +9355,36 @@
     ],
     "screenshots": [
       {
-        "id": 1530683,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwt2z.jpg"
+        "id": 1824014,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc133f2.jpg"
       },
       {
-        "id": 1530681,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwt2x.jpg"
+        "id": 1824015,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc133f3.jpg"
       },
       {
-        "id": 1530682,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwt2y.jpg"
+        "id": 1824016,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc133f4.jpg"
       },
       {
-        "id": 1530684,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwt30.jpg"
+        "id": 1824017,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc133f5.jpg"
+      },
+      {
+        "id": 1824018,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc133f6.jpg"
+      },
+      {
+        "id": 1824019,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc133f7.jpg"
+      },
+      {
+        "id": 1824020,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc133f8.jpg"
+      },
+      {
+        "id": 1824013,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc133f1.jpg"
       }
     ],
     "status": 4,
@@ -9545,163 +9834,6 @@
       {
         "id": 984000,
         "url": "https://www.twitch.tv/directory/category/far-far-west",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      }
-    ]
-  },
-  {
-    "id": 354933,
-    "cover": {
-      "id": 543489,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobncx.jpg"
-    },
-    "first_release_date": 1777334400,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 6,
-    "involved_companies": [
-      {
-        "id": 380730,
-        "company": {
-          "id": 7945,
-          "name": "Alawar"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "The Last Gas Station",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 899009,
-        "date": 1777334400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1585309,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxz8d.jpg"
-      },
-      {
-        "id": 1585310,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxz8e.jpg"
-      },
-      {
-        "id": 1585311,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxz8f.jpg"
-      },
-      {
-        "id": 1585307,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxz8b.jpg"
-      },
-      {
-        "id": 1585308,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxz8c.jpg"
-      }
-    ],
-    "status": 2,
-    "summary": "In a world where electric cars reign supreme, you are now the owner of an old gas station out in the wilderness. Establish trade, develop your business and uncover the secret of this strange place in the compact gas station simulator.",
-    "videos": [
-      {
-        "id": 178556,
-        "video_id": "EqpPGcfONtU"
-      },
-      {
-        "id": 180820,
-        "video_id": "-AUXDW_KqG4"
-      }
-    ],
-    "websites": [
-      {
-        "id": 832249,
-        "url": "https://x.com/alawarteam",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 832250,
-        "url": "https://facebook.com/alawarteam",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 832248,
-        "url": "https://alawar.com/games/the-last-gas-station",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 832252,
-        "url": "https://www.youtube.com/@alawar",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 832251,
-        "url": "https://instagram.com/alawarteam",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 832247,
-        "url": "https://store.steampowered.com/app/3690030/The_Last_Gas_Station/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 855928,
-        "url": "https://epicgames.com/p/the-last-gas-station-8bb3a7",
-        "type": {
-          "id": 16,
-          "type": "Epic"
-        }
-      },
-      {
-        "id": 1020448,
-        "url": "https://www.twitch.tv/directory/category/the-last-gas-station",
         "type": {
           "id": 6,
           "type": "Twitch"
