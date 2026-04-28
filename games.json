@@ -1605,6 +1605,184 @@
     ]
   },
   {
+    "id": 348334,
+    "cover": {
+      "id": 487392,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coag2o.jpg"
+    },
+    "first_release_date": 1761696000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 3,
+    "involved_companies": [
+      {
+        "id": 345648,
+        "company": {
+          "id": 68832,
+          "name": "SethMadDev"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 345649,
+        "company": {
+          "id": 59148,
+          "name": "Ivy Juice Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "My Little Cafe Nightmare",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 829610,
+        "date": 1761696000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 904674,
+        "date": 1780358400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1554709,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxbmd.jpg"
+      },
+      {
+        "id": 1554710,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxbme.jpg"
+      },
+      {
+        "id": 1554711,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxbmf.jpg"
+      },
+      {
+        "id": 1554712,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxbmg.jpg"
+      },
+      {
+        "id": 1554713,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxbmh.jpg"
+      },
+      {
+        "id": 1554714,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxbmi.jpg"
+      },
+      {
+        "id": 1554715,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxbmj.jpg"
+      },
+      {
+        "id": 1554716,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxbmk.jpg"
+      },
+      {
+        "id": 1554717,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxbml.jpg"
+      },
+      {
+        "id": 1554718,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxbmm.jpg"
+      },
+      {
+        "id": 1554719,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxbmn.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Brew otherworldly coffee for ghostly patrons in a dark, cozy first-person café. Upgrade your shop, manage supplies, and turn a haunted café into a sanctuary amidst nightmares.",
+    "videos": [
+      {
+        "id": 153068,
+        "video_id": "Fx0sxcg2Tjs"
+      },
+      {
+        "id": 178120,
+        "video_id": "2GWrY1fqt9g"
+      }
+    ],
+    "websites": [
+      {
+        "id": 868832,
+        "url": "https://discord.gg/UGdC24k8eQ",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 909724,
+        "url": "https://www.twitch.tv/directory/category/my-little-cafe-nightmare",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 898773,
+        "url": "https://x.com/ivyjuicegames",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 810941,
+        "url": "https://store.steampowered.com/app/3726250",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 810942,
+        "url": "https://bsky.app/profile/sethmaddev.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 811091,
+        "url": "https://www.youtube.com/@SethMadDev",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      }
+    ]
+  },
+  {
     "id": 211659,
     "cover": {
       "id": 259418,
