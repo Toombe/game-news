@@ -9241,6 +9241,155 @@
     ]
   },
   {
+    "id": 343357,
+    "cover": {
+      "id": 558584,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobz08.jpg"
+    },
+    "first_release_date": 1777248000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 4,
+    "involved_companies": [
+      {
+        "id": 382862,
+        "company": {
+          "id": 63759,
+          "name": "Po Kolu Studio"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Mycelium: The Silent Contract",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 905703,
+        "date": 1777248000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1648458,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbyi.jpg"
+      },
+      {
+        "id": 1648457,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbyh.jpg"
+      },
+      {
+        "id": 1648459,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbyj.jpg"
+      },
+      {
+        "id": 1648460,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbyk.jpg"
+      },
+      {
+        "id": 1648461,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbyl.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Mycelium: The Silent Contract is a co-op/single player extraction horror set in a haunted liminal forest. Your contract is simple: get mycelium and extract. But in this forest, nothing is what it seems. So what did you sign, exactly?",
+    "videos": [
+      {
+        "id": 149969,
+        "video_id": "SEDyXsHxA68"
+      },
+      {
+        "id": 163079,
+        "video_id": "vd-ZH2G8RJ8"
+      },
+      {
+        "id": 182048,
+        "video_id": "FXQmlCR1glQ"
+      }
+    ],
+    "websites": [
+      {
+        "id": 790175,
+        "url": "https://x.com/PoKoluStudio",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 754551,
+        "url": "https://discord.gg/GTYUGCyw2h",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 754550,
+        "url": "https://www.youtube.com/@PoKoluStudio",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 754549,
+        "url": "https://store.steampowered.com/app/3583970/Mycelium_The_Silent_Contract/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 878008,
+        "url": "https://www.instagram.com/po_kolu_studio",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1047425,
+        "url": "https://bsky.app/profile/proteusinteractive.com",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      }
+    ]
+  },
+  {
     "id": 387248,
     "cover": {
       "id": 530328,
