@@ -13923,6 +13923,175 @@
     ]
   },
   {
+    "id": 125370,
+    "cover": {
+      "id": 497762,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coao2q.jpg"
+    },
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 3,
+    "name": "In the Black",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 905932,
+        "date": 1777939200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 422655,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc924f.jpg"
+      }
+    ],
+    "status": 3,
+    "summary": "In The Black is a PC space combat sim based on realism from the designers of Crysis, MechWarrior 2, and X-Wing.",
+    "videos": [
+      {
+        "id": 45738,
+        "video_id": "IqBqHbvsSt0"
+      },
+      {
+        "id": 45740,
+        "video_id": "DbUyoXj8Qac"
+      },
+      {
+        "id": 45742,
+        "video_id": "diCyhGuvrpc"
+      },
+      {
+        "id": 45739,
+        "video_id": "HRYF4N1gisM"
+      },
+      {
+        "id": 45741,
+        "video_id": "gykA57nW88I"
+      },
+      {
+        "id": 45743,
+        "video_id": "Hd63xfEDqvA"
+      }
+    ],
+    "websites": [
+      {
+        "id": 223600,
+        "url": "https://store.steampowered.com/app/380110",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 892335,
+        "url": "https://www.youtube.com/@intheblackgame",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 892334,
+        "url": "https://www.instagram.com/intheblackgame/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 892336,
+        "url": "https://www.reddit.com/r/intheblack/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 892337,
+        "url": "https://bsky.app/profile/intheblackgame.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 170153,
+        "url": "https://discord.gg/intheblack",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 170152,
+        "url": "https://twitter.com/InTheBlackGame",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 170151,
+        "url": "https://www.facebook.com/InTheBlackGame",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 170148,
+        "url": "https://intheblack.gg/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 390938,
+        "url": "https://www.twitch.tv/directory/game/In%20The%20Black",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      }
+    ]
+  },
+  {
     "id": 169756,
     "cover": {
       "id": 494754,
