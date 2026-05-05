@@ -10261,6 +10261,143 @@
     ]
   },
   {
+    "id": 386835,
+    "cover": {
+      "id": 529493,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobck5.jpg"
+    },
+    "first_release_date": 1779926400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 3,
+    "involved_companies": [
+      {
+        "id": 368246,
+        "company": {
+          "id": 73246,
+          "name": "Krufs Productions"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Heavy Metal Death Can",
+    "platforms": [
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 907133,
+        "date": 1779926400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1746878,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11fwe.jpg"
+      },
+      {
+        "id": 1746881,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11fwh.jpg"
+      },
+      {
+        "id": 1746880,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11fwg.jpg"
+      },
+      {
+        "id": 1746879,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11fwf.jpg"
+      }
+    ],
+    "status": 3,
+    "summary": "Heavy Metal Death Can is a Retro-Inspired Survival-Horror game set on a submarine in an alternate late-70s Swedish setting. Trapped beneath the ocean, you must fight against the terrifying Sludge which has turned your crew into Zombies. Look for survivors and uncover the truth behind the madness.",
+    "videos": [
+      {
+        "id": 174199,
+        "video_id": "8zvmV8jRCLc"
+      }
+    ],
+    "websites": [
+      {
+        "id": 992534,
+        "url": "https://store.steampowered.com/app/3726370/Heavy_Metal_Death_Can/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 992535,
+        "url": "https://krufsproductions.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 992536,
+        "url": "https://www.instagram.com/krufsproductions/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 992537,
+        "url": "https://krufs.bsky.app/",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 1015147,
+        "url": "https://discord.gg/jzSPV8NdFT",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1015148,
+        "url": "https://www.youtube.com/@krufsproductions",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      }
+    ]
+  },
+  {
     "id": 335686,
     "cover": {
       "id": 454120,
