@@ -9778,6 +9778,206 @@
     ]
   },
   {
+    "id": 341592,
+    "cover": {
+      "id": 454158,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9qfi.jpg"
+    },
+    "first_release_date": 1777939200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 7,
+        "name": "Music"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 15,
+    "involved_companies": [
+      {
+        "id": 317812,
+        "company": {
+          "id": 63298,
+          "name": "Brain Jar Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Dead as Disco",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 508,
+        "name": "Nintendo Switch 2"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 891246,
+        "platform": {
+          "id": 130,
+          "name": "Nintendo Switch"
+        }
+      },
+      {
+        "id": 891247,
+        "platform": {
+          "id": 508,
+          "name": "Nintendo Switch 2"
+        }
+      },
+      {
+        "id": 891248,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 891249,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      },
+      {
+        "id": 899013,
+        "date": 1777939200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 899014,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1517242,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwipm.jpg"
+      },
+      {
+        "id": 1517243,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwipn.jpg"
+      },
+      {
+        "id": 1517245,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwipp.jpg"
+      },
+      {
+        "id": 1517246,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwipq.jpg"
+      },
+      {
+        "id": 1517244,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwipo.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Martial arts meets music video in Dead as Disco, a neon-drenched Beat ‘Em Up where every punch, kick, and combo syncs to the music. Join Charlie Disco on a quest to confront the villainous Idols and reunite the band.",
+    "videos": [
+      {
+        "id": 148408,
+        "video_id": "ipBPeI3bOW0"
+      },
+      {
+        "id": 180743,
+        "video_id": "cSNXMSU3vJo"
+      }
+    ],
+    "websites": [
+      {
+        "id": 737413,
+        "url": "https://www.instagram.com/deadasdiscogame/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 737414,
+        "url": "https://www.youtube.com/@DeadAsDiscoGame",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 734155,
+        "url": "https://store.steampowered.com/app/3404260",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 737412,
+        "url": "https://deadasdisco.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 982769,
+        "url": "https://www.twitch.tv/directory/category/dead-as-disco",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      }
+    ]
+  },
+  {
     "id": 374295,
     "cover": {
       "id": 499708,
