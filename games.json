@@ -7933,6 +7933,15 @@
     "hypes": 4,
     "involved_companies": [
       {
+        "id": 382863,
+        "company": {
+          "id": 76193,
+          "name": "Proteus Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
         "id": 382862,
         "company": {
           "id": 63759,
@@ -9476,6 +9485,10 @@
       {
         "id": 3,
         "name": "Co-operative"
+      },
+      {
+        "id": 5,
+        "name": "Massively Multiplayer Online (MMO)"
       }
     ],
     "genres": [
@@ -14283,6 +14296,14 @@
         "type": {
           "id": 18,
           "type": "Discord"
+        }
+      },
+      {
+        "id": 1051981,
+        "url": "https://www.gog.com/en/game/emberville",
+        "type": {
+          "id": 17,
+          "type": "GOG"
         }
       }
     ]
