@@ -9655,6 +9655,351 @@
     ]
   },
   {
+    "id": 214927,
+    "cover": {
+      "id": 403785,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8nk9.jpg"
+    },
+    "first_release_date": 1778112000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 23,
+    "involved_companies": [
+      {
+        "id": 284600,
+        "company": {
+          "id": 12815,
+          "name": "Radical Fish Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Alabaster Dawn",
+    "platforms": [
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 898414,
+        "date": 1778112000,
+        "platform": {
+          "id": 3,
+          "name": "Linux"
+        }
+      },
+      {
+        "id": 898415,
+        "date": 1778112000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 865537,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scijup.jpg"
+      },
+      {
+        "id": 1388106,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctr2i.jpg"
+      },
+      {
+        "id": 1388108,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctr2k.jpg"
+      },
+      {
+        "id": 1388107,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctr2j.jpg"
+      },
+      {
+        "id": 1388109,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctr2l.jpg"
+      },
+      {
+        "id": 1388110,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctr2m.jpg"
+      },
+      {
+        "id": 1388111,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctr2n.jpg"
+      },
+      {
+        "id": 1388112,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctr2o.jpg"
+      },
+      {
+        "id": 1388113,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctr2p.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Break Nyx’s curse and guide humanity\u0027s rebirth in this top-down 2.5D Action RPG from the creators of CrossCode. Battle enemies with stylish combos, wield multiple divine weapons, solve intriguing puzzles and explore a changing world.",
+    "videos": [
+      {
+        "id": 122013,
+        "video_id": "-wRZ-VLAqV8"
+      },
+      {
+        "id": 124729,
+        "video_id": "HAkca6vPdqQ"
+      },
+      {
+        "id": 156590,
+        "video_id": "G9NPC61PBto"
+      },
+      {
+        "id": 180757,
+        "video_id": "h9cvJQe9iNk"
+      }
+    ],
+    "websites": [
+      {
+        "id": 856333,
+        "url": "https://www.youtube.com/radicalfishgames",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 856330,
+        "url": "https://alabasterdawn.wiki.gg/",
+        "type": {
+          "id": 2,
+          "type": "Community Wiki"
+        }
+      },
+      {
+        "id": 856331,
+        "url": "https://x.com/RadicalFishGame",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 856332,
+        "url": "https://www.instagram.com/radicalfishgames/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 856334,
+        "url": "https://discord.gg/radicalfish",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 856335,
+        "url": "https://bsky.app/profile/radicalfishgames.com",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 501571,
+        "url": "https://www.twitch.tv/directory/game/Project%20Terra",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 662201,
+        "url": "https://www.alabaster-dawn.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 662200,
+        "url": "https://store.steampowered.com/app/3110760/Alabaster_Dawn/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      }
+    ]
+  },
+  {
+    "id": 387607,
+    "cover": {
+      "id": 531052,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobdrg.jpg"
+    },
+    "first_release_date": 1778112000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "hypes": 8,
+    "involved_companies": [
+      {
+        "id": 369436,
+        "company": {
+          "id": 12186,
+          "name": "Coffee Stain Publishing"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 369435,
+        "company": {
+          "id": 12185,
+          "name": "Easy Trigger Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Huntdown: Overtime",
+    "platforms": [
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 900793,
+        "date": 1778112000,
+        "platform": {
+          "id": 3,
+          "name": "Linux"
+        }
+      },
+      {
+        "id": 900794,
+        "date": 1778112000,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      },
+      {
+        "id": 900795,
+        "date": 1778112000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1750955,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11j1n.jpg"
+      },
+      {
+        "id": 1750956,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11j1o.jpg"
+      },
+      {
+        "id": 1750957,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11j1p.jpg"
+      },
+      {
+        "id": 1750958,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11j1q.jpg"
+      },
+      {
+        "id": 1750959,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11j1r.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Corporations turned crime-infested streets into profit margins for bounty hunters and John Sawyer is going to make a killing. Hunt, die, upgrade, repeat in this explosive roguelite prequel where every strategic upgrade strips away more flesh and builds a cybernetic fighter one chrome limb at a time.",
+    "videos": [
+      {
+        "id": 174852,
+        "video_id": "QMIjaUgLLJg"
+      },
+      {
+        "id": 181378,
+        "video_id": "jVs6ag1XfTw"
+      }
+    ],
+    "websites": [
+      {
+        "id": 997467,
+        "url": "https://www.youtube.com/@EasyTriggerGames",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 997469,
+        "url": "https://store.steampowered.com/app/2473350",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 997470,
+        "url": "https://easytrigger.com/overtime",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 997471,
+        "url": "https://discord.gg/huntdownovertime",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      }
+    ]
+  },
+  {
     "id": 374295,
     "cover": {
       "id": 499708,
