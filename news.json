@@ -50,7 +50,7 @@
   {
     "title": "Asus chases Elgato with its own secondary touchscreen display",
     "link": "https://www.theverge.com/games/927333/asus-rog-strix-xg129c-secondary-display",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/asus-rog-strix-xg129c-announcement-lifestyle.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/asus-rog-strix-xg129c-announcement-lifestyle.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
     "source": "The Verge (Games)",
     "category": "PC Gaming",
     "date": 1778272464000
@@ -104,9 +104,17 @@
     "date": 1778267674000
   },
   {
+    "title": "Mina The Hollower Promises 'One Of The Greatest Top-Down Adventures Ever' On Xbox This Month",
+    "link": "https://www.purexbox.com/news/2026/05/mina-the-hollower-promises-one-of-the-greatest-top-down-adventures-ever-on-xbox-this-month",
+    "thumbnail": "https://images.purexbox.com/bda06fed41299/large.jpg",
+    "source": "Pure Xbox",
+    "category": "Article",
+    "date": 1778265000000
+  },
+  {
     "title": "\"They were totally game to play ball\": how Zachtronics almost made a Star Trek engineering sim",
     "link": "https://www.rockpapershotgun.com/they-were-totally-game-to-play-ball-how-zachtronics-almost-made-a-star-trek-engineering-sim",
-    "thumbnail": "https://assetsio.gnwcdn.com/2_2bmfPq4.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
+    "thumbnail": "https://assetsio.gnwcdn.com/2_2bmfPq4.jpg?width=690&quality=85&format=jpg&auto=webp",
     "source": "Rock Paper Shotgun",
     "category": "Science Fiction",
     "date": 1778263448000
@@ -146,15 +154,23 @@
   {
     "title": "\"A handful of bottlenecks\" remain for Morrowind remake mod Skywind, but it's still progressing steadily towards release",
     "link": "https://www.rockpapershotgun.com/a-handful-of-bottlenecks-remain-for-morrowind-remake-mod-skywind-but-its-still-progressing-steadily-towards-release",
-    "thumbnail": "https://assetsio.gnwcdn.com/skywind-update-progress-2026-01.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
+    "thumbnail": "https://assetsio.gnwcdn.com/skywind-update-progress-2026-01.jpg?width=690&quality=85&format=jpg&auto=webp",
     "source": "Rock Paper Shotgun",
     "category": "First person",
     "date": 1778259600000
   },
   {
+    "title": "Xbox's First 'Gamerscore Millionaire' Suggests How To Improve 100% Completions",
+    "link": "https://www.purexbox.com/news/2026/05/xboxs-first-gamerscore-millionaire-suggests-how-to-improve-100percent-completions",
+    "thumbnail": "https://images.purexbox.com/9b133af8b097d/large.jpg",
+    "source": "Pure Xbox",
+    "category": "Article",
+    "date": 1778259600000
+  },
+  {
     "title": "The Steam Controller’s reservation queue is open",
     "link": "https://www.theverge.com/gadgets/924672/steam-controller-reservation-queue-buy",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268455_Steam_Controller_AKrales_0050.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268455_Steam_Controller_AKrales_0050.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
     "source": "The Verge (Games)",
     "category": "Gadgets",
     "date": 1778259582000
@@ -170,7 +186,7 @@
   {
     "title": "Family Reunion is a dinnertime simulation game that captures the wonder and boredom of being a loosely disciplined 7-year-old",
     "link": "https://www.rockpapershotgun.com/family-reunion-is-a-dinnertime-simulation-game-that-captures-the-wonder-and-boredom-of-being-a-loosely-disciplined-7-year-old",
-    "thumbnail": "https://assetsio.gnwcdn.com/Family-Reunion-smashed.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
+    "thumbnail": "https://assetsio.gnwcdn.com/Family-Reunion-smashed.jpg?width=690&quality=85&format=jpg&auto=webp",
     "source": "Rock Paper Shotgun",
     "category": "Point and Click",
     "date": 1778257890000
@@ -178,7 +194,7 @@
   {
     "title": "PlayStation sees AI as a ‘powerful tool’ to help make games",
     "link": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717608/247361_PS5_Pro_VPavic_55.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717608/247361_PS5_Pro_VPavic_55.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
     "source": "The Verge (Games)",
     "category": "AI",
     "date": 1778257856000
@@ -196,8 +212,16 @@
     "link": "https://www.eurogamer.net/resident-evil-requiem-leon-great-character-70s",
     "thumbnail": "https://assetsio.gnwcdn.com/resident-evil-requiem-header-4.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
     "source": "Eurogamer",
-    "category": "Horror",
+    "category": "Single Player",
     "date": 1778256242000
+  },
+  {
+    "title": "Xbox Partners With LEGO For Two New Forza Horizon 6 Sets, Complete With In-Game Bonuses",
+    "link": "https://www.purexbox.com/news/2026/05/xbox-partners-with-lego-for-two-new-forza-horizon-6-sets-complete-with-in-game-bonuses",
+    "thumbnail": "https://images.purexbox.com/f007e50d2c583/large.jpg",
+    "source": "Pure Xbox",
+    "category": "Article",
+    "date": 1778256000000
   },
   {
     "title": "Everyone should follow Logitech and put extra USB ports on iPad keyboard cases",
@@ -210,7 +234,7 @@
   {
     "title": "Microsoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure",
     "link": "https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/gettyimages-2153471300.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/gettyimages-2153471300.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
     "source": "The Verge (Games)",
     "category": "AI",
     "date": 1778253902000
@@ -236,13 +260,21 @@
     "link": "https://www.eurogamer.net/takashi-tezuka-nintendo-retiring",
     "thumbnail": "https://assetsio.gnwcdn.com/Takashi-Tezuka-sits-on-a-sofa-with-Nintendo-Switch-cushions-either-side-of-him.webp?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
     "source": "Eurogamer",
-    "category": "N64",
+    "category": "Nintendo DS",
     "date": 1778252580000
+  },
+  {
+    "title": "Talking Point: Amidst PS6 Uncertainty, Do You Think Xbox Has Project Helix All Figured Out?",
+    "link": "https://www.purexbox.com/features/talking-point-amidst-ps6-uncertainty-do-you-think-xbox-has-project-helix-all-figured-out",
+    "thumbnail": "https://images.purexbox.com/310d7ec195e26/large.jpg",
+    "source": "Pure Xbox",
+    "category": "Article",
+    "date": 1778252400000
   },
   {
     "title": "Rally Point: What's it like to be in charge of the Xenonauts? Um. Two?",
     "link": "https://www.rockpapershotgun.com/rally-point-whats-it-like-to-be-in-charge-of-the-xenonauts-um-two",
-    "thumbnail": "https://assetsio.gnwcdn.com/Xenonauts-2-(2).jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
+    "thumbnail": "https://assetsio.gnwcdn.com/Xenonauts-2-(2).jpg?width=690&quality=85&format=jpg&auto=webp",
     "source": "Rock Paper Shotgun",
     "category": "Strategy: Turn-Based Strategy",
     "date": 1778251274000
@@ -252,13 +284,13 @@
     "link": "https://www.eurogamer.net/pokemon-fire-red-leaf-green-sales-switch-2",
     "thumbnail": "https://assetsio.gnwcdn.com/leaf-pokemon-red-green-money.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
     "source": "Eurogamer",
-    "category": "Action Adventure",
+    "category": "Nintendo GBA",
     "date": 1778251089000
   },
   {
     "title": "The future of game consoles is looking bleak",
     "link": "https://www.theverge.com/games/926772/nintendo-switch-2-price-hike-console-gaming-future",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257796_Nintendo_Switch_2_size_comparison_ADiBenedetto_0034.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257796_Nintendo_Switch_2_size_comparison_ADiBenedetto_0034.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
     "source": "The Verge (Games)",
     "category": "Analysis",
     "date": 1778250760000
@@ -274,17 +306,25 @@
   {
     "title": "Helldivers 2's galactic war will include more \"multi-week themed campaigns\" and \"branching outcomes\" starting this summer, Arrowhead reveal",
     "link": "https://www.rockpapershotgun.com/helldivers-2s-galactic-war-will-include-more-multi-week-themed-campaigns-and-branching-outcomes-starting-this-summer-arrowhead-reveal",
-    "thumbnail": "https://assetsio.gnwcdn.com/helldivers-2-arrowhead-galactic-war-change-plans-01.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
+    "thumbnail": "https://assetsio.gnwcdn.com/helldivers-2-arrowhead-galactic-war-change-plans-01.jpg?width=690&quality=85&format=jpg&auto=webp",
     "source": "Rock Paper Shotgun",
     "category": "First person",
     "date": 1778249351000
+  },
+  {
+    "title": "Game Pass Platformer Replaced Sees Progression &amp; Chapter Select Fixes In New Xbox Update",
+    "link": "https://www.purexbox.com/news/2026/05/game-pass-platformer-replaced-sees-progression-and-chapter-select-fixes-in-new-xbox-update",
+    "thumbnail": "https://images.purexbox.com/45b6cf5bd8da7/large.jpg",
+    "source": "Pure Xbox",
+    "category": "Article",
+    "date": 1778247000000
   },
   {
     "title": "Path of Exile 2 will effectively be Steam Deck verified by the end of May, which bodes very well for the prospect of a Switch 2 release",
     "link": "https://www.eurogamer.net/path-of-exile-2-steam-deck-verified-switch",
     "thumbnail": "https://assetsio.gnwcdn.com/path-of-exile-2-steam-deck.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
     "source": "Eurogamer",
-    "category": "Hack &amp; Slash",
+    "category": "Grinding Gear Games",
     "date": 1778243997000
   },
   {
@@ -292,7 +332,7 @@
     "link": "https://www.eurogamer.net/bungie-marathon-destiny-765-million-impairment-loss-sony",
     "thumbnail": "https://assetsio.gnwcdn.com/marathon-stock-loss.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
     "source": "Eurogamer",
-    "category": "Bungie",
+    "category": "Multiplayer Competitive",
     "date": 1778243652000
   },
   {
@@ -300,21 +340,29 @@
     "link": "https://www.eurogamer.net/clair-obscur-expedition-33-andy-serkis-hollywood-actors",
     "thumbnail": "https://assetsio.gnwcdn.com/renoir-serkis.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
     "source": "Eurogamer",
-    "category": "Xbox Series X/S",
+    "category": "Single Player",
     "date": 1778242691000
   },
   {
     "title": "Fallout 1 and The Elder Scrolls 3: Morrowind now run on Fallout 4's Pip-Boy and computer terminals, thanks to a modder",
     "link": "https://www.rockpapershotgun.com/fallout-1-and-the-elder-scrolls-3-morrowind-running-on-fallout-4-pip-boy-mods",
-    "thumbnail": "https://assetsio.gnwcdn.com/fallout-1-morrowind-on-fallout-4-pip-boy-mod-01.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
+    "thumbnail": "https://assetsio.gnwcdn.com/fallout-1-morrowind-on-fallout-4-pip-boy-mod-01.jpg?width=690&quality=85&format=jpg&auto=webp",
     "source": "Rock Paper Shotgun",
     "category": "First person",
     "date": 1778241775000
   },
   {
+    "title": "Xbox Needs To 'Sweat Every Detail' In Winning Over 'Frustrated' Players, Says Asha Sharma",
+    "link": "https://www.purexbox.com/news/2026/05/xbox-needs-to-sweat-every-detail-in-winning-over-frustrated-players-says-asha-sharma",
+    "thumbnail": "https://images.purexbox.com/1bc654a4e1256/large.jpg",
+    "source": "Pure Xbox",
+    "category": "Article",
+    "date": 1778241600000
+  },
+  {
     "title": "2K lay off staff at Project Ethos while touting \"a renewed direction and vision\" for their by-the-numbers hero shooter",
     "link": "https://www.rockpapershotgun.com/2k-lay-off-staff-at-project-ethos-while-touting-a-renewed-direction-and-vision-for-their-by-the-numbers-hero-shooter",
-    "thumbnail": "https://assetsio.gnwcdn.com/project-ethos_oOzDnR1.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
+    "thumbnail": "https://assetsio.gnwcdn.com/project-ethos_oOzDnR1.jpg?width=690&quality=85&format=jpg&auto=webp",
     "source": "Rock Paper Shotgun",
     "category": "31st Union",
     "date": 1778240658000
@@ -330,10 +378,18 @@
   {
     "title": "\"Your infidelity will no longer be broadcasted to everyone as it happens\" declares Crusader Kings 3's latest patch, unless you made a baby at a certain time",
     "link": "https://www.rockpapershotgun.com/your-infidelity-will-no-longer-be-broadcasted-to-everyone-as-it-happens-declares-crusader-kings-3s-latest-patch-unless-you-made-a-baby-at-a-certain-time",
-    "thumbnail": "https://assetsio.gnwcdn.com/crusader-kings-3-patch-infedelity-fix-01.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
+    "thumbnail": "https://assetsio.gnwcdn.com/crusader-kings-3-patch-infedelity-fix-01.jpg?width=690&quality=85&format=jpg&auto=webp",
     "source": "Rock Paper Shotgun",
     "category": "Text",
     "date": 1778238087000
+  },
+  {
+    "title": "Two More Big Xbox Series X|S Sequels Have Just Been Confirmed For Summer 2026",
+    "link": "https://www.purexbox.com/news/2026/05/two-more-big-xbox-series-xs-sequels-have-just-been-confirmed-for-summer-2026",
+    "thumbnail": "https://images.purexbox.com/4967c5e8de1a3/large.jpg",
+    "source": "Pure Xbox",
+    "category": "Article",
+    "date": 1778238000000
   },
   {
     "title": "Switch 2 sales reach nearly 20m almost one year after release, but Nintendo has lowered the console's forecast for 2027",
@@ -346,7 +402,7 @@
   {
     "title": "Path of Exile 2's 1.0 release might slip beyond 2026, but at least we're getting a crafting system that summons skeletons to beat you up when you use it",
     "link": "https://www.rockpapershotgun.com/path-of-exile-2s-10-release-might-slip-beyond-2026-but-at-least-were-getting-a-crafting-system-that-summons-skeletons-to-beat-you-up-when-you-use-it",
-    "thumbnail": "https://assetsio.gnwcdn.com/unnamed_OmZknWn.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
+    "thumbnail": "https://assetsio.gnwcdn.com/unnamed_OmZknWn.png?width=690&quality=85&format=jpg&auto=webp",
     "source": "Rock Paper Shotgun",
     "category": "Grinding Gear Games",
     "date": 1778236066000
@@ -356,8 +412,16 @@
     "link": "https://www.eurogamer.net/sony-bandai-namco-generative-ai-initiative",
     "thumbnail": "https://assetsio.gnwcdn.com/Template-w-shadow%2C-blue%2C-split%2C-switch-2-(5).jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
     "source": "Eurogamer",
-    "category": "Machine learning",
+    "category": "Sony",
     "date": 1778235843000
+  },
+  {
+    "title": "Official Xbox Dashboard Mockup Hints At Potential Changes Across Console, PC &amp; Mobile",
+    "link": "https://www.purexbox.com/news/2026/05/official-xbox-dashboard-mockup-hints-at-potential-changes-across-console-pc-and-mobile",
+    "thumbnail": "https://images.purexbox.com/096741f6cab11/large.jpg",
+    "source": "Pure Xbox",
+    "category": "Article",
+    "date": 1778234400000
   },
   {
     "title": "Sony hasn't decided on PS6 release date or price yet, and may even \"change business models\" in response to the memory crisis",
@@ -370,7 +434,7 @@
   {
     "title": "\"Leon must die forever\" screams Resident Evil Requiem's new endgame battle rush mode, out now for free",
     "link": "https://www.rockpapershotgun.com/leon-must-die-forever-screams-resident-evil-requiems-new-endgame-battle-rush-mode-out-now-for-free",
-    "thumbnail": "https://assetsio.gnwcdn.com/resident-evil-requiem-cold-bath-hot-sauna-01.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
+    "thumbnail": "https://assetsio.gnwcdn.com/resident-evil-requiem-cold-bath-hot-sauna-01.jpg?width=690&quality=85&format=jpg&auto=webp",
     "source": "Rock Paper Shotgun",
     "category": "First person",
     "date": 1778233200000
@@ -380,13 +444,13 @@
     "link": "https://www.eurogamer.net/steam-controller-valve-adds-reservations-system",
     "thumbnail": "https://assetsio.gnwcdn.com/steam-controller-header.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
     "source": "Eurogamer",
-    "category": "Valve",
+    "category": "Steam Controller",
     "date": 1778232497000
   },
   {
     "title": "Sony’s PS5 sales plummet amid price rises and a memory crisis",
     "link": "https://www.theverge.com/news/926609/sonys-ps5-sales-plummet-memory-costs-price-hikes",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717622/247361_PS5_Pro_VPavic_256.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717622/247361_PS5_Pro_VPavic_256.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
     "source": "The Verge (Games)",
     "category": "PlayStation",
     "date": 1778231754000
@@ -394,89 +458,25 @@
   {
     "title": "Nintendo is raising Switch 2 prices",
     "link": "https://www.theverge.com/games/926606/nintendo-switch-2-price-hikes-earnings-results",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0395_588c1a.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0395_588c1a.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
     "source": "The Verge (Games)",
     "category": "Business",
     "date": 1778229204000
   },
   {
+    "title": "Roundup: All The Biggest Xbox Reveals From The Nacon Connect Showcase 2026",
+    "link": "https://www.purexbox.com/features/roundup-all-the-biggest-xbox-reveals-from-the-nacon-connect-showcase-2026",
+    "thumbnail": "https://images.purexbox.com/afd2cd073063c/large.jpg",
+    "source": "Pure Xbox",
+    "category": "Article",
+    "date": 1778178960000
+  },
+  {
     "title": "Valve is fighting Steam Controller scalpers with a new reservations system",
     "link": "https://www.theverge.com/games/926286/valve-steam-controller-reservations-queue-scalpers",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268455_Steam_Controller_AKrales_0082.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268455_Steam_Controller_AKrales_0082.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
     "source": "The Verge (Games)",
     "category": "Entertainment",
     "date": 1778177161000
-  },
-  {
-    "title": "Did Microsoft just tease a new Xbox UI?",
-    "link": "https://www.theverge.com/news/926170/new-xbox-ui-dashboard-console-handheld-cloud",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/xboxuiteaser.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source": "The Verge (Games)",
-    "category": "Microsoft",
-    "date": 1778174976000
-  },
-  {
-    "title": "Inside the return of Xbox",
-    "link": "https://www.theverge.com/tech/925966/microsoft-return-to-xbox-town-hall-notepad",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/xboxlogo.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source": "The Verge (Games)",
-    "category": "Microsoft",
-    "date": 1778169600000
-  },
-  {
-    "title": "Google DeepMind partners with EVE Online for AI model testing",
-    "link": "https://arstechnica.com/gaming/2026/05/google-deepmind-partners-with-eve-online-for-ai-model-testing/",
-    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2016/08/eve-online-500x500-1778085020.jpg",
-    "source": "Ars Technica",
-    "category": "AI",
-    "date": 1778086609000
-  },
-  {
-    "title": "AMD is adding HDMI 2.1 support for Linux. That's good news for the Steam Machine.",
-    "link": "https://arstechnica.com/gaming/2026/05/amd-is-adding-hdmi-2-1-support-for-linux-thats-good-news-for-the-steam-machine/",
-    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/valve-steam-machine-desktop-1-500x500.jpeg",
-    "source": "Ars Technica",
-    "category": "AMD",
-    "date": 1777912009000
-  },
-  {
-    "title": "The RAMpocalypse has bought Microsoft valuable time in the fight against SteamOS",
-    "link": "https://arstechnica.com/gaming/2026/05/the-rampocalypse-has-bought-microsoft-valuable-time-in-the-fight-against-steamos/",
-    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/press_oled_orb-1-500x500.jpeg",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "date": 1777672859000
-  },
-  {
-    "title": "Nvidia fixes the 8GB RAM problem with one of its GPUs—if you can pay for it",
-    "link": "https://arstechnica.com/gadgets/2026/04/nvidia-fixes-the-8gb-ram-problem-with-one-of-its-gpus-if-you-can-pay-for-it/",
-    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/geforce-rtx-50-series-laptop-hero-af360-p@2x-500x500.jpg",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "date": 1777478788000
-  },
-  {
-    "title": "\"Super ZSNES\" is a stab at a modern SNES emulator from the original developers",
-    "link": "https://arstechnica.com/gadgets/2026/04/super-zsnes-is-a-stab-at-a-modern-snes-emulator-from-the-original-developers/",
-    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/super-zsnes-500x500.png",
-    "source": "Ars Technica",
-    "category": "Tech",
-    "date": 1777314614000
-  },
-  {
-    "title": "Steam Controller: The Ars Technica review",
-    "link": "https://arstechnica.com/gaming/2026/04/steam-controller-the-ars-technica-review/",
-    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/sc8-500x500.jpg",
-    "source": "Ars Technica",
-    "category": "controller",
-    "date": 1777311393000
-  },
-  {
-    "title": "Meet the players who lost big money on Peter Molyneux’s failed Legacy",
-    "link": "https://arstechnica.com/gaming/2026/04/how-legacy-became-a-costly-crypto-bust-for-players-and-a-business-win-for-peter-molyneux/",
-    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/milhouse-nft-pog-500x500.jpg",
-    "source": "Ars Technica",
-    "category": "Features",
-    "date": 1777286731000
   }
 ]
