@@ -1,5 +1,21 @@
 [
   {
+    "title": "Lies of P studio is hiring an 'AI Creator' for future projects but says the role will not be 'directly involved' in the development of the sequel",
+    "link": "https://www.pcgamer.com/software/ai/lies-of-p-studio-is-hiring-an-ai-creator-for-future-projects-but-says-the-role-will-not-be-directly-involved-in-the-development-of-the-sequel/",
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/zrQ8cV4b9gUrdPuLKoL4eQ-1280-80.jpg",
+    "source": "PC Gamer",
+    "category": "AI",
+    "date": 1778634802000
+  },
+  {
+    "title": "Sega has canceled its live service 'Super Game' due to 'intensifying market competition,' and I really, really hope it's a sign that the industry is finally correcting itself",
+    "link": "https://www.pcgamer.com/gaming-industry/sega-has-canceled-its-live-service-super-game-due-to-intensifying-market-competition-and-i-really-really-hope-its-a-sign-that-the-industry-is-finally-correcting-itself/",
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/cuV6yTAY2b49S4WfEpjHHc-1280-80.jpg",
+    "source": "PC Gamer",
+    "category": "Gaming Industry",
+    "date": 1778634205000
+  },
+  {
     "title": "After his shock retirement last year, legendary former Tekken boss has landed at one of Japan's biggest fighting game publishers",
     "link": "https://www.pcgamer.com/gaming-industry/after-his-shock-retirement-last-year-legendary-former-tekken-boss-has-landed-at-one-of-japans-biggest-fighting-game-publishers/",
     "thumbnail": "https://cdn.mos.cms.futurecdn.net/r4DQz5LPdT63P6rSM6fZbM-1280-80.jpg",
@@ -120,22 +136,6 @@
     "date": 1778612220000
   },
   {
-    "title": "Protesters 'raid' EA to oppose Saudi Arabia acquisition",
-    "link": "https://www.pcgamer.com/gaming-industry/protesters-raid-ea-to-oppose-saudi-arabia-acquisition/",
-    "thumbnail": "https://cdn.mos.cms.futurecdn.net/qHvuro5diaRgiTuXAZVL8T-1280-80.jpg",
-    "source": "PC Gamer",
-    "category": "Gaming Industry",
-    "date": 1778609866000
-  },
-  {
-    "title": "This vampire farm sim has Real Housewives of Stardew energy",
-    "link": "https://www.pcgamer.com/games/life-sim/moonlight-peaks-preview-impressions/",
-    "thumbnail": "https://cdn.mos.cms.futurecdn.net/YGQomtvKHNWxEXkrWb3WmU-1280-80.jpg",
-    "source": "PC Gamer",
-    "category": "Life Sim",
-    "date": 1778609149000
-  },
-  {
     "title": "Talking Point: One Year Later, What Do You Think Of DOOM: The Dark Ages?",
     "link": "https://www.purexbox.com/features/talking-point-one-year-later-what-do-you-think-of-doom-the-dark-ages",
     "thumbnail": "https://images.purexbox.com/e7345f9c158e5/large.jpg",
@@ -236,7 +236,7 @@
     "link": "https://www.eurogamer.net/gta-6-developer-rockstar-union-busting-legal-proceedings",
     "thumbnail": "https://assetsio.gnwcdn.com/Lucia-in-GTA-6-using-a-punch-bag.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
     "source": "Eurogamer",
-    "category": "Third person",
+    "category": "Racing",
     "date": 1778602343000
   },
   {
@@ -244,7 +244,7 @@
     "link": "https://www.eurogamer.net/microsoft-israel-xbox-boycotts-restructuring",
     "thumbnail": "https://assetsio.gnwcdn.com/xbox-logo_yqqi6oN.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
     "source": "Eurogamer",
-    "category": "Xbox Series X/S",
+    "category": "Microsoft",
     "date": 1778601543000
   },
   {
@@ -300,7 +300,7 @@
     "link": "https://www.eurogamer.net/sega-cancels-super-game-teases-classics-revivals",
     "thumbnail": "https://assetsio.gnwcdn.com/SEGA_Golden-Axe-background.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
     "source": "Eurogamer",
-    "category": "iOS",
+    "category": "SEGA",
     "date": 1778593289000
   },
   {
@@ -324,7 +324,7 @@
     "link": "https://www.eurogamer.net/phasmophonia-alan-wake-2-crossover-free-update",
     "thumbnail": "https://assetsio.gnwcdn.com/AW-launch-screen-6(2).jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
     "source": "Eurogamer",
-    "category": "Indie",
+    "category": "Puzzle",
     "date": 1778587777000
   },
   {
@@ -332,7 +332,7 @@
     "link": "https://www.eurogamer.net/nintendo-teases-robust-switch-2-software-line-up",
     "thumbnail": "https://assetsio.gnwcdn.com/PIXEL-9---2025-04-01T144815.435.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
     "source": "Eurogamer",
-    "category": "Nintendo Switch 2",
+    "category": "Nintendo",
     "date": 1778587136000
   },
   {
@@ -348,7 +348,7 @@
     "link": "https://www.eurogamer.net/indiana-jones-and-the-great-circle-nintendo-switch-2",
     "thumbnail": "https://assetsio.gnwcdn.com/Indiana-Jones_Switch-2_snake-boss.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
     "source": "Eurogamer",
-    "category": "MachineGames",
+    "category": "Puzzle",
     "date": 1778583676000
   },
   {
@@ -362,7 +362,7 @@
   {
     "title": "eBay rejects GameStop’s $56 billion acquisition bid",
     "link": "https://www.theverge.com/games/928436/ebay-rejects-gamestop-acquisition-bid",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2274483669.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2274483669.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source": "The Verge (Games)",
     "category": "Business",
     "date": 1778583302000
@@ -372,7 +372,7 @@
     "link": "https://www.eurogamer.net/valve-steam-machine-512gb-2tb",
     "thumbnail": "https://assetsio.gnwcdn.com/steam-machine-green.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
     "source": "Eurogamer",
-    "category": "Steam Controller",
+    "category": "Steam Machine",
     "date": 1778580651000
   },
   {
@@ -388,7 +388,7 @@
     "link": "https://www.eurogamer.net/troy-baker-indiana-jones-great-circle-raiders-lost-ark",
     "thumbnail": "https://assetsio.gnwcdn.com/Screenshot-from-Indiana-Jones-and-the-Great-Circle-showing-Indy-holding-up-a-golden-idol-inside-a-large-cave-like-room-covered-in-foliage.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
     "source": "Eurogamer",
-    "category": "MachineGames",
+    "category": "Puzzle",
     "date": 1778577299000
   },
   {
@@ -418,7 +418,7 @@
   {
     "title": "Discord adds a free Xbox Game Pass ‘starter edition’ for Nitro subscribers",
     "link": "https://www.theverge.com/news/927722/discord-xbox-game-pass-starter-edition-nitro-subscribers",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Xbox-Game-Pass_Discord-Nitro_FINAL_5_11-ff69e5bb4ba1fe856123.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Xbox-Game-Pass_Discord-Nitro_FINAL_5_11-ff69e5bb4ba1fe856123.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source": "The Verge (Games)",
     "category": "Microsoft",
     "date": 1778504400000
@@ -426,7 +426,7 @@
   {
     "title": "Wordle is turning into a primetime TV game show on NBC",
     "link": "https://www.theverge.com/games/927536/wordle-game-show-nbc-savannah-guthrie-jimmy-fallon-new-york-times",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2165102414.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2165102414.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source": "The Verge (Games)",
     "category": "Entertainment",
     "date": 1778503800000
@@ -434,7 +434,7 @@
   {
     "title": "Forza Horizon 6 has been leaked and cracked a week before its release",
     "link": "https://www.theverge.com/news/927704/forza-horizon-6-leak-cracked",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/forzahorizon6.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/forzahorizon6.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source": "The Verge (Games)",
     "category": "Entertainment",
     "date": 1778494877000
@@ -442,7 +442,7 @@
   {
     "title": "Netflix may have finally figured out games",
     "link": "https://www.theverge.com/column/926250/netflix-tv-games-strategy",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/LegoParty.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/LegoParty.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source": "The Verge (Games)",
     "category": "Column",
     "date": 1778414400000
@@ -450,7 +450,7 @@
   {
     "title": "Let it snow",
     "link": "https://www.theverge.com/entertainment/926911/snow-video-games-moomins-froggy",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/MarketingVideo_MAIN21.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/MarketingVideo_MAIN21.webp?quality=90&strip=all&crop=0,0,100,100",
     "source": "The Verge (Games)",
     "category": "Entertainment",
     "date": 1778331600000
@@ -466,7 +466,7 @@
   {
     "title": "Asus chases Elgato with its own secondary touchscreen display",
     "link": "https://www.theverge.com/games/927333/asus-rog-strix-xg129c-secondary-display",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/asus-rog-strix-xg129c-announcement-lifestyle.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/asus-rog-strix-xg129c-announcement-lifestyle.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source": "The Verge (Games)",
     "category": "PC Gaming",
     "date": 1778272464000
@@ -474,7 +474,7 @@
   {
     "title": "The Steam Controller’s reservation queue is open",
     "link": "https://www.theverge.com/gadgets/924672/steam-controller-reservation-queue-buy",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268455_Steam_Controller_AKrales_0050.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268455_Steam_Controller_AKrales_0050.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source": "The Verge (Games)",
     "category": "Gadgets",
     "date": 1778259582000
