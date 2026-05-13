@@ -14595,6 +14595,10 @@
       {
         "id": 178648,
         "video_id": "7YnopCuFTWM"
+      },
+      {
+        "id": 183420,
+        "video_id": "qdHGDsSYiQE"
       }
     ],
     "websites": [
@@ -14901,7 +14905,7 @@
     "hypes": 84,
     "involved_companies": [
       {
-        "id": 291805,
+        "id": 386398,
         "company": {
           "id": 41542,
           "name": "Krafton"
@@ -14910,13 +14914,13 @@
         "publisher": true
       },
       {
-        "id": 369209,
+        "id": 386399,
         "company": {
           "id": 856,
           "name": "Unknown Worlds Entertainment"
         },
         "developer": true,
-        "publisher": false
+        "publisher": true
       }
     ],
     "name": "Subnautica 2",
@@ -14924,6 +14928,10 @@
       {
         "id": 169,
         "name": "Xbox Series X|S"
+      },
+      {
+        "id": 11,
+        "name": "Xbox"
       },
       {
         "id": 6,
@@ -14995,7 +15003,7 @@
       }
     ],
     "status": 4,
-    "summary": "Dive into uncharted waters in Subnautica 2, the hotly-anticipated sequel to Subnautica and Subnautica: Below Zero. Adventure alone or with friends as you try to survive on an all-new mysterious alien planet.",
+    "summary": "Subnautica 2 is an underwater survival adventure set on an all-new alien world, developed by Unknown Worlds. Play alone or with friends in 4-player co-op. Adapt to survive by building custom bases and crafting tools. Explore the unknown to uncover the mysteries hidden within the depths.",
     "videos": [
       {
         "id": 130115,
