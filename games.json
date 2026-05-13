@@ -9657,6 +9657,10 @@
         "name": "PC (Microsoft Windows)"
       },
       {
+        "id": 167,
+        "name": "PlayStation 5"
+      },
+      {
         "id": 130,
         "name": "Nintendo Switch"
       }
@@ -9684,6 +9688,14 @@
         "platform": {
           "id": 130,
           "name": "Nintendo Switch"
+        }
+      },
+      {
+        "id": 911291,
+        "date": 1778544000,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
         }
       }
     ],
