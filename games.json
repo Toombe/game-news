@@ -9653,6 +9653,10 @@
     "name": "Nitro Gen Omega",
     "platforms": [
       {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
         "id": 6,
         "name": "PC (Microsoft Windows)"
       },
@@ -9696,6 +9700,14 @@
         "platform": {
           "id": 167,
           "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 911672,
+        "date": 1778544000,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
         }
       }
     ],
@@ -9783,6 +9795,10 @@
       {
         "id": 181244,
         "video_id": "fvxcuBjzioc"
+      },
+      {
+        "id": 183401,
+        "video_id": "YVzn904OjJM"
       }
     ],
     "websites": [
