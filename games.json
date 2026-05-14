@@ -9550,6 +9550,14 @@
       {
         "id": 183401,
         "video_id": "YVzn904OjJM"
+      },
+      {
+        "id": 183595,
+        "video_id": "Pfwyw3INWCw"
+      },
+      {
+        "id": 183596,
+        "video_id": "174PR4JCE1I"
       }
     ],
     "websites": [
@@ -9607,6 +9615,14 @@
         "type": {
           "id": 23,
           "type": "Playstation"
+        }
+      },
+      {
+        "id": 1055353,
+        "url": "https://www.xbox.com/en-US/games/store/nitro-gen-omega/9p12lmnlrnr7",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
         }
       }
     ]
