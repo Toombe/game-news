@@ -9026,10 +9026,159 @@
     ]
   },
   {
-    "id": 287707,
+    "id": 111333,
     "cover": {
-      "id": 535584,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobh9c.jpg"
+      "id": 526690,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobaea.jpg"
+    },
+    "first_release_date": 1778716800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 386856,
+        "company": {
+          "id": 76923,
+          "name": "Apocalypse Studios"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Deadhaus Sonata",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 912493,
+        "date": 1778716800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 341147,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7b8b.jpg"
+      },
+      {
+        "id": 341143,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7b87.jpg"
+      },
+      {
+        "id": 341145,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7b89.jpg"
+      },
+      {
+        "id": 341144,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7b88.jpg"
+      },
+      {
+        "id": 341146,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7b8a.jpg"
+      },
+      {
+        "id": 341142,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7b86.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Deadhaus Sonata is a cooperative multiplayer, free-to-play, action RPG where you play the dead fighting the living. An unstoppable force from Deadhaus, you are a monster among men, dealing death and destruction on a massive scale.",
+    "videos": [
+      {
+        "id": 173150,
+        "video_id": "F57BmeaZyYc"
+      },
+      {
+        "id": 183602,
+        "video_id": "Cjynu2PHoNw"
+      }
+    ],
+    "websites": [
+      {
+        "id": 124078,
+        "url": "https://store.steampowered.com/app/1142050",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 898502,
+        "url": "https://discord.gg/deadhaus",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 898503,
+        "url": "https://x.com/DeadhausGame",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 898504,
+        "url": "https://www.youtube.com/deadhaussonata/",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 124079,
+        "url": "https://deadhaussonata.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 386683,
+        "url": "https://www.twitch.tv/directory/game/Deadhaus%20Sonata",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      }
+    ]
+  },
+  {
+    "id": 317334,
+    "cover": {
+      "id": 437082,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9d96.jpg"
     },
     "first_release_date": 1778716800,
     "game_modes": [
@@ -9040,248 +9189,172 @@
     ],
     "genres": [
       {
-        "id": 2,
-        "name": "Point-and-click"
-      },
-      {
-        "id": 9,
-        "name": "Puzzle"
+        "id": 12,
+        "name": "Role-playing (RPG)"
       },
       {
         "id": 31,
         "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
       }
     ],
     "hypes": 5,
     "involved_companies": [
       {
-        "id": 382257,
+        "id": 287880,
         "company": {
-          "id": 27522,
-          "name": "imaginarylab"
+          "id": 25570,
+          "name": "Mirari\u0026Co"
         },
         "developer": true,
         "publisher": true
       }
     ],
-    "name": "Whirlight: No Time To Trip",
+    "name": "Dark Light: Survivor",
     "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 48,
-        "name": "PlayStation 4"
-      },
       {
         "id": 6,
         "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      },
-      {
-        "id": 130,
-        "name": "Nintendo Switch"
       }
     ],
     "release_dates": [
       {
-        "id": 902159,
+        "id": 907068,
         "date": 1778716800,
         "platform": {
           "id": 6,
           "name": "PC (Microsoft Windows)"
         }
-      },
-      {
-        "id": 902160,
-        "date": 1790726400,
-        "platform": {
-          "id": 130,
-          "name": "Nintendo Switch"
-        }
-      },
-      {
-        "id": 902161,
-        "date": 1790726400,
-        "platform": {
-          "id": 48,
-          "name": "PlayStation 4"
-        }
-      },
-      {
-        "id": 902162,
-        "date": 1790726400,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 902163,
-        "date": 1790726400,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
       }
     ],
     "screenshots": [
       {
-        "id": 1244489,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqo95.jpg"
+        "id": 1398261,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctywl.jpg"
       },
       {
-        "id": 1244492,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqo98.jpg"
+        "id": 1398263,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctywn.jpg"
       },
       {
-        "id": 1244490,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqo96.jpg"
+        "id": 1398259,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctywj.jpg"
       },
       {
-        "id": 1244478,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqo8u.jpg"
+        "id": 1398260,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctywk.jpg"
       },
       {
-        "id": 1244482,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqo8y.jpg"
+        "id": 1398262,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctywm.jpg"
       },
       {
-        "id": 1244483,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqo8z.jpg"
+        "id": 1398264,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctywo.jpg"
       },
       {
-        "id": 1244486,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqo92.jpg"
+        "id": 1398265,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctywp.jpg"
       },
       {
-        "id": 1244488,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqo94.jpg"
+        "id": 1398266,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctywq.jpg"
       },
       {
-        "id": 1244491,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqo97.jpg"
-      },
-      {
-        "id": 1244493,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqo99.jpg"
+        "id": 1398267,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctywr.jpg"
       }
     ],
-    "status": 3,
-    "summary": "In the heart of Verice Bay, a brilliant idea takes shape in the hands of an eccentric inventor and an eclectic artist. Follow Margaret and Hector in a point-and-click graphic adventure that will take you to the edge of space and time to help them avert imminent danger.",
+    "status": 4,
+    "summary": "In a dying multiverse, the Phantom Train is your last hope. Traverse a post-apocalyptic, cyberpunk world of nightmarish creatures. Experience dynamic shifts between top-down and third-person views, deep customization, and epic battles across universes in this action roguelike survival game.",
     "videos": [
       {
-        "id": 121957,
-        "video_id": "ax11NPeMmBg"
+        "id": 127113,
+        "video_id": "Ij9t4uOVVnw"
       },
       {
-        "id": 121958,
-        "video_id": "EE_yhEJnJ6Y"
-      },
-      {
-        "id": 121959,
-        "video_id": "nWbF9hcq2ug"
-      },
-      {
-        "id": 169976,
-        "video_id": "9kuuM6K3ieE"
-      },
-      {
-        "id": 178140,
-        "video_id": "0Cju2BgsULY"
-      },
-      {
-        "id": 181726,
-        "video_id": "Qs76M8wNvvQ"
+        "id": 172604,
+        "video_id": "PCVCA9zDgfg"
       }
     ],
     "websites": [
       {
-        "id": 662040,
-        "url": "https://twitter.com/whirlightgame",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 616187,
-        "url": "https://store.steampowered.com/app/2706980",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 733075,
-        "url": "https://www.instagram.com/whirlight/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 733076,
-        "url": "https://bsky.app/profile/whirlight.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 662041,
-        "url": "https://discord.gg/uKSqNMY8N5",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 662038,
-        "url": "https://www.youtube.com/@imaginarylab1067",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 662037,
-        "url": "https://www.twitch.tv/directory/category/whirlight-no-time-to-trip",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 951453,
-        "url": "https://www.reddit.com/r/Whirlightgame/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 662036,
-        "url": "https://imaginarylab.it/",
+        "id": 675602,
+        "url": "https://www.darklight-game.com/about",
         "type": {
           "id": 1,
           "type": "Official Website"
         }
       },
       {
-        "id": 662039,
-        "url": "https://www.facebook.com/Whirlight",
+        "id": 675606,
+        "url": "https://www.reddit.com/r/darklightgame/",
         "type": {
-          "id": 4,
-          "type": "Facebook"
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 709937,
+        "url": "https://www.instagram.com/darklight_game",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 709936,
+        "url": "https://www.twitch.tv/directory/category/dark-light-survivor",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 709938,
+        "url": "https://bsky.app/profile/miraricogames.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 675607,
+        "url": "https://dark-light.fandom.com/wiki/Dark_Light",
+        "type": {
+          "id": 2,
+          "type": "Community Wiki"
+        }
+      },
+      {
+        "id": 675605,
+        "url": "https://discord.gg/invite/x2rAp3f",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 675604,
+        "url": "https://twitter.com/Miraricogames",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 675603,
+        "url": "https://www.youtube.com/@darklight7535",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 675601,
+        "url": "https://store.steampowered.com/app/3088070/Dark_Light_Survivor/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
         }
       }
     ]
