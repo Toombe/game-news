@@ -1,5 +1,29 @@
 [
   {
+    "title": "University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23350482/1328571726.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source": "The Verge (Tech)",
+    "category": "AI",
+    "date": 1779038543000
+  },
+  {
+    "title": "What would be your go-to gaming soundtrack to recommend to a non-gamer?",
+    "link": "https://www.pcgamer.com/games/what-would-be-your-go-to-gaming-soundtrack-to-recommend-to-a-non-gamer/",
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/c9BC9NWj2fbddGEmRZ8RSc-1280-80.jpg",
+    "source": "PC Gamer",
+    "category": "Games",
+    "date": 1779037200000
+  },
+  {
+    "title": "Terraria marks 70 million sales and 15th anniversary with a promise to \"continue beyond\" its next big update",
+    "link": "https://www.eurogamer.net/terraria-70m-sales-15-anniversary",
+    "thumbnail": "https://assetsio.gnwcdn.com/terraria-dev-says-stadia-launch-will-now-proceed-after-resolving-spat-with-google-1614377924359.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "source": "Eurogamer",
+    "category": "Stadia",
+    "date": 1779035138000
+  },
+  {
     "title": "Scott Miller, founder of Apogee, has over 1,000 hours in World of Warcraft and always plays a warrior in any RPG: 'I like to get right in their face and pound away'",
     "link": "https://www.pcgamer.com/gaming-industry/scott-miller-founder-of-apogee-has-over-1-000-hours-in-world-of-warcraft-and-always-plays-a-warrior-in-any-rpg-i-like-to-get-right-in-their-face-and-pound-away/",
     "thumbnail": "https://cdn.mos.cms.futurecdn.net/KYt5i9kWFRfB7W6uppvyNk-1280-80.jpg",
@@ -12,7 +36,7 @@
     "link": "https://www.eurogamer.net/xbox-is-now-xbox",
     "thumbnail": "https://assetsio.gnwcdn.com/Screenshot-2026-05-17-at-16.20.39.png?width=690&quality=85&format=jpg&auto=webp",
     "source": "Eurogamer",
-    "category": "Microsoft",
+    "category": "rebranding",
     "date": 1779031541000
   },
   {
@@ -76,7 +100,7 @@
     "link": "https://www.eurogamer.net/subnautica-2s-early-access-roadmap-is-here",
     "thumbnail": "https://assetsio.gnwcdn.com/e3b--RPQ.png?width=690&quality=85&format=jpg&auto=webp",
     "source": "Eurogamer",
-    "category": "Action Adventure",
+    "category": "First person",
     "date": 1779025817000
   },
   {
@@ -92,13 +116,13 @@
     "link": "https://www.rockpapershotgun.com/i-didnt-think-forza-horizon-6s-custom-garages-would-lead-me-to-miss-mucking-about-with-my-motor-on-mexican-driveways-but-they-have",
     "thumbnail": "https://assetsio.gnwcdn.com/forza-horizon-6-garages-vs-driveways-feature-01.jpg?width=690&quality=85&format=jpg&auto=webp",
     "source": "Rock Paper Shotgun",
-    "category": "Sports",
+    "category": "Arcade",
     "date": 1779022800000
   },
   {
     "title": "ElliQ is a surprisingly helpful companion robot for older adults",
     "link": "https://www.theverge.com/gadgets/928806/elliq-intuition-robotics-hands-on",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268525_ElliQ_companion_robot_SVasani_0005.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268525_ElliQ_companion_robot_SVasani_0005.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source": "The Verge (Tech)",
     "category": "Gadgets",
     "date": 1779022800000
@@ -208,19 +232,11 @@
     "date": 1778990194000
   },
   {
-    "title": "Former Valve writer Chet Faliszek has no interest in writing Half-Life 3: 'I don't want to touch that with a 10-foot pole'",
-    "link": "https://www.pcgamer.com/games/fps/former-valve-writer-chet-faliszek-has-no-interest-in-writing-half-life-3-i-dont-want-to-touch-that-with-a-10-foot-pole/",
-    "thumbnail": "https://cdn.mos.cms.futurecdn.net/V2YFkMTsYanzzDte3ZV3QS-1280-80.jpg",
-    "source": "PC Gamer",
-    "category": "FPS",
-    "date": 1778987494000
-  },
-  {
     "title": "Palestinian pseudo-stealth game Dreams on a Pillow paints a difficult, poetic picture in its first look at gameplay",
     "link": "https://www.rockpapershotgun.com/palestinian-pseudo-stealth-game-dreams-on-a-pillow-paints-a-difficult-poetic-picture-in-its-first-look-at-gameplay",
     "thumbnail": "https://assetsio.gnwcdn.com/dreams-on-a-pillow.jpg?width=690&quality=85&format=jpg&auto=webp",
     "source": "Rock Paper Shotgun",
-    "category": "Single Player",
+    "category": "PC",
     "date": 1778968454000
   },
   {
@@ -228,7 +244,7 @@
     "link": "https://www.rockpapershotgun.com/mixtape-will-be-safe-from-a-music-licensing-related-delisting-ensured-by-its-developer-paying-extra-for-the-privilege",
     "thumbnail": "https://assetsio.gnwcdn.com/mixtape-firework.png?width=690&quality=85&format=jpg&auto=webp",
     "source": "Rock Paper Shotgun",
-    "category": "Single Player",
+    "category": "Bird view / Isometric",
     "date": 1778963684000
   },
   {
@@ -242,7 +258,7 @@
   {
     "title": "Snap, YouTube, and TikTok settle suit over harm to students",
     "link": "https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS526_SOCIAL_MEDIA_TRIAL_CVIRGINIA_D_1b4bb5.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS526_SOCIAL_MEDIA_TRIAL_CVIRGINIA_D_1b4bb5.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source": "The Verge (Tech)",
     "category": "Creators",
     "date": 1778956463000
@@ -268,7 +284,7 @@
     "link": "https://www.rockpapershotgun.com/fence-off-a-free-spirited-horse-that-cant-stop-eating-grass-in-the-daily-puzzle-game-enclosehorse",
     "thumbnail": "https://assetsio.gnwcdn.com/enclose-horse.jpg?width=690&quality=85&format=jpg&auto=webp",
     "source": "Rock Paper Shotgun",
-    "category": "Indie",
+    "category": "Puzzle",
     "date": 1778951178000
   },
   {
@@ -284,13 +300,13 @@
     "link": "https://www.rockpapershotgun.com/for-its-24th-anniversary-final-fantasy-11-is-getting-a-free-trial-upgrade-that-lets-you-play-it-for-as-long-as-you-like",
     "thumbnail": "https://assetsio.gnwcdn.com/final-fantasy-11-free-trial.jpg?width=690&quality=85&format=jpg&auto=webp",
     "source": "Rock Paper Shotgun",
-    "category": "Third person",
+    "category": "MMORPG",
     "date": 1778948115000
   },
   {
     "title": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
     "link": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/HIW4oV0XgAEmtI2.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/HIW4oV0XgAEmtI2.jpeg?quality=90&strip=all&crop=0,0,100,100",
     "source": "The Verge (Tech)",
     "category": "AI",
     "date": 1778945825000
@@ -314,7 +330,7 @@
   {
     "title": "Turtle Beach made a good SteelSeries headset clone that’s $50 less",
     "link": "https://www.theverge.com/gadgets/930828/turtle-beach-stealth-pro-2-steelseries-arctis-nova-pro-omni-gaming-headset-hands-on",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/omniversusstealthpro2.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/omniversusstealthpro2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
     "source": "The Verge (Games)",
     "category": "Gadgets",
     "date": 1778940000000
@@ -322,7 +338,7 @@
   {
     "title": "Turtle Beach made a good SteelSeries headset clone that’s $50 less",
     "link": "https://www.theverge.com/gadgets/930828/turtle-beach-stealth-pro-2-steelseries-arctis-nova-pro-omni-gaming-headset-hands-on",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/omniversusstealthpro2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/omniversusstealthpro2.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source": "The Verge (Tech)",
     "category": "Gadgets",
     "date": 1778940000000
@@ -354,7 +370,7 @@
   {
     "title": "Here are 40 of our favorite deals from REI’s massive Anniversary Sale",
     "link": "https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25451187/Garmin_InReach_Mini_2_Lifestyle_Image.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25451187/Garmin_InReach_Mini_2_Lifestyle_Image.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source": "The Verge (Tech)",
     "category": "Deals",
     "date": 1778936400000
@@ -378,7 +394,7 @@
   {
     "title": "Mixtape is a musical portrait of teenage life",
     "link": "https://www.theverge.com/games/925580/mixtape-review-ps5-xbox-series-x-s-nintendo-switch-2-pc",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ss_207625ae80acf9b85f7ab91e0e806cabb892c69f.1920x1080.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ss_207625ae80acf9b85f7ab91e0e806cabb892c69f.1920x1080.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
     "source": "The Verge (Games)",
     "category": "Entertainment",
     "date": 1778932800000
@@ -386,7 +402,7 @@
   {
     "title": "These are the laptops I recommend for pretty much anyone",
     "link": "https://www.theverge.com/gadgets/931638/best-laptops-macbooks-windows-gaming-2026",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268528_The_best_laptops_you_can_get_AParkin.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268528_The_best_laptops_you_can_get_AParkin.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
     "source": "The Verge (Games)",
     "category": "Apple",
     "date": 1778932800000
@@ -394,7 +410,7 @@
   {
     "title": "The app you need to clean up your computer",
     "link": "https://www.theverge.com/tech/931586/mole-bartender-mac-utilities-installer",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Installer-128.png?quality=90&amp;strip=all&amp;crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Installer-128.png?quality=90&strip=all&crop=0,0,100,100",
     "source": "The Verge (Tech)",
     "category": "Apps",
     "date": 1778932800000
@@ -402,7 +418,7 @@
   {
     "title": "These are the laptops I recommend for pretty much anyone",
     "link": "https://www.theverge.com/gadgets/931638/best-laptops-macbooks-windows-gaming-2026",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268528_The_best_laptops_you_can_get_AParkin.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268528_The_best_laptops_you_can_get_AParkin.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source": "The Verge (Tech)",
     "category": "Apple",
     "date": 1778932800000
@@ -462,21 +478,5 @@
     "source": "Nintendo Life",
     "category": "Article",
     "date": 1778904000000
-  },
-  {
-    "title": "Xbox is now XBOX",
-    "link": "https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832862/STK048_XBOX_2_A.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source": "The Verge (Games)",
-    "category": "Microsoft",
-    "date": 1778886613000
-  },
-  {
-    "title": "Xbox is now XBOX",
-    "link": "https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832862/STK048_XBOX_2_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
-    "source": "The Verge (Tech)",
-    "category": "Microsoft",
-    "date": 1778886613000
   }
 ]
