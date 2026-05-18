@@ -11529,6 +11529,102 @@
     ]
   },
   {
+    "id": 400252,
+    "cover": {
+      "id": 560212,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc09g.jpg"
+    },
+    "first_release_date": 1785542400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "name": "Last Floor",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 905853,
+        "date": 1785542400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1827223,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc135w7.jpg"
+      },
+      {
+        "id": 1827224,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc135w8.jpg"
+      },
+      {
+        "id": 1827225,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc135w9.jpg"
+      },
+      {
+        "id": 1827226,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc135wa.jpg"
+      },
+      {
+        "id": 1827227,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc135wb.jpg"
+      }
+    ],
+    "status": 3,
+    "summary": "Last Floor is a first-person psychological horror game focused on observation and anomaly detection. The player navigates a looping hospital corridor and must identify subtle changes in the environment.\n\nEach run begins in an elevator and progresses through an identical hallway. The player must determine whether an anomaly is present during the loop and choose the correct elevator direction to continue. Incorrect decisions reset progression.",
+    "websites": [
+      {
+        "id": 1050550,
+        "url": "https://store.steampowered.com/app/4644850/Last_Floor/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1050551,
+        "url": "https://discord.com/invite/DhjQapVerf",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1050552,
+        "url": "https://x.com/BytaleGames",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      }
+    ]
+  },
+  {
     "id": 283078,
     "cover": {
       "id": 508870,
