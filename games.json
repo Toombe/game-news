@@ -13768,6 +13768,211 @@
     ]
   },
   {
+    "id": 400092,
+    "cover": {
+      "id": 560042,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc04q.jpg"
+    },
+    "first_release_date": 1798675200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 383737,
+        "company": {
+          "id": 65290,
+          "name": "Next Genium"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Whatever It Takes",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 912682,
+        "date": 1798675200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 912683,
+        "date": 1774915200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1835152,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0g.jpg"
+      },
+      {
+        "id": 1835171,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0z.jpg"
+      },
+      {
+        "id": 1835153,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0h.jpg"
+      },
+      {
+        "id": 1835154,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0i.jpg"
+      },
+      {
+        "id": 1835155,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0j.jpg"
+      },
+      {
+        "id": 1835156,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0k.jpg"
+      },
+      {
+        "id": 1835157,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0l.jpg"
+      },
+      {
+        "id": 1835158,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0m.jpg"
+      },
+      {
+        "id": 1835159,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0n.jpg"
+      },
+      {
+        "id": 1835160,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0o.jpg"
+      },
+      {
+        "id": 1835161,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0p.jpg"
+      },
+      {
+        "id": 1835162,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0q.jpg"
+      },
+      {
+        "id": 1835163,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0r.jpg"
+      },
+      {
+        "id": 1835164,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0s.jpg"
+      },
+      {
+        "id": 1835165,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0t.jpg"
+      },
+      {
+        "id": 1835166,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0u.jpg"
+      },
+      {
+        "id": 1835167,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0v.jpg"
+      },
+      {
+        "id": 1835168,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0w.jpg"
+      },
+      {
+        "id": 1835169,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0x.jpg"
+      },
+      {
+        "id": 1835170,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0y.jpg"
+      }
+    ],
+    "status": 2,
+    "summary": "Whatever It Takes is a hardcore first-person Action RPG in a dark fantasy setting. As a fallen god, master elemental magic, absorb enemy powers, and engage in tactical duels. Use a harpoon for traversal and shape the Omnisphere’s fate through your choices. Reclaim your throne. Whatever it takes",
+    "videos": [
+      {
+        "id": 182562,
+        "video_id": "Deqhbbf8fLM"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1049890,
+        "url": "https://store.steampowered.com/app/3485200/Whatever_It_Takes",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1049891,
+        "url": "https://next-genium.com/en/games/whatever-it-takes/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1050036,
+        "url": "https://www.youtube.com/@NextGenium",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1050037,
+        "url": "https://x.com/NextGenium",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1050038,
+        "url": "https://www.facebook.com/NextGenium/",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 1050039,
+        "url": "https://www.reddit.com/r/Next_Genium/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      }
+    ]
+  },
+  {
     "id": 165199,
     "cover": {
       "id": 349675,
