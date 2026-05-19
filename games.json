@@ -9763,6 +9763,134 @@
     ]
   },
   {
+    "id": 272348,
+    "cover": {
+      "id": 338498,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co796q.jpg"
+    },
+    "first_release_date": 1779148800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 6,
+    "involved_companies": [
+      {
+        "id": 235326,
+        "company": {
+          "id": 30937,
+          "name": "Chicken Launcher"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 235327,
+        "company": {
+          "id": 22998,
+          "name": "Awaken Realms"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Project: Mist",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 904403,
+        "date": 1779148800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1168298,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp1gq.jpg"
+      },
+      {
+        "id": 1168300,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp1gs.jpg"
+      },
+      {
+        "id": 1168305,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp1gx.jpg"
+      },
+      {
+        "id": 1168306,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp1gy.jpg"
+      },
+      {
+        "id": 1168303,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp1gv.jpg"
+      },
+      {
+        "id": 1168307,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp1gz.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Join the Project Mist in this new open world survival horror. Explore an enigmatic Island. Fight against colossal monsters. Build and defend your base while crafting traps, siege weapons, upgrading your gear and Gravity Gun. Survive or perish while unraveling the secrets behind the giant wall!",
+    "websites": [
+      {
+        "id": 733712,
+        "url": "https://discord.gg/6e7rFPjJDw",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 589888,
+        "url": "https://store.steampowered.com/app/2383130",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 590310,
+        "url": "https://www.twitch.tv/directory/category/project-mist",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      }
+    ]
+  },
+  {
     "id": 380788,
     "cover": {
       "id": 534595,
@@ -11545,6 +11673,212 @@
     ]
   },
   {
+    "id": 291446,
+    "cover": {
+      "id": 512648,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coazk8.jpg"
+    },
+    "first_release_date": 1783382400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 17,
+    "involved_companies": [
+      {
+        "id": 270669,
+        "company": {
+          "id": 6544,
+          "name": "Nine Dots Studio"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 270670,
+        "company": {
+          "id": 55352,
+          "name": "Nine Dots Publishing"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Outward 2",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 914683,
+        "date": 1783382400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1267721,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr66h.jpg"
+      },
+      {
+        "id": 1267726,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr66m.jpg"
+      },
+      {
+        "id": 1267731,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr66r.jpg"
+      },
+      {
+        "id": 1267725,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr66l.jpg"
+      },
+      {
+        "id": 1267728,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr66o.jpg"
+      },
+      {
+        "id": 1267734,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr66u.jpg"
+      },
+      {
+        "id": 1267710,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr666.jpg"
+      },
+      {
+        "id": 1267712,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr668.jpg"
+      },
+      {
+        "id": 1267714,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr66a.jpg"
+      },
+      {
+        "id": 1267718,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr66e.jpg"
+      },
+      {
+        "id": 1267732,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr66s.jpg"
+      }
+    ],
+    "status": 2,
+    "summary": "Outward 2 is a challenging action RPG with survival elements focusing on a believable and relatable experience. There is no hand holding, no leveled encounters, no divine gift making you tower over your enemies. Eat your meal, check your map, grab your backpack: a fulfilling adventure awaits.",
+    "videos": [
+      {
+        "id": 116450,
+        "video_id": "SeZq5qAA-M8"
+      },
+      {
+        "id": 163791,
+        "video_id": "MgEPxv5S5UM"
+      },
+      {
+        "id": 172588,
+        "video_id": "GJHzy8EfAzE"
+      },
+      {
+        "id": 184114,
+        "video_id": "AEDeIEOZs9c"
+      }
+    ],
+    "websites": [
+      {
+        "id": 739507,
+        "url": "https://www.youtube.com/@ninedotsstudio",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 739508,
+        "url": "https://bsky.app/profile/ninedotsstudio.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 739506,
+        "url": "https://x.com/NineDotsStudio",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 739505,
+        "url": "https://www.facebook.com/NineDotsStudio",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 997377,
+        "url": "https://www.twitch.tv/directory/category/outward-2",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 622176,
+        "url": "https://store.steampowered.com/app/2849490",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 630850,
+        "url": "https://discord.gg/outward",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1030312,
+        "url": "https://www.gog.com/game/outward_2",
+        "type": {
+          "id": 17,
+          "type": "GOG"
+        }
+      }
+    ]
+  },
+  {
     "id": 400252,
     "cover": {
       "id": 560212,
@@ -12405,208 +12739,6 @@
         "type": {
           "id": 8,
           "type": "Instagram"
-        }
-      }
-    ]
-  },
-  {
-    "id": 291446,
-    "cover": {
-      "id": 512648,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coazk8.jpg"
-    },
-    "first_release_date": 1790726400,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      },
-      {
-        "id": 4,
-        "name": "Split screen"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      }
-    ],
-    "hypes": 17,
-    "involved_companies": [
-      {
-        "id": 270669,
-        "company": {
-          "id": 6544,
-          "name": "Nine Dots Studio"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 270670,
-        "company": {
-          "id": 55352,
-          "name": "Nine Dots Publishing"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Outward 2",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 812607,
-        "date": 1790726400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1267721,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr66h.jpg"
-      },
-      {
-        "id": 1267726,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr66m.jpg"
-      },
-      {
-        "id": 1267731,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr66r.jpg"
-      },
-      {
-        "id": 1267725,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr66l.jpg"
-      },
-      {
-        "id": 1267728,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr66o.jpg"
-      },
-      {
-        "id": 1267734,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr66u.jpg"
-      },
-      {
-        "id": 1267710,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr666.jpg"
-      },
-      {
-        "id": 1267712,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr668.jpg"
-      },
-      {
-        "id": 1267714,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr66a.jpg"
-      },
-      {
-        "id": 1267718,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr66e.jpg"
-      },
-      {
-        "id": 1267732,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr66s.jpg"
-      }
-    ],
-    "status": 2,
-    "summary": "Outward 2 is a challenging action RPG with survival elements focusing on a believable and relatable experience. There is no hand holding, no leveled encounters, no divine gift making you tower over your enemies. Eat your meal, check your map, grab your backpack: a fulfilling adventure awaits.",
-    "videos": [
-      {
-        "id": 116450,
-        "video_id": "SeZq5qAA-M8"
-      },
-      {
-        "id": 163791,
-        "video_id": "MgEPxv5S5UM"
-      },
-      {
-        "id": 172588,
-        "video_id": "GJHzy8EfAzE"
-      }
-    ],
-    "websites": [
-      {
-        "id": 739507,
-        "url": "https://www.youtube.com/@ninedotsstudio",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 739508,
-        "url": "https://bsky.app/profile/ninedotsstudio.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 739506,
-        "url": "https://x.com/NineDotsStudio",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 739505,
-        "url": "https://www.facebook.com/NineDotsStudio",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 997377,
-        "url": "https://www.twitch.tv/directory/category/outward-2",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 622176,
-        "url": "https://store.steampowered.com/app/2849490",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 630850,
-        "url": "https://discord.gg/outward",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 1030312,
-        "url": "https://www.gog.com/game/outward_2",
-        "type": {
-          "id": 17,
-          "type": "GOG"
         }
       }
     ]
