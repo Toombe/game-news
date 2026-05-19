@@ -9605,6 +9605,22 @@
           "id": 4,
           "type": "Facebook"
         }
+      },
+      {
+        "id": 1057485,
+        "url": "https://wiki.subnautica.com/sn2/",
+        "type": {
+          "id": 2,
+          "type": "Community Wiki"
+        }
+      },
+      {
+        "id": 1057486,
+        "url": "https://en.wikipedia.org/wiki/Subnautica_2",
+        "type": {
+          "id": 3,
+          "type": "Wikipedia"
+        }
       }
     ]
   },
