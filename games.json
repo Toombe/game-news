@@ -10212,7 +10212,7 @@
     "hypes": 4,
     "involved_companies": [
       {
-        "id": 368246,
+        "id": 388229,
         "company": {
           "id": 73246,
           "name": "Krufs Productions"
@@ -10224,16 +10224,8 @@
     "name": "Heavy Metal Death Can",
     "platforms": [
       {
-        "id": 3,
-        "name": "Linux"
-      },
-      {
         "id": 6,
         "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
       }
     ],
     "release_dates": [
