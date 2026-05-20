@@ -10068,161 +10068,6 @@
     ]
   },
   {
-    "id": 380788,
-    "cover": {
-      "id": 534595,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobghv.jpg"
-    },
-    "first_release_date": 1779235200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 3,
-    "involved_companies": [
-      {
-        "id": 361596,
-        "company": {
-          "id": 72054,
-          "name": "Findie Studios"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Arcane Merchant",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 899921,
-        "date": 1779235200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1714240,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10qps.jpg"
-      },
-      {
-        "id": 1714241,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10qpt.jpg"
-      },
-      {
-        "id": 1714242,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10qpu.jpg"
-      },
-      {
-        "id": 1714243,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10qpv.jpg"
-      },
-      {
-        "id": 1714244,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10qpw.jpg"
-      },
-      {
-        "id": 1714245,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10qpx.jpg"
-      },
-      {
-        "id": 1714246,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10qpy.jpg"
-      },
-      {
-        "id": 1714247,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10qpz.jpg"
-      }
-    ],
-    "status": 3,
-    "summary": "Open your own shop in the heart of a Medieval Fantasy realm! Stock your shelves with everything from potions and swords to mysterious crystals and legendary artifacts. Set your prices, earn your customers\u0027 trust and become the richest merchant in town!",
-    "websites": [
-      {
-        "id": 935491,
-        "url": "https://store.steampowered.com/app/4086760/Arcane_Merchant/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 935492,
-        "url": "https://www.findiestudios.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 935494,
-        "url": "https://x.com/FindieStudios",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 935495,
-        "url": "https://www.instagram.com/findiestudios",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 935496,
-        "url": "https://www.youtube.com/@FindieStudios",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 935497,
-        "url": "https://www.reddit.com/r/arcanemerchant/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 1002055,
-        "url": "https://discord.gg/findiestudios",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 1043033,
-        "url": "https://www.twitch.tv/directory/category/arcane-merchant",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      }
-    ]
-  },
-  {
     "id": 337760,
     "cover": {
       "id": 499596,
@@ -10812,6 +10657,161 @@
         "type": {
           "id": 18,
           "type": "Discord"
+        }
+      }
+    ]
+  },
+  {
+    "id": 380788,
+    "cover": {
+      "id": 534595,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobghv.jpg"
+    },
+    "first_release_date": 1780358400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 3,
+    "involved_companies": [
+      {
+        "id": 361596,
+        "company": {
+          "id": 72054,
+          "name": "Findie Studios"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Arcane Merchant",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 915175,
+        "date": 1780358400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1714240,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10qps.jpg"
+      },
+      {
+        "id": 1714241,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10qpt.jpg"
+      },
+      {
+        "id": 1714242,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10qpu.jpg"
+      },
+      {
+        "id": 1714243,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10qpv.jpg"
+      },
+      {
+        "id": 1714244,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10qpw.jpg"
+      },
+      {
+        "id": 1714245,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10qpx.jpg"
+      },
+      {
+        "id": 1714246,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10qpy.jpg"
+      },
+      {
+        "id": 1714247,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10qpz.jpg"
+      }
+    ],
+    "status": 3,
+    "summary": "Open your own shop in the heart of a Medieval Fantasy realm! Stock your shelves with everything from potions and swords to mysterious crystals and legendary artifacts. Set your prices, earn your customers\u0027 trust and become the richest merchant in town!",
+    "websites": [
+      {
+        "id": 935491,
+        "url": "https://store.steampowered.com/app/4086760/Arcane_Merchant/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 935492,
+        "url": "https://www.findiestudios.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 935494,
+        "url": "https://x.com/FindieStudios",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 935495,
+        "url": "https://www.instagram.com/findiestudios",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 935496,
+        "url": "https://www.youtube.com/@FindieStudios",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 935497,
+        "url": "https://www.reddit.com/r/arcanemerchant/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 1002055,
+        "url": "https://discord.gg/findiestudios",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1043033,
+        "url": "https://www.twitch.tv/directory/category/arcane-merchant",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
         }
       }
     ]
