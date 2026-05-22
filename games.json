@@ -1,5 +1,227 @@
 [
   {
+    "id": 176551,
+    "cover": {
+      "id": 186891,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co407f.jpg"
+    },
+    "first_release_date": 1677715200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 153435,
+        "company": {
+          "id": 38511,
+          "name": "Abylight Barcelona"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 153436,
+        "company": {
+          "id": 11398,
+          "name": "Abylight Studios"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "One Military Camp",
+    "platforms": [
+      {
+        "id": 508,
+        "name": "Nintendo Switch 2"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 455095,
+        "date": 1677715200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 916136,
+        "date": 1779926400,
+        "platform": {
+          "id": 508,
+          "name": "Nintendo Switch 2"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 806907,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scham3.jpg"
+      },
+      {
+        "id": 806908,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scham4.jpg"
+      },
+      {
+        "id": 806909,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scham5.jpg"
+      },
+      {
+        "id": 806904,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scham0.jpg"
+      },
+      {
+        "id": 806905,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scham1.jpg"
+      },
+      {
+        "id": 806906,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scham2.jpg"
+      }
+    ],
+    "status": 8,
+    "summary": "Build and manage your own military camp, enrol the best recruits, set the training courses and finally send them on dangerous missions to win the war. But becoming a Military Tycoon also means improving your financial skills, so don’t forget to make your academy a profitable business.",
+    "videos": [
+      {
+        "id": 90121,
+        "video_id": "yXttCrUQdpc"
+      }
+    ],
+    "websites": [
+      {
+        "id": 739855,
+        "url": "https://bsky.app/profile/abylight.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 328515,
+        "url": "https://store.epicgames.com/en-US/p/one-military-camp-8db1f6",
+        "type": {
+          "id": 16,
+          "type": "Epic"
+        }
+      },
+      {
+        "id": 236211,
+        "url": "https://twitter.com/abylight",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 236212,
+        "url": "https://www.instagram.com/abylightstudios",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 236209,
+        "url": "https://www.youtube.com/user/abylight",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 236210,
+        "url": "https://www.facebook.com/abylight",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 236208,
+        "url": "https://twitch.tv/abylight",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 236213,
+        "url": "https://discord.gg/invite/kSjkvfkrSW",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 887721,
+        "url": "https://store.playstation.com/en-us/concept/10007128",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
+        }
+      },
+      {
+        "id": 236207,
+        "url": "https://abylight.com/home",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 513736,
+        "url": "https://store.steampowered.com/app/1743830/One_Military_Camp",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 328516,
+        "url": "https://www.reddit.com/r/Abylight/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 1058739,
+        "url": "https://www.nintendo.com/us/store/products/one-military-camp-switch-2/",
+        "type": {
+          "id": 24,
+          "type": "Nintendo"
+        }
+      }
+    ]
+  },
+  {
     "id": 152779,
     "cover": {
       "id": 291519,
@@ -10827,6 +11049,223 @@
     ]
   },
   {
+    "id": 289602,
+    "cover": {
+      "id": 508004,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coavz8.jpg"
+    },
+    "first_release_date": 1780531200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 256703,
+        "company": {
+          "id": 53336,
+          "name": "Goals"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Goals",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 916038,
+        "date": 1780531200,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      },
+      {
+        "id": 916039,
+        "date": 1780531200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 916040,
+        "date": 1780531200,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 916041,
+        "date": 1780531200,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1809733,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12sed.jpg"
+      },
+      {
+        "id": 1809734,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12see.jpg"
+      },
+      {
+        "id": 1809735,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12sef.jpg"
+      },
+      {
+        "id": 1809736,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12seg.jpg"
+      },
+      {
+        "id": 1809737,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12seh.jpg"
+      }
+    ],
+    "status": 2,
+    "summary": "GOALS is a gameplay-first, free-to-play, multiplayer focused and esports ready football game, currently in Alpha. Expect a responsive gameplay experience, designed to actually feel like football. Develop your club, build your squad and prove yourself on the pitch. To be the best, play the best.",
+    "videos": [
+      {
+        "id": 146545,
+        "video_id": "Ub3yvqRtjlY"
+      },
+      {
+        "id": 169205,
+        "video_id": "1ayazeElR7o"
+      },
+      {
+        "id": 180228,
+        "video_id": "WNeTDggPikw"
+      }
+    ],
+    "websites": [
+      {
+        "id": 619448,
+        "url": "https://www.twitch.tv/goals",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 619453,
+        "url": "https://en.wikipedia.org/wiki/Goals_(video_game)",
+        "type": {
+          "id": 3,
+          "type": "Wikipedia"
+        }
+      },
+      {
+        "id": 937729,
+        "url": "https://store.playstation.com/en-us/concept/10012768",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
+        }
+      },
+      {
+        "id": 686270,
+        "url": "https://www.reddit.com/r/playgoals/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 620706,
+        "url": "https://store.steampowered.com/app/2753000/GOALS/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 619447,
+        "url": "https://playgoals.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 619449,
+        "url": "https://www.youtube.com/@playgoals",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 619450,
+        "url": "https://twitter.com/PlayGOALS",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 619451,
+        "url": "https://www.instagram.com/goalsfreetoplay/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 619452,
+        "url": "https://discord.gg/goals",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1037587,
+        "url": "https://www.xbox.com/en-US/games/store/goals/9PF2ZS4XB4JH/0010",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
+      }
+    ]
+  },
+  {
     "id": 147345,
     "cover": {
       "id": 140333,
@@ -11201,7 +11640,7 @@
         "name": "Indie"
       }
     ],
-    "hypes": 6,
+    "hypes": 7,
     "involved_companies": [
       {
         "id": 323579,
@@ -14898,7 +15337,7 @@
         "name": "Indie"
       }
     ],
-    "hypes": 15,
+    "hypes": 16,
     "involved_companies": [
       {
         "id": 236223,
