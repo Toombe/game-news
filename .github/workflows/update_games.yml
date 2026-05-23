@@ -1,7 +1,7 @@
 name: Update Gaming Calendar
 on:
   schedule:
-    - cron: '0 * * * *' # Runs exactly once an hour
+    - cron: '0 0 * * *' # Runs once a day
   workflow_dispatch: 
 
 env:
