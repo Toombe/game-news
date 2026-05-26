@@ -680,422 +680,6 @@
     ]
   },
   {
-    "id": 314807,
-    "cover": {
-      "id": 417930,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8yh6.jpg"
-    },
-    "first_release_date": 1744848000,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      }
-    ],
-    "genres": [
-      {
-        "id": 7,
-        "name": "Music"
-      },
-      {
-        "id": 8,
-        "name": "Platform"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      },
-      {
-        "id": 33,
-        "name": "Arcade"
-      }
-    ],
-    "hypes": 3,
-    "involved_companies": [
-      {
-        "id": 283845,
-        "company": {
-          "id": 57611,
-          "name": "Pricklety"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Jammer Dash",
-    "platforms": [
-      {
-        "id": 3,
-        "name": "Linux"
-      },
-      {
-        "id": 34,
-        "name": "Android"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 730412,
-        "date": 1744848000,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 662627,
-        "date": 1782777600,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 634853,
-        "date": 1701820800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1410956,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu8p8.jpg"
-      },
-      {
-        "id": 1410957,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu8p9.jpg"
-      },
-      {
-        "id": 1410958,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu8pa.jpg"
-      },
-      {
-        "id": 1410959,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu8pb.jpg"
-      },
-      {
-        "id": 1410960,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu8pc.jpg"
-      }
-    ],
-    "status": 8,
-    "summary": "Jammer Dash is a free rhythm 2D game in which you move and destroy objects on beat made for Windows and Linux! Inspired by many awesome games such as Muse Dash, Geometry Dash and osu!. Made in Unity and C#.",
-    "websites": [
-      {
-        "id": 722494,
-        "url": "https://store.steampowered.com/app/3627820/Jammer_Dash/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 702035,
-        "url": "https://reddit.com/r/JDash",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 702034,
-        "url": "https://jammerdash.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 718055,
-        "url": "https://bsky.app/profile/game.jammerdash.com",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 718111,
-        "url": "https://www.twitch.tv/directory/category/jammer-dash/videos/all",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 690010,
-        "url": "https://jammerdash.fandom.com/wiki/Jammer_Dash_Wiki",
-        "type": {
-          "id": 2,
-          "type": "Community Wiki"
-        }
-      },
-      {
-        "id": 667908,
-        "url": "https://www.youtube.com/@Jammer_Dash",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 667909,
-        "url": "https://twitter.com/JammerDash",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 667910,
-        "url": "https://discord.gg/tuXcHbse",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 702033,
-        "url": "https://pricklety.itch.io/jammer-dash",
-        "type": {
-          "id": 15,
-          "type": "Itch"
-        }
-      }
-    ]
-  },
-  {
-    "id": 292876,
-    "cover": {
-      "id": 370624,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7xz4.jpg"
-    },
-    "first_release_date": 1747872000,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 15,
-        "name": "Strategy"
-      }
-    ],
-    "hypes": 5,
-    "involved_companies": [
-      {
-        "id": 283552,
-        "company": {
-          "id": 22091,
-          "name": "Crazy Goat Games"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 283551,
-        "company": {
-          "id": 27315,
-          "name": "Crytivo"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Worshippers of Cthulhu",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 728640,
-        "date": 1747872000,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 656673,
-        "date": 1729468800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 892208,
-        "date": 1774569600,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      },
-      {
-        "id": 892209,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1277055,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scrddr.jpg"
-      },
-      {
-        "id": 1277056,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scrdds.jpg"
-      },
-      {
-        "id": 1277057,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scrddt.jpg"
-      },
-      {
-        "id": 1277058,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scrddu.jpg"
-      },
-      {
-        "id": 1277059,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scrddv.jpg"
-      },
-      {
-        "id": 1277060,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scrddw.jpg"
-      },
-      {
-        "id": 1277061,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scrddx.jpg"
-      },
-      {
-        "id": 1277062,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scrddy.jpg"
-      },
-      {
-        "id": 1277063,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scrddz.jpg"
-      },
-      {
-        "id": 1277064,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scrde0.jpg"
-      },
-      {
-        "id": 1277065,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scrde1.jpg"
-      },
-      {
-        "id": 1277066,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scrde2.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "LEAD the CULT OF CTHULHU. Decide the fate of your followers, perform eldritch rituals, and master the art of city-building in a world where the line between sanity and madness blurs. Can you endure the horrors you unleash?",
-    "videos": [
-      {
-        "id": 109765,
-        "video_id": "8cYzZ0gkmjQ"
-      },
-      {
-        "id": 123731,
-        "video_id": "2-5uduthuUM"
-      },
-      {
-        "id": 150691,
-        "video_id": "pu_wJC96qLg"
-      },
-      {
-        "id": 146130,
-        "video_id": "80VMXFJLwjI"
-      }
-    ],
-    "websites": [
-      {
-        "id": 685589,
-        "url": "https://store.epicgames.com/pl/p/worshippers-of-cthulhu-0fd3a2",
-        "type": {
-          "id": 16,
-          "type": "Epic"
-        }
-      },
-      {
-        "id": 624258,
-        "url": "https://www.worshippersofcthulhu.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 624257,
-        "url": "https://store.steampowered.com/app/2807150",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 728305,
-        "url": "https://www.youtube.com/@crazygoatgames_studio/",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 685588,
-        "url": "https://discord.gg/invite/kzgs4cGWAE",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 685590,
-        "url": "https://twitter.com/woc_cthulhu",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1058100,
-        "url": "https://www.gog.com/en/game/worshippers_of_cthulhu",
-        "type": {
-          "id": 17,
-          "type": "GOG"
-        }
-      }
-    ]
-  },
-  {
     "id": 329736,
     "cover": {
       "id": 435599,
@@ -1893,155 +1477,6 @@
         "type": {
           "id": 13,
           "type": "Steam"
-        }
-      }
-    ]
-  },
-  {
-    "id": 389447,
-    "cover": {
-      "id": 552576,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobudc.jpg"
-    },
-    "first_release_date": 1774569600,
-    "game_modes": [
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      },
-      {
-        "id": 5,
-        "name": "Massively Multiplayer Online (MMO)"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      }
-    ],
-    "hypes": 5,
-    "involved_companies": [
-      {
-        "id": 378066,
-        "company": {
-          "id": 75178,
-          "name": "PEO Team"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Poké Everworld Online",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 893993,
-        "date": 1774569600,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1805609,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12p7t.jpg"
-      },
-      {
-        "id": 1805610,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12p7u.jpg"
-      },
-      {
-        "id": 1805611,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12p7v.jpg"
-      },
-      {
-        "id": 1805612,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12p7w.jpg"
-      },
-      {
-        "id": 1805613,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12p7x.jpg"
-      },
-      {
-        "id": 1805614,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12p7y.jpg"
-      },
-      {
-        "id": 1805615,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12p7z.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "A Pokemon MMO fan game that aims to have all the regions, Anime locations, Manga events and Tough boss battles.",
-    "videos": [
-      {
-        "id": 179810,
-        "video_id": "1QTedgxoQ3g"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1011110,
-        "url": "https://pokeeverworldonline.com/wiki/index.php/Welcome",
-        "type": {
-          "id": 2,
-          "type": "Community Wiki"
-        }
-      },
-      {
-        "id": 1011111,
-        "url": "https://discord.gg/9AZpnuHT",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 1034282,
-        "url": "https://www.youtube.com/@pokemoneverworldonline",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1034281,
-        "url": "https://pokeeverworldonline.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1035270,
-        "url": "https://x.com/pokeeverworld",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1035271,
-        "url": "https://www.reddit.com/r/PokemonEverworld/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
         }
       }
     ]
@@ -7350,6 +6785,181 @@
     ]
   },
   {
+    "id": 314807,
+    "cover": {
+      "id": 565151,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc42n.jpg"
+    },
+    "first_release_date": 1777852800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 7,
+        "name": "Music"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "hypes": 3,
+    "involved_companies": [
+      {
+        "id": 283845,
+        "company": {
+          "id": 57611,
+          "name": "Pricklety"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Jammer Dash",
+    "platforms": [
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 34,
+        "name": "Android"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 917240,
+        "date": 1701820800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 917241,
+        "date": 1814313600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 917242,
+        "date": 1744848000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 917243,
+        "date": 1777852800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 917244,
+        "date": 1779494400,
+        "platform": {
+          "id": 3,
+          "name": "Linux"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1841227,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13gp7.jpg"
+      },
+      {
+        "id": 1841228,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13gp8.jpg"
+      },
+      {
+        "id": 1841229,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13gp9.jpg"
+      },
+      {
+        "id": 1841230,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13gpa.jpg"
+      }
+    ],
+    "status": 8,
+    "summary": "Jammer Dash is a free rhythm 2D game in which you move and destroy objects on beat made for Windows and Linux! Inspired by many awesome games such as Muse Dash, Geometry Dash and osu!. Made in Unity and C#.",
+    "websites": [
+      {
+        "id": 722494,
+        "url": "https://store.steampowered.com/app/3627820/Jammer_Dash/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 702034,
+        "url": "https://jammerdash.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 718111,
+        "url": "https://www.twitch.tv/directory/category/jammer-dash/videos/all",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 690010,
+        "url": "https://jammerdash.fandom.com/wiki/Jammer_Dash_Wiki",
+        "type": {
+          "id": 2,
+          "type": "Community Wiki"
+        }
+      },
+      {
+        "id": 667909,
+        "url": "https://twitter.com/JammerDash",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1059736,
+        "url": "https://discord.gg/DQ8ZhByEBh",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      }
+    ]
+  },
+  {
     "id": 125370,
     "cover": {
       "id": 497762,
@@ -10868,6 +10478,305 @@
     ]
   },
   {
+    "id": 396520,
+    "cover": {
+      "id": 553328,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobuy8.jpg"
+    },
+    "first_release_date": 1779753600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 378581,
+        "company": {
+          "id": 75318,
+          "name": "Nested Loop Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 378580,
+        "company": {
+          "id": 63126,
+          "name": "Pantaloon"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Boxroom",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 910188,
+        "date": 1779753600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1808401,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12rdd.jpg"
+      },
+      {
+        "id": 1808402,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12rde.jpg"
+      },
+      {
+        "id": 1808403,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12rdf.jpg"
+      },
+      {
+        "id": 1808404,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12rdg.jpg"
+      },
+      {
+        "id": 1808405,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12rdh.jpg"
+      },
+      {
+        "id": 1808406,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12rdi.jpg"
+      }
+    ],
+    "status": 3,
+    "summary": "Boxroom is a builder/designer sim giving you the space to put a stamp on your Steam library. After setting up your room and preferred shelving arrangement, the game will boot your ACTUAL steam library onto the shelves - giving you space to arrange, curate and explore your collection as you see fit",
+    "videos": [
+      {
+        "id": 180030,
+        "video_id": "Ma5wnXOI1C4"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1036662,
+        "url": "https://store.steampowered.com/app/4335460/BOXROOM/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1037616,
+        "url": "https://www.pantaloon.io/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1037617,
+        "url": "https://discord.com/invite/GshQKAEY4P?_kx\u003d_NEZvoNKZfV4cXEX5IMHEg%3D%3D.VxpbwG",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1037618,
+        "url": "https://bsky.app/profile/pantaloon.io",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 1038433,
+        "url": "https://www.youtube.com/@Pantaloon_interactive",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      }
+    ]
+  },
+  {
+    "id": 357491,
+    "cover": {
+      "id": 476282,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coa7i2.jpg"
+    },
+    "first_release_date": 1779926400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 332967,
+        "company": {
+          "id": 65970,
+          "name": "Lugn Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Kioku: Last Summer",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 904683,
+        "date": 1779926400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1599472,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scya5s.jpg"
+      },
+      {
+        "id": 1599473,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scya5t.jpg"
+      },
+      {
+        "id": 1599470,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scya5q.jpg"
+      },
+      {
+        "id": 1599471,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scya5r.jpg"
+      },
+      {
+        "id": 1599474,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scya5u.jpg"
+      },
+      {
+        "id": 1599475,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scya5v.jpg"
+      },
+      {
+        "id": 1599476,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scya5w.jpg"
+      },
+      {
+        "id": 1599477,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scya5x.jpg"
+      },
+      {
+        "id": 1599478,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scya5y.jpg"
+      }
+    ],
+    "status": 2,
+    "summary": "Kioku: Last Summer is a cozy, story-driven adventure where you play as Asti, a young girl spending her first summer on the mysterious island of Kioku. Set in a hand-crafted world blending Scandinavian and Japanese influences, players explore, build friendships, play minigames, uncover secrets, and relive the magic of early 2000s childhood summers.",
+    "videos": [
+      {
+        "id": 157318,
+        "video_id": "FjXQFMFcK0M"
+      },
+      {
+        "id": 182349,
+        "video_id": "yYJANnA0rDo"
+      }
+    ],
+    "websites": [
+      {
+        "id": 843062,
+        "url": "https://bsky.app/profile/lugngames.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 843063,
+        "url": "https://www.youtube.com/@Lugn-Games",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 840721,
+        "url": "https://www.lugngames.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 840722,
+        "url": "https://www.instagram.com/lugngames/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 840723,
+        "url": "https://discord.gg/jDGPv66cdj",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 840720,
+        "url": "https://store.steampowered.com/app/3283310/Kioku_Last_Summer/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      }
+    ]
+  },
+  {
     "id": 386835,
     "cover": {
       "id": 529493,
@@ -11357,7 +11266,7 @@
         "name": "Indie"
       }
     ],
-    "hypes": 3,
+    "hypes": 4,
     "involved_companies": [
       {
         "id": 361596,
@@ -15969,7 +15878,7 @@
         "name": "Indie"
       }
     ],
-    "hypes": 11,
+    "hypes": 12,
     "involved_companies": [
       {
         "id": 312293,
@@ -16597,147 +16506,6 @@
         "type": {
           "id": 18,
           "type": "Discord"
-        }
-      }
-    ]
-  },
-  {
-    "id": 396520,
-    "cover": {
-      "id": 553328,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobuy8.jpg"
-    },
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 378581,
-        "company": {
-          "id": 75318,
-          "name": "Nested Loop Studios"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 378580,
-        "company": {
-          "id": 63126,
-          "name": "Pantaloon"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Boxroom",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 910188,
-        "date": 1779753600,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1808401,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12rdd.jpg"
-      },
-      {
-        "id": 1808402,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12rde.jpg"
-      },
-      {
-        "id": 1808403,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12rdf.jpg"
-      },
-      {
-        "id": 1808404,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12rdg.jpg"
-      },
-      {
-        "id": 1808405,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12rdh.jpg"
-      },
-      {
-        "id": 1808406,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12rdi.jpg"
-      }
-    ],
-    "status": 3,
-    "summary": "Boxroom is a builder/designer sim giving you the space to put a stamp on your Steam library. After setting up your room and preferred shelving arrangement, the game will boot your ACTUAL steam library onto the shelves - giving you space to arrange, curate and explore your collection as you see fit",
-    "videos": [
-      {
-        "id": 180030,
-        "video_id": "Ma5wnXOI1C4"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1036662,
-        "url": "https://store.steampowered.com/app/4335460/BOXROOM/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1037616,
-        "url": "https://www.pantaloon.io/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1037617,
-        "url": "https://discord.com/invite/GshQKAEY4P?_kx\u003d_NEZvoNKZfV4cXEX5IMHEg%3D%3D.VxpbwG",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 1037618,
-        "url": "https://bsky.app/profile/pantaloon.io",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 1038433,
-        "url": "https://www.youtube.com/@Pantaloon_interactive",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
         }
       }
     ]
