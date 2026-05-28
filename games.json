@@ -858,6 +858,175 @@
     ]
   },
   {
+    "id": 331151,
+    "cover": {
+      "id": 505945,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coaue1.jpg"
+    },
+    "first_release_date": 1763337600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 358782,
+        "company": {
+          "id": 45459,
+          "name": "Embers"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Storebound",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 834036,
+        "date": 1763337600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 918279,
+        "date": 1784160000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1697554,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10dua.jpg"
+      },
+      {
+        "id": 1697555,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10dub.jpg"
+      },
+      {
+        "id": 1697556,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10duc.jpg"
+      },
+      {
+        "id": 1697557,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10dud.jpg"
+      },
+      {
+        "id": 1697553,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10du9.jpg"
+      },
+      {
+        "id": 1697558,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10due.jpg"
+      },
+      {
+        "id": 1697559,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10duf.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "A 1-3 co-op horror game. Play as ordinary shoppers trapped in an accursed megastore. Find the exit together at all costs before the employees catch you.",
+    "videos": [
+      {
+        "id": 140158,
+        "video_id": "sRYeDuCPTJI"
+      },
+      {
+        "id": 168227,
+        "video_id": "4NyMNiDCPdY"
+      },
+      {
+        "id": 185036,
+        "video_id": "QLN9P0hqqQo"
+      }
+    ],
+    "websites": [
+      {
+        "id": 711041,
+        "url": "https://www.instagram.com/storebound_game/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 998196,
+        "url": "https://www.twitch.tv/directory/category/storebound",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 918233,
+        "url": "https://store.epicgames.com/p/storebound-39da28",
+        "type": {
+          "id": 16,
+          "type": "Epic"
+        }
+      },
+      {
+        "id": 917211,
+        "url": "https://www.youtube.com/@embersgames",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 711042,
+        "url": "https://discord.gg/invite/dv2bck69Xy",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 711040,
+        "url": "https://twitter.com/STOREBOUND_",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 711039,
+        "url": "https://store.steampowered.com/app/3417410/Storebound/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      }
+    ]
+  },
+  {
     "id": 289983,
     "cover": {
       "id": 469948,
@@ -5988,6 +6157,10 @@
       {
         "id": 180766,
         "video_id": "kL5_vJSBpqA"
+      },
+      {
+        "id": 185057,
+        "video_id": "OsElfk88Ltc"
       }
     ],
     "websites": [
@@ -9817,6 +9990,227 @@
     ]
   },
   {
+    "id": 126547,
+    "cover": {
+      "id": 472418,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coa4iq.jpg"
+    },
+    "first_release_date": 1779667200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 43,
+    "involved_companies": [
+      {
+        "id": 138723,
+        "company": {
+          "id": 24074,
+          "name": "Alex Massé"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Paralives",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 843263,
+        "date": 1779667200,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      },
+      {
+        "id": 843264,
+        "date": 1779667200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1247370,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqqh6.jpg"
+      },
+      {
+        "id": 1247371,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqqh7.jpg"
+      },
+      {
+        "id": 1247373,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqqh9.jpg"
+      },
+      {
+        "id": 1247374,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqqha.jpg"
+      },
+      {
+        "id": 1247369,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqqh5.jpg"
+      },
+      {
+        "id": 1247372,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqqh8.jpg"
+      },
+      {
+        "id": 1663937,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scznwh.jpg"
+      },
+      {
+        "id": 1663938,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scznwi.jpg"
+      },
+      {
+        "id": 1663939,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scznwj.jpg"
+      },
+      {
+        "id": 1663940,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scznwk.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "You live and then you die. But at least do it in a nice house! Paralives is an upcoming life simulation indie game. Build your dream house, create some characters and manage their lives the way you want!",
+    "videos": [
+      {
+        "id": 107918,
+        "video_id": "xIIy4CuGDyU"
+      },
+      {
+        "id": 107919,
+        "video_id": "saPMQS1jquc"
+      },
+      {
+        "id": 153443,
+        "video_id": "ZQt5BWjXATU"
+      }
+    ],
+    "websites": [
+      {
+        "id": 793671,
+        "url": "https://bsky.app/profile/paralives.com",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 793670,
+        "url": "https://paralives.wiki.gg/",
+        "type": {
+          "id": 2,
+          "type": "Community Wiki"
+        }
+      },
+      {
+        "id": 613246,
+        "url": "https://en.wikipedia.org/wiki/Paralives",
+        "type": {
+          "id": 3,
+          "type": "Wikipedia"
+        }
+      },
+      {
+        "id": 129289,
+        "url": "https://www.instagram.com/paralivesgame",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 129285,
+        "url": "https://twitter.com/ParalivesGame",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 129283,
+        "url": "https://www.paralives.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 129284,
+        "url": "https://www.facebook.com/Paralives",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 129287,
+        "url": "https://store.steampowered.com/app/1118520",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 129290,
+        "url": "https://www.youtube.com/c/Paralives",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 129291,
+        "url": "https://www.reddit.com/r/Paralives",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 369547,
+        "url": "https://www.twitch.tv/directory/game/Paralives",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 613245,
+        "url": "https://discord.gg/Paralives",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      }
+    ]
+  },
+  {
     "id": 177862,
     "cover": {
       "id": 381118,
@@ -9947,7 +10341,7 @@
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/scs5f2.jpg"
       }
     ],
-    "status": 3,
+    "status": 4,
     "summary": "A psychedelic roguelike that blurs the line between real-time action and turn-based tactics. Play as misfit aliens, craft wild combinations between hundreds of weapons, items and abilities, and disable uncharted chronospheres: Colossal structures that consume time and distort reality.",
     "videos": [
       {
@@ -10592,6 +10986,227 @@
         "type": {
           "id": 9,
           "type": "YouTube"
+        }
+      }
+    ]
+  },
+  {
+    "id": 288461,
+    "cover": {
+      "id": 470161,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coa2s1.jpg"
+    },
+    "first_release_date": 1779926400,
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 5,
+        "name": "Massively Multiplayer Online (MMO)"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 36,
+        "name": "MOBA"
+      }
+    ],
+    "hypes": 6,
+    "involved_companies": [
+      {
+        "id": 281303,
+        "company": {
+          "id": 57137,
+          "name": "Combat Cat Studio"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Wild Assault",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 716875,
+        "date": 1744329600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 918054,
+        "date": 1779926400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1483621,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsrp.jpg"
+      },
+      {
+        "id": 1483622,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsrq.jpg"
+      },
+      {
+        "id": 1483623,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsrr.jpg"
+      },
+      {
+        "id": 1483624,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsrs.jpg"
+      },
+      {
+        "id": 1483625,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsrt.jpg"
+      },
+      {
+        "id": 1483626,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsru.jpg"
+      },
+      {
+        "id": 1483627,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsrv.jpg"
+      },
+      {
+        "id": 1483628,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsrw.jpg"
+      },
+      {
+        "id": 1483629,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsrx.jpg"
+      },
+      {
+        "id": 1483630,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsry.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Wild Assault is an anthro-themed tactical shooter built with Unreal Engine 5, featuring large-scale battlefield gameplay centered around Valiant abilities. Work closely with your team, harness your instincts, and charge into battle to secure victory.",
+    "videos": [
+      {
+        "id": 145842,
+        "video_id": "J648VS5n2x0"
+      },
+      {
+        "id": 145843,
+        "video_id": "iXSrWOjuZLk"
+      },
+      {
+        "id": 145844,
+        "video_id": "q5Qx1PosqEI"
+      },
+      {
+        "id": 155162,
+        "video_id": "f_o0vRVSk24"
+      }
+    ],
+    "websites": [
+      {
+        "id": 622653,
+        "url": "https://www.facebook.com/WildAssault/",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 720523,
+        "url": "https://wildassault.wiki.gg/",
+        "type": {
+          "id": 2,
+          "type": "Community Wiki"
+        }
+      },
+      {
+        "id": 720522,
+        "url": "https://store.epicgames.com/en-US/p/wildassault-05e6bc",
+        "type": {
+          "id": 16,
+          "type": "Epic"
+        }
+      },
+      {
+        "id": 720524,
+        "url": "https://bsky.app/profile/wildassault.com",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 622654,
+        "url": "https://twitter.com/WildAssaultGame",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 617704,
+        "url": "https://store.steampowered.com/app/2827230",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 622652,
+        "url": "https://www.youtube.com/@WildAssault/videos",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 622655,
+        "url": "https://discord.gg/invite/VcMqCTj7q2",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 701455,
+        "url": "https://www.wildassault.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 670510,
+        "url": "https://www.twitch.tv/directory/category/wild-assault",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
         }
       }
     ]
@@ -12453,212 +13068,6 @@
     ]
   },
   {
-    "id": 291446,
-    "cover": {
-      "id": 512648,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coazk8.jpg"
-    },
-    "first_release_date": 1783382400,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      },
-      {
-        "id": 4,
-        "name": "Split screen"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      }
-    ],
-    "hypes": 18,
-    "involved_companies": [
-      {
-        "id": 270669,
-        "company": {
-          "id": 6544,
-          "name": "Nine Dots Studio"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 270670,
-        "company": {
-          "id": 55352,
-          "name": "Nine Dots Publishing"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Outward 2",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 914683,
-        "date": 1783382400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1267721,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr66h.jpg"
-      },
-      {
-        "id": 1267726,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr66m.jpg"
-      },
-      {
-        "id": 1267731,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr66r.jpg"
-      },
-      {
-        "id": 1267725,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr66l.jpg"
-      },
-      {
-        "id": 1267728,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr66o.jpg"
-      },
-      {
-        "id": 1267734,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr66u.jpg"
-      },
-      {
-        "id": 1267710,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr666.jpg"
-      },
-      {
-        "id": 1267712,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr668.jpg"
-      },
-      {
-        "id": 1267714,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr66a.jpg"
-      },
-      {
-        "id": 1267718,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr66e.jpg"
-      },
-      {
-        "id": 1267732,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr66s.jpg"
-      }
-    ],
-    "status": 2,
-    "summary": "Outward 2 is a challenging action RPG with survival elements focusing on a believable and relatable experience. There is no hand holding, no leveled encounters, no divine gift making you tower over your enemies. Eat your meal, check your map, grab your backpack: a fulfilling adventure awaits.",
-    "videos": [
-      {
-        "id": 116450,
-        "video_id": "SeZq5qAA-M8"
-      },
-      {
-        "id": 163791,
-        "video_id": "MgEPxv5S5UM"
-      },
-      {
-        "id": 172588,
-        "video_id": "GJHzy8EfAzE"
-      },
-      {
-        "id": 184114,
-        "video_id": "AEDeIEOZs9c"
-      }
-    ],
-    "websites": [
-      {
-        "id": 739507,
-        "url": "https://www.youtube.com/@ninedotsstudio",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 739508,
-        "url": "https://bsky.app/profile/ninedotsstudio.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 739506,
-        "url": "https://x.com/NineDotsStudio",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 739505,
-        "url": "https://www.facebook.com/NineDotsStudio",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 997377,
-        "url": "https://www.twitch.tv/directory/category/outward-2",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 622176,
-        "url": "https://store.steampowered.com/app/2849490",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 630850,
-        "url": "https://discord.gg/outward",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 1030312,
-        "url": "https://www.gog.com/game/outward_2",
-        "type": {
-          "id": 17,
-          "type": "GOG"
-        }
-      }
-    ]
-  },
-  {
     "id": 400252,
     "cover": {
       "id": 560212,
@@ -13692,240 +14101,6 @@
         "type": {
           "id": 8,
           "type": "Instagram"
-        }
-      }
-    ]
-  },
-  {
-    "id": 347887,
-    "cover": {
-      "id": 546203,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobpgb.jpg"
-    },
-    "first_release_date": 1790726400,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 8,
-        "name": "Platform"
-      },
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 9,
-    "involved_companies": [
-      {
-        "id": 324380,
-        "company": {
-          "id": 55024,
-          "name": "New Tales"
-        },
-        "developer": true,
-        "publisher": true
-      },
-      {
-        "id": 324381,
-        "company": {
-          "id": 64407,
-          "name": "Emeteria"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Fading Echo",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 865905,
-        "date": 1798675200,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 865906,
-        "date": 1798675200,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      },
-      {
-        "id": 885756,
-        "date": 1790726400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1751671,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11jlj.jpg"
-      },
-      {
-        "id": 1751672,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11jlk.jpg"
-      },
-      {
-        "id": 1751673,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11jll.jpg"
-      },
-      {
-        "id": 1751674,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11jlm.jpg"
-      },
-      {
-        "id": 1751675,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11jln.jpg"
-      },
-      {
-        "id": 1751676,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11jlo.jpg"
-      },
-      {
-        "id": 1751677,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11jlp.jpg"
-      },
-      {
-        "id": 1751678,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11jlq.jpg"
-      },
-      {
-        "id": 1751679,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11jlr.jpg"
-      }
-    ],
-    "status": 3,
-    "summary": "In Fading Echo, you rise as a young Legend to confront the Paradox before it consumes your world. Dive into this fast-paced action-adventure where you’ll travel across realities, battle fierce enemies, transform into a living water ball, and unleash devastating combos.",
-    "videos": [
-      {
-        "id": 152892,
-        "video_id": "002kCi92n7Q"
-      },
-      {
-        "id": 163901,
-        "video_id": "jqCBj4aLZV4"
-      },
-      {
-        "id": 169101,
-        "video_id": "eulglZW-W0g"
-      },
-      {
-        "id": 174895,
-        "video_id": "bAkhhsQYMOI"
-      }
-    ],
-    "websites": [
-      {
-        "id": 809552,
-        "url": "https://www.youtube.com/@FadingEchoGame",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 818472,
-        "url": "https://www.twitch.tv/directory/category/fading-echo",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 809545,
-        "url": "https://store.steampowered.com/app/2467880",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 920836,
-        "url": "https://www.reddit.com/r/FadingEcho",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 818471,
-        "url": "https://store.playstation.com/en-us/concept/10014310",
-        "type": {
-          "id": 23,
-          "type": "Playstation"
-        }
-      },
-      {
-        "id": 809553,
-        "url": "https://discord.gg/fadingechogame",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 809551,
-        "url": "https://www.instagram.com/fadingechogame",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 809548,
-        "url": "https://store.epicgames.com/en-US/p/fading-echo-029d57",
-        "type": {
-          "id": 16,
-          "type": "Epic"
-        }
-      },
-      {
-        "id": 809550,
-        "url": "https://www.newtales.com/games/fading-echo/en-us",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 809549,
-        "url": "https://www.xbox.com/en-us/games/store/fading-echo/9n0mhmp8z20g",
-        "type": {
-          "id": 22,
-          "type": "Xbox"
         }
       }
     ]
@@ -15762,6 +15937,215 @@
     ]
   },
   {
+    "id": 291446,
+    "cover": {
+      "id": 512648,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coazk8.jpg"
+    },
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 18,
+    "involved_companies": [
+      {
+        "id": 270669,
+        "company": {
+          "id": 6544,
+          "name": "Nine Dots Studio"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 270670,
+        "company": {
+          "id": 55352,
+          "name": "Nine Dots Publishing"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Outward 2",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 918284,
+        "date": 1783382400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1267721,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr66h.jpg"
+      },
+      {
+        "id": 1267726,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr66m.jpg"
+      },
+      {
+        "id": 1267731,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr66r.jpg"
+      },
+      {
+        "id": 1267725,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr66l.jpg"
+      },
+      {
+        "id": 1267728,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr66o.jpg"
+      },
+      {
+        "id": 1267734,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr66u.jpg"
+      },
+      {
+        "id": 1267710,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr666.jpg"
+      },
+      {
+        "id": 1267712,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr668.jpg"
+      },
+      {
+        "id": 1267714,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr66a.jpg"
+      },
+      {
+        "id": 1267718,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr66e.jpg"
+      },
+      {
+        "id": 1267732,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scr66s.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Outward 2 is a challenging action RPG with survival elements focusing on a believable and relatable experience. There is no hand holding, no leveled encounters, no divine gift making you tower over your enemies. Eat your meal, check your map, grab your backpack: a fulfilling adventure awaits.",
+    "videos": [
+      {
+        "id": 116450,
+        "video_id": "SeZq5qAA-M8"
+      },
+      {
+        "id": 163791,
+        "video_id": "MgEPxv5S5UM"
+      },
+      {
+        "id": 172588,
+        "video_id": "GJHzy8EfAzE"
+      },
+      {
+        "id": 184114,
+        "video_id": "AEDeIEOZs9c"
+      },
+      {
+        "id": 185040,
+        "video_id": "JQjExbIDmek"
+      }
+    ],
+    "websites": [
+      {
+        "id": 739507,
+        "url": "https://www.youtube.com/@ninedotsstudio",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 739508,
+        "url": "https://bsky.app/profile/ninedotsstudio.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 739506,
+        "url": "https://x.com/NineDotsStudio",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 739505,
+        "url": "https://www.facebook.com/NineDotsStudio",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 997377,
+        "url": "https://www.twitch.tv/directory/category/outward-2",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 622176,
+        "url": "https://store.steampowered.com/app/2849490",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 630850,
+        "url": "https://discord.gg/outward",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1030312,
+        "url": "https://www.gog.com/game/outward_2",
+        "type": {
+          "id": 17,
+          "type": "GOG"
+        }
+      }
+    ]
+  },
+  {
     "id": 330831,
     "cover": {
       "id": 459120,
@@ -16350,6 +16734,187 @@
         "type": {
           "id": 18,
           "type": "Discord"
+        }
+      }
+    ]
+  },
+  {
+    "id": 396808,
+    "cover": {
+      "id": 553592,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobv5k.jpg"
+    },
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 379053,
+        "company": {
+          "id": 45422,
+          "name": "Ludogram"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 379054,
+        "company": {
+          "id": 45898,
+          "name": "Twin Sails Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Ascenders: Beyond the Peak",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 895864,
+        "date": 1790726400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1810028,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12smk.jpg"
+      },
+      {
+        "id": 1810029,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12sml.jpg"
+      },
+      {
+        "id": 1810019,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12smb.jpg"
+      },
+      {
+        "id": 1810020,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12smc.jpg"
+      },
+      {
+        "id": 1810021,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12smd.jpg"
+      },
+      {
+        "id": 1810022,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12sme.jpg"
+      },
+      {
+        "id": 1810030,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12smm.jpg"
+      },
+      {
+        "id": 1810023,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12smf.jpg"
+      },
+      {
+        "id": 1810024,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12smg.jpg"
+      },
+      {
+        "id": 1810025,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12smh.jpg"
+      },
+      {
+        "id": 1810026,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12smi.jpg"
+      },
+      {
+        "id": 1810027,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12smj.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Ascenders: Beyond the Peak is a turn-based exploration roguelite where survival is vertical. Lead a team of alpinists to recover ancient artifacts from cursed peaks, prepare your expedition, evolve your climbers, master rope mechanics, and face H.P. Lovecraft-inspired horrors within the mountain.",
+    "videos": [
+      {
+        "id": 180267,
+        "video_id": "PqWHj46uim0"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1037735,
+        "url": "https://store.steampowered.com/app/4267860",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1037736,
+        "url": "https://x.com/ascenderspeak",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1037737,
+        "url": "https://www.instagram.com/AscendersPeak",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1037738,
+        "url": "https://www.youtube.com/@TwinSailsInteractive",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1037739,
+        "url": "https://www.reddit.com/r/AscendersPeak",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 1037740,
+        "url": "https://discord.gg/CAbS9JS5eP",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1037752,
+        "url": "https://www.twitch.tv/directory/category/ascenders-beyond-the-peak",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
         }
       }
     ]
