@@ -1469,1333 +1469,6 @@
     ]
   },
   {
-    "id": 150077,
-    "cover": {
-      "id": 141926,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co31ie.jpg"
-    },
-    "first_release_date": 1774915200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 24,
-        "name": "Tactical"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 138245,
-        "company": {
-          "id": 34419,
-          "name": "Studio Draconis"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Zodiac Legion",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 841373,
-        "date": 1774915200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 473118,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sca526.jpg"
-      },
-      {
-        "id": 473119,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sca527.jpg"
-      },
-      {
-        "id": 473120,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sca528.jpg"
-      },
-      {
-        "id": 473121,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sca529.jpg"
-      },
-      {
-        "id": 473122,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sca52a.jpg"
-      },
-      {
-        "id": 473123,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sca52b.jpg"
-      },
-      {
-        "id": 473124,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sca52c.jpg"
-      },
-      {
-        "id": 473125,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sca52d.jpg"
-      },
-      {
-        "id": 473126,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sca52e.jpg"
-      },
-      {
-        "id": 473127,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sca52f.jpg"
-      },
-      {
-        "id": 473128,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sca52g.jpg"
-      },
-      {
-        "id": 473129,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sca52h.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Zodiac Legion is a turn-based tactical Role-Playing-Game featuring lethal combat, squad management and strategic elements. Lead your heroes through daring raids and forgotten ruins, defend your land in a time of conquest and betrayal, and master the secrets of volatile ancient magic to restore a realm beset by the armies of undying fiendish sorcerers.",
-    "videos": [
-      {
-        "id": 50513,
-        "video_id": "1S9q-qlWKlM"
-      }
-    ],
-    "websites": [
-      {
-        "id": 883301,
-        "url": "https://www.reddit.com/r/ZodiacLegion/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 183984,
-        "url": "https://store.steampowered.com/app/812910/Zodiac_Legion",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 457718,
-        "url": "https://www.twitch.tv/directory/game/Zodiac%20Legion",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 183985,
-        "url": "https://www.zodiac-legion.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 183986,
-        "url": "https://www.youtube.com/channel/UC5fs_ZVaOATpWiU5XCFEf0A",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 183987,
-        "url": "https://www.facebook.com/ZodiacLegion",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 183988,
-        "url": "https://twitter.com/ZodiacLegion",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 183989,
-        "url": "https://discord.gg/mZAj2RZpYq",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 1056362,
-        "url": "https://www.gog.com/en/game/zodiac_legion",
-        "type": {
-          "id": 17,
-          "type": "GOG"
-        }
-      }
-    ]
-  },
-  {
-    "id": 262888,
-    "cover": {
-      "id": 325662,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6za6.jpg"
-    },
-    "first_release_date": 1774915200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 5,
-        "name": "Massively Multiplayer Online (MMO)"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 15,
-        "name": "Strategy"
-      }
-    ],
-    "hypes": 2,
-    "name": "Blocklords",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 896484,
-        "date": 1774915200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1122978,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sco2hu.jpg"
-      },
-      {
-        "id": 1122972,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sco2ho.jpg"
-      },
-      {
-        "id": 1122973,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sco2hp.jpg"
-      },
-      {
-        "id": 1122974,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sco2hq.jpg"
-      },
-      {
-        "id": 1122975,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sco2hr.jpg"
-      },
-      {
-        "id": 1122976,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sco2hs.jpg"
-      },
-      {
-        "id": 1122977,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sco2ht.jpg"
-      },
-      {
-        "id": 1122979,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sco2hv.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Blocklords is a player-driven grand strategy game by MetaKing Studios. Rule, conquer, and grow with your medieval Hero.",
-    "websites": [
-      {
-        "id": 576125,
-        "url": "https://www.facebook.com/blocklordsgame",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 576124,
-        "url": "https://twitter.com/blocklords",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 576126,
-        "url": "https://www.instagram.com/blocklords.game/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 576122,
-        "url": "https://store.epicgames.com/en-US/p/blocklords-2a2ccd",
-        "type": {
-          "id": 16,
-          "type": "Epic"
-        }
-      },
-      {
-        "id": 576123,
-        "url": "https://Blocklords.com",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 576127,
-        "url": "https://twitch.tv/metakingstudios",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 576128,
-        "url": "https://discord.gg/CfnkqW4t6z",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 576129,
-        "url": "https://www.youtube.com/channel/UCpfBqIQsy8Wo4EzCFAr8EHQ",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 593480,
-        "url": "https://store.steampowered.com/app/1278420",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      }
-    ]
-  },
-  {
-    "id": 331111,
-    "cover": {
-      "id": 439141,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9eud.jpg"
-    },
-    "first_release_date": 1774915200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 307374,
-        "company": {
-          "id": 61532,
-          "name": "DIY Experiences LLC"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Retro Game Store Simulator",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 841566,
-        "date": 1774915200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1465618,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvevm.jpg"
-      },
-      {
-        "id": 1465615,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvevj.jpg"
-      },
-      {
-        "id": 1465616,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvevk.jpg"
-      },
-      {
-        "id": 1465617,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvevl.jpg"
-      }
-    ],
-    "status": 3,
-    "summary": "Build your own Video Game Store in 1984. Everyday until the end of 1989 gives you the opportunity to stock shelves, cycle your inventory, manage your prices, analyze historical trends to make your game store profitable. Use era-relevant technology and systems to prove that gaming has a future!",
-    "videos": [
-      {
-        "id": 140120,
-        "video_id": "V0gaK3RqksU"
-      }
-    ],
-    "websites": [
-      {
-        "id": 710957,
-        "url": "https://www.diyexperiences.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 728071,
-        "url": "https://www.instagram.com/retrogamestoresimulator",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 712159,
-        "url": "https://store.steampowered.com/app/3090010/Retro_Video_Game_Store_Simulator/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 710958,
-        "url": "https://www.youtube.com/@RetroGameStoreSimulator",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      }
-    ]
-  },
-  {
-    "id": 339674,
-    "cover": {
-      "id": 450595,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9noj.jpg"
-    },
-    "first_release_date": 1774915200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 5,
-    "involved_companies": [
-      {
-        "id": 315159,
-        "company": {
-          "id": 62963,
-          "name": "NoShadow"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Scavland",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 821555,
-        "date": 1774915200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1532958,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwuu6.jpg"
-      },
-      {
-        "id": 1532959,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwuu7.jpg"
-      },
-      {
-        "id": 1532960,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwuu8.jpg"
-      },
-      {
-        "id": 1532961,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwuu9.jpg"
-      },
-      {
-        "id": 1532962,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwuua.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Scavland is a hardcore, top-down pixel art survival game set in a Post-Apocalyptic Soviet Era. Explore a world ravaged by war and the deadly Mist, scavenging for resources, taking risky jobs, and seeking refuge in harsh settlements. The wasteland is relentless—everything is out to kill you.",
-    "websites": [
-      {
-        "id": 793400,
-        "url": "https://store.steampowered.com/app/3373500",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 727275,
-        "url": "https://twitter.com/scavland_",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 727276,
-        "url": "https://www.youtube.com/@scavland",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 726374,
-        "url": "https://discord.gg/scavland",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 726373,
-        "url": "https://scavland.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      }
-    ]
-  },
-  {
-    "id": 341684,
-    "cover": {
-      "id": 455024,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9r3k.jpg"
-    },
-    "first_release_date": 1774915200,
-    "game_modes": [
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 5,
-        "name": "Shooter"
-      },
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 24,
-        "name": "Tactical"
-      },
-      {
-        "id": 36,
-        "name": "MOBA"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 317702,
-        "company": {
-          "id": 44429,
-          "name": "Theia Games"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Starvault",
-    "platforms": [
-      {
-        "id": 386,
-        "name": "Meta Quest 2"
-      },
-      {
-        "id": 163,
-        "name": "SteamVR"
-      },
-      {
-        "id": 471,
-        "name": "Meta Quest 3"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 812494,
-        "date": 1774915200,
-        "platform": {
-          "id": 163,
-          "name": "SteamVR"
-        }
-      },
-      {
-        "id": 812492,
-        "date": 1757462400,
-        "platform": {
-          "id": 386,
-          "name": "Meta Quest 2"
-        }
-      },
-      {
-        "id": 812493,
-        "date": 1757462400,
-        "platform": {
-          "id": 471,
-          "name": "Meta Quest 3"
-        }
-      },
-      {
-        "id": 733090,
-        "date": 1747267200,
-        "platform": {
-          "id": 471,
-          "name": "Meta Quest 3"
-        }
-      },
-      {
-        "id": 733089,
-        "date": 1747267200,
-        "platform": {
-          "id": 386,
-          "name": "Meta Quest 2"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1522776,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmzc.jpg"
-      },
-      {
-        "id": 1522791,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmzr.jpg"
-      },
-      {
-        "id": 1522771,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmz7.jpg"
-      },
-      {
-        "id": 1522774,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmza.jpg"
-      },
-      {
-        "id": 1522777,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmzd.jpg"
-      },
-      {
-        "id": 1522772,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmz8.jpg"
-      },
-      {
-        "id": 1522773,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmz9.jpg"
-      },
-      {
-        "id": 1522775,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmzb.jpg"
-      },
-      {
-        "id": 1522778,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmze.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Choose your hero. Squad up. Push lanes. Farm creeps. Clear jungle camps. Upgrade your abilities mid-match. And dominate the map in intense 5v5 team fights.\nClassic MOBA with stunning visuals that push the Meta Quest to its absolute limits.",
-    "videos": [
-      {
-        "id": 156092,
-        "video_id": "Zq5vuDVi67k"
-      }
-    ],
-    "websites": [
-      {
-        "id": 832378,
-        "url": "https://discord.gg/starvaultvr",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 832377,
-        "url": "https://www.meta.com/en-us/experiences/starvault/7535945739825988/",
-        "type": {
-          "id": 25,
-          "type": "Meta"
-        }
-      },
-      {
-        "id": 736474,
-        "url": "https://x.com/starvaultvr",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 736473,
-        "url": "https://starvaultvr.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 736475,
-        "url": "https://www.youtube.com/@starvaultvr",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 760858,
-        "url": "https://www.twitch.tv/directory/category/starvault",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 870660,
-        "url": "https://store.steampowered.com/app/4020320",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      }
-    ]
-  },
-  {
-    "id": 345195,
-    "cover": {
-      "id": 507597,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coavnx.jpg"
-    },
-    "first_release_date": 1774915200,
-    "game_modes": [
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "hypes": 3,
-    "involved_companies": [
-      {
-        "id": 322291,
-        "company": {
-          "id": 38267,
-          "name": "Crater Studios"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Gravebound",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 849290,
-        "date": 1774915200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 792252,
-        "date": 1754611200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1538293,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwyyd.jpg"
-      },
-      {
-        "id": 1538299,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwyyj.jpg"
-      },
-      {
-        "id": 1538303,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwyyn.jpg"
-      },
-      {
-        "id": 1538307,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwyyr.jpg"
-      },
-      {
-        "id": 1538308,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwyys.jpg"
-      },
-      {
-        "id": 1538311,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwyyv.jpg"
-      },
-      {
-        "id": 1538310,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwyyu.jpg"
-      },
-      {
-        "id": 1538312,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwyyw.jpg"
-      },
-      {
-        "id": 1538313,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwyyx.jpg"
-      }
-    ],
-    "status": 3,
-    "summary": "Gravebound is a post-apocalyptic extraction shooter set in a world where crumbling cities and ancient magic collide. Fight, loot, and survive against deadly creatures and rival players as you explore the Shatterlands.",
-    "videos": [
-      {
-        "id": 151150,
-        "video_id": "X5QQmkPHTGM"
-      },
-      {
-        "id": 163771,
-        "video_id": "aY-h0LND1qI"
-      },
-      {
-        "id": 168913,
-        "video_id": "7KKEbPDeCFs"
-      }
-    ],
-    "websites": [
-      {
-        "id": 797919,
-        "url": "https://store.steampowered.com/app/3613050",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 798224,
-        "url": "https://discord.gg/eauW8HhWEq",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      }
-    ]
-  },
-  {
-    "id": 346790,
-    "cover": {
-      "id": 461990,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9wh2.jpg"
-    },
-    "first_release_date": 1774915200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 323559,
-        "company": {
-          "id": 64268,
-          "name": "Aitvar Studio"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Lustra: Lachea’s Tale",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 794426,
-        "date": 1774915200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1547965,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx6f1.jpg"
-      },
-      {
-        "id": 1547971,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx6f7.jpg"
-      },
-      {
-        "id": 1547976,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx6fc.jpg"
-      },
-      {
-        "id": 1547981,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx6fh.jpg"
-      },
-      {
-        "id": 1547987,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx6fn.jpg"
-      },
-      {
-        "id": 1547991,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx6fr.jpg"
-      },
-      {
-        "id": 1547995,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx6fv.jpg"
-      },
-      {
-        "id": 1547997,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx6fx.jpg"
-      },
-      {
-        "id": 1548000,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx6g0.jpg"
-      },
-      {
-        "id": 1548002,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx6g2.jpg"
-      },
-      {
-        "id": 1548004,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx6g4.jpg"
-      },
-      {
-        "id": 1548006,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx6g6.jpg"
-      },
-      {
-        "id": 1547960,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx6ew.jpg"
-      }
-    ],
-    "status": 3,
-    "summary": "LUSTRA: Lachea’s Tale is a story-rich RPG that combines real-time spellcasting, exploration, and settlement building, set in a fractured floating island realm where ancient magic and mystery intertwine.\n\nPlay as Lachea, a young mage shaped by the world around her, learning to lead, grow, and take control of her path in a land suspended between ruin and renewal.\n\nLustra invites players to see the world through multiple perspectives, to reflect on morality, empathy, and responsibility, and to shape not just the outcome of a magical world, but the kind of person Lachea becomes along the way.",
-    "videos": [
-      {
-        "id": 152269,
-        "video_id": "sRynqVUb3So"
-      },
-      {
-        "id": 161023,
-        "video_id": "RjJaN7KLUDk"
-      }
-    ],
-    "websites": [
-      {
-        "id": 804728,
-        "url": "https://store.steampowered.com/app/3301430/LUSTRA_Lacheas_Tale/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 804729,
-        "url": "https://x.com/Lustra_Lachea",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 804730,
-        "url": "https://www.instagram.com/lustra_lacheas_tale/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 804731,
-        "url": "https://www.youtube.com/@LUSTRALacheasTale",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 818112,
-        "url": "https://discord.gg/fwmjQ2uBD8",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      }
-    ]
-  },
-  {
-    "id": 384167,
-    "cover": {
-      "id": 553117,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobusd.jpg"
-    },
-    "first_release_date": 1774915200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      }
-    ],
-    "genres": [
-      {
-        "id": 8,
-        "name": "Platform"
-      },
-      {
-        "id": 10,
-        "name": "Racing"
-      },
-      {
-        "id": 14,
-        "name": "Sport"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 373404,
-        "company": {
-          "id": 72791,
-          "name": "Second Stage Studio"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Sprint City",
-    "platforms": [
-      {
-        "id": 82,
-        "name": "Web browser"
-      },
-      {
-        "id": 3,
-        "name": "Linux"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 892395,
-        "date": 1774915200,
-        "platform": {
-          "id": 3,
-          "name": "Linux"
-        }
-      },
-      {
-        "id": 892396,
-        "date": 1774915200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1808881,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12rqp.jpg"
-      },
-      {
-        "id": 1808879,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12rqn.jpg"
-      },
-      {
-        "id": 1808880,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12rqo.jpg"
-      },
-      {
-        "id": 1808878,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12rqm.jpg"
-      },
-      {
-        "id": 1808882,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12rqq.jpg"
-      },
-      {
-        "id": 1808883,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12rqr.jpg"
-      },
-      {
-        "id": 1808884,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12rqs.jpg"
-      },
-      {
-        "id": 1808885,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12rqt.jpg"
-      },
-      {
-        "id": 1808886,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12rqu.jpg"
-      },
-      {
-        "id": 1808887,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12rqv.jpg"
-      },
-      {
-        "id": 1808888,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12rqw.jpg"
-      },
-      {
-        "id": 1808889,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12rqx.jpg"
-      },
-      {
-        "id": 1808890,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12rqy.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Sprint City is a shared-world competitive 2D platformer from the original creators of SpeedRunners, where tight controls, explosive speed, and hidden shortcuts fuel high-intensity racing.",
-    "videos": [
-      {
-        "id": 172559,
-        "video_id": "2M4SkQLFRGM"
-      },
-      {
-        "id": 172615,
-        "video_id": "CkjriNRJm5o"
-      },
-      {
-        "id": 180119,
-        "video_id": "BQHC2idXuZk"
-      }
-    ],
-    "websites": [
-      {
-        "id": 976535,
-        "url": "https://store.steampowered.com/app/4191250",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 976536,
-        "url": "https://sprintcity.io/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 976537,
-        "url": "https://x.com/playsprintcity",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 976538,
-        "url": "https://www.instagram.com/playsprintcity",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 976539,
-        "url": "https://www.youtube.com/@SprintCityGame",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 976540,
-        "url": "https://www.reddit.com/r/sprintcity",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 976541,
-        "url": "https://discord.gg/sprintcity",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 976542,
-        "url": "https://bsky.app/profile/playsprintcity.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 1019033,
-        "url": "https://www.twitch.tv/directory/category/sprint-city",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      }
-    ]
-  },
-  {
     "id": 140616,
     "cover": {
       "id": 118855,
@@ -3334,271 +2007,6 @@
         "type": {
           "id": 5,
           "type": "Twitter"
-        }
-      }
-    ]
-  },
-  {
-    "id": 113360,
-    "cover": {
-      "id": 528941,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobc4t.jpg"
-    },
-    "first_release_date": 1775779200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      },
-      {
-        "id": 33,
-        "name": "Arcade"
-      }
-    ],
-    "hypes": 132,
-    "involved_companies": [
-      {
-        "id": 362279,
-        "company": {
-          "id": 17066,
-          "name": "Hypixel Studios"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Hytale",
-    "platforms": [
-      {
-        "id": 3,
-        "name": "Linux"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      },
-      {
-        "id": 130,
-        "name": "Nintendo Switch"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 845871,
-        "date": 1768262400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 854815,
-        "date": 1768262400,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 854816,
-        "date": 1768262400,
-        "platform": {
-          "id": 3,
-          "name": "Linux"
-        }
-      },
-      {
-        "id": 904233,
-        "date": 1775779200,
-        "platform": {
-          "id": 130,
-          "name": "Nintendo Switch"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 268940,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5rik.jpg"
-      },
-      {
-        "id": 268941,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5ril.jpg"
-      },
-      {
-        "id": 268939,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5rij.jpg"
-      },
-      {
-        "id": 268938,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5rii.jpg"
-      },
-      {
-        "id": 268942,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5rim.jpg"
-      },
-      {
-        "id": 268944,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5rio.jpg"
-      },
-      {
-        "id": 268943,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5rin.jpg"
-      },
-      {
-        "id": 268946,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5riq.jpg"
-      },
-      {
-        "id": 268945,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5rip.jpg"
-      },
-      {
-        "id": 268947,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5rir.jpg"
-      },
-      {
-        "id": 268949,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5rit.jpg"
-      },
-      {
-        "id": 268948,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5ris.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Hytale combines the scope of a sandbox with the depth of a roleplaying game, immersing players in a procedurally generated world where teetering towers and deep dungeons promise rich rewards throughout their adventures. Hytale supports everything from block-by-block construction to scripting and minigame creation, delivered using easy to use and powerful tools.",
-    "videos": [
-      {
-        "id": 168463,
-        "video_id": "o77MzDQT1cg"
-      },
-      {
-        "id": 172429,
-        "video_id": "rhaqjb_S2X8"
-      },
-      {
-        "id": 172430,
-        "video_id": "aavNidH3wnc"
-      },
-      {
-        "id": 172431,
-        "video_id": "BAmnC-ZEaAM"
-      }
-    ],
-    "websites": [
-      {
-        "id": 95374,
-        "url": "https://hytale.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 95377,
-        "url": "https://www.instagram.com/HytaleGame",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 918241,
-        "url": "https://discord.gg/hytale",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 125657,
-        "url": "https://en.wikipedia.org/wiki/Hytale",
-        "type": {
-          "id": 3,
-          "type": "Wikipedia"
-        }
-      },
-      {
-        "id": 95375,
-        "url": "https://www.facebook.com/HytaleGame",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 125658,
-        "url": "https://www.reddit.com/r/Hytale",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 945112,
-        "url": "https://hytalewiki.org/",
-        "type": {
-          "id": 2,
-          "type": "Community Wiki"
-        }
-      },
-      {
-        "id": 984295,
-        "url": "https://www.twitch.tv/directory/category/hytale",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 984296,
-        "url": "https://x.com/Hytale",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 984297,
-        "url": "https://www.youtube.com/@Hytale",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 986055,
-        "url": "https://bsky.app/profile/hytale.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
         }
       }
     ]
@@ -10373,152 +8781,6 @@
     ]
   },
   {
-    "id": 396520,
-    "cover": {
-      "id": 553328,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobuy8.jpg"
-    },
-    "first_release_date": 1779753600,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 378581,
-        "company": {
-          "id": 75318,
-          "name": "Nested Loop Studios"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 378580,
-        "company": {
-          "id": 63126,
-          "name": "Pantaloon"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Boxroom",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 910188,
-        "date": 1779753600,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1808401,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12rdd.jpg"
-      },
-      {
-        "id": 1808402,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12rde.jpg"
-      },
-      {
-        "id": 1808403,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12rdf.jpg"
-      },
-      {
-        "id": 1808404,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12rdg.jpg"
-      },
-      {
-        "id": 1808405,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12rdh.jpg"
-      },
-      {
-        "id": 1808406,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12rdi.jpg"
-      }
-    ],
-    "status": 3,
-    "summary": "Boxroom is a builder/designer sim giving you the space to put a stamp on your Steam library. After setting up your room and preferred shelving arrangement, the game will boot your ACTUAL steam library onto the shelves - giving you space to arrange, curate and explore your collection as you see fit",
-    "videos": [
-      {
-        "id": 180030,
-        "video_id": "Ma5wnXOI1C4"
-      },
-      {
-        "id": 184932,
-        "video_id": "on1Uepoz5KY"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1036662,
-        "url": "https://store.steampowered.com/app/4335460/BOXROOM/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1037616,
-        "url": "https://www.pantaloon.io/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1037617,
-        "url": "https://discord.com/invite/GshQKAEY4P?_kx\u003d_NEZvoNKZfV4cXEX5IMHEg%3D%3D.VxpbwG",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 1037618,
-        "url": "https://bsky.app/profile/pantaloon.io",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 1038433,
-        "url": "https://www.youtube.com/@Pantaloon_interactive",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      }
-    ]
-  },
-  {
     "id": 288461,
     "cover": {
       "id": 470161,
@@ -11048,7 +9310,7 @@
         "name": "Adventure"
       }
     ],
-    "hypes": 11,
+    "hypes": 12,
     "involved_companies": [
       {
         "id": 324591,
@@ -12588,6 +10850,368 @@
       {
         "id": 818960,
         "url": "https://discord.gg/gXG92vtBKZ",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      }
+    ]
+  },
+  {
+    "id": 360095,
+    "cover": {
+      "id": 477945,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coa8s9.jpg"
+    },
+    "first_release_date": 1782777600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 335376,
+        "company": {
+          "id": 52300,
+          "name": "Phew Phew Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 335377,
+        "company": {
+          "id": 63202,
+          "name": "GameDev.ist"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Papa Needs a Headshot",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 782900,
+        "date": 1782777600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 888679,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1607129,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyg2h.jpg"
+      },
+      {
+        "id": 1607130,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyg2i.jpg"
+      },
+      {
+        "id": 1607131,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyg2j.jpg"
+      },
+      {
+        "id": 1607132,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyg2k.jpg"
+      },
+      {
+        "id": 1607134,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyg2m.jpg"
+      },
+      {
+        "id": 1607133,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyg2l.jpg"
+      },
+      {
+        "id": 1607135,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyg2n.jpg"
+      }
+    ],
+    "status": 2,
+    "summary": "Papa Needs a Headshot is a brutal western-steampunk FPS soaked in kin blood. Rip through flesh and bend the battlefield with your cursed metal arm. Use every bullet wisely to slaughter freaks and abominations on your warpath. Keep enduring only to put a bullet in the skull of the man who made you.",
+    "videos": [
+      {
+        "id": 158930,
+        "video_id": "N4rtDN023Wg"
+      },
+      {
+        "id": 169986,
+        "video_id": "O1vFon3TK9U"
+      },
+      {
+        "id": 178610,
+        "video_id": "Gby63JW-oxI"
+      },
+      {
+        "id": 178651,
+        "video_id": "Vtt6RMxDTzw"
+      }
+    ],
+    "websites": [
+      {
+        "id": 847728,
+        "url": "https://store.steampowered.com/app/3845210/Papa_Needs_a_Headshot/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 847792,
+        "url": "https://phewphewgames.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 847909,
+        "url": "https://x.com/Papa_Headshot",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 847910,
+        "url": "https://bsky.app/profile/papaneedsaheadshot.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      }
+    ]
+  },
+  {
+    "id": 345455,
+    "cover": {
+      "id": 561582,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc1bi.jpg"
+    },
+    "first_release_date": 1782864000,
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 5,
+        "name": "Massively Multiplayer Online (MMO)"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 3,
+    "involved_companies": [
+      {
+        "id": 322757,
+        "company": {
+          "id": 64118,
+          "name": "Reboot Team"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Project Reboot",
+    "platforms": [
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 918592,
+        "date": 1782864000,
+        "platform": {
+          "id": 3,
+          "name": "Linux"
+        }
+      },
+      {
+        "id": 918593,
+        "date": 1782864000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 918861,
+        "date": 1767052800,
+        "platform": {
+          "id": 3,
+          "name": "Linux"
+        }
+      },
+      {
+        "id": 918862,
+        "date": 1767052800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1801380,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12lyc.jpg"
+      },
+      {
+        "id": 1801381,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12lyd.jpg"
+      },
+      {
+        "id": 1801382,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12lye.jpg"
+      },
+      {
+        "id": 1801383,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12lyf.jpg"
+      },
+      {
+        "id": 1801384,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12lyg.jpg"
+      },
+      {
+        "id": 1801385,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12lyh.jpg"
+      }
+    ],
+    "status": 3,
+    "summary": "Project Reboot is a fan-made remaster of Pixel Worlds brought to you by the community! Made for everyone by everyone.\n\nFully Free-To-Play with zero in-game transactions.",
+    "videos": [
+      {
+        "id": 151364,
+        "video_id": "HCBfMauRUv4"
+      },
+      {
+        "id": 151365,
+        "video_id": "elhSMZjTC-A"
+      },
+      {
+        "id": 151366,
+        "video_id": "jZNdp5ajv6g"
+      }
+    ],
+    "websites": [
+      {
+        "id": 799394,
+        "url": "https://instagram.com/projectrebootpw",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 799392,
+        "url": "https://pwreboot.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 799395,
+        "url": "https://youtube.com/@ProjectRebootPW",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1030392,
+        "url": "https://www.twitch.tv/projectrebootpw/",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 1030393,
+        "url": "https://projectreboot.fandom.com/",
+        "type": {
+          "id": 2,
+          "type": "Community Wiki"
+        }
+      },
+      {
+        "id": 1030394,
+        "url": "https://www.reddit.com/r/ProjectRebootPW",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 1060814,
+        "url": "https://discord.gg/project-reboot-1305327646934175765",
         "type": {
           "id": 18,
           "type": "Discord"
@@ -14204,7 +12828,7 @@
         "name": "Adventure"
       }
     ],
-    "hypes": 15,
+    "hypes": 16,
     "involved_companies": [
       {
         "id": 313958,
@@ -14455,211 +13079,6 @@
         "type": {
           "id": 22,
           "type": "Xbox"
-        }
-      }
-    ]
-  },
-  {
-    "id": 400092,
-    "cover": {
-      "id": 560042,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc04q.jpg"
-    },
-    "first_release_date": 1798675200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 33,
-        "name": "Arcade"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 383737,
-        "company": {
-          "id": 65290,
-          "name": "Next Genium"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Whatever It Takes",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 912682,
-        "date": 1798675200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 912683,
-        "date": 1774915200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1835152,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0g.jpg"
-      },
-      {
-        "id": 1835171,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0z.jpg"
-      },
-      {
-        "id": 1835153,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0h.jpg"
-      },
-      {
-        "id": 1835154,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0i.jpg"
-      },
-      {
-        "id": 1835155,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0j.jpg"
-      },
-      {
-        "id": 1835156,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0k.jpg"
-      },
-      {
-        "id": 1835157,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0l.jpg"
-      },
-      {
-        "id": 1835158,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0m.jpg"
-      },
-      {
-        "id": 1835159,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0n.jpg"
-      },
-      {
-        "id": 1835160,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0o.jpg"
-      },
-      {
-        "id": 1835161,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0p.jpg"
-      },
-      {
-        "id": 1835162,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0q.jpg"
-      },
-      {
-        "id": 1835163,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0r.jpg"
-      },
-      {
-        "id": 1835164,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0s.jpg"
-      },
-      {
-        "id": 1835165,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0t.jpg"
-      },
-      {
-        "id": 1835166,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0u.jpg"
-      },
-      {
-        "id": 1835167,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0v.jpg"
-      },
-      {
-        "id": 1835168,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0w.jpg"
-      },
-      {
-        "id": 1835169,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0x.jpg"
-      },
-      {
-        "id": 1835170,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13c0y.jpg"
-      }
-    ],
-    "status": 2,
-    "summary": "Whatever It Takes is a hardcore first-person Action RPG in a dark fantasy setting. As a fallen god, master elemental magic, absorb enemy powers, and engage in tactical duels. Use a harpoon for traversal and shape the Omnisphere’s fate through your choices. Reclaim your throne. Whatever it takes",
-    "videos": [
-      {
-        "id": 182562,
-        "video_id": "Deqhbbf8fLM"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1049890,
-        "url": "https://store.steampowered.com/app/3485200/Whatever_It_Takes",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1049891,
-        "url": "https://next-genium.com/en/games/whatever-it-takes/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1050036,
-        "url": "https://www.youtube.com/@NextGenium",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1050037,
-        "url": "https://x.com/NextGenium",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1050038,
-        "url": "https://www.facebook.com/NextGenium/",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 1050039,
-        "url": "https://www.reddit.com/r/Next_Genium/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
         }
       }
     ]
@@ -15821,154 +14240,6 @@
         "type": {
           "id": 14,
           "type": "Subreddit"
-        }
-      }
-    ]
-  },
-  {
-    "id": 366716,
-    "cover": {
-      "id": 531026,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobdqq.jpg"
-    },
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 14,
-        "name": "Sport"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 352449,
-        "company": {
-          "id": 68829,
-          "name": "UnPlayTheGame"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Imagine Sisyphus Happy",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 885063,
-        "date": 1774915200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1759428,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11pl0.jpg"
-      },
-      {
-        "id": 1759425,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11pkx.jpg"
-      },
-      {
-        "id": 1759426,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11pky.jpg"
-      },
-      {
-        "id": 1759427,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11pkz.jpg"
-      },
-      {
-        "id": 1759429,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11pl1.jpg"
-      },
-      {
-        "id": 1759432,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11pl4.jpg"
-      },
-      {
-        "id": 1759430,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11pl2.jpg"
-      },
-      {
-        "id": 1759431,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11pl3.jpg"
-      },
-      {
-        "id": 1759433,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11pl5.jpg"
-      },
-      {
-        "id": 1759434,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11pl6.jpg"
-      }
-    ],
-    "status": 2,
-    "summary": "Sisyphus, king of Corinth, has tricked the Gods and Death. To punish him, the Gods condemned him to push a boulder uphill forever, only for it to roll back each time.\nBut Sisyphus didn\u0027t give up. He decided to livestream it.\n\nImagine Sisyphus Happy is a Steamer Sim, Clicker and QTE mix game about life, spectacle, and finding meaning in repetition. Roll your boulder, pull off stunts, and try to make the eternal grind worth living.\n\nPush the boulder. Do tricks. Go live.\n\nProgressing from Greek myth to the modern day, the story asks two simple questions:\n- Aren’t you a Sisyphus too?\n- Can you Imagine Sisyphus Happy?",
-    "videos": [
-      {
-        "id": 161794,
-        "video_id": "JHmXPcoWMMg"
-      },
-      {
-        "id": 175947,
-        "video_id": "yYUxKESaMco"
-      },
-      {
-        "id": 182375,
-        "video_id": "F80utb4jDuM"
-      }
-    ],
-    "websites": [
-      {
-        "id": 868505,
-        "url": "https://store.steampowered.com/app/3959020/Imagine_Sisyphus_Happy/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 868506,
-        "url": "https://www.youtube.com/watch?v\u003dJHmXPcoWMMg",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 869250,
-        "url": "https://discord.gg/VbWXANTytW",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 869251,
-        "url": "https://bsky.app/profile/ungame.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
         }
       }
     ]
