@@ -407,6 +407,254 @@
     ]
   },
   {
+    "id": 279627,
+    "cover": {
+      "id": 348975,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7h9r.jpg"
+    },
+    "first_release_date": 1713398400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 27,
+    "involved_companies": [
+      {
+        "id": 311041,
+        "company": {
+          "id": 5052,
+          "name": "Moon Studios"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "No Rest for the Wicked",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 569031,
+        "date": 1713398400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 669790,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      },
+      {
+        "id": 920834,
+        "date": 1790812800,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 920838,
+        "date": 1790812800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1206611,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scpv0z.jpg"
+      },
+      {
+        "id": 1206612,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scpv10.jpg"
+      },
+      {
+        "id": 1206613,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scpv11.jpg"
+      },
+      {
+        "id": 1206614,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scpv12.jpg"
+      },
+      {
+        "id": 1206615,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scpv13.jpg"
+      },
+      {
+        "id": 1206616,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scpv14.jpg"
+      },
+      {
+        "id": 1206617,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scpv15.jpg"
+      },
+      {
+        "id": 1206618,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scpv16.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "From Moon Studios, the award-winning developers of Ori and the Blind Forest and Ori and the Will of the Wisps comes No Rest for the Wicked, a visceral, precision Action RPG set to reinvent the genre.",
+    "videos": [
+      {
+        "id": 103090,
+        "video_id": "R3zJPgIDtuk"
+      },
+      {
+        "id": 109793,
+        "video_id": "o89EQuSnwGs"
+      },
+      {
+        "id": 120592,
+        "video_id": "Z7gSM3eMEEs"
+      },
+      {
+        "id": 156335,
+        "video_id": "mpoMEYnvA5Q"
+      },
+      {
+        "id": 156336,
+        "video_id": "0PLtPBHVGmc"
+      },
+      {
+        "id": 185955,
+        "video_id": "dzOnRaQVoeI"
+      }
+    ],
+    "websites": [
+      {
+        "id": 733256,
+        "url": "https://discord.gg/wickedgame",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 833897,
+        "url": "https://store.playstation.com/en-us/concept/10002317",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
+        }
+      },
+      {
+        "id": 602021,
+        "url": "https://store.steampowered.com/app/1371980",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 746283,
+        "url": "https://youtube.com/@MoonGameStudios",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 746282,
+        "url": "https://x.com/wickedgame",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 746281,
+        "url": "https://facebook.com/WickedVideoGame",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 833899,
+        "url": "https://www.reddit.com/r/NoRestForTheWicked/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 833898,
+        "url": "https://en.wikipedia.org/wiki/No_Rest_for_the_Wicked_(video_game)",
+        "type": {
+          "id": 3,
+          "type": "Wikipedia"
+        }
+      },
+      {
+        "id": 979446,
+        "url": "https://www.xbox.com/en-us/games/store/no-rest-for-the-wicked-2024/9nt1zwpqhxt9",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
+      },
+      {
+        "id": 632091,
+        "url": "https://www.twitch.tv/directory/category/no-rest-for-the-wicked-1",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 602178,
+        "url": "https://www.instagram.com/wickedgame/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 602060,
+        "url": "https://norestforthewicked.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      }
+    ]
+  },
+  {
     "id": 244178,
     "cover": {
       "id": 388885,
@@ -8389,6 +8637,14 @@
           "id": 1,
           "type": "Official Website"
         }
+      },
+      {
+        "id": 1063000,
+        "url": "https://www.gog.com/game/enter_the_chronosphere",
+        "type": {
+          "id": 17,
+          "type": "GOG"
+        }
       }
     ]
   },
@@ -8796,6 +9052,365 @@
         "type": {
           "id": 8,
           "type": "Instagram"
+        }
+      }
+    ]
+  },
+  {
+    "id": 380138,
+    "cover": {
+      "id": 543744,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobnk0.jpg"
+    },
+    "first_release_date": 1779753600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 373853,
+        "company": {
+          "id": 74422,
+          "name": "Feeble Minds"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Serpent\u0027s Gaze",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 920990,
+        "date": 1779753600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1710017,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ngh.jpg"
+      },
+      {
+        "id": 1710020,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ngk.jpg"
+      },
+      {
+        "id": 1710021,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ngl.jpg"
+      },
+      {
+        "id": 1710014,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10nge.jpg"
+      },
+      {
+        "id": 1710016,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ngg.jpg"
+      },
+      {
+        "id": 1710018,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ngi.jpg"
+      },
+      {
+        "id": 1710019,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ngj.jpg"
+      },
+      {
+        "id": 1710013,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ngd.jpg"
+      },
+      {
+        "id": 1710015,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ngf.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Serpent’s Gaze is a punishing 1-4 player co-op third-person action game where you fight tough enemies and relentless bosses, all while uncovering the secrets of an ancient desert.",
+    "videos": [
+      {
+        "id": 169864,
+        "video_id": "_xwxRj7CAqo"
+      }
+    ],
+    "websites": [
+      {
+        "id": 925508,
+        "url": "https://discord.gg/serpentsgaze",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 925511,
+        "url": "https://x.com/TheFeebleMinds/",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 925507,
+        "url": "https://store.steampowered.com/app/3069050",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 925509,
+        "url": "https://www.instagram.com/serpents.gaze/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 925510,
+        "url": "https://bsky.app/profile/serpentsgaze.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      }
+    ]
+  },
+  {
+    "id": 280353,
+    "cover": {
+      "id": 387865,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8ba1.jpg"
+    },
+    "first_release_date": 1779840000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 7,
+    "involved_companies": [
+      {
+        "id": 244621,
+        "company": {
+          "id": 43813,
+          "name": "Paradox Arc"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 244622,
+        "company": {
+          "id": 51546,
+          "name": "Cool and Good Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Starminer",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 904891,
+        "date": 1779840000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1454116,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scv604.jpg"
+      },
+      {
+        "id": 1454117,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scv605.jpg"
+      },
+      {
+        "id": 1454123,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scv60b.jpg"
+      },
+      {
+        "id": 1454119,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scv607.jpg"
+      },
+      {
+        "id": 1454115,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scv603.jpg"
+      },
+      {
+        "id": 1454122,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scv60a.jpg"
+      },
+      {
+        "id": 1454114,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scv602.jpg"
+      },
+      {
+        "id": 1454121,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scv609.jpg"
+      },
+      {
+        "id": 1454118,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scv606.jpg"
+      },
+      {
+        "id": 1454120,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scv608.jpg"
+      },
+      {
+        "id": 1454126,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scv60e.jpg"
+      },
+      {
+        "id": 1454130,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scv60i.jpg"
+      },
+      {
+        "id": 1454124,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scv60c.jpg"
+      },
+      {
+        "id": 1454125,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scv60d.jpg"
+      },
+      {
+        "id": 1454128,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scv60g.jpg"
+      },
+      {
+        "id": 1454129,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scv60h.jpg"
+      },
+      {
+        "id": 1454127,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scv60f.jpg"
+      },
+      {
+        "id": 1454131,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scv60j.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Design and build an interstellar mining fleet to strip space of its invaluable minerals, and sell them for a tidy profit. But beware. Your greed will attract the alien. Use warships and defense platforms to protect your fleet at all costs - in real space, in real time.\n\nStarminer is a space industry and logistics simulation that strives to be at the forefront of space strategy gaming, blending cutting-edge rendering technologies with deep tactical and creative gameplay. It\u0027s set against backdrops of fully-realized 3D environments, where the beauty of space becomes an integral part of player immersion, setting Starminer apart as a visually stunning and technologically advanced space base-building game. Starminer is built with realism and immersion as core design pillars through the incorporation of Newtonian physics for propulsion and movement. This not only adds a layer of authenticity and complexity to the gameplay but also introduces a rewarding learning curve for players seeking a genuinely advanced spacefaring experience.\n\nIn Starminer, the universe is more than just a pretty backdrop for exploration and conquest—it\u0027s a playground for players to explore their creativity and long-term ambitions for their fleets. Central to the game\u0027s creative ethos is the ability to design a variety of space stations that bring them toward their goals; whether it\u0027s to mine resources, be a defensive power, colonization, energy production, or something else entirely. The dynamic and customizable nature of these different types of stations means that the player doesn’t only decide what their cosmic empire will be; it will become a unique reflection of their strategic prowess and imaginative flair.",
+    "videos": [
+      {
+        "id": 103419,
+        "video_id": "MtekOaZmaBc"
+      },
+      {
+        "id": 115379,
+        "video_id": "82fGMm_YQqs"
+      }
+    ],
+    "websites": [
+      {
+        "id": 707023,
+        "url": "https://www.twitch.tv/directory/category/starminer",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 603174,
+        "url": "https://store.steampowered.com/app/1116050/Starminer/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 707026,
+        "url": "https://discord.gg/invite/FBYMjEMuU3",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 707025,
+        "url": "https://twitter.com/StarminerGame",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 707024,
+        "url": "https://www.youtube.com/@starminergame?si\u003dD8YADyXLAcNL-BM1",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1053526,
+        "url": "https://starminer.net/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
         }
       }
     ]
@@ -11302,7 +11917,7 @@
         "name": "Adventure"
       }
     ],
-    "hypes": 9,
+    "hypes": 10,
     "involved_companies": [
       {
         "id": 378200,
@@ -12866,7 +13481,7 @@
         "name": "Indie"
       }
     ],
-    "hypes": 4,
+    "hypes": 3,
     "name": "Worming from Home",
     "platforms": [
       {
