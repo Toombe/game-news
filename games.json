@@ -1126,6 +1126,496 @@
     ]
   },
   {
+    "id": 252828,
+    "cover": {
+      "id": 308360,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6lxk.jpg"
+    },
+    "first_release_date": 1742256000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 5,
+        "name": "Massively Multiplayer Online (MMO)"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 14,
+    "involved_companies": [
+      {
+        "id": 219226,
+        "company": {
+          "id": 7097,
+          "name": "Thunder Lotus"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "33 Immortals",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 708702,
+        "date": 1742256000,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      },
+      {
+        "id": 708701,
+        "date": 1742256000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 922995,
+        "date": 1781049600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 922996,
+        "date": 1781049600,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1068775,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmwo7.jpg"
+      },
+      {
+        "id": 1068776,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmwo8.jpg"
+      },
+      {
+        "id": 1068777,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmwo9.jpg"
+      },
+      {
+        "id": 1068778,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmwoa.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "33 Immortals is a co-op action-roguelike for 33 players. Play a damned soul, and rebel against God’s final judgment. Pick-up and raid, cooperate to survive hordes of monsters, defeat massive bosses, and face the wrath of God in a fight for your eternal life.",
+    "videos": [
+      {
+        "id": 91671,
+        "video_id": "G-K3N71WIog"
+      },
+      {
+        "id": 91717,
+        "video_id": "--tsUsTMwMM"
+      },
+      {
+        "id": 111151,
+        "video_id": "_jOqj9Ekk2w"
+      },
+      {
+        "id": 112457,
+        "video_id": "npD90Gr23Vg"
+      },
+      {
+        "id": 114663,
+        "video_id": "d03CjOO7-Jk"
+      },
+      {
+        "id": 141244,
+        "video_id": "K0a_w1bk_uU"
+      },
+      {
+        "id": 166504,
+        "video_id": "Wphp5UUA_MI"
+      },
+      {
+        "id": 159888,
+        "video_id": "PEpALq264-0"
+      },
+      {
+        "id": 174186,
+        "video_id": "Xj2GcJV35Co"
+      },
+      {
+        "id": 176621,
+        "video_id": "jyw-GIUbFG0"
+      },
+      {
+        "id": 181388,
+        "video_id": "kvldP1kG2Ms"
+      },
+      {
+        "id": 186544,
+        "video_id": "iOH4jKB4SQg"
+      }
+    ],
+    "websites": [
+      {
+        "id": 855326,
+        "url": "https://www.xbox.com/en-us/games/store/33-immortals-game-preview/9P8LR42PTRGJ",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
+      },
+      {
+        "id": 991974,
+        "url": "https://store.steampowered.com/app/958520",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 995009,
+        "url": "https://bsky.app/profile/thunderlotusgames.com",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 558389,
+        "url": "https://discord.gg/tlg",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 557478,
+        "url": "https://store.epicgames.com/en-US/p/33-immortals-9873a2",
+        "type": {
+          "id": 16,
+          "type": "Epic"
+        }
+      },
+      {
+        "id": 557479,
+        "url": "https://thunderlotusgames.com/33-immortals/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 558386,
+        "url": "https://twitter.com/ThunderLotus",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 558388,
+        "url": "https://www.instagram.com/thunderlotus/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 558387,
+        "url": "https://facebook.com/ThunderLotusGames",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 558390,
+        "url": "https://www.youtube.com/@thunderlotus",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      }
+    ]
+  },
+  {
+    "id": 337712,
+    "cover": {
+      "id": 448149,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9lsl.jpg"
+    },
+    "first_release_date": 1744675200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 4,
+    "involved_companies": [
+      {
+        "id": 313702,
+        "company": {
+          "id": 16404,
+          "name": "Jagex"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "RuneScape: Dragonwilds",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 728818,
+        "date": 1744675200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 922893,
+        "date": 1789430400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 922894,
+        "date": 1789430400,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 922938,
+        "date": 1789430400,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1494763,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw1d7.jpg"
+      },
+      {
+        "id": 1494764,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw1d8.jpg"
+      },
+      {
+        "id": 1494765,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw1d9.jpg"
+      },
+      {
+        "id": 1494766,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw1da.jpg"
+      },
+      {
+        "id": 1494767,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw1db.jpg"
+      },
+      {
+        "id": 1494768,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw1dc.jpg"
+      },
+      {
+        "id": 1494769,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw1dd.jpg"
+      },
+      {
+        "id": 1494770,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw1de.jpg"
+      },
+      {
+        "id": 1494771,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw1df.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "On RuneScape’s forgotten continent of Ashenfall, dragons have awoken. Gather, build, skill and craft to survive in this co-operative (1-4) survival crafting game. Only by mastering survival and uncovering ancient secrets can they hope to slay the Dragon Queen—alone or with allies.",
+    "videos": [
+      {
+        "id": 144831,
+        "video_id": "30mkN1Hw83Q"
+      },
+      {
+        "id": 146145,
+        "video_id": "NnPPTCHNqzw"
+      },
+      {
+        "id": 146146,
+        "video_id": "8IqyKEHPF_s"
+      },
+      {
+        "id": 146147,
+        "video_id": "vRUmeSIBo8Q"
+      },
+      {
+        "id": 186479,
+        "video_id": "U91dq_zpKTY"
+      },
+      {
+        "id": 186511,
+        "video_id": "a46MLlfMt2Y"
+      }
+    ],
+    "websites": [
+      {
+        "id": 723336,
+        "url": "https://discord.gg/TAVpSY27Kf",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 723337,
+        "url": "https://bsky.app/profile/rsdragonwilds.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 723322,
+        "url": "https://store.steampowered.com/app/1374490",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 746324,
+        "url": "https://dragonwilds.runescape.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 723333,
+        "url": "https://www.facebook.com/RuneScapeDragonwilds",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 723331,
+        "url": "https://www.twitch.tv/directory/category/runescape-dragonwilds",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 723334,
+        "url": "https://www.instagram.com/rsdragonwilds/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 723332,
+        "url": "https://x.com/RSDragonwilds",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 723335,
+        "url": "https://www.youtube.com/@RSDragonwilds",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1063485,
+        "url": "https://store.playstation.com/en-us/concept/10017405",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
+        }
+      }
+    ]
+  },
+  {
     "id": 152121,
     "cover": {
       "id": 455286,
@@ -1274,6 +1764,265 @@
         "type": {
           "id": 18,
           "type": "Discord"
+        }
+      }
+    ]
+  },
+  {
+    "id": 348187,
+    "cover": {
+      "id": 463848,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9xwo.jpg"
+    },
+    "first_release_date": 1753747200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 23,
+    "involved_companies": [
+      {
+        "id": 333230,
+        "company": {
+          "id": 17966,
+          "name": "Xbox Game Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 333229,
+        "company": {
+          "id": 47,
+          "name": "Obsidian Entertainment"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 357641,
+        "company": {
+          "id": 27,
+          "name": "Eidos Montréal"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Grounded 2",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 777824,
+        "date": 1753747200,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      },
+      {
+        "id": 777823,
+        "date": 1753747200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 922777,
+        "date": 1786406400,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1554465,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxbfl.jpg"
+      },
+      {
+        "id": 1554466,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxbfm.jpg"
+      },
+      {
+        "id": 1554467,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxbfn.jpg"
+      },
+      {
+        "id": 1554468,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxbfo.jpg"
+      },
+      {
+        "id": 1554469,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxbfp.jpg"
+      },
+      {
+        "id": 1554470,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxbfq.jpg"
+      },
+      {
+        "id": 1554462,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxbfi.jpg"
+      },
+      {
+        "id": 1554463,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxbfj.jpg"
+      },
+      {
+        "id": 1554464,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxbfk.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Shrunk again, but the world is much larger. In this open-world, single-player or co-op survival adventure, craft weapons and armor, build your base, and traverse the playground on your buggy. But something else is out there—and it hasn’t forgotten you.",
+    "videos": [
+      {
+        "id": 152991,
+        "video_id": "jHJ1V4CePiI"
+      },
+      {
+        "id": 156866,
+        "video_id": "cniCNwRt-qI"
+      },
+      {
+        "id": 172585,
+        "video_id": "wj3dJD9nSq8"
+      },
+      {
+        "id": 186496,
+        "video_id": "5Yq9nmIXaDs"
+      }
+    ],
+    "websites": [
+      {
+        "id": 842234,
+        "url": "https://www.twitch.tv/directory/category/grounded-2",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 842235,
+        "url": "https://en.wikipedia.org/wiki/Grounded_2",
+        "type": {
+          "id": 3,
+          "type": "Wikipedia"
+        }
+      },
+      {
+        "id": 842233,
+        "url": "https://www.xbox.com/en-us/games/store/grounded-2/9p77pg7dk0w2",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
+      },
+      {
+        "id": 902288,
+        "url": "https://www.youtube.com/user/ObsidianEnt",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 902284,
+        "url": "https://grounded2.obsidian.net/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 902285,
+        "url": "https://x.com/GroundedTheGame",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 902286,
+        "url": "https://www.facebook.com/GroundedTheGame/",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 902287,
+        "url": "https://www.instagram.com/obsidian",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 902289,
+        "url": "https://discordapp.com/invite/GroundedTheGame",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 902290,
+        "url": "https://www.grounded.fandom.com/wiki/Grounded_2",
+        "type": {
+          "id": 2,
+          "type": "Community Wiki"
+        }
+      },
+      {
+        "id": 902291,
+        "url": "https://reddit.com/r/GroundedGame",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 810778,
+        "url": "https://store.steampowered.com/app/2661300",
+        "type": {
+          "id": 13,
+          "type": "Steam"
         }
       }
     ]
@@ -1885,343 +2634,6 @@
         "type": {
           "id": 13,
           "type": "Steam"
-        }
-      }
-    ]
-  },
-  {
-    "id": 140616,
-    "cover": {
-      "id": 118855,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2jpj.jpg"
-    },
-    "first_release_date": 1775520000,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 10,
-    "involved_companies": [
-      {
-        "id": 111917,
-        "company": {
-          "id": 29116,
-          "name": "Stellar Fish"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Spark in the Dark",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 898083,
-        "date": 1775520000,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 898084,
-        "date": 1775520000,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 406389,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc8pkl.jpg"
-      },
-      {
-        "id": 406390,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc8pkm.jpg"
-      },
-      {
-        "id": 406391,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc8pkn.jpg"
-      },
-      {
-        "id": 406392,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc8pko.jpg"
-      },
-      {
-        "id": 406393,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc8pkp.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "The hardcore dungeon crawler where you will go to the endless depths of the mysterious grim dungeon.",
-    "videos": [
-      {
-        "id": 42336,
-        "video_id": "aFyFNh1mXbg"
-      }
-    ],
-    "websites": [
-      {
-        "id": 159440,
-        "url": "https://twitter.com/sid_rpg",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 159437,
-        "url": "https://store.steampowered.com/app/1315180/Spark_in_the_Dark",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 159438,
-        "url": "https://youtube.com/user/www.youtube.com/channel/UCKNPCfEPR0Pqt8zvzeIYmFw",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 159439,
-        "url": "https://www.facebook.com/sid.rpg.game",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 539533,
-        "url": "https://www.gog.com/en/game/spark_in_the_dark",
-        "type": {
-          "id": 17,
-          "type": "GOG"
-        }
-      },
-      {
-        "id": 1042293,
-        "url": "https://discord.gg/YdeYCx75d2",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      }
-    ]
-  },
-  {
-    "id": 217304,
-    "cover": {
-      "id": 251377,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5dyp.jpg"
-    },
-    "first_release_date": 1775520000,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 5,
-        "name": "Shooter"
-      },
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 24,
-        "name": "Tactical"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      }
-    ],
-    "hypes": 11,
-    "involved_companies": [
-      {
-        "id": 369661,
-        "company": {
-          "id": 43584,
-          "name": "Road to Vostok"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Road to Vostok",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 865757,
-        "date": 1775520000,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 897850,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 880640,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scivi8.jpg"
-      },
-      {
-        "id": 880641,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scivi9.jpg"
-      },
-      {
-        "id": 880642,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scivia.jpg"
-      },
-      {
-        "id": 880643,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scivib.jpg"
-      },
-      {
-        "id": 880644,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scivic.jpg"
-      },
-      {
-        "id": 880645,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scivid.jpg"
-      },
-      {
-        "id": 880646,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scivie.jpg"
-      },
-      {
-        "id": 880647,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scivif.jpg"
-      },
-      {
-        "id": 880648,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scivig.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Road to Vostok is a hardcore single-player survival game set in a post-apocalyptic border zone between Finland and Russia. Survive, loot, plan and prepare your way across the Border Zone and enter the Vostok.",
-    "videos": [
-      {
-        "id": 75646,
-        "video_id": "kcxytNB6AMo"
-      },
-      {
-        "id": 75648,
-        "video_id": "nJxn8oE9BuI"
-      },
-      {
-        "id": 91751,
-        "video_id": "24Dho0ITq6w"
-      },
-      {
-        "id": 174907,
-        "video_id": "OTFgTRsz43Q"
-      }
-    ],
-    "websites": [
-      {
-        "id": 313786,
-        "url": "https://www.instagram.com/roadtovostok",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 856957,
-        "url": "https://discord.com/invite/roadtovostok",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 998379,
-        "url": "https://www.twitch.tv/directory/category/road-to-vostok",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 313783,
-        "url": "https://roadtovostok.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 311223,
-        "url": "https://store.steampowered.com/app/1963610",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 313785,
-        "url": "https://twitter.com/roadtovostok",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 313784,
-        "url": "https://www.youtube.com/roadtovostok",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
         }
       }
     ]
@@ -3119,6 +3531,14 @@
         "type": {
           "id": 6,
           "type": "Twitch"
+        }
+      },
+      {
+        "id": 1065269,
+        "url": "https://en.wikipedia.org/wiki/Windrose_(video_game)",
+        "type": {
+          "id": 3,
+          "type": "Wikipedia"
         }
       }
     ]
@@ -7460,6 +7880,10 @@
       {
         "id": 183170,
         "video_id": "cJIHefNB3Hw"
+      },
+      {
+        "id": 186362,
+        "video_id": "TnnucBrqeKQ"
       }
     ],
     "websites": [
@@ -11346,7 +11770,7 @@
         "name": "Indie"
       }
     ],
-    "hypes": 7,
+    "hypes": 8,
     "involved_companies": [
       {
         "id": 323579,
@@ -13325,7 +13749,7 @@
         "name": "Adventure"
       }
     ],
-    "hypes": 17,
+    "hypes": 19,
     "involved_companies": [
       {
         "id": 313958,
@@ -14782,6 +15206,162 @@
     ]
   },
   {
+    "id": 315459,
+    "cover": {
+      "id": 410904,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8t20.jpg"
+    },
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "hypes": 4,
+    "involved_companies": [
+      {
+        "id": 285162,
+        "company": {
+          "id": 2700,
+          "name": "Ironward"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Atre: Dominance Wars",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 922646,
+        "date": 1780876800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1394207,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctvrz.jpg"
+      },
+      {
+        "id": 1394208,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctvs0.jpg"
+      },
+      {
+        "id": 1394205,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctvrx.jpg"
+      },
+      {
+        "id": 1394209,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctvs1.jpg"
+      },
+      {
+        "id": 1394206,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctvry.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Attain the powers of a God and dominate in this lore-driven 4X game full of unique species. Evolve your units to command diverse armies. Develop magnificent cities. Research and master arcane spellcraft to lay waste to the world itself. Find your own path to power and Ascend above all else.",
+    "videos": [
+      {
+        "id": 125162,
+        "video_id": "rjbk24HNHOs"
+      }
+    ],
+    "websites": [
+      {
+        "id": 673121,
+        "url": "https://www.ironward.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 805693,
+        "url": "https://www.twitch.tv/directory/category/atre-dominance-wars",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 811506,
+        "url": "https://x.com/TheRedSolstice",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 811507,
+        "url": "https://discord.gg/theredsolstice",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 670220,
+        "url": "https://www.youtube.com/SolsticeRed",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 673120,
+        "url": "https://store.steampowered.com/app/2805850",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1045883,
+        "url": "https://www.gog.com/game/atre_dominance_wars",
+        "type": {
+          "id": 17,
+          "type": "GOG"
+        }
+      }
+    ]
+  },
+  {
     "id": 330831,
     "cover": {
       "id": 459120,
@@ -14959,7 +15539,7 @@
         "name": "Indie"
       }
     ],
-    "hypes": 5,
+    "hypes": 4,
     "involved_companies": [
       {
         "id": 347287,
@@ -15247,6 +15827,163 @@
       {
         "id": 1020915,
         "url": "https://discord.gg/xKrUVRkQMP",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      }
+    ]
+  },
+  {
+    "id": 383067,
+    "cover": {
+      "id": 564916,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc3w4.jpg"
+    },
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "name": "Meowstery Wisp",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 920844,
+        "date": 1790726400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 920845,
+        "date": 1790726400,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1840560,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13g6o.jpg"
+      },
+      {
+        "id": 1840561,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13g6p.jpg"
+      },
+      {
+        "id": 1840562,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13g6q.jpg"
+      },
+      {
+        "id": 1840563,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13g6r.jpg"
+      },
+      {
+        "id": 1840564,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13g6s.jpg"
+      },
+      {
+        "id": 1840565,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13g6t.jpg"
+      },
+      {
+        "id": 1840566,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13g6u.jpg"
+      },
+      {
+        "id": 1840567,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13g6v.jpg"
+      },
+      {
+        "id": 1840568,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13g6w.jpg"
+      }
+    ],
+    "status": 3,
+    "summary": "A multiplayer social deduction and investigation game where players gather clues, debate, and manipulate trust to resolve a mystery; with no elimination until the big finale.",
+    "videos": [
+      {
+        "id": 184619,
+        "video_id": "IW6hUviFC_Q"
+      },
+      {
+        "id": 185490,
+        "video_id": "UAujkYf70r4"
+      },
+      {
+        "id": 186340,
+        "video_id": "hgQIonoEiPc"
+      }
+    ],
+    "websites": [
+      {
+        "id": 967231,
+        "url": "https://store.steampowered.com/app/4265380",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 967232,
+        "url": "https://www.dmtgamestudio.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 967233,
+        "url": "https://www.instagram.com/dmtgamestudio",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 967234,
+        "url": "https://x.com/dmtgamestudio",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 967235,
+        "url": "https://www.youtube.com/@dmtgamestudio",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 967236,
+        "url": "https://discord.com/invite/6YPCGdh2rg",
         "type": {
           "id": 18,
           "type": "Discord"
