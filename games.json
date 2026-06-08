@@ -10691,6 +10691,308 @@
     ]
   },
   {
+    "id": 383027,
+    "cover": {
+      "id": 559710,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobzvi.jpg"
+    },
+    "first_release_date": 1780617600,
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 364091,
+        "company": {
+          "id": 11943,
+          "name": "Game Atelier"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Follow Us",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 915638,
+        "date": 1780617600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1825538,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc134le.jpg"
+      },
+      {
+        "id": 1825539,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc134lf.jpg"
+      },
+      {
+        "id": 1825541,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc134lh.jpg"
+      },
+      {
+        "id": 1825542,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc134li.jpg"
+      },
+      {
+        "id": 1825543,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc134lj.jpg"
+      },
+      {
+        "id": 1839079,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13f1j.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "A co-op horror game for 2 players, where you risk your life outside to entertain a world that never leaves home. On Follow Us, contestants work in pairs: one explores, the other guides. Trust is your lifeline.",
+    "videos": [
+      {
+        "id": 182450,
+        "video_id": "2tTefeycY-E"
+      },
+      {
+        "id": 184362,
+        "video_id": "TU1Tm4AR3iU"
+      },
+      {
+        "id": 185821,
+        "video_id": "rBxzw39uePg"
+      }
+    ],
+    "websites": [
+      {
+        "id": 967142,
+        "url": "https://www.youtube.com/user/GameAtelier",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 967143,
+        "url": "https://www.instagram.com/gameatelier/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 967144,
+        "url": "https://www.facebook.com/GameAtelier/",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 967145,
+        "url": "https://x.com/GameAtelier",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 967139,
+        "url": "https://store.steampowered.com/app/3014580",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 967140,
+        "url": "https://www.follow-us.tv",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 967141,
+        "url": "https://discord.gg/DheRrXjba5",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1049434,
+        "url": "https://bsky.app/profile/gameatelier.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      }
+    ]
+  },
+  {
+    "id": 165199,
+    "cover": {
+      "id": 349675,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7ht7.jpg"
+    },
+    "first_release_date": 1780876800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 17,
+    "involved_companies": [
+      {
+        "id": 247320,
+        "company": {
+          "id": 36858,
+          "name": "Killer Bean Studios"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Killer Bean",
+    "platforms": [
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 909371,
+        "date": 1780876800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 594657,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sccqu9.jpg"
+      },
+      {
+        "id": 594658,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sccqua.jpg"
+      },
+      {
+        "id": 594659,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sccqub.jpg"
+      },
+      {
+        "id": 594660,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sccquc.jpg"
+      },
+      {
+        "id": 594661,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sccqud.jpg"
+      }
+    ],
+    "status": 3,
+    "summary": "You are Killer Bean, a rogue assassin who takes out the trash in this world, one bullet at a time. The procedurally generated story changes every time you start a new campaign in this third person, roguelike shooter.",
+    "videos": [
+      {
+        "id": 96727,
+        "video_id": "5PY-_1LSeF4"
+      },
+      {
+        "id": 116052,
+        "video_id": "87KtMnmZWzQ"
+      }
+    ],
+    "websites": [
+      {
+        "id": 738325,
+        "url": "https://x.com/real_killerbean",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 214517,
+        "url": "https://store.steampowered.com/app/1597080/Killer_Bean",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 214518,
+        "url": "https://twitter.com/Real_KillerBean",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 606220,
+        "url": "https://www.youtube.com/user/killerbeanforever",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 666819,
+        "url": "https://www.twitch.tv/directory/category/killer-bean",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      }
+    ]
+  },
+  {
     "id": 147345,
     "cover": {
       "id": 140333,
@@ -11730,8 +12032,8 @@
   {
     "id": 275251,
     "cover": {
-      "id": 501521,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coaqz5.jpg"
+      "id": 569355,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc7bf.jpg"
     },
     "first_release_date": 1784246400,
     "game_modes": [
@@ -14130,6 +14432,10 @@
       {
         "id": 184490,
         "video_id": "mrJ-TIiL5f8"
+      },
+      {
+        "id": 186998,
+        "video_id": "sl_oSEHX-SM"
       }
     ],
     "websites": [
@@ -14200,62 +14506,63 @@
     ]
   },
   {
-    "id": 165199,
+    "id": 126669,
     "cover": {
-      "id": 349675,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7ht7.jpg"
+      "id": 494097,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coal8x.jpg"
     },
     "game_modes": [
       {
         "id": 1,
         "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
       }
     ],
     "genres": [
       {
-        "id": 5,
-        "name": "Shooter"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
+        "id": 15,
+        "name": "Strategy"
       }
     ],
-    "hypes": 17,
+    "hypes": 9,
     "involved_companies": [
       {
-        "id": 247320,
+        "id": 381209,
         "company": {
-          "id": 36858,
-          "name": "Killer Bean Studios"
+          "id": 27315,
+          "name": "Crytivo"
         },
         "developer": true,
         "publisher": true
+      },
+      {
+        "id": 381210,
+        "company": {
+          "id": 38790,
+          "name": "Beer Night Studio"
+        },
+        "developer": true,
+        "publisher": false
       }
     ],
-    "name": "Killer Bean",
+    "name": "Carnival Hunt",
     "platforms": [
-      {
-        "id": 3,
-        "name": "Linux"
-      },
       {
         "id": 6,
         "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
       }
     ],
     "release_dates": [
       {
-        "id": 909371,
-        "date": 1780876800,
+        "id": 924387,
+        "date": 1784764800,
         "platform": {
           "id": 6,
           "name": "PC (Microsoft Windows)"
@@ -14264,77 +14571,133 @@
     ],
     "screenshots": [
       {
-        "id": 594657,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sccqu9.jpg"
+        "id": 1848828,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13mkc.jpg"
       },
       {
-        "id": 594658,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sccqua.jpg"
+        "id": 1848829,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13mkd.jpg"
       },
       {
-        "id": 594659,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sccqub.jpg"
+        "id": 1848830,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13mke.jpg"
       },
       {
-        "id": 594660,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sccquc.jpg"
+        "id": 1848831,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13mkf.jpg"
       },
       {
-        "id": 594661,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sccqud.jpg"
+        "id": 1848822,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13mk6.jpg"
+      },
+      {
+        "id": 1848823,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13mk7.jpg"
+      },
+      {
+        "id": 1848824,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13mk8.jpg"
+      },
+      {
+        "id": 1848825,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13mk9.jpg"
+      },
+      {
+        "id": 1848826,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13mka.jpg"
+      },
+      {
+        "id": 1848827,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13mkb.jpg"
       }
     ],
-    "status": 3,
-    "summary": "You are Killer Bean, a rogue assassin who takes out the trash in this world, one bullet at a time. The procedurally generated story changes every time you start a new campaign in this third person, roguelike shooter.",
+    "status": 2,
+    "summary": "Carnival Hunt is an asymmetric multiplayer horror game set inside a living, ever-shifting mechanical carnival designed by the Puppetmaster. One player becomes the Carnival Monster, while others play as puppet Bunnies struggling to survive, ascend, and escape the hunt.",
     "videos": [
       {
-        "id": 96727,
-        "video_id": "5PY-_1LSeF4"
+        "id": 137858,
+        "video_id": "NAdSL5hfpB8"
       },
       {
-        "id": 116052,
-        "video_id": "87KtMnmZWzQ"
+        "id": 137859,
+        "video_id": "lyH67i5Mu7s"
+      },
+      {
+        "id": 181010,
+        "video_id": "Qzp2xrtzhnQ"
       }
     ],
     "websites": [
       {
-        "id": 738325,
-        "url": "https://x.com/real_killerbean",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 214517,
-        "url": "https://store.steampowered.com/app/1597080/Killer_Bean",
+        "id": 134940,
+        "url": "https://store.steampowered.com/app/1181550",
         "type": {
           "id": 13,
           "type": "Steam"
         }
       },
       {
-        "id": 214518,
-        "url": "https://twitter.com/Real_KillerBean",
+        "id": 887945,
+        "url": "https://www.instagram.com/carnivalhunt/",
         "type": {
-          "id": 5,
-          "type": "Twitter"
+          "id": 8,
+          "type": "Instagram"
         }
       },
       {
-        "id": 606220,
-        "url": "https://www.youtube.com/user/killerbeanforever",
+        "id": 887943,
+        "url": "https://discord.gg/C5MNNgyGNY",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 887944,
+        "url": "https://www.youtube.com/@CarnivalHunt",
         "type": {
           "id": 9,
           "type": "YouTube"
         }
       },
       {
-        "id": 666819,
-        "url": "https://www.twitch.tv/directory/category/killer-bean",
+        "id": 1043002,
+        "url": "https://www.carnivalhunt.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1043003,
+        "url": "https://www.twitch.tv/directory/category/carnival-hunt",
         "type": {
           "id": 6,
           "type": "Twitch"
+        }
+      },
+      {
+        "id": 1043004,
+        "url": "https://www.facebook.com/BeerNightStudio",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 1043005,
+        "url": "https://www.reddit.com/r/CarnivalHuntGame/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 1064642,
+        "url": "https://x.com/carnival_hunt",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
         }
       }
     ]
@@ -14544,6 +14907,182 @@
       {
         "id": 468781,
         "url": "https://www.twitch.tv/directory/game/Trinity%20Archetype",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      }
+    ]
+  },
+  {
+    "id": 191032,
+    "cover": {
+      "id": 463575,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9xp3.jpg"
+    },
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 163951,
+        "company": {
+          "id": 40240,
+          "name": "Slappy Inc."
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Mazey Village",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 924392,
+        "date": 1785542400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 736119,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scfrzr.jpg"
+      },
+      {
+        "id": 736122,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scfrzu.jpg"
+      },
+      {
+        "id": 736123,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scfrzv.jpg"
+      },
+      {
+        "id": 736138,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scfs0a.jpg"
+      },
+      {
+        "id": 736125,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scfrzx.jpg"
+      },
+      {
+        "id": 736130,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scfs02.jpg"
+      },
+      {
+        "id": 736135,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scfs07.jpg"
+      }
+    ],
+    "status": 3,
+    "summary": "Mazey Village is an a-maze-ing game where you face off against other players in an ever-changing maze or where you can test your own maze-solving skills during challenge mode!",
+    "videos": [
+      {
+        "id": 64398,
+        "video_id": "KbwNbQ4i0i4"
+      }
+    ],
+    "websites": [
+      {
+        "id": 842101,
+        "url": "https://www.mazeyvillage.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 265147,
+        "url": "https://discord.gg/cTBgzZDp5d",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 265146,
+        "url": "https://www.instagram.com/slappyincdev",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 265148,
+        "url": "https://slappy-inc.itch.io/mazeem",
+        "type": {
+          "id": 15,
+          "type": "Itch"
+        }
+      },
+      {
+        "id": 265143,
+        "url": "https://www.youtube.com/channel/UCeQckd0ZO4d30ehuYquVVEQ",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 265145,
+        "url": "https://twitter.com/maze_em",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 265144,
+        "url": "https://www.facebook.com/SlappyInc",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 263627,
+        "url": "https://store.steampowered.com/app/1766240",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 484090,
+        "url": "https://www.twitch.tv/directory/game/Maze%27Em",
         "type": {
           "id": 6,
           "type": "Twitch"
@@ -14879,6 +15418,230 @@
         "type": {
           "id": 4,
           "type": "Facebook"
+        }
+      }
+    ]
+  },
+  {
+    "id": 266769,
+    "cover": {
+      "id": 569276,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc798.jpg"
+    },
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 392683,
+        "company": {
+          "id": 47790,
+          "name": "Fnife Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "ShelfLife: Art School Detective",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 923479,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 923480,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      },
+      {
+        "id": 923481,
+        "platform": {
+          "id": 130,
+          "name": "Nintendo Switch"
+        }
+      },
+      {
+        "id": 924861,
+        "date": 1778371200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 924862,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1851662,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13or2.jpg"
+      },
+      {
+        "id": 1851652,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13oqs.jpg"
+      },
+      {
+        "id": 1851653,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13oqt.jpg"
+      },
+      {
+        "id": 1851654,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13oqu.jpg"
+      },
+      {
+        "id": 1851655,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13oqv.jpg"
+      },
+      {
+        "id": 1851656,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13oqw.jpg"
+      },
+      {
+        "id": 1851657,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13oqx.jpg"
+      },
+      {
+        "id": 1851658,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13oqy.jpg"
+      },
+      {
+        "id": 1851659,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13oqz.jpg"
+      },
+      {
+        "id": 1851660,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13or0.jpg"
+      },
+      {
+        "id": 1851661,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13or1.jpg"
+      },
+      {
+        "id": 1851663,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13or3.jpg"
+      },
+      {
+        "id": 1851664,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13or4.jpg"
+      }
+    ],
+    "status": 3,
+    "summary": "ShelfLife: Art School Detective is a Mystery Adventure featuring a cast of loveable weirdos! Befriend and investigate 7 potential suspects. Use psychic powers to astral project into their artwork and learn their secrets. Unmask the mysterious ART KILLER that’s terrorising your campus!",
+    "videos": [
+      {
+        "id": 186628,
+        "video_id": "BmHIAzg9t3k"
+      }
+    ],
+    "websites": [
+      {
+        "id": 829578,
+        "url": "https://www.instagram.com/fnifegames/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 582154,
+        "url": "https://store.steampowered.com/app/2537020",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 918951,
+        "url": "https://bsky.app/profile/fnifegames.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 829579,
+        "url": "https://x.com/fnifegames",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 829577,
+        "url": "https://discord.com/invite/qSvAPJ6MJw",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 582155,
+        "url": "https://www.fnifegames.com",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1066552,
+        "url": "https://www.youtube.com/@fnifegames",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
         }
       }
     ]
@@ -15331,6 +16094,10 @@
       {
         "id": 185040,
         "video_id": "JQjExbIDmek"
+      },
+      {
+        "id": 187025,
+        "video_id": "kdkrheTTl7U"
       }
     ],
     "websites": [
@@ -15734,7 +16501,7 @@
         "name": "Indie"
       }
     ],
-    "hypes": 4,
+    "hypes": 5,
     "involved_companies": [
       {
         "id": 359906,
@@ -16765,6 +17532,10 @@
       {
         "id": 180267,
         "video_id": "PqWHj46uim0"
+      },
+      {
+        "id": 187024,
+        "video_id": "iDbXjMzZ84s"
       }
     ],
     "websites": [
