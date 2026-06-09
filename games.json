@@ -2829,207 +2829,6 @@
     ]
   },
   {
-    "id": 322477,
-    "cover": {
-      "id": 422465,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co91z5.jpg"
-    },
-    "first_release_date": 1775779200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 5,
-        "name": "Massively Multiplayer Online (MMO)"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 25,
-        "name": "Hack and slash/Beat \u0027em up"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 296022,
-        "company": {
-          "id": 59731,
-          "name": "CRG Studio"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Crystalfall",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 892518,
-        "date": 1775779200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1473973,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvlbp.jpg"
-      },
-      {
-        "id": 1473978,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvlbu.jpg"
-      },
-      {
-        "id": 1473979,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvlbv.jpg"
-      },
-      {
-        "id": 1801176,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12lso.jpg"
-      },
-      {
-        "id": 1801177,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12lsp.jpg"
-      },
-      {
-        "id": 1801178,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12lsq.jpg"
-      },
-      {
-        "id": 1801179,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12lsr.jpg"
-      },
-      {
-        "id": 1801180,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12lss.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Free Online Action RPG in a Steampunk World\n\nTake on the role of a convict who has been thrown into the dungeons by a powerful ruling organization. Embark on a journey through a world devastated by a mysterious asteroid, scattering powerful crystal shards across distinct world zones brimming with mutated creatures and steampunk enemies.\n\nDelve into post-apocalyptic dungeons that randomize upon each visit and ascend to new heights of power with epic loot, extensive talent tree progression, theorycrafting and lootable skills.",
-    "videos": [
-      {
-        "id": 142040,
-        "video_id": "LPV53Ds0l84"
-      },
-      {
-        "id": 133249,
-        "video_id": "oFIJ2EL7NSE"
-      },
-      {
-        "id": 178866,
-        "video_id": "CzbSwwmOBG4"
-      }
-    ],
-    "websites": [
-      {
-        "id": 858705,
-        "url": "https://www.reddit.com/r/Crystalfall/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 692099,
-        "url": "https://www.instagram.com/playcrystalfall/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 692094,
-        "url": "https://crystalfall.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 692100,
-        "url": "https://discord.gg/ntPmauYuKV",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 692097,
-        "url": "https://www.facebook.com/playcrystalfall",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 692095,
-        "url": "https://www.twitch.tv/playcrystalfall",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 692098,
-        "url": "https://twitter.com/playcrystalfall",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 692096,
-        "url": "https://www.youtube.com/@playcrystalfall",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 692093,
-        "url": "https://store.epicgames.com/p/crystalfall-c79ab5",
-        "type": {
-          "id": 16,
-          "type": "Epic"
-        }
-      },
-      {
-        "id": 692092,
-        "url": "https://store.steampowered.com/app/2574970/Crystalfall/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      }
-    ]
-  },
-  {
     "id": 305207,
     "cover": {
       "id": 463620,
@@ -10766,6 +10565,10 @@
       {
         "id": 1839079,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13f1j.jpg"
+      },
+      {
+        "id": 1853252,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13pz8.jpg"
       }
     ],
     "status": 4,
@@ -10782,6 +10585,10 @@
       {
         "id": 185821,
         "video_id": "rBxzw39uePg"
+      },
+      {
+        "id": 187112,
+        "video_id": "G44gGn59dLM"
       }
     ],
     "websites": [
@@ -10881,7 +10688,7 @@
     "hypes": 17,
     "involved_companies": [
       {
-        "id": 247320,
+        "id": 393105,
         "company": {
           "id": 36858,
           "name": "Killer Bean Studios"
@@ -10893,16 +10700,8 @@
     "name": "Killer Bean",
     "platforms": [
       {
-        "id": 3,
-        "name": "Linux"
-      },
-      {
         "id": 6,
         "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
       }
     ],
     "release_dates": [
@@ -10937,7 +10736,7 @@
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/sccqud.jpg"
       }
     ],
-    "status": 3,
+    "status": 4,
     "summary": "You are Killer Bean, a rogue assassin who takes out the trash in this world, one bullet at a time. The procedurally generated story changes every time you start a new campaign in this third person, roguelike shooter.",
     "videos": [
       {
@@ -10988,6 +10787,504 @@
         "type": {
           "id": 6,
           "type": "Twitch"
+        }
+      }
+    ]
+  },
+  {
+    "id": 315459,
+    "cover": {
+      "id": 410904,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8t20.jpg"
+    },
+    "first_release_date": 1780876800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "hypes": 4,
+    "involved_companies": [
+      {
+        "id": 285162,
+        "company": {
+          "id": 2700,
+          "name": "Ironward"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Atre: Dominance Wars",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 922646,
+        "date": 1780876800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1394207,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctvrz.jpg"
+      },
+      {
+        "id": 1394208,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctvs0.jpg"
+      },
+      {
+        "id": 1394205,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctvrx.jpg"
+      },
+      {
+        "id": 1394209,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctvs1.jpg"
+      },
+      {
+        "id": 1394206,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctvry.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Attain the powers of a God and dominate in this lore-driven 4X game full of unique species. Evolve your units to command diverse armies. Develop magnificent cities. Research and master arcane spellcraft to lay waste to the world itself. Find your own path to power and Ascend above all else.",
+    "videos": [
+      {
+        "id": 125162,
+        "video_id": "rjbk24HNHOs"
+      }
+    ],
+    "websites": [
+      {
+        "id": 673121,
+        "url": "https://www.ironward.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 805693,
+        "url": "https://www.twitch.tv/directory/category/atre-dominance-wars",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 811506,
+        "url": "https://x.com/TheRedSolstice",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 811507,
+        "url": "https://discord.gg/theredsolstice",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 670220,
+        "url": "https://www.youtube.com/SolsticeRed",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 673120,
+        "url": "https://store.steampowered.com/app/2805850",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1045883,
+        "url": "https://www.gog.com/game/atre_dominance_wars",
+        "type": {
+          "id": 17,
+          "type": "GOG"
+        }
+      }
+    ]
+  },
+  {
+    "id": 324148,
+    "cover": {
+      "id": 533721,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobftl.jpg"
+    },
+    "first_release_date": 1780876800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 5,
+    "involved_companies": [
+      {
+        "id": 345576,
+        "company": {
+          "id": 60146,
+          "name": "Dark Jay Studio"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 345577,
+        "company": {
+          "id": 50726,
+          "name": "Galaktus"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Arms of God",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 904688,
+        "date": 1780876800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1429643,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scun4b.jpg"
+      },
+      {
+        "id": 1429641,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scun49.jpg"
+      },
+      {
+        "id": 1429644,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scun4c.jpg"
+      },
+      {
+        "id": 1754943,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11m4f.jpg"
+      },
+      {
+        "id": 1754944,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11m4g.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Gear up for a battle through hell in this next-gen autoshooter with Doom-inspired gore vibes, metal music, roguelite mechanics, and a satisfying combat feel. Wield five weapons at once, upgrade and merge them to forge indestructible builds, and bring divine justice to a world on the brink of chaos.",
+    "videos": [
+      {
+        "id": 134376,
+        "video_id": "sf3DToypnvI"
+      },
+      {
+        "id": 175353,
+        "video_id": "h43foukCSKI"
+      },
+      {
+        "id": 182353,
+        "video_id": "fLoVX7HyG2M"
+      }
+    ],
+    "websites": [
+      {
+        "id": 868504,
+        "url": "https://www.twitch.tv/directory/category/arms-of-god",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 695505,
+        "url": "https://store.steampowered.com/app/3100310/Arms_of_God/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 695511,
+        "url": "https://www.instagram.com/armsofgod_game",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 729329,
+        "url": "https://bsky.app/profile/armsofgod.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 695512,
+        "url": "https://discord.gg/invite/QeUqjGFCYb",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 695506,
+        "url": "https://darkjay.com/armsofgod/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 695509,
+        "url": "https://www.facebook.com/armsofgodgame",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 695508,
+        "url": "https://www.youtube.com/@darkjaystudio",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1001339,
+        "url": "https://x.com/ArmsOfGodGame",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      }
+    ]
+  },
+  {
+    "id": 348494,
+    "cover": {
+      "id": 507508,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coavlg.jpg"
+    },
+    "first_release_date": 1780876800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 5,
+    "involved_companies": [
+      {
+        "id": 393106,
+        "company": {
+          "id": 54345,
+          "name": "Mad Mushroom Publishing"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 393107,
+        "company": {
+          "id": 32448,
+          "name": "CLYDE Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 393108,
+        "company": {
+          "id": 42648,
+          "name": "Gamersky Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Cursemark",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 904681,
+        "date": 1780876800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1555256,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxc1k.jpg"
+      },
+      {
+        "id": 1555257,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxc1l.jpg"
+      },
+      {
+        "id": 1555258,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxc1m.jpg"
+      },
+      {
+        "id": 1555259,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxc1n.jpg"
+      },
+      {
+        "id": 1555260,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxc1o.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Cursemark is an action-exploration roguelike where you forge unique equipment to pierce the depths of the Unknown Lands. Unlock hundreds of items and spells, then discover powerful rune synergies every run in this place beyond the edges of the world.",
+    "videos": [
+      {
+        "id": 168890,
+        "video_id": "LksOXKiXHtE"
+      },
+      {
+        "id": 182344,
+        "video_id": "xxWVDQZuPLI"
+      },
+      {
+        "id": 186844,
+        "video_id": "IUMwvrN_PhQ"
+      }
+    ],
+    "websites": [
+      {
+        "id": 920218,
+        "url": "https://www.youtube.com/@MadMushroomGG",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 920217,
+        "url": "https://x.com/MadMushroomGG",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 920219,
+        "url": "https://bsky.app/profile/madmushroom.gg",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 920220,
+        "url": "https://www.tiktok.com/@madmushroomgames",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 815657,
+        "url": "https://discord.gg/Dn3DC5carP",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 811470,
+        "url": "https://store.steampowered.com/app/3219180/Cursemark/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
         }
       }
     ]
@@ -12060,7 +12357,7 @@
         "name": "Indie"
       }
     ],
-    "hypes": 9,
+    "hypes": 10,
     "involved_companies": [
       {
         "id": 323579,
@@ -12532,7 +12829,7 @@
         "name": "Indie"
       }
     ],
-    "hypes": 6,
+    "hypes": 7,
     "involved_companies": [
       {
         "id": 351999,
@@ -14246,7 +14543,7 @@
         "name": "Adventure"
       }
     ],
-    "hypes": 22,
+    "hypes": 24,
     "involved_companies": [
       {
         "id": 313958,
@@ -15988,7 +16285,7 @@
         "name": "Adventure"
       }
     ],
-    "hypes": 18,
+    "hypes": 21,
     "involved_companies": [
       {
         "id": 270669,
@@ -16168,162 +16465,6 @@
     ]
   },
   {
-    "id": 315459,
-    "cover": {
-      "id": 410904,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8t20.jpg"
-    },
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 11,
-        "name": "Real Time Strategy (RTS)"
-      },
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 15,
-        "name": "Strategy"
-      }
-    ],
-    "hypes": 4,
-    "involved_companies": [
-      {
-        "id": 285162,
-        "company": {
-          "id": 2700,
-          "name": "Ironward"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Atre: Dominance Wars",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 922646,
-        "date": 1780876800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1394207,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctvrz.jpg"
-      },
-      {
-        "id": 1394208,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctvs0.jpg"
-      },
-      {
-        "id": 1394205,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctvrx.jpg"
-      },
-      {
-        "id": 1394209,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctvs1.jpg"
-      },
-      {
-        "id": 1394206,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctvry.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Attain the powers of a God and dominate in this lore-driven 4X game full of unique species. Evolve your units to command diverse armies. Develop magnificent cities. Research and master arcane spellcraft to lay waste to the world itself. Find your own path to power and Ascend above all else.",
-    "videos": [
-      {
-        "id": 125162,
-        "video_id": "rjbk24HNHOs"
-      }
-    ],
-    "websites": [
-      {
-        "id": 673121,
-        "url": "https://www.ironward.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 805693,
-        "url": "https://www.twitch.tv/directory/category/atre-dominance-wars",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 811506,
-        "url": "https://x.com/TheRedSolstice",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 811507,
-        "url": "https://discord.gg/theredsolstice",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 670220,
-        "url": "https://www.youtube.com/SolsticeRed",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 673120,
-        "url": "https://store.steampowered.com/app/2805850",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1045883,
-        "url": "https://www.gog.com/game/atre_dominance_wars",
-        "type": {
-          "id": 17,
-          "type": "GOG"
-        }
-      }
-    ]
-  },
-  {
     "id": 330831,
     "cover": {
       "id": 459120,
@@ -16471,172 +16612,6 @@
         "type": {
           "id": 14,
           "type": "Subreddit"
-        }
-      }
-    ]
-  },
-  {
-    "id": 348494,
-    "cover": {
-      "id": 507508,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coavlg.jpg"
-    },
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 5,
-    "involved_companies": [
-      {
-        "id": 359906,
-        "company": {
-          "id": 54345,
-          "name": "Mad Mushroom Publishing"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 359905,
-        "company": {
-          "id": 32448,
-          "name": "CLYDE Games"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 359907,
-        "company": {
-          "id": 42648,
-          "name": "Gamersky Games"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Cursemark",
-    "platforms": [
-      {
-        "id": 3,
-        "name": "Linux"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 904681,
-        "date": 1780876800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1555256,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxc1k.jpg"
-      },
-      {
-        "id": 1555257,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxc1l.jpg"
-      },
-      {
-        "id": 1555258,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxc1m.jpg"
-      },
-      {
-        "id": 1555259,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxc1n.jpg"
-      },
-      {
-        "id": 1555260,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxc1o.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Cursemark is an action-exploration roguelike where you forge unique equipment to pierce the depths of the Unknown Lands. Unlock hundreds of items and spells, then discover powerful rune synergies every run in this place beyond the edges of the world.",
-    "videos": [
-      {
-        "id": 168890,
-        "video_id": "LksOXKiXHtE"
-      },
-      {
-        "id": 182344,
-        "video_id": "xxWVDQZuPLI"
-      },
-      {
-        "id": 186844,
-        "video_id": "IUMwvrN_PhQ"
-      }
-    ],
-    "websites": [
-      {
-        "id": 920218,
-        "url": "https://www.youtube.com/@MadMushroomGG",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 920217,
-        "url": "https://x.com/MadMushroomGG",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 920219,
-        "url": "https://bsky.app/profile/madmushroom.gg",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 920220,
-        "url": "https://www.tiktok.com/@madmushroomgames",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 815657,
-        "url": "https://discord.gg/Dn3DC5carP",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 811470,
-        "url": "https://store.steampowered.com/app/3219180/Cursemark/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
         }
       }
     ]
@@ -17438,7 +17413,7 @@
         "name": "Indie"
       }
     ],
-    "hypes": 4,
+    "hypes": 7,
     "involved_companies": [
       {
         "id": 379053,
@@ -17725,6 +17700,158 @@
         "type": {
           "id": 9,
           "type": "YouTube"
+        }
+      }
+    ]
+  },
+  {
+    "id": 401278,
+    "cover": {
+      "id": 562300,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc1vg.jpg"
+    },
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 385567,
+        "company": {
+          "id": 76797,
+          "name": "JWT Productions"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Acting Out",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 923691,
+        "date": 1782864000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1832654,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13a32.jpg"
+      },
+      {
+        "id": 1832655,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13a33.jpg"
+      },
+      {
+        "id": 1832656,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13a34.jpg"
+      },
+      {
+        "id": 1832657,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13a35.jpg"
+      },
+      {
+        "id": 1832658,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13a36.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Don\u0027t be shy. Act with everything you\u0027ve got!\nThe online co-op game where you are actors in a movie, but filming is one-take, do-or-die! Your bloopers won\u0027t get cut, so don\u0027t screw it up.\nWhether you follow the script or ruin it with improv, you\u0027ll watch your masterpiece right away. Will be it great or will it be cringe? That\u0027s up to you!",
+    "videos": [
+      {
+        "id": 183316,
+        "video_id": "gofBDJFbPSc"
+      },
+      {
+        "id": 186745,
+        "video_id": "IYnf81WkHYY"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1054195,
+        "url": "https://store.steampowered.com/app/4267780/Acting_Out/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1054196,
+        "url": "https://jwtproductions.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1054197,
+        "url": "https://x.com/ActingOut_Game",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1054198,
+        "url": "https://www.instagram.com/actingoutgame/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1054199,
+        "url": "https://www.youtube.com/@ActingOutGame",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1054200,
+        "url": "https://discord.gg/ZYdW3sZzJV",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1054201,
+        "url": "https://bsky.app/profile/actingoutgame.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
         }
       }
     ]
