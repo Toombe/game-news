@@ -1360,6 +1360,10 @@
         "name": "Xbox Series X|S"
       },
       {
+        "id": 508,
+        "name": "Nintendo Switch 2"
+      },
+      {
         "id": 6,
         "name": "PC (Microsoft Windows)"
       },
@@ -1399,6 +1403,14 @@
         "platform": {
           "id": 169,
           "name": "Xbox Series X|S"
+        }
+      },
+      {
+        "id": 925800,
+        "date": 1789430400,
+        "platform": {
+          "id": 508,
+          "name": "Nintendo Switch 2"
         }
       }
     ],
@@ -1466,6 +1478,10 @@
       {
         "id": 186511,
         "video_id": "a46MLlfMt2Y"
+      },
+      {
+        "id": 187266,
+        "video_id": "i-nO9FZKEM8"
       }
     ],
     "websites": [
@@ -1563,6 +1579,14 @@
         "type": {
           "id": 22,
           "type": "Xbox"
+        }
+      },
+      {
+        "id": 1068345,
+        "url": "https://dragonwilds.runescape.wiki/w/RuneScape:_Dragonwilds",
+        "type": {
+          "id": 2,
+          "type": "Community Wiki"
         }
       }
     ]
@@ -2213,6 +2237,215 @@
         "type": {
           "id": 23,
           "type": "Playstation"
+        }
+      }
+    ]
+  },
+  {
+    "id": 341684,
+    "cover": {
+      "id": 455024,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9r3k.jpg"
+    },
+    "first_release_date": 1757462400,
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 36,
+        "name": "MOBA"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 317702,
+        "company": {
+          "id": 44429,
+          "name": "Theia Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Starvault",
+    "platforms": [
+      {
+        "id": 386,
+        "name": "Meta Quest 2"
+      },
+      {
+        "id": 163,
+        "name": "SteamVR"
+      },
+      {
+        "id": 471,
+        "name": "Meta Quest 3"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 812492,
+        "date": 1757462400,
+        "platform": {
+          "id": 386,
+          "name": "Meta Quest 2"
+        }
+      },
+      {
+        "id": 812493,
+        "date": 1757462400,
+        "platform": {
+          "id": 471,
+          "name": "Meta Quest 3"
+        }
+      },
+      {
+        "id": 733090,
+        "date": 1747267200,
+        "platform": {
+          "id": 471,
+          "name": "Meta Quest 3"
+        }
+      },
+      {
+        "id": 733089,
+        "date": 1747267200,
+        "platform": {
+          "id": 386,
+          "name": "Meta Quest 2"
+        }
+      },
+      {
+        "id": 925859,
+        "date": 1782345600,
+        "platform": {
+          "id": 163,
+          "name": "SteamVR"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1522776,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmzc.jpg"
+      },
+      {
+        "id": 1522791,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmzr.jpg"
+      },
+      {
+        "id": 1522771,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmz7.jpg"
+      },
+      {
+        "id": 1522774,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmza.jpg"
+      },
+      {
+        "id": 1522777,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmzd.jpg"
+      },
+      {
+        "id": 1522772,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmz8.jpg"
+      },
+      {
+        "id": 1522773,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmz9.jpg"
+      },
+      {
+        "id": 1522775,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmzb.jpg"
+      },
+      {
+        "id": 1522778,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmze.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Choose your hero. Squad up. Push lanes. Farm creeps. Clear jungle camps. Upgrade your abilities mid-match. And dominate the map in intense 5v5 team fights.\nClassic MOBA with stunning visuals that push the Meta Quest to its absolute limits.",
+    "videos": [
+      {
+        "id": 156092,
+        "video_id": "Zq5vuDVi67k"
+      }
+    ],
+    "websites": [
+      {
+        "id": 832378,
+        "url": "https://discord.gg/starvaultvr",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 832377,
+        "url": "https://www.meta.com/en-us/experiences/starvault/7535945739825988/",
+        "type": {
+          "id": 25,
+          "type": "Meta"
+        }
+      },
+      {
+        "id": 736474,
+        "url": "https://x.com/starvaultvr",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 736473,
+        "url": "https://starvaultvr.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 736475,
+        "url": "https://www.youtube.com/@starvaultvr",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 760858,
+        "url": "https://www.twitch.tv/directory/category/starvault",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 870660,
+        "url": "https://store.steampowered.com/app/4020320",
+        "type": {
+          "id": 13,
+          "type": "Steam"
         }
       }
     ]
@@ -11290,6 +11523,293 @@
     ]
   },
   {
+    "id": 367931,
+    "cover": {
+      "id": 567084,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc5kc.jpg"
+    },
+    "first_release_date": 1780876800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "hypes": 2,
+    "name": "Chromadi",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 926167,
+        "date": 1780876800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1641426,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz6j6.jpg"
+      },
+      {
+        "id": 1641427,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz6j7.jpg"
+      },
+      {
+        "id": 1641428,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz6j8.jpg"
+      },
+      {
+        "id": 1641424,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz6j4.jpg"
+      },
+      {
+        "id": 1641425,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz6j5.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Mix and match colors and blast your way through waves of Chromies in this fast-paced retro arcade shooter. Play as the Chroma Crew to defend the Rainbar and restore color to the fading planet of Chromara!",
+    "videos": [
+      {
+        "id": 162361,
+        "video_id": "dFCqiRbVKEc"
+      }
+    ],
+    "websites": [
+      {
+        "id": 872351,
+        "url": "https://store.steampowered.com/app/3569990",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 872352,
+        "url": "https://www.chromadi.fun",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 872353,
+        "url": "https://discord.gg/V35d6JNGfc",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 872354,
+        "url": "https://x.com/KleanupGames",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      }
+    ]
+  },
+  {
+    "id": 362094,
+    "cover": {
+      "id": 481168,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coab9s.jpg"
+    },
+    "first_release_date": 1781049600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 15,
+    "involved_companies": [
+      {
+        "id": 338115,
+        "company": {
+          "id": 67000,
+          "name": "Envar Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Witchspire",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 900785,
+        "date": 1781049600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1616372,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyn78.jpg"
+      },
+      {
+        "id": 1616373,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyn79.jpg"
+      },
+      {
+        "id": 1616374,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyn7a.jpg"
+      },
+      {
+        "id": 1616375,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyn7b.jpg"
+      },
+      {
+        "id": 1616376,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyn7c.jpg"
+      },
+      {
+        "id": 1616377,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyn7d.jpg"
+      },
+      {
+        "id": 1616378,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyn7e.jpg"
+      },
+      {
+        "id": 1616379,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyn7f.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "A survival-crafting adventure in a world brimming with magic and peril. Befriend and battle creatures, and conjure up a sanctuary alongside other witches in co-op or single-player.",
+    "videos": [
+      {
+        "id": 159818,
+        "video_id": "ZUwe2bTmQ2U"
+      },
+      {
+        "id": 170146,
+        "video_id": "pYX8u6QHDw8"
+      },
+      {
+        "id": 181362,
+        "video_id": "RGz_SnhWedo"
+      }
+    ],
+    "websites": [
+      {
+        "id": 854841,
+        "url": "https://bsky.app/profile/witchspire.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 854839,
+        "url": "http://playwitchspire.com",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 854840,
+        "url": "https://discord.gg/hT6AFpSTNv",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 854838,
+        "url": "https://store.steampowered.com/app/2679100",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 854842,
+        "url": "https://www.instagram.com/witchspire",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 854844,
+        "url": "https://www.youtube.com/@EnvarStudio",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 854843,
+        "url": "https://www.facebook.com/envarstudio/",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 854845,
+        "url": "https://x.com/PlayWitchspire",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      }
+    ]
+  },
+  {
     "id": 147345,
     "cover": {
       "id": 140333,
@@ -14543,7 +15063,7 @@
         "name": "Adventure"
       }
     ],
-    "hypes": 24,
+    "hypes": 25,
     "involved_companies": [
       {
         "id": 313958,
@@ -16612,182 +17132,6 @@
         "type": {
           "id": 14,
           "type": "Subreddit"
-        }
-      }
-    ]
-  },
-  {
-    "id": 362094,
-    "cover": {
-      "id": 481168,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coab9s.jpg"
-    },
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      }
-    ],
-    "hypes": 15,
-    "involved_companies": [
-      {
-        "id": 338115,
-        "company": {
-          "id": 67000,
-          "name": "Envar Games"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Witchspire",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 900785,
-        "date": 1781049600,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1616372,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyn78.jpg"
-      },
-      {
-        "id": 1616373,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyn79.jpg"
-      },
-      {
-        "id": 1616374,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyn7a.jpg"
-      },
-      {
-        "id": 1616375,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyn7b.jpg"
-      },
-      {
-        "id": 1616376,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyn7c.jpg"
-      },
-      {
-        "id": 1616377,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyn7d.jpg"
-      },
-      {
-        "id": 1616378,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyn7e.jpg"
-      },
-      {
-        "id": 1616379,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyn7f.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "A survival-crafting adventure in a world brimming with magic and peril. Befriend and battle creatures, and conjure up a sanctuary alongside other witches in co-op or single-player.",
-    "videos": [
-      {
-        "id": 159818,
-        "video_id": "ZUwe2bTmQ2U"
-      },
-      {
-        "id": 170146,
-        "video_id": "pYX8u6QHDw8"
-      },
-      {
-        "id": 181362,
-        "video_id": "RGz_SnhWedo"
-      }
-    ],
-    "websites": [
-      {
-        "id": 854841,
-        "url": "https://bsky.app/profile/witchspire.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 854839,
-        "url": "http://playwitchspire.com",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 854840,
-        "url": "https://discord.gg/hT6AFpSTNv",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 854838,
-        "url": "https://store.steampowered.com/app/2679100",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 854842,
-        "url": "https://www.instagram.com/witchspire",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 854844,
-        "url": "https://www.youtube.com/@EnvarStudio",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 854843,
-        "url": "https://www.facebook.com/envarstudio/",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 854845,
-        "url": "https://x.com/PlayWitchspire",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
         }
       }
     ]
