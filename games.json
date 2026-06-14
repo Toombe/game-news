@@ -10949,10 +10949,10 @@
     ]
   },
   {
-    "id": 245733,
+    "id": 324574,
     "cover": {
-      "id": 298474,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6eay.jpg"
+      "id": 425506,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co94bm.jpg"
     },
     "first_release_date": 1781136000,
     "game_modes": [
@@ -10967,97 +10967,44 @@
       {
         "id": 3,
         "name": "Co-operative"
+      },
+      {
+        "id": 5,
+        "name": "Massively Multiplayer Online (MMO)"
       }
     ],
     "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
       {
         "id": 13,
         "name": "Simulator"
       },
       {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
         "id": 31,
         "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
       }
     ],
-    "hypes": 4,
+    "hypes": 9,
     "involved_companies": [
       {
-        "id": 210822,
+        "id": 298261,
         "company": {
-          "id": 26159,
-          "name": "ACE Entertainment"
+          "id": 1097,
+          "name": "Shiro Games"
         },
         "developer": true,
         "publisher": true
       }
     ],
-    "name": "Tales of Seikyu",
+    "name": "SpaceCraft",
     "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
       {
         "id": 6,
         "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      },
-      {
-        "id": 130,
-        "name": "Nintendo Switch"
       }
     ],
     "release_dates": [
       {
-        "id": 740694,
-        "date": 1747785600,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 923415,
-        "platform": {
-          "id": 130,
-          "name": "Nintendo Switch"
-        }
-      },
-      {
-        "id": 923417,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 923418,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      },
-      {
-        "id": 923416,
+        "id": 914892,
         "date": 1781136000,
         "platform": {
           "id": 6,
@@ -11067,113 +11014,117 @@
     ],
     "screenshots": [
       {
-        "id": 1031946,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scm496.jpg"
+        "id": 1431177,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuoax.jpg"
       },
       {
-        "id": 1031948,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scm498.jpg"
+        "id": 1431179,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuoaz.jpg"
       },
       {
-        "id": 1031950,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scm49a.jpg"
+        "id": 1431181,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuob1.jpg"
       },
       {
-        "id": 1031952,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scm49c.jpg"
+        "id": 1431182,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuob2.jpg"
       },
       {
-        "id": 1031954,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scm49e.jpg"
+        "id": 1431178,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuoay.jpg"
       },
       {
-        "id": 1031956,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scm49g.jpg"
-      },
-      {
-        "id": 1031958,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scm49i.jpg"
-      },
-      {
-        "id": 1031960,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scm49k.jpg"
+        "id": 1431180,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuob0.jpg"
       }
     ],
     "status": 4,
-    "summary": "\"Tales of Seikyu\" is a fantasy farming sim game set in a lost fae land called Seikyu, inhabited by legendary creatures. However, the town is frequently threatened by the old gods\u0027 forces. As a new arrival, can you successfully manage the old inn entrusted to you by God Inari?",
+    "summary": "The Universe is yours. SpaceCraft is an online space exploration and building game. Explore a vast galaxy of solar systems and planets, mine and craft resources, design and build ships, automate planetary bases and interplanetary logistics, trade and cooperate.",
     "videos": [
       {
-        "id": 116009,
-        "video_id": "HqGdmUB5MNw"
+        "id": 134606,
+        "video_id": "bdd0avB3t-g"
       },
       {
-        "id": 128164,
-        "video_id": "Oaq5rYLe7W0"
+        "id": 180754,
+        "video_id": "gNbeUS41tX8"
       },
       {
-        "id": 135117,
-        "video_id": "-x-edKqvHSc"
-      },
-      {
-        "id": 186814,
-        "video_id": "l0bn_Xk5K6o"
+        "id": 181379,
+        "video_id": "4YLnUv-xZ5s"
       }
     ],
     "websites": [
       {
-        "id": 603883,
-        "url": "https://www.twitch.tv/directory/category/tales-of-seikyu",
+        "id": 696048,
+        "url": "https://www.reddit.com/r/SpaceCraftGame/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 696049,
+        "url": "https://www.twitch.tv/directory/category/spacecraft-1",
         "type": {
           "id": 6,
           "type": "Twitch"
         }
       },
       {
-        "id": 603882,
-        "url": "https://talesofseikyu.fun/",
+        "id": 696044,
+        "url": "https://www.facebook.com/profile.php?id\u003d61567336205266",
         "type": {
-          "id": 1,
-          "type": "Official Website"
+          "id": 4,
+          "type": "Facebook"
         }
       },
       {
-        "id": 545419,
-        "url": "https://discord.gg/2qAJd388cB",
+        "id": 696045,
+        "url": "https://twitter.com/SpaceCraft_Game",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 696047,
+        "url": "https://discord.gg/invite/7UPwxTGTr6",
         "type": {
           "id": 18,
           "type": "Discord"
         }
       },
       {
-        "id": 790879,
-        "url": "https://bsky.app/profile/gamewithace.bsky.social",
+        "id": 696043,
+        "url": "https://www.youtube.com/@ShiroGamesTV",
         "type": {
-          "id": 19,
-          "type": "Bluesky"
+          "id": 9,
+          "type": "YouTube"
         }
       },
       {
-        "id": 723703,
-        "url": "https://store.steampowered.com/app/2340520",
+        "id": 696046,
+        "url": "https://www.instagram.com/spacecraft_game/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 696042,
+        "url": "https://shirogames.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 696050,
+        "url": "https://store.steampowered.com/app/3276050",
         "type": {
           "id": 13,
           "type": "Steam"
-        }
-      },
-      {
-        "id": 856318,
-        "url": "https://talesofseikyu.wiki.gg/",
-        "type": {
-          "id": 2,
-          "type": "Community Wiki"
-        }
-      },
-      {
-        "id": 545418,
-        "url": "https://twitter.com/TalesOfSeikyu",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
         }
       }
     ]
@@ -16805,44 +16756,53 @@
     ]
   },
   {
-    "id": 368417,
+    "id": 338053,
     "cover": {
-      "id": 489879,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coahzr.jpg"
+      "id": 544072,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobnt4.jpg"
     },
     "game_modes": [
       {
-        "id": 2,
-        "name": "Multiplayer"
+        "id": 1,
+        "name": "Single player"
       },
       {
-        "id": 4,
-        "name": "Split screen"
+        "id": 2,
+        "name": "Multiplayer"
       }
     ],
     "genres": [
       {
-        "id": 5,
-        "name": "Shooter"
+        "id": 13,
+        "name": "Simulator"
       },
       {
-        "id": 32,
-        "name": "Indie"
+        "id": 14,
+        "name": "Sport"
       }
     ],
-    "hypes": 4,
+    "hypes": 2,
     "involved_companies": [
       {
-        "id": 347287,
+        "id": 313926,
         "company": {
-          "id": 69131,
-          "name": "Tetra Studios"
+          "id": 26856,
+          "name": "Bonus Stage Publishing"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 313925,
+        "company": {
+          "id": 62722,
+          "name": "Spinoff Games"
         },
         "developer": true,
         "publisher": false
       }
     ],
-    "name": "ShatterRush",
+    "name": "Disc Golf Masters",
     "platforms": [
       {
         "id": 6,
@@ -16851,8 +16811,8 @@
     ],
     "release_dates": [
       {
-        "id": 805850,
-        "date": 1790726400,
+        "id": 928356,
+        "date": 1782172800,
         "platform": {
           "id": 6,
           "name": "PC (Microsoft Windows)"
@@ -16861,121 +16821,105 @@
     ],
     "screenshots": [
       {
-        "id": 1642945,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz7pd.jpg"
+        "id": 1791733,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12eid.jpg"
       },
       {
-        "id": 1642950,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz7pi.jpg"
+        "id": 1791734,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12eie.jpg"
       },
       {
-        "id": 1642952,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz7pk.jpg"
+        "id": 1791735,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12eif.jpg"
       },
       {
-        "id": 1642953,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz7pl.jpg"
+        "id": 1791736,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12eig.jpg"
       },
       {
-        "id": 1642955,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz7pn.jpg"
+        "id": 1791737,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12eih.jpg"
       },
       {
-        "id": 1642946,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz7pe.jpg"
-      },
-      {
-        "id": 1642947,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz7pf.jpg"
-      },
-      {
-        "id": 1642949,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz7ph.jpg"
+        "id": 1791738,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12eii.jpg"
       }
     ],
     "status": 2,
-    "summary": "ShatterRush is a multiplayer FPS where fluid parkour movement and massive mechs meet fully destructible environments to create flow-state movement combat you’ve been waiting years for!",
+    "summary": "Step onto the course in Disc Golf Masters, the most realistic disc golf game ever. Featuring the world’s top athletes, throw real-world discs on authentic courses. Start your pro career, refine your skills, and push the limits of the sport in the world\u0027s first true disc golf game!",
     "videos": [
       {
-        "id": 162470,
-        "video_id": "iWAOp0jtxn8"
+        "id": 145001,
+        "video_id": "YQXeVE5-hlo"
       },
       {
-        "id": 181994,
-        "video_id": "uhooh6oIK6o"
+        "id": 177210,
+        "video_id": "M72vg-rrK1o"
       }
     ],
     "websites": [
       {
-        "id": 873539,
-        "url": "https://store.steampowered.com/app/3668330/ShatterRush/",
+        "id": 888505,
+        "url": "https://bsky.app/profile/discgolfmasters.bsky.social",
         "type": {
-          "id": 13,
-          "type": "Steam"
+          "id": 19,
+          "type": "Bluesky"
         }
       },
       {
-        "id": 873540,
-        "url": "https://tetrastudios.itch.io/shatterrush",
-        "type": {
-          "id": 15,
-          "type": "Itch"
-        }
-      },
-      {
-        "id": 873541,
-        "url": "https://www.tetrastudios.com.au/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 873542,
-        "url": "https://x.com/tetra_studios",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 873543,
-        "url": "https://www.instagram.com/tetra_studios/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 873544,
-        "url": "https://www.youtube.com/@TetraStudiosDev",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 873545,
-        "url": "https://www.reddit.com/r/TetraStudios/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 873546,
-        "url": "https://discord.gg/jnq7btXn2d",
+        "id": 723920,
+        "url": "https://discord.gg/9JbxeSW5pf",
         "type": {
           "id": 18,
           "type": "Discord"
         }
       },
       {
-        "id": 873547,
-        "url": "https://bsky.app/profile/tetrastudios.bsky.social",
+        "id": 723915,
+        "url": "https://bonusstage.co/discgolfmasters",
         "type": {
-          "id": 19,
-          "type": "Bluesky"
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 723914,
+        "url": "https://store.steampowered.com/app/2819400/Disc_Golf_Masters/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 723919,
+        "url": "https://www.youtube.com/channel/UCJipEP4bfhp20O6iNw13htA",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 723917,
+        "url": "https://www.facebook.com/DiscGolfMastersGame",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 723916,
+        "url": "https://x.com/DiscGolfGame",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 723918,
+        "url": "https://www.instagram.com/discgolfmastersgame",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
         }
       }
     ]
