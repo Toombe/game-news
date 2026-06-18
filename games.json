@@ -3932,6 +3932,10 @@
       {
         "id": 180182,
         "video_id": "qFIyB1-Yczw"
+      },
+      {
+        "id": 188209,
+        "video_id": "Gyehun2dYf4"
       }
     ],
     "websites": [
@@ -4013,6 +4017,22 @@
         "type": {
           "id": 1,
           "type": "Official Website"
+        }
+      },
+      {
+        "id": 1071615,
+        "url": "https://wiki.hoodedhorse.com/Heroes_of_Might_and_Magic_Olden_Era",
+        "type": {
+          "id": 2,
+          "type": "Community Wiki"
+        }
+      },
+      {
+        "id": 1071616,
+        "url": "https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic:_Olden_Era",
+        "type": {
+          "id": 3,
+          "type": "Wikipedia"
         }
       }
     ]
@@ -11795,172 +11815,6 @@
     ]
   },
   {
-    "id": 395827,
-    "cover": {
-      "id": 557733,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobycl.jpg"
-    },
-    "first_release_date": 1782864000,
-    "game_modes": [
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 5,
-        "name": "Massively Multiplayer Online (MMO)"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      }
-    ],
-    "hypes": 10,
-    "involved_companies": [
-      {
-        "id": 378200,
-        "company": {
-          "id": 6997,
-          "name": "Daybreak Game Company"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 389932,
-        "company": {
-          "id": 75224,
-          "name": "Game Jawn"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "EverQuest Legends",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 894083,
-        "date": 1782864000,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 916761,
-        "date": 1776988800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1805264,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12oy8.jpg"
-      },
-      {
-        "id": 1805265,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12oy9.jpg"
-      },
-      {
-        "id": 1805266,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12oya.jpg"
-      },
-      {
-        "id": 1805267,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12oyb.jpg"
-      }
-    ],
-    "status": 3,
-    "summary": "Step back into Norrath in EverQuest Legends, a reimagined take on the original 1999 EverQuest experience. Designed for solo and casual players, EQL features powerful multiclass characters, iconic races, classic zones, nostalgic visuals, and modern quality-of-life improvements. Legends begin here!",
-    "videos": [
-      {
-        "id": 179557,
-        "video_id": "DsswWPXweW8"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1033890,
-        "url": "https://www.everquestlegends.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1035387,
-        "url": "https://twitter.com/EQ_Legends",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1035388,
-        "url": "https://www.facebook.com/everquestlegends",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 1035389,
-        "url": "https://www.youtube.com/@EverQuestLegends",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1035390,
-        "url": "https://discord.gg/XYBGT9fPTN",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 1045796,
-        "url": "https://www.instagram.com/everquestlegends/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 1045797,
-        "url": "https://bsky.app/profile/everquestlegends.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 1046245,
-        "url": "https://www.twitch.tv/directory/category/everquest-legends",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      }
-    ]
-  },
-  {
     "id": 275251,
     "cover": {
       "id": 569355,
@@ -12174,6 +12028,176 @@
         "type": {
           "id": 5,
           "type": "Twitter"
+        }
+      }
+    ]
+  },
+  {
+    "id": 395827,
+    "cover": {
+      "id": 557733,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobycl.jpg"
+    },
+    "first_release_date": 1785196800,
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 5,
+        "name": "Massively Multiplayer Online (MMO)"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 10,
+    "involved_companies": [
+      {
+        "id": 378200,
+        "company": {
+          "id": 6997,
+          "name": "Daybreak Game Company"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 389932,
+        "company": {
+          "id": 75224,
+          "name": "Game Jawn"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "EverQuest Legends",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 916761,
+        "date": 1776988800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 930106,
+        "date": 1785196800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1805264,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12oy8.jpg"
+      },
+      {
+        "id": 1805265,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12oy9.jpg"
+      },
+      {
+        "id": 1805266,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12oya.jpg"
+      },
+      {
+        "id": 1805267,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12oyb.jpg"
+      }
+    ],
+    "status": 3,
+    "summary": "Step back into Norrath in EverQuest Legends, a reimagined take on the original 1999 EverQuest experience. Designed for solo and casual players, EQL features powerful multiclass characters, iconic races, classic zones, nostalgic visuals, and modern quality-of-life improvements. Legends begin here!",
+    "videos": [
+      {
+        "id": 179557,
+        "video_id": "DsswWPXweW8"
+      },
+      {
+        "id": 188141,
+        "video_id": "wUcJvnOdtiY"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1033890,
+        "url": "https://www.everquestlegends.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1035387,
+        "url": "https://twitter.com/EQ_Legends",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1035388,
+        "url": "https://www.facebook.com/everquestlegends",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 1035389,
+        "url": "https://www.youtube.com/@EverQuestLegends",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1035390,
+        "url": "https://discord.gg/XYBGT9fPTN",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1045796,
+        "url": "https://www.instagram.com/everquestlegends/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1045797,
+        "url": "https://bsky.app/profile/everquestlegends.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 1046245,
+        "url": "https://www.twitch.tv/directory/category/everquest-legends",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
         }
       }
     ]
@@ -12608,8 +12632,8 @@
   {
     "id": 365465,
     "cover": {
-      "id": 496173,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coamul.jpg"
+      "id": 571946,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc9be.jpg"
     },
     "first_release_date": 1788220800,
     "game_modes": [
@@ -13160,8 +13184,8 @@
   {
     "id": 244763,
     "cover": {
-      "id": 509004,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coawr0.jpg"
+      "id": 571994,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc9cq.jpg"
     },
     "first_release_date": 1790726400,
     "game_modes": [
@@ -13172,12 +13196,8 @@
     ],
     "genres": [
       {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 13,
-        "name": "Simulator"
+        "id": 9,
+        "name": "Puzzle"
       },
       {
         "id": 31,
@@ -13234,6 +13254,16 @@
     ],
     "status": 3,
     "summary": "A Photo Collection Adventure Game. Complete your research notebook, solve creature puzzles, earn research grant money. Buy upgrades for your camera, rebuild the town, bond with the locals, and reveal the paranormal mystery of Star Island.",
+    "videos": [
+      {
+        "id": 188050,
+        "video_id": "_N8w_Vs6rXs"
+      },
+      {
+        "id": 188051,
+        "video_id": "7N2dqqk_QjA"
+      }
+    ],
     "websites": [
       {
         "id": 808854,
@@ -15024,6 +15054,186 @@
         "type": {
           "id": 6,
           "type": "Twitch"
+        }
+      }
+    ]
+  },
+  {
+    "id": 204463,
+    "cover": {
+      "id": 555813,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobwv9.jpg"
+    },
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 4,
+    "involved_companies": [
+      {
+        "id": 265516,
+        "company": {
+          "id": 8359,
+          "name": "Nowhere Studios"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Good Heavens!",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 929217,
+        "date": 1785542400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 929218,
+        "date": 1785542400,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 810049,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/schd1d.jpg"
+      },
+      {
+        "id": 810050,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/schd1e.jpg"
+      },
+      {
+        "id": 810051,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/schd1f.jpg"
+      },
+      {
+        "id": 810052,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/schd1g.jpg"
+      },
+      {
+        "id": 810053,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/schd1h.jpg"
+      }
+    ],
+    "status": 2,
+    "summary": "Good Heavens! Is an open-world crafting and building RPG. Embark on a solo adventure or team up with up friends, picking your tool of choice – sword, wand, or carpenter\u0027s hammer. Navigate the quirky races and cultures of the promised lands and restore them to their, ahem, intended glory.",
+    "videos": [
+      {
+        "id": 69562,
+        "video_id": "a8xU4ttMOt4"
+      },
+      {
+        "id": 91164,
+        "video_id": "qKT-w2vN57E"
+      },
+      {
+        "id": 180899,
+        "video_id": "lXPPZyEKGtM"
+      }
+    ],
+    "websites": [
+      {
+        "id": 743384,
+        "url": "https://store.epicgames.com/en-US/p/good-heavens-323f08",
+        "type": {
+          "id": 16,
+          "type": "Epic"
+        }
+      },
+      {
+        "id": 493925,
+        "url": "https://www.twitch.tv/directory/game/Good%20Heavens%21",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 635482,
+        "url": "https://store.steampowered.com/app/1617120/Good_Heavens",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 634808,
+        "url": "https://twitter.com/goodheavensrpg",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 583081,
+        "url": "https://www.gog.com/en/game/good_heavens",
+        "type": {
+          "id": 17,
+          "type": "GOG"
+        }
+      },
+      {
+        "id": 634809,
+        "url": "https://discord.gg/kaYpYrcGZa",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1027190,
+        "url": "https://www.instagram.com/goodheavensrpg/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1058192,
+        "url": "https://www.reddit.com/r/GoodHeavens/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
         }
       }
     ]
