@@ -11919,6 +11919,155 @@
     ]
   },
   {
+    "id": 402652,
+    "cover": {
+      "id": 573031,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coca5j.jpg"
+    },
+    "first_release_date": 1784505600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 396029,
+        "company": {
+          "id": 31736,
+          "name": "J6 Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Loot Gobblin\u0027 Together",
+    "platforms": [
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 931400,
+        "date": 1784505600,
+        "platform": {
+          "id": 3,
+          "name": "Linux"
+        }
+      },
+      {
+        "id": 931401,
+        "date": 1784505600,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      },
+      {
+        "id": 931402,
+        "date": 1784505600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1839855,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13fn3.jpg"
+      },
+      {
+        "id": 1839856,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13fn4.jpg"
+      },
+      {
+        "id": 1839857,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13fn5.jpg"
+      },
+      {
+        "id": 1839858,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13fn6.jpg"
+      }
+    ],
+    "status": 2,
+    "summary": "An online co-op game where you and your friends play greedy gobblins invading human houses to steal and gobble loot. Climb, stretch, and manage your stamina to survive chaotic heists and feed your Gobblin King.",
+    "videos": [
+      {
+        "id": 188361,
+        "video_id": "Q9IJh4i8XbY"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1074649,
+        "url": "https://www.twitch.tv/directory/category/loot-gobblin-together",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 1074650,
+        "url": "https://x.com/TheJustinSix",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1074651,
+        "url": "https://www.youtube.com/@JustinSixVideos",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1059002,
+        "url": "https://store.steampowered.com/app/4651490/Loot_Gobblin_Together/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1068411,
+        "url": "https://discord.gg/YBJvrg44tE",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      }
+    ]
+  },
+  {
     "id": 395827,
     "cover": {
       "id": 557733,
@@ -16430,6 +16579,235 @@
         "type": {
           "id": 8,
           "type": "Instagram"
+        }
+      }
+    ]
+  },
+  {
+    "id": 361763,
+    "cover": {
+      "id": 564498,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc3ki.jpg"
+    },
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 388501,
+        "company": {
+          "id": 256,
+          "name": "NCSOFT"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 388502,
+        "company": {
+          "id": 49911,
+          "name": "Vic Game Studio"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Limit Zero Breakers",
+    "platforms": [
+      {
+        "id": 34,
+        "name": "Android"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 39,
+        "name": "iOS"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 915828,
+        "date": 1781049600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 915829,
+        "date": 1781049600,
+        "platform": {
+          "id": 39,
+          "name": "iOS"
+        }
+      },
+      {
+        "id": 915830,
+        "date": 1781049600,
+        "platform": {
+          "id": 34,
+          "name": "Android"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1614560,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scylsw.jpg"
+      },
+      {
+        "id": 1614561,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scylsx.jpg"
+      },
+      {
+        "id": 1614562,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scylsy.jpg"
+      },
+      {
+        "id": 1614564,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scylt0.jpg"
+      },
+      {
+        "id": 1614565,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scylt1.jpg"
+      },
+      {
+        "id": 1614558,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scylsu.jpg"
+      },
+      {
+        "id": 1614559,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scylsv.jpg"
+      },
+      {
+        "id": 1614563,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scylsz.jpg"
+      }
+    ],
+    "status": 3,
+    "summary": "Explore the floating islands of Seraphia as a Breaker in this anime action RPG. Build a team of characters with different fighting styles and unleash stylish attacks as you battle through ancient dungeons and massive monsters in search of the Archive of the Gods.",
+    "videos": [
+      {
+        "id": 183526,
+        "video_id": "IpEiUCeF-k8"
+      },
+      {
+        "id": 183527,
+        "video_id": "M6n_jBdyMPQ"
+      },
+      {
+        "id": 183528,
+        "video_id": "wXnf-yrWK0M"
+      },
+      {
+        "id": 183529,
+        "video_id": "V-5y2kl5HK8"
+      },
+      {
+        "id": 183530,
+        "video_id": "wXoMp-myT5E"
+      },
+      {
+        "id": 183531,
+        "video_id": "DbeMdidq1RQ"
+      },
+      {
+        "id": 183532,
+        "video_id": "fdaN-sBxbiI"
+      },
+      {
+        "id": 183533,
+        "video_id": "d8Uk2m_r4a8"
+      },
+      {
+        "id": 183534,
+        "video_id": "tkaqkoDVjq0"
+      },
+      {
+        "id": 183535,
+        "video_id": "6--40tTWL0g"
+      }
+    ],
+    "websites": [
+      {
+        "id": 894298,
+        "url": "https://www.instagram.com/breakers_en/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 853502,
+        "url": "https://x.com/BREAKERS_japan",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 853503,
+        "url": "https://www.youtube.com/@BREAKERS_official",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1058629,
+        "url": "https://store.steampowered.com/app/3764400/LIMIT_ZERO_BREAKERS/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1058630,
+        "url": "https://breakers.plaync.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1058631,
+        "url": "https://discord.gg/breakers",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1069434,
+        "url": "https://www.twitch.tv/directory/category/limit-zero-breakers",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
         }
       }
     ]
