@@ -1,227 +1,5 @@
 [
   {
-    "id": 176551,
-    "cover": {
-      "id": 186891,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co407f.jpg"
-    },
-    "first_release_date": 1677715200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      }
-    ],
-    "genres": [
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 153435,
-        "company": {
-          "id": 38511,
-          "name": "Abylight Barcelona"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 153436,
-        "company": {
-          "id": 11398,
-          "name": "Abylight Studios"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "One Military Camp",
-    "platforms": [
-      {
-        "id": 508,
-        "name": "Nintendo Switch 2"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 455095,
-        "date": 1677715200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 916136,
-        "date": 1779926400,
-        "platform": {
-          "id": 508,
-          "name": "Nintendo Switch 2"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 806907,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scham3.jpg"
-      },
-      {
-        "id": 806908,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scham4.jpg"
-      },
-      {
-        "id": 806909,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scham5.jpg"
-      },
-      {
-        "id": 806904,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scham0.jpg"
-      },
-      {
-        "id": 806905,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scham1.jpg"
-      },
-      {
-        "id": 806906,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scham2.jpg"
-      }
-    ],
-    "status": 8,
-    "summary": "Build and manage your own military camp, enrol the best recruits, set the training courses and finally send them on dangerous missions to win the war. But becoming a Military Tycoon also means improving your financial skills, so don’t forget to make your academy a profitable business.",
-    "videos": [
-      {
-        "id": 90121,
-        "video_id": "yXttCrUQdpc"
-      }
-    ],
-    "websites": [
-      {
-        "id": 739855,
-        "url": "https://bsky.app/profile/abylight.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 328515,
-        "url": "https://store.epicgames.com/en-US/p/one-military-camp-8db1f6",
-        "type": {
-          "id": 16,
-          "type": "Epic"
-        }
-      },
-      {
-        "id": 236211,
-        "url": "https://twitter.com/abylight",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 236212,
-        "url": "https://www.instagram.com/abylightstudios",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 236209,
-        "url": "https://www.youtube.com/user/abylight",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 236210,
-        "url": "https://www.facebook.com/abylight",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 236208,
-        "url": "https://twitch.tv/abylight",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 236213,
-        "url": "https://discord.gg/invite/kSjkvfkrSW",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 887721,
-        "url": "https://store.playstation.com/en-us/concept/10007128",
-        "type": {
-          "id": 23,
-          "type": "Playstation"
-        }
-      },
-      {
-        "id": 236207,
-        "url": "https://abylight.com/home",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 513736,
-        "url": "https://store.steampowered.com/app/1743830/One_Military_Camp",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 328516,
-        "url": "https://www.reddit.com/r/Abylight/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 1058739,
-        "url": "https://www.nintendo.com/us/store/products/one-military-camp-switch-2/",
-        "type": {
-          "id": 24,
-          "type": "Nintendo"
-        }
-      }
-    ]
-  },
-  {
     "id": 152779,
     "cover": {
       "id": 291519,
@@ -10508,6 +10286,176 @@
     ]
   },
   {
+    "id": 338053,
+    "cover": {
+      "id": 544072,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobnt4.jpg"
+    },
+    "first_release_date": 1782172800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 313926,
+        "company": {
+          "id": 26856,
+          "name": "Bonus Stage Publishing"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 313925,
+        "company": {
+          "id": 62722,
+          "name": "Spinoff Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Disc Golf Masters",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 928356,
+        "date": 1782172800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1791733,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12eid.jpg"
+      },
+      {
+        "id": 1791734,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12eie.jpg"
+      },
+      {
+        "id": 1791735,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12eif.jpg"
+      },
+      {
+        "id": 1791736,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12eig.jpg"
+      },
+      {
+        "id": 1791737,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12eih.jpg"
+      },
+      {
+        "id": 1791738,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12eii.jpg"
+      }
+    ],
+    "status": 2,
+    "summary": "Step onto the course in Disc Golf Masters, the most realistic disc golf game ever. Featuring the world’s top athletes, throw real-world discs on authentic courses. Start your pro career, refine your skills, and push the limits of the sport in the world\u0027s first true disc golf game!",
+    "videos": [
+      {
+        "id": 145001,
+        "video_id": "YQXeVE5-hlo"
+      },
+      {
+        "id": 177210,
+        "video_id": "M72vg-rrK1o"
+      }
+    ],
+    "websites": [
+      {
+        "id": 888505,
+        "url": "https://bsky.app/profile/discgolfmasters.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 723920,
+        "url": "https://discord.gg/9JbxeSW5pf",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 723915,
+        "url": "https://bonusstage.co/discgolfmasters",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 723914,
+        "url": "https://store.steampowered.com/app/2819400/Disc_Golf_Masters/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 723919,
+        "url": "https://www.youtube.com/channel/UCJipEP4bfhp20O6iNw13htA",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 723917,
+        "url": "https://www.facebook.com/DiscGolfMastersGame",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 723916,
+        "url": "https://x.com/DiscGolfGame",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 723918,
+        "url": "https://www.instagram.com/discgolfmastersgame",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      }
+    ]
+  },
+  {
     "id": 147345,
     "cover": {
       "id": 140333,
@@ -11256,6 +11204,15 @@
         "publisher": true
       },
       {
+        "id": 396811,
+        "company": {
+          "id": 12337,
+          "name": "indienova"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
         "id": 355139,
         "company": {
           "id": 47935,
@@ -11908,6 +11865,323 @@
       {
         "id": 698760,
         "url": "https://www.twitch.tv/directory/category/below-rusted-gods",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      }
+    ]
+  },
+  {
+    "id": 137604,
+    "cover": {
+      "id": 573514,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocaiy.jpg"
+    },
+    "first_release_date": 1785369600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 3,
+    "involved_companies": [
+      {
+        "id": 353644,
+        "company": {
+          "id": 28892,
+          "name": "Squirrel Bytes"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Hyperstacks",
+    "platforms": [
+      {
+        "id": 162,
+        "name": "Oculus VR"
+      },
+      {
+        "id": 386,
+        "name": "Meta Quest 2"
+      },
+      {
+        "id": 390,
+        "name": "PlayStation VR2"
+      },
+      {
+        "id": 161,
+        "name": "Windows Mixed Reality"
+      },
+      {
+        "id": 34,
+        "name": "Android"
+      },
+      {
+        "id": 163,
+        "name": "SteamVR"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 608199,
+        "date": 1600819200,
+        "platform": {
+          "id": 34,
+          "name": "Android"
+        }
+      },
+      {
+        "id": 608200,
+        "platform": {
+          "id": 34,
+          "name": "Android"
+        }
+      },
+      {
+        "id": 466963,
+        "platform": {
+          "id": 390,
+          "name": "PlayStation VR2"
+        }
+      },
+      {
+        "id": 466961,
+        "platform": {
+          "id": 162,
+          "name": "Oculus VR"
+        }
+      },
+      {
+        "id": 466965,
+        "platform": {
+          "id": 161,
+          "name": "Windows Mixed Reality"
+        }
+      },
+      {
+        "id": 932105,
+        "date": 1785369600,
+        "platform": {
+          "id": 163,
+          "name": "SteamVR"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1648015,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbm7.jpg"
+      },
+      {
+        "id": 1648008,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbm0.jpg"
+      },
+      {
+        "id": 1648014,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbm6.jpg"
+      },
+      {
+        "id": 1648006,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbly.jpg"
+      },
+      {
+        "id": 1648009,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbm1.jpg"
+      },
+      {
+        "id": 1648013,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbm5.jpg"
+      },
+      {
+        "id": 1648011,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbm3.jpg"
+      },
+      {
+        "id": 1648005,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczblx.jpg"
+      },
+      {
+        "id": 1648023,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbmf.jpg"
+      },
+      {
+        "id": 1648010,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbm2.jpg"
+      },
+      {
+        "id": 1648007,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczblz.jpg"
+      },
+      {
+        "id": 1648012,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbm4.jpg"
+      },
+      {
+        "id": 1648016,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbm8.jpg"
+      },
+      {
+        "id": 1648017,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbm9.jpg"
+      },
+      {
+        "id": 1648018,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbma.jpg"
+      },
+      {
+        "id": 1648019,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbmb.jpg"
+      },
+      {
+        "id": 1648020,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbmc.jpg"
+      },
+      {
+        "id": 1648021,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbmd.jpg"
+      },
+      {
+        "id": 1648022,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbme.jpg"
+      },
+      {
+        "id": 1648024,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbmg.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Hyperstacks is a VR world of combat, parkour, logic-driven puzzles, memorable characters, and community-made levels.\nMeet its residents through quests and discover a growing library of player creations.",
+    "videos": [
+      {
+        "id": 47671,
+        "video_id": "j5HQ6PzjBKM"
+      },
+      {
+        "id": 163243,
+        "video_id": "oTaAXGZF6EE"
+      },
+      {
+        "id": 163244,
+        "video_id": "R1nBbEFSmX4"
+      },
+      {
+        "id": 163245,
+        "video_id": "8y4EdwJXfwk"
+      },
+      {
+        "id": 188456,
+        "video_id": "qw3MQUWtbCw"
+      }
+    ],
+    "websites": [
+      {
+        "id": 158555,
+        "url": "https://www.youtube.com/channel/UCb1Qn8CL1YKj2aFcjwOH2Jg",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 158554,
+        "url": "https://squirrel-bytes.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 156410,
+        "url": "https://store.steampowered.com/app/1046760/Hyperstacks",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 896575,
+        "url": "https://www.meta.com/en-us/experiences/hyperstacks/5022888091116866",
+        "type": {
+          "id": 25,
+          "type": "Meta"
+        }
+      },
+      {
+        "id": 816266,
+        "url": "https://bsky.app/profile/squirrelbytes.com",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 158556,
+        "url": "https://twitter.com/Squirrel_Bytes",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 159555,
+        "url": "https://squirrelbytes.itch.io/hyperstacks",
+        "type": {
+          "id": 15,
+          "type": "Itch"
+        }
+      },
+      {
+        "id": 318154,
+        "url": "https://www.reddit.com/r/Hyperstacks",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 318153,
+        "url": "https://discord.gg/squirrelbytes",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 369416,
+        "url": "https://www.twitch.tv/directory/game/Hyperstacks",
         "type": {
           "id": 6,
           "type": "Twitch"
@@ -15663,175 +15937,6 @@
     ]
   },
   {
-    "id": 338053,
-    "cover": {
-      "id": 544072,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobnt4.jpg"
-    },
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      }
-    ],
-    "genres": [
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 14,
-        "name": "Sport"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 313926,
-        "company": {
-          "id": 26856,
-          "name": "Bonus Stage Publishing"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 313925,
-        "company": {
-          "id": 62722,
-          "name": "Spinoff Games"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Disc Golf Masters",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 928356,
-        "date": 1782172800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1791733,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12eid.jpg"
-      },
-      {
-        "id": 1791734,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12eie.jpg"
-      },
-      {
-        "id": 1791735,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12eif.jpg"
-      },
-      {
-        "id": 1791736,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12eig.jpg"
-      },
-      {
-        "id": 1791737,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12eih.jpg"
-      },
-      {
-        "id": 1791738,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12eii.jpg"
-      }
-    ],
-    "status": 2,
-    "summary": "Step onto the course in Disc Golf Masters, the most realistic disc golf game ever. Featuring the world’s top athletes, throw real-world discs on authentic courses. Start your pro career, refine your skills, and push the limits of the sport in the world\u0027s first true disc golf game!",
-    "videos": [
-      {
-        "id": 145001,
-        "video_id": "YQXeVE5-hlo"
-      },
-      {
-        "id": 177210,
-        "video_id": "M72vg-rrK1o"
-      }
-    ],
-    "websites": [
-      {
-        "id": 888505,
-        "url": "https://bsky.app/profile/discgolfmasters.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 723920,
-        "url": "https://discord.gg/9JbxeSW5pf",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 723915,
-        "url": "https://bonusstage.co/discgolfmasters",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 723914,
-        "url": "https://store.steampowered.com/app/2819400/Disc_Golf_Masters/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 723919,
-        "url": "https://www.youtube.com/channel/UCJipEP4bfhp20O6iNw13htA",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 723917,
-        "url": "https://www.facebook.com/DiscGolfMastersGame",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 723916,
-        "url": "https://x.com/DiscGolfGame",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 723918,
-        "url": "https://www.instagram.com/discgolfmastersgame",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      }
-    ]
-  },
-  {
     "id": 361763,
     "cover": {
       "id": 564498,
@@ -16549,10 +16654,6 @@
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12smk.jpg"
       },
       {
-        "id": 1810029,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12sml.jpg"
-      },
-      {
         "id": 1810019,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12smb.jpg"
       },
@@ -16585,12 +16686,24 @@
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12smh.jpg"
       },
       {
-        "id": 1810026,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12smi.jpg"
-      },
-      {
         "id": 1810027,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12smj.jpg"
+      },
+      {
+        "id": 1867107,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc140o3.jpg"
+      },
+      {
+        "id": 1867108,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc140o4.jpg"
+      },
+      {
+        "id": 1867109,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc140o5.jpg"
+      },
+      {
+        "id": 1867110,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc140o6.jpg"
       }
     ],
     "status": 4,
