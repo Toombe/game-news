@@ -1103,8 +1103,8 @@
   {
     "id": 337712,
     "cover": {
-      "id": 448149,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9lsl.jpg"
+      "id": 574035,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocaxf.jpg"
     },
     "first_release_date": 1744675200,
     "game_modes": [
@@ -10286,6 +10286,231 @@
     ]
   },
   {
+    "id": 252846,
+    "cover": {
+      "id": 571668,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc93o.jpg"
+    },
+    "first_release_date": 1782086400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 22,
+    "involved_companies": [
+      {
+        "id": 267363,
+        "company": {
+          "id": 5040,
+          "name": "tinyBuild"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 267364,
+        "company": {
+          "id": 15681,
+          "name": "Hologryph"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 267365,
+        "company": {
+          "id": 48001,
+          "name": "TowerHaus"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Sand: Raiders Of Sophie",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 932918,
+        "date": 1782086400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 933154,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 933155,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1068804,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmwp0.jpg"
+      },
+      {
+        "id": 1068806,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmwp2.jpg"
+      },
+      {
+        "id": 1068808,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmwp4.jpg"
+      },
+      {
+        "id": 1068811,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmwp7.jpg"
+      },
+      {
+        "id": 1068813,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmwp9.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "In an alternate 1910, scavenge the sands of Sophie in towering Tramplers. Build your highly customizable walking base. Squad up or go solo. Gather loot, weapons, precious artifacts. Clash with other players in a brutal procedurally generated desert forged by history and chaos.",
+    "videos": [
+      {
+        "id": 91707,
+        "video_id": "Pi_lFqOvxjE"
+      },
+      {
+        "id": 114063,
+        "video_id": "LPEMtTe8t8Y"
+      },
+      {
+        "id": 142317,
+        "video_id": "6rvIyS0eIlY"
+      },
+      {
+        "id": 151345,
+        "video_id": "_uENIPtZIec"
+      },
+      {
+        "id": 172599,
+        "video_id": "H-Q9LKOOnvg"
+      },
+      {
+        "id": 186514,
+        "video_id": "9mjNPkIbSTM"
+      }
+    ],
+    "websites": [
+      {
+        "id": 800516,
+        "url": "https://store.playstation.com/en-us/concept/10010847/",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
+        }
+      },
+      {
+        "id": 800515,
+        "url": "https://www.xbox.com/en-US/games/store/sand/9NG0FFHT5MCB/0010",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
+      },
+      {
+        "id": 682699,
+        "url": "https://www.twitch.tv/directory/category/sand",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 717014,
+        "url": "https://www.youtube.com/@tinyBuildGAMES",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 557500,
+        "url": "https://store.steampowered.com/app/1431300",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 557524,
+        "url": "https://sand-game.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 690962,
+        "url": "https://twitter.com/sandthegame",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 690963,
+        "url": "https://www.instagram.com/sandgamehq/?next\u003d%2F",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 690961,
+        "url": "https://www.facebook.com/SANDtheGame/",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 690964,
+        "url": "https://discord.gg/invite/zk3ZWg8Ntd",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      }
+    ]
+  },
+  {
     "id": 338053,
     "cover": {
       "id": 544072,
@@ -10376,7 +10601,7 @@
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12eii.jpg"
       }
     ],
-    "status": 2,
+    "status": 4,
     "summary": "Step onto the course in Disc Golf Masters, the most realistic disc golf game ever. Featuring the world’s top athletes, throw real-world discs on authentic courses. Start your pro career, refine your skills, and push the limits of the sport in the world\u0027s first true disc golf game!",
     "videos": [
       {
@@ -11269,28 +11494,28 @@
     ],
     "screenshots": [
       {
-        "id": 1682532,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10290.jpg"
-      },
-      {
-        "id": 1682533,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10291.jpg"
-      },
-      {
-        "id": 1682534,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10292.jpg"
-      },
-      {
-        "id": 1682535,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10293.jpg"
-      },
-      {
         "id": 1682536,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10294.jpg"
+      },
+      {
+        "id": 1867957,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc141bp.jpg"
+      },
+      {
+        "id": 1867958,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc141bq.jpg"
+      },
+      {
+        "id": 1867959,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc141br.jpg"
+      },
+      {
+        "id": 1867960,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc141bs.jpg"
       }
     ],
     "status": 2,
-    "summary": "Desktop Explorer is an exploration-puzzle game set in a retro-style operating system. Solve puzzles by interacting with built-in software features, immersing yourself into a realistic late 90’s computer experience.\n\nThe game follows a fairly innocent narrative as you progress through it’s puzzles. However it becomes clear to you that there is more than meets the eye with this machine, as you slowly see its familiar façade fade away in favor of a darker aesthetic..",
+    "summary": "Desktop Explorer is an eerie point-n-click mystery game through the abandoned profiles of an old PC.\n\nRummage through the abandoned profiles of an old PC to unravel an inherited mystery. What secrets hide in this eerie adventure of cryptic games and outdated software? Who was using this computer? And what happened to them?",
     "videos": [
       {
         "id": 130757,
@@ -11319,20 +11544,32 @@
       {
         "id": 186868,
         "video_id": "RwXgYjekrks"
+      },
+      {
+        "id": 188627,
+        "video_id": "qfpuWJIeCXo"
       }
     ],
     "websites": [
       {
-        "id": 744425,
-        "url": "https://discord.gg/AKbpscMMWg",
+        "id": 1076360,
+        "url": "https://discord.com/invite/NY7eJxZWBH",
         "type": {
           "id": 18,
           "type": "Discord"
         }
       },
       {
-        "id": 744426,
-        "url": "https://bsky.app/profile/recdreamstudio.bsky.social",
+        "id": 1076359,
+        "url": "https://x.com/DesktopExplorer",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1076361,
+        "url": "https://bsky.app/profile/desktopexplorergame.com",
         "type": {
           "id": 19,
           "type": "Bluesky"
@@ -11344,14 +11581,6 @@
         "type": {
           "id": 1,
           "type": "Official Website"
-        }
-      },
-      {
-        "id": 685107,
-        "url": "https://recurringdream.itch.io/desktop-explorer",
-        "type": {
-          "id": 15,
-          "type": "Itch"
         }
       },
       {
@@ -11376,14 +11605,6 @@
         "type": {
           "id": 9,
           "type": "YouTube"
-        }
-      },
-      {
-        "id": 594198,
-        "url": "https://twitter.com/DesktopExplorer",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
         }
       }
     ]
@@ -14817,7 +15038,7 @@
         "name": "Simulator"
       }
     ],
-    "hypes": 5,
+    "hypes": 6,
     "involved_companies": [
       {
         "id": 382704,
@@ -15605,7 +15826,7 @@
         "name": "Adventure"
       }
     ],
-    "hypes": 23,
+    "hypes": 22,
     "involved_companies": [
       {
         "id": 270669,
