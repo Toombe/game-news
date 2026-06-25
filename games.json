@@ -1101,6 +1101,204 @@
     ]
   },
   {
+    "id": 134954,
+    "cover": {
+      "id": 275514,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5wl6.jpg"
+    },
+    "first_release_date": 1733788800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 3,
+    "involved_companies": [
+      {
+        "id": 151963,
+        "company": {
+          "id": 26368,
+          "name": "White Pond Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 151962,
+        "company": {
+          "id": 152,
+          "name": "MicroProse"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Urban Strife",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 676065,
+        "date": 1733788800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 933379,
+        "date": 1783987200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 388927,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc8c3j.jpg"
+      },
+      {
+        "id": 388925,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc8c3h.jpg"
+      },
+      {
+        "id": 659420,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sce4t8.jpg"
+      },
+      {
+        "id": 659421,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sce4t9.jpg"
+      },
+      {
+        "id": 948767,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sckc2n.jpg"
+      },
+      {
+        "id": 948768,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sckc2o.jpg"
+      },
+      {
+        "id": 948770,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sckc2q.jpg"
+      },
+      {
+        "id": 948769,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sckc2p.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Urban Strife is an old-school TBS, where you lead a team of makeshift, slightly deranged militia in an effort to keep the small community of Urban Shelter alive, amidst a zombie pandemic. With what’s left of human civilization divided into factions fighting over the scraps, you will need to broker alliances and fight factions wars, fortify and rebuild your community and forge a future against the ever-present threat of the zombie horde.",
+    "videos": [
+      {
+        "id": 37616,
+        "video_id": "FLyFBaJq-p8"
+      },
+      {
+        "id": 55600,
+        "video_id": "tLugVtv020M"
+      },
+      {
+        "id": 55601,
+        "video_id": "z0Kl3nW2L4c"
+      },
+      {
+        "id": 188825,
+        "video_id": "xVzUwl0mKog"
+      }
+    ],
+    "websites": [
+      {
+        "id": 144061,
+        "url": "https://www.youtube.com/c/UrbanStrifeGame",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 144058,
+        "url": "http://urbanstrifegame.com",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 144059,
+        "url": "https://www.facebook.com/urbanstrifegame",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 144062,
+        "url": "https://discord.gg/2zguXAa",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 233438,
+        "url": "https://www.reddit.com/r/UrbanStrifeGame",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 152359,
+        "url": "https://store.steampowered.com/app/710230/Urban_Strife",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 436448,
+        "url": "https://www.twitch.tv/directory/game/Urban%20Strife",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 144060,
+        "url": "https://twitter.com/UrbanStrifeGame",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      }
+    ]
+  },
+  {
     "id": 337712,
     "cover": {
       "id": 574035,
@@ -1644,215 +1842,6 @@
         "type": {
           "id": 23,
           "type": "Playstation"
-        }
-      }
-    ]
-  },
-  {
-    "id": 341684,
-    "cover": {
-      "id": 455024,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9r3k.jpg"
-    },
-    "first_release_date": 1757462400,
-    "game_modes": [
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 5,
-        "name": "Shooter"
-      },
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 24,
-        "name": "Tactical"
-      },
-      {
-        "id": 36,
-        "name": "MOBA"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 317702,
-        "company": {
-          "id": 44429,
-          "name": "Theia Games"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Starvault",
-    "platforms": [
-      {
-        "id": 386,
-        "name": "Meta Quest 2"
-      },
-      {
-        "id": 163,
-        "name": "SteamVR"
-      },
-      {
-        "id": 471,
-        "name": "Meta Quest 3"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 812492,
-        "date": 1757462400,
-        "platform": {
-          "id": 386,
-          "name": "Meta Quest 2"
-        }
-      },
-      {
-        "id": 812493,
-        "date": 1757462400,
-        "platform": {
-          "id": 471,
-          "name": "Meta Quest 3"
-        }
-      },
-      {
-        "id": 733090,
-        "date": 1747267200,
-        "platform": {
-          "id": 471,
-          "name": "Meta Quest 3"
-        }
-      },
-      {
-        "id": 733089,
-        "date": 1747267200,
-        "platform": {
-          "id": 386,
-          "name": "Meta Quest 2"
-        }
-      },
-      {
-        "id": 925859,
-        "date": 1782345600,
-        "platform": {
-          "id": 163,
-          "name": "SteamVR"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1522776,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmzc.jpg"
-      },
-      {
-        "id": 1522791,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmzr.jpg"
-      },
-      {
-        "id": 1522771,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmz7.jpg"
-      },
-      {
-        "id": 1522774,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmza.jpg"
-      },
-      {
-        "id": 1522777,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmzd.jpg"
-      },
-      {
-        "id": 1522772,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmz8.jpg"
-      },
-      {
-        "id": 1522773,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmz9.jpg"
-      },
-      {
-        "id": 1522775,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmzb.jpg"
-      },
-      {
-        "id": 1522778,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmze.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Choose your hero. Squad up. Push lanes. Farm creeps. Clear jungle camps. Upgrade your abilities mid-match. And dominate the map in intense 5v5 team fights.\nClassic MOBA with stunning visuals that push the Meta Quest to its absolute limits.",
-    "videos": [
-      {
-        "id": 156092,
-        "video_id": "Zq5vuDVi67k"
-      }
-    ],
-    "websites": [
-      {
-        "id": 832378,
-        "url": "https://discord.gg/starvaultvr",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 832377,
-        "url": "https://www.meta.com/en-us/experiences/starvault/7535945739825988/",
-        "type": {
-          "id": 25,
-          "type": "Meta"
-        }
-      },
-      {
-        "id": 736474,
-        "url": "https://x.com/starvaultvr",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 736473,
-        "url": "https://starvaultvr.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 736475,
-        "url": "https://www.youtube.com/@starvaultvr",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 760858,
-        "url": "https://www.twitch.tv/directory/category/starvault",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 870660,
-        "url": "https://store.steampowered.com/app/4020320",
-        "type": {
-          "id": 13,
-          "type": "Steam"
         }
       }
     ]
@@ -4764,6 +4753,10 @@
       {
         "id": 180757,
         "video_id": "h9cvJQe9iNk"
+      },
+      {
+        "id": 188792,
+        "video_id": "sIW7aoZKw1U"
       }
     ],
     "websites": [
@@ -5420,6 +5413,10 @@
       {
         "id": 183602,
         "video_id": "Cjynu2PHoNw"
+      },
+      {
+        "id": 188842,
+        "video_id": "gsoyn2502Yg"
       }
     ],
     "websites": [
@@ -5941,144 +5938,6 @@
         "type": {
           "id": 3,
           "type": "Wikipedia"
-        }
-      }
-    ]
-  },
-  {
-    "id": 317162,
-    "cover": {
-      "id": 412231,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8u2v.jpg"
-    },
-    "first_release_date": 1778803200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 15,
-        "name": "Strategy"
-      }
-    ],
-    "hypes": 3,
-    "name": "Gold Gold Adventure Gold",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 779241,
-        "date": 1753920000,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 905032,
-        "date": 1778803200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1397645,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctyfh.jpg"
-      },
-      {
-        "id": 1397646,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctyfi.jpg"
-      },
-      {
-        "id": 1397647,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctyfj.jpg"
-      },
-      {
-        "id": 1397648,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctyfk.jpg"
-      },
-      {
-        "id": 1397649,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctyfl.jpg"
-      },
-      {
-        "id": 1397650,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctyfm.jpg"
-      },
-      {
-        "id": 1397651,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctyfn.jpg"
-      },
-      {
-        "id": 1397652,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctyfo.jpg"
-      },
-      {
-        "id": 1397653,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctyfp.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Gold makes god. Embrace city-building chaos. Pet giant monsters! Watch puny adventurers! Bend nature to your will with powerful spells and the greatest of all forces of nature - GOLD. Colony sim / reverse RPG",
-    "videos": [
-      {
-        "id": 134638,
-        "video_id": "ZlYe45t-S2k"
-      },
-      {
-        "id": 157742,
-        "video_id": "32OtJYyXufM"
-      },
-      {
-        "id": 182475,
-        "video_id": "HrS2402t11Y"
-      }
-    ],
-    "websites": [
-      {
-        "id": 675287,
-        "url": "https://store.steampowered.com/app/3133650",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 736500,
-        "url": "https://x.com/cancancanaman",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 736499,
-        "url": "https://bsky.app/profile/cancancanaman.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 675288,
-        "url": "https://www.cancancanaman.com/games.html",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
         }
       }
     ]
@@ -10425,6 +10284,10 @@
       {
         "id": 186514,
         "video_id": "9mjNPkIbSTM"
+      },
+      {
+        "id": 188829,
+        "video_id": "zkH4dKTLfr4"
       }
     ],
     "websites": [
@@ -10503,6 +10366,180 @@
       {
         "id": 690964,
         "url": "https://discord.gg/invite/zk3ZWg8Ntd",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      }
+    ]
+  },
+  {
+    "id": 374711,
+    "cover": {
+      "id": 500397,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coaq3x.jpg"
+    },
+    "first_release_date": 1782086400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 3,
+    "involved_companies": [
+      {
+        "id": 397325,
+        "company": {
+          "id": 70598,
+          "name": "Pixel Puffs"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 391640,
+        "company": {
+          "id": 63202,
+          "name": "GameDev.ist"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Pawsome Resort",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 920893,
+        "date": 1782086400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1678685,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczza5.jpg"
+      },
+      {
+        "id": 1678686,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczza6.jpg"
+      },
+      {
+        "id": 1678693,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczzad.jpg"
+      },
+      {
+        "id": 1678694,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczzae.jpg"
+      },
+      {
+        "id": 1678695,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczzaf.jpg"
+      },
+      {
+        "id": 1678687,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczza7.jpg"
+      },
+      {
+        "id": 1678688,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczza8.jpg"
+      },
+      {
+        "id": 1678689,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczza9.jpg"
+      },
+      {
+        "id": 1678690,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczzaa.jpg"
+      },
+      {
+        "id": 1678691,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczzab.jpg"
+      },
+      {
+        "id": 1678692,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczzac.jpg"
+      },
+      {
+        "id": 1678683,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczza3.jpg"
+      },
+      {
+        "id": 1678684,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczza4.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Pawsome Resort is a cozy life sim with Co-op gameplay where you run an animal hotel in a charming pixel-art village. Design your resort, care for cute animals, grow crops, craft things, complete quests, and bond with villagers. With farming and RPG elements, it\u0027s a perfect cozy escape.",
+    "videos": [
+      {
+        "id": 165732,
+        "video_id": "f8InsH-ZNuE"
+      }
+    ],
+    "websites": [
+      {
+        "id": 922997,
+        "url": "https://store.steampowered.com/app/3759220",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 898987,
+        "url": "https://x.com/pixelpuffsgames",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 898988,
+        "url": "https://www.instagram.com/pawsomeresort_game/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 898989,
+        "url": "https://discord.gg/k4XtMccpEu",
         "type": {
           "id": 18,
           "type": "Discord"
@@ -10676,6 +10713,384 @@
         "type": {
           "id": 8,
           "type": "Instagram"
+        }
+      }
+    ]
+  },
+  {
+    "id": 402471,
+    "cover": {
+      "id": 564356,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc3gk.jpg"
+    },
+    "first_release_date": 1782259200,
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "hypes": 6,
+    "involved_companies": [
+      {
+        "id": 388331,
+        "company": {
+          "id": 17795,
+          "name": "1047 Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Empulse",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 924484,
+        "date": 1782259200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 925002,
+        "date": 1782259200,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 925003,
+        "date": 1782259200,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1838892,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13ewc.jpg"
+      },
+      {
+        "id": 1838893,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13ewd.jpg"
+      },
+      {
+        "id": 1838894,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13ewe.jpg"
+      },
+      {
+        "id": 1838895,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13ewf.jpg"
+      },
+      {
+        "id": 1838896,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13ewg.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "EMPULSE is an upcoming fast-paced 6v6 movement shooter. Wallrun, grapple, Holojump, pilot mechs, and P.A.I.N.T. your way through Freehold\u0027s vertical streets. Outmove your opponent or get outgunned.",
+    "videos": [
+      {
+        "id": 187012,
+        "video_id": "s68ukNCok4Y"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1058410,
+        "url": "https://store.steampowered.com/app/4323990",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1058416,
+        "url": "https://www.twitch.tv/directory/category/empulse",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 1058411,
+        "url": "https://playempulse.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1058412,
+        "url": "https://x.com/PlayEmpulse",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1058413,
+        "url": "https://www.instagram.com/playempulse/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1058414,
+        "url": "https://www.youtube.com/@PlayEMPULSE",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1058457,
+        "url": "https://store.playstation.com/en-us/concept/10019550",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
+        }
+      },
+      {
+        "id": 1058461,
+        "url": "https://discord.gg/invite/empulse",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      }
+    ]
+  },
+  {
+    "id": 341684,
+    "cover": {
+      "id": 455024,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9r3k.jpg"
+    },
+    "first_release_date": 1782345600,
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 36,
+        "name": "MOBA"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 317702,
+        "company": {
+          "id": 44429,
+          "name": "Theia Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Starvault",
+    "platforms": [
+      {
+        "id": 386,
+        "name": "Meta Quest 2"
+      },
+      {
+        "id": 163,
+        "name": "SteamVR"
+      },
+      {
+        "id": 471,
+        "name": "Meta Quest 3"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 812492,
+        "date": 1757462400,
+        "platform": {
+          "id": 386,
+          "name": "Meta Quest 2"
+        }
+      },
+      {
+        "id": 812493,
+        "date": 1757462400,
+        "platform": {
+          "id": 471,
+          "name": "Meta Quest 3"
+        }
+      },
+      {
+        "id": 733090,
+        "date": 1747267200,
+        "platform": {
+          "id": 471,
+          "name": "Meta Quest 3"
+        }
+      },
+      {
+        "id": 733089,
+        "date": 1747267200,
+        "platform": {
+          "id": 386,
+          "name": "Meta Quest 2"
+        }
+      },
+      {
+        "id": 925859,
+        "date": 1782345600,
+        "platform": {
+          "id": 163,
+          "name": "SteamVR"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1522776,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmzc.jpg"
+      },
+      {
+        "id": 1522791,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmzr.jpg"
+      },
+      {
+        "id": 1522771,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmz7.jpg"
+      },
+      {
+        "id": 1522774,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmza.jpg"
+      },
+      {
+        "id": 1522777,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmzd.jpg"
+      },
+      {
+        "id": 1522772,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmz8.jpg"
+      },
+      {
+        "id": 1522773,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmz9.jpg"
+      },
+      {
+        "id": 1522775,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmzb.jpg"
+      },
+      {
+        "id": 1522778,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmze.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Choose your hero. Squad up. Push lanes. Farm creeps. Clear jungle camps. Upgrade your abilities mid-match. And dominate the map in intense 5v5 team fights.\nClassic MOBA with stunning visuals that push the Meta Quest to its absolute limits.",
+    "videos": [
+      {
+        "id": 156092,
+        "video_id": "Zq5vuDVi67k"
+      }
+    ],
+    "websites": [
+      {
+        "id": 832378,
+        "url": "https://discord.gg/starvaultvr",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 832377,
+        "url": "https://www.meta.com/en-us/experiences/starvault/7535945739825988/",
+        "type": {
+          "id": 25,
+          "type": "Meta"
+        }
+      },
+      {
+        "id": 736474,
+        "url": "https://x.com/starvaultvr",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 736473,
+        "url": "https://starvaultvr.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 736475,
+        "url": "https://www.youtube.com/@starvaultvr",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 760858,
+        "url": "https://www.twitch.tv/directory/category/starvault",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 870660,
+        "url": "https://store.steampowered.com/app/4020320",
+        "type": {
+          "id": 13,
+          "type": "Steam"
         }
       }
     ]
@@ -11382,6 +11797,199 @@
         "type": {
           "id": 18,
           "type": "Discord"
+        }
+      }
+    ]
+  },
+  {
+    "id": 389724,
+    "cover": {
+      "id": 537828,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobizo.jpg"
+    },
+    "first_release_date": 1782864000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 372227,
+        "company": {
+          "id": 69717,
+          "name": "Two Cakes Studio"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 372228,
+        "company": {
+          "id": 42623,
+          "name": "Frag Lab LLC"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Forest Escape: Last Train",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 929924,
+        "date": 1782864000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 929925,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1770834,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11ydu.jpg"
+      },
+      {
+        "id": 1770829,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11ydp.jpg"
+      },
+      {
+        "id": 1770830,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11ydq.jpg"
+      },
+      {
+        "id": 1770831,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11ydr.jpg"
+      },
+      {
+        "id": 1770832,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11yds.jpg"
+      },
+      {
+        "id": 1770833,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11ydt.jpg"
+      },
+      {
+        "id": 1770835,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11ydv.jpg"
+      },
+      {
+        "id": 1770836,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11ydw.jpg"
+      }
+    ],
+    "status": 3,
+    "summary": "Forest Escape: Last Train is a co-op horror exploration game for 1-4 players in the mysterious forest. Repair your locomotive, solve the insane Warden’s eerie puzzles, and outrun the stuff of nightmares as you try to escape this twisted realm.",
+    "videos": [
+      {
+        "id": 176180,
+        "video_id": "-Vlk_zxWbrg"
+      },
+      {
+        "id": 176181,
+        "video_id": "13HgCT0_hno"
+      },
+      {
+        "id": 178647,
+        "video_id": "NnBwCbNLWQE"
+      },
+      {
+        "id": 185751,
+        "video_id": "1QAk5GL7cko"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1009551,
+        "url": "https://store.steampowered.com/app/4090360/Forest_Escape_Last_Train/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1009552,
+        "url": "https://forestescapelasttrain.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1009553,
+        "url": "https://x.com/FE_LastTrain",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1009554,
+        "url": "https://www.reddit.com/r/ForestEscape/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 1009555,
+        "url": "https://discord.gg/BhMVxEZwq",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1010314,
+        "url": "https://www.youtube.com/@TwoCakesStudio",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1009556,
+        "url": "https://bsky.app/profile/felasttrain.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
         }
       }
     ]
@@ -12695,7 +13303,7 @@
         "name": "Indie"
       }
     ],
-    "hypes": 8,
+    "hypes": 10,
     "involved_companies": [
       {
         "id": 351999,
@@ -15826,7 +16434,7 @@
         "name": "Adventure"
       }
     ],
-    "hypes": 22,
+    "hypes": 23,
     "involved_companies": [
       {
         "id": 270669,
