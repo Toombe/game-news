@@ -4137,23 +4137,27 @@
       {
         "id": 184392,
         "video_id": "Ns0uVf79O04"
+      },
+      {
+        "id": 188466,
+        "video_id": "NeVq-O9K4YY"
       }
     ],
     "websites": [
+      {
+        "id": 1075420,
+        "url": "https://www.youtube.com/@redlock_studio",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
       {
         "id": 984009,
         "url": "https://store.steampowered.com/app/2861210",
         "type": {
           "id": 13,
           "type": "Steam"
-        }
-      },
-      {
-        "id": 984010,
-        "url": "https://www.youtube.com/@redlockstudio5959",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
         }
       },
       {
@@ -10678,22 +10682,22 @@
     "hypes": 2,
     "involved_companies": [
       {
-        "id": 377030,
-        "company": {
-          "id": 70500,
-          "name": "Virtual Sanctuary"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 377031,
+        "id": 398054,
         "company": {
           "id": 4741,
           "name": "Forever Entertainment S.A."
         },
         "developer": false,
         "publisher": true
+      },
+      {
+        "id": 398053,
+        "company": {
+          "id": 70500,
+          "name": "Virtual Sanctuary"
+        },
+        "developer": true,
+        "publisher": false
       }
     ],
     "name": "Eyes of the ElderWood",
@@ -10701,10 +10705,6 @@
       {
         "id": 169,
         "name": "Xbox Series X|S"
-      },
-      {
-        "id": 3,
-        "name": "Linux"
       },
       {
         "id": 6,
@@ -13986,7 +13986,7 @@
         "name": "Adventure"
       }
     ],
-    "hypes": 6,
+    "hypes": 7,
     "involved_companies": [
       {
         "id": 369412,
@@ -17086,7 +17086,7 @@
         "name": "Indie"
       }
     ],
-    "hypes": 7,
+    "hypes": 8,
     "involved_companies": [
       {
         "id": 379053,
