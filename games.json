@@ -1225,10 +1225,6 @@
       {
         "id": 55601,
         "video_id": "z0Kl3nW2L4c"
-      },
-      {
-        "id": 188825,
-        "video_id": "xVzUwl0mKog"
       }
     ],
     "websites": [
@@ -2453,474 +2449,6 @@
         "type": {
           "id": 13,
           "type": "Steam"
-        }
-      }
-    ]
-  },
-  {
-    "id": 314543,
-    "cover": {
-      "id": 500872,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coaqh4.jpg"
-    },
-    "first_release_date": 1777507200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 16,
-        "name": "Turn-based strategy (TBS)"
-      }
-    ],
-    "hypes": 40,
-    "involved_companies": [
-      {
-        "id": 328100,
-        "company": {
-          "id": 35110,
-          "name": "Hooded Horse"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 328099,
-        "company": {
-          "id": 41467,
-          "name": "Ubisoft Pictures"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 328098,
-        "company": {
-          "id": 18999,
-          "name": "Unfrozen"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Heroes of Might \u0026 Magic: Olden Era",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 895335,
-        "date": 1777507200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1386087,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctpif.jpg"
-      },
-      {
-        "id": 1386088,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctpig.jpg"
-      },
-      {
-        "id": 1386089,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctpih.jpg"
-      },
-      {
-        "id": 1386090,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctpii.jpg"
-      },
-      {
-        "id": 1386091,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctpij.jpg"
-      },
-      {
-        "id": 1386093,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctpil.jpg"
-      },
-      {
-        "id": 1826298,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1356i.jpg"
-      },
-      {
-        "id": 1826299,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1356j.jpg"
-      },
-      {
-        "id": 1826300,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1356k.jpg"
-      },
-      {
-        "id": 1826301,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1356l.jpg"
-      },
-      {
-        "id": 1826302,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1356m.jpg"
-      },
-      {
-        "id": 1826303,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1356n.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Heroes of Might \u0026 Magic: Olden Era is the official prequel hailing back to the origins of the genre-defining, critically acclaimed series of turn-based strategy games. Explore the map solo or in multiplayer, triumph in iconic battles and establish peace on a continent where it was never an option.",
-    "videos": [
-      {
-        "id": 124022,
-        "video_id": "IH1YJacgWnI"
-      },
-      {
-        "id": 140436,
-        "video_id": "JudpRh6qXbs"
-      },
-      {
-        "id": 143216,
-        "video_id": "YmYh4oOYKj8"
-      },
-      {
-        "id": 145691,
-        "video_id": "FezxEnr8QI8"
-      },
-      {
-        "id": 154961,
-        "video_id": "zlVlN7NXF00"
-      },
-      {
-        "id": 159907,
-        "video_id": "V3AVfGyPRFA"
-      },
-      {
-        "id": 180182,
-        "video_id": "qFIyB1-Yczw"
-      },
-      {
-        "id": 188209,
-        "video_id": "Gyehun2dYf4"
-      }
-    ],
-    "websites": [
-      {
-        "id": 699221,
-        "url": "https://www.youtube.com/@unfrozenofficial",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 699225,
-        "url": "https://discord.gg/invite/unfrozen",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 837736,
-        "url": "https://bsky.app/profile/hoodedhorse.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 837735,
-        "url": "https://www.reddit.com/r/HoodedHorse",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 699223,
-        "url": "https://twitter.com/Unfrozen_Studio",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 699222,
-        "url": "https://www.facebook.com/Unfrozen.official",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 699224,
-        "url": "https://www.instagram.com/unfrozen.official",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 699220,
-        "url": "https://www.twitch.tv/directory/category/heroes-of-might-and-magic-olden-era",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 667194,
-        "url": "https://store.steampowered.com/app/3105440",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 667258,
-        "url": "https://unfrozen.studio/games/olden-era/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1071615,
-        "url": "https://wiki.hoodedhorse.com/Heroes_of_Might_and_Magic_Olden_Era",
-        "type": {
-          "id": 2,
-          "type": "Community Wiki"
-        }
-      },
-      {
-        "id": 1071616,
-        "url": "https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic:_Olden_Era",
-        "type": {
-          "id": 3,
-          "type": "Wikipedia"
-        }
-      }
-    ]
-  },
-  {
-    "id": 327758,
-    "cover": {
-      "id": 432035,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co99cz.jpg"
-    },
-    "first_release_date": 1777507200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 6,
-    "involved_companies": [
-      {
-        "id": 302611,
-        "company": {
-          "id": 60843,
-          "name": "The Sledding Company"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Sledding Game",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 905300,
-        "date": 1777507200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 905302,
-        "date": 1777507200,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1446895,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scv0fj.jpg"
-      },
-      {
-        "id": 1446896,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scv0fk.jpg"
-      },
-      {
-        "id": 1446897,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scv0fl.jpg"
-      },
-      {
-        "id": 1446898,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scv0fm.jpg"
-      },
-      {
-        "id": 1446892,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scv0fg.jpg"
-      },
-      {
-        "id": 1446893,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scv0fh.jpg"
-      },
-      {
-        "id": 1446894,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scv0fi.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Sledding Game is a cozy, online multiplayer game about sledding, relaxing, and hanging out with your friends.",
-    "videos": [
-      {
-        "id": 138013,
-        "video_id": "0RqlDMQnJ0E"
-      },
-      {
-        "id": 156549,
-        "video_id": "cr-NkzAffx4"
-      },
-      {
-        "id": 166500,
-        "video_id": "CIvsc3ahh-A"
-      },
-      {
-        "id": 180781,
-        "video_id": "GmthUyKgI-Q"
-      },
-      {
-        "id": 182594,
-        "video_id": "s6AqPEvWQFE"
-      }
-    ],
-    "websites": [
-      {
-        "id": 821983,
-        "url": "https://bsky.app/profile/sleddinggame.com",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 821984,
-        "url": "https://x.com/sledding_game",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 703617,
-        "url": "https://store.steampowered.com/app/3438850/Sledding_Game/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 703621,
-        "url": "https://discord.gg/sled",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 703620,
-        "url": "https://www.instagram.com/sledding_game/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 703619,
-        "url": "https://www.youtube.com/@sledding_game",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 703618,
-        "url": "https://linktr.ee/sledding_game",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 705374,
-        "url": "https://www.twitch.tv/directory/category/sledding-game",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 1041315,
-        "url": "https://www.xbox.com/en-us/games/store/sledding-game/9n9c1tb18r3b",
-        "type": {
-          "id": 22,
-          "type": "Xbox"
         }
       }
     ]
@@ -7171,227 +6699,6 @@
     ]
   },
   {
-    "id": 288461,
-    "cover": {
-      "id": 470161,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coa2s1.jpg"
-    },
-    "first_release_date": 1779926400,
-    "game_modes": [
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      },
-      {
-        "id": 5,
-        "name": "Massively Multiplayer Online (MMO)"
-      }
-    ],
-    "genres": [
-      {
-        "id": 5,
-        "name": "Shooter"
-      },
-      {
-        "id": 24,
-        "name": "Tactical"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 36,
-        "name": "MOBA"
-      }
-    ],
-    "hypes": 6,
-    "involved_companies": [
-      {
-        "id": 281303,
-        "company": {
-          "id": 57137,
-          "name": "Combat Cat Studio"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Wild Assault",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 716875,
-        "date": 1744329600,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 918054,
-        "date": 1779926400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1483621,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsrp.jpg"
-      },
-      {
-        "id": 1483622,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsrq.jpg"
-      },
-      {
-        "id": 1483623,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsrr.jpg"
-      },
-      {
-        "id": 1483624,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsrs.jpg"
-      },
-      {
-        "id": 1483625,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsrt.jpg"
-      },
-      {
-        "id": 1483626,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsru.jpg"
-      },
-      {
-        "id": 1483627,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsrv.jpg"
-      },
-      {
-        "id": 1483628,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsrw.jpg"
-      },
-      {
-        "id": 1483629,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsrx.jpg"
-      },
-      {
-        "id": 1483630,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsry.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Wild Assault is an anthro-themed tactical shooter built with Unreal Engine 5, featuring large-scale battlefield gameplay centered around Valiant abilities. Work closely with your team, harness your instincts, and charge into battle to secure victory.",
-    "videos": [
-      {
-        "id": 145842,
-        "video_id": "J648VS5n2x0"
-      },
-      {
-        "id": 145843,
-        "video_id": "iXSrWOjuZLk"
-      },
-      {
-        "id": 145844,
-        "video_id": "q5Qx1PosqEI"
-      },
-      {
-        "id": 155162,
-        "video_id": "f_o0vRVSk24"
-      }
-    ],
-    "websites": [
-      {
-        "id": 622653,
-        "url": "https://www.facebook.com/WildAssault/",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 720523,
-        "url": "https://wildassault.wiki.gg/",
-        "type": {
-          "id": 2,
-          "type": "Community Wiki"
-        }
-      },
-      {
-        "id": 720522,
-        "url": "https://store.epicgames.com/en-US/p/wildassault-05e6bc",
-        "type": {
-          "id": 16,
-          "type": "Epic"
-        }
-      },
-      {
-        "id": 720524,
-        "url": "https://bsky.app/profile/wildassault.com",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 622654,
-        "url": "https://twitter.com/WildAssaultGame",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 617704,
-        "url": "https://store.steampowered.com/app/2827230",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 622652,
-        "url": "https://www.youtube.com/@WildAssault/videos",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 622655,
-        "url": "https://discord.gg/invite/VcMqCTj7q2",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 701455,
-        "url": "https://www.wildassault.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 670510,
-        "url": "https://www.twitch.tv/directory/category/wild-assault",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      }
-    ]
-  },
-  {
     "id": 397601,
     "cover": {
       "id": 554922,
@@ -9335,7 +8642,7 @@
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw2tz.jpg"
       }
     ],
-    "status": 3,
+    "status": 4,
     "summary": "STARSEEKER is a new game set within the Astroneer universe with a focus on discovery, cooperative expeditions, and camaraderie. Exploring deep space on the ESS Starseeker, players will need to work together with the entire crew of the space station to complete planet- wide objectives across a multitude of star systems using cutting edge technology.",
     "videos": [
       {
@@ -10439,215 +9746,6 @@
         "type": {
           "id": 18,
           "type": "Discord"
-        }
-      }
-    ]
-  },
-  {
-    "id": 341684,
-    "cover": {
-      "id": 455024,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9r3k.jpg"
-    },
-    "first_release_date": 1782345600,
-    "game_modes": [
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 5,
-        "name": "Shooter"
-      },
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 24,
-        "name": "Tactical"
-      },
-      {
-        "id": 36,
-        "name": "MOBA"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 317702,
-        "company": {
-          "id": 44429,
-          "name": "Theia Games"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Starvault",
-    "platforms": [
-      {
-        "id": 386,
-        "name": "Meta Quest 2"
-      },
-      {
-        "id": 163,
-        "name": "SteamVR"
-      },
-      {
-        "id": 471,
-        "name": "Meta Quest 3"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 812492,
-        "date": 1757462400,
-        "platform": {
-          "id": 386,
-          "name": "Meta Quest 2"
-        }
-      },
-      {
-        "id": 812493,
-        "date": 1757462400,
-        "platform": {
-          "id": 471,
-          "name": "Meta Quest 3"
-        }
-      },
-      {
-        "id": 733090,
-        "date": 1747267200,
-        "platform": {
-          "id": 471,
-          "name": "Meta Quest 3"
-        }
-      },
-      {
-        "id": 733089,
-        "date": 1747267200,
-        "platform": {
-          "id": 386,
-          "name": "Meta Quest 2"
-        }
-      },
-      {
-        "id": 925859,
-        "date": 1782345600,
-        "platform": {
-          "id": 163,
-          "name": "SteamVR"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1522776,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmzc.jpg"
-      },
-      {
-        "id": 1522791,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmzr.jpg"
-      },
-      {
-        "id": 1522771,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmz7.jpg"
-      },
-      {
-        "id": 1522774,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmza.jpg"
-      },
-      {
-        "id": 1522777,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmzd.jpg"
-      },
-      {
-        "id": 1522772,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmz8.jpg"
-      },
-      {
-        "id": 1522773,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmz9.jpg"
-      },
-      {
-        "id": 1522775,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmzb.jpg"
-      },
-      {
-        "id": 1522778,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwmze.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Choose your hero. Squad up. Push lanes. Farm creeps. Clear jungle camps. Upgrade your abilities mid-match. And dominate the map in intense 5v5 team fights.\nClassic MOBA with stunning visuals that push the Meta Quest to its absolute limits.",
-    "videos": [
-      {
-        "id": 156092,
-        "video_id": "Zq5vuDVi67k"
-      }
-    ],
-    "websites": [
-      {
-        "id": 832378,
-        "url": "https://discord.gg/starvaultvr",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 832377,
-        "url": "https://www.meta.com/en-us/experiences/starvault/7535945739825988/",
-        "type": {
-          "id": 25,
-          "type": "Meta"
-        }
-      },
-      {
-        "id": 736474,
-        "url": "https://x.com/starvaultvr",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 736473,
-        "url": "https://starvaultvr.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 736475,
-        "url": "https://www.youtube.com/@starvaultvr",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 760858,
-        "url": "https://www.twitch.tv/directory/category/starvault",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 870660,
-        "url": "https://store.steampowered.com/app/4020320",
-        "type": {
-          "id": 13,
-          "type": "Steam"
         }
       }
     ]
@@ -13597,140 +12695,6 @@
     ]
   },
   {
-    "id": 244763,
-    "cover": {
-      "id": 571994,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc9cq.jpg"
-    },
-    "first_release_date": 1790726400,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 9,
-        "name": "Puzzle"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "name": "Snap Quest",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 838429,
-        "date": 1790726400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1705322,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ju2.jpg"
-      },
-      {
-        "id": 1705324,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ju4.jpg"
-      },
-      {
-        "id": 1705323,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ju3.jpg"
-      },
-      {
-        "id": 1705325,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ju5.jpg"
-      },
-      {
-        "id": 1705326,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ju6.jpg"
-      },
-      {
-        "id": 1705327,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ju7.jpg"
-      }
-    ],
-    "status": 3,
-    "summary": "A Photo Collection Adventure Game. Complete your research notebook, solve creature puzzles, earn research grant money. Buy upgrades for your camera, rebuild the town, bond with the locals, and reveal the paranormal mystery of Star Island.",
-    "videos": [
-      {
-        "id": 188050,
-        "video_id": "_N8w_Vs6rXs"
-      },
-      {
-        "id": 188051,
-        "video_id": "7N2dqqk_QjA"
-      }
-    ],
-    "websites": [
-      {
-        "id": 808854,
-        "url": "https://discord.gg/R3TR864VHa",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 818684,
-        "url": "https://x.com/SnapQuestGame",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 818683,
-        "url": "https://bsky.app/profile/snapquestgame.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 543426,
-        "url": "https://store.steampowered.com/app/2327110",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 543427,
-        "url": "https://www.unlistedgames.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1072528,
-        "url": "https://www.youtube.com/@SnapQuestGame",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      }
-    ]
-  },
-  {
     "id": 250972,
     "cover": {
       "id": 561448,
@@ -14813,6 +13777,202 @@
       {
         "id": 1064642,
         "url": "https://x.com/carnival_hunt",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      }
+    ]
+  },
+  {
+    "id": 142498,
+    "cover": {
+      "id": 274550,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5vue.jpg"
+    },
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 7,
+    "involved_companies": [
+      {
+        "id": 156617,
+        "company": {
+          "id": 39166,
+          "name": "RedPilzStudio"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "The Ranchers",
+    "platforms": [
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 927650,
+        "date": 1785369600,
+        "platform": {
+          "id": 3,
+          "name": "Linux"
+        }
+      },
+      {
+        "id": 927651,
+        "date": 1785369600,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      },
+      {
+        "id": 927652,
+        "date": 1785369600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 688810,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scerhm.jpg"
+      },
+      {
+        "id": 688808,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scerhk.jpg"
+      },
+      {
+        "id": 688809,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scerhl.jpg"
+      },
+      {
+        "id": 688807,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scerhj.jpg"
+      },
+      {
+        "id": 688811,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scerhn.jpg"
+      },
+      {
+        "id": 688812,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scerho.jpg"
+      },
+      {
+        "id": 688813,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scerhp.jpg"
+      },
+      {
+        "id": 688814,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scerhq.jpg"
+      }
+    ],
+    "status": 2,
+    "summary": "The Ranchers is an open world country-life sim for 1-4 players. Raise animals, grow crops, craft machines, build your dream house and explore the gigantic open world where mines and dangerous monsters abound. Earn the villagers\u0027 respect and esteem. And who knows, maybe find love and start a family.",
+    "videos": [
+      {
+        "id": 59776,
+        "video_id": "GxYxirLhRqE"
+      },
+      {
+        "id": 90134,
+        "video_id": "YIacTvb28po"
+      }
+    ],
+    "websites": [
+      {
+        "id": 505658,
+        "url": "https://www.twitch.tv/directory/game/The%20Ranchers",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 340791,
+        "url": "https://www.facebook.com/RanchersGame",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 166285,
+        "url": "https://store.steampowered.com/app/1501310",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 246110,
+        "url": "https://www.ranchers.game/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 246111,
+        "url": "https://www.youtube.com/channel/UCCm6oFWJZ1y0VzfJfSezXOg",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 340792,
+        "url": "https://discord.gg/invite/qrEzSJUb4E",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 246112,
+        "url": "https://twitter.com/RanchersGame",
         "type": {
           "id": 5,
           "type": "Twitter"
