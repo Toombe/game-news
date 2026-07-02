@@ -12949,12 +12949,165 @@
     ]
   },
   {
+    "id": 401278,
+    "cover": {
+      "id": 562300,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc1vg.jpg"
+    },
+    "first_release_date": 1782864000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 385567,
+        "company": {
+          "id": 76797,
+          "name": "JWT Productions"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Acting Out",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 923691,
+        "date": 1782864000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1832654,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13a32.jpg"
+      },
+      {
+        "id": 1832655,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13a33.jpg"
+      },
+      {
+        "id": 1832656,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13a34.jpg"
+      },
+      {
+        "id": 1832657,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13a35.jpg"
+      },
+      {
+        "id": 1832658,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13a36.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Don\u0027t be shy. Act with everything you\u0027ve got!\nThe online co-op game where you are actors in a movie, but filming is one-take, do-or-die! Your bloopers won\u0027t get cut, so don\u0027t screw it up.\nWhether you follow the script or ruin it with improv, you\u0027ll watch your masterpiece right away. Will be it great or will it be cringe? That\u0027s up to you!",
+    "videos": [
+      {
+        "id": 183316,
+        "video_id": "gofBDJFbPSc"
+      },
+      {
+        "id": 186745,
+        "video_id": "IYnf81WkHYY"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1054195,
+        "url": "https://store.steampowered.com/app/4267780/Acting_Out/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1054196,
+        "url": "https://jwtproductions.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1054197,
+        "url": "https://x.com/ActingOut_Game",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1054198,
+        "url": "https://www.instagram.com/actingoutgame/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1054199,
+        "url": "https://www.youtube.com/@ActingOutGame",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1054200,
+        "url": "https://discord.gg/ZYdW3sZzJV",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1054201,
+        "url": "https://bsky.app/profile/actingoutgame.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      }
+    ]
+  },
+  {
     "id": 389724,
     "cover": {
       "id": 537828,
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobizo.jpg"
     },
-    "first_release_date": 1782864000,
+    "first_release_date": 1783641600,
     "game_modes": [
       {
         "id": 1,
@@ -13013,18 +13166,18 @@
     ],
     "release_dates": [
       {
-        "id": 929924,
-        "date": 1782864000,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
         "id": 929925,
         "platform": {
           "id": 167,
           "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 936920,
+        "date": 1783641600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
         }
       }
     ],
@@ -13137,6 +13290,198 @@
         "type": {
           "id": 19,
           "type": "Bluesky"
+        }
+      }
+    ]
+  },
+  {
+    "id": 364821,
+    "cover": {
+      "id": 486687,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coafj3.jpg"
+    },
+    "first_release_date": 1784160000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 5,
+        "name": "Massively Multiplayer Online (MMO)"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 6,
+    "involved_companies": [
+      {
+        "id": 342317,
+        "company": {
+          "id": 363,
+          "name": "Gravity"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Ragnarok: The New World",
+    "platforms": [
+      {
+        "id": 34,
+        "name": "Android"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 39,
+        "name": "iOS"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 795137,
+        "date": 1756339200,
+        "platform": {
+          "id": 34,
+          "name": "Android"
+        }
+      },
+      {
+        "id": 795138,
+        "date": 1756339200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 795382,
+        "platform": {
+          "id": 39,
+          "name": "iOS"
+        }
+      },
+      {
+        "id": 936861,
+        "date": 1784160000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1626531,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyv1f.jpg"
+      },
+      {
+        "id": 1626532,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyv1g.jpg"
+      },
+      {
+        "id": 1626533,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyv1h.jpg"
+      },
+      {
+        "id": 1626534,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyv1i.jpg"
+      },
+      {
+        "id": 1626535,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyv1j.jpg"
+      },
+      {
+        "id": 1626536,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyv1k.jpg"
+      },
+      {
+        "id": 1626537,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyv1l.jpg"
+      }
+    ],
+    "status": 3,
+    "summary": "Ragnarok: The New World is a massive online role-playing adventure set in the legendary world of Midgard. Explore vast fields, bustling cities, and mysterious dungeons where every journey holds new challenges and stories.\n\nCreate your own character and choose from classic jobs such as Swordsman, Mage, Archer, and Merchant. Customize your appearance with a wide variety of outfits, raise pets, ride mounts, and truly express yourself in a vibrant open world.\n\nBeyond combat, build and decorate your own home—design a personal sanctuary to relax, gather with friends, and show off your creativity.\n\nJoin forces with allies to defeat powerful bosses, tackle dangerous raids, and grow together in guilds and communities. Or simply wander freely, trade, and enjoy the world at your own pace. With nostalgia and freedom at its core, Ragnarok: The New World invites you to relive the spirit of Ragnarok while writing your own legend in an ever-evolving online world.",
+    "videos": [
+      {
+        "id": 167745,
+        "video_id": "KVHa83JkUV0"
+      }
+    ],
+    "websites": [
+      {
+        "id": 867233,
+        "url": "https://www.twitch.tv/directory/category/ragnarok-the-new-world/videos/all",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 861741,
+        "url": "https://play.google.com/store/apps/details?id\u003dcom.ggv.roworld.aos",
+        "type": {
+          "id": 12,
+          "type": "Google Play"
+        }
+      },
+      {
+        "id": 861744,
+        "url": "https://youtube.com/%40RagnarokWorld",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 861745,
+        "url": "https://discord.gg/GhKGR6cTBm",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 861742,
+        "url": "https://gevents.gnjoy.hk/mlktgayy/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 861743,
+        "url": "https://www.facebook.com/ROWorld.Gravity/",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 1043673,
+        "url": "https://store.steampowered.com/app/4212480",
+        "type": {
+          "id": 13,
+          "type": "Steam"
         }
       }
     ]
@@ -26797,158 +27142,6 @@
         "type": {
           "id": 6,
           "type": "Twitch"
-        }
-      }
-    ]
-  },
-  {
-    "id": 401278,
-    "cover": {
-      "id": 562300,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc1vg.jpg"
-    },
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 385567,
-        "company": {
-          "id": 76797,
-          "name": "JWT Productions"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Acting Out",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 923691,
-        "date": 1782864000,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1832654,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13a32.jpg"
-      },
-      {
-        "id": 1832655,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13a33.jpg"
-      },
-      {
-        "id": 1832656,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13a34.jpg"
-      },
-      {
-        "id": 1832657,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13a35.jpg"
-      },
-      {
-        "id": 1832658,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13a36.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Don\u0027t be shy. Act with everything you\u0027ve got!\nThe online co-op game where you are actors in a movie, but filming is one-take, do-or-die! Your bloopers won\u0027t get cut, so don\u0027t screw it up.\nWhether you follow the script or ruin it with improv, you\u0027ll watch your masterpiece right away. Will be it great or will it be cringe? That\u0027s up to you!",
-    "videos": [
-      {
-        "id": 183316,
-        "video_id": "gofBDJFbPSc"
-      },
-      {
-        "id": 186745,
-        "video_id": "IYnf81WkHYY"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1054195,
-        "url": "https://store.steampowered.com/app/4267780/Acting_Out/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1054196,
-        "url": "https://jwtproductions.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1054197,
-        "url": "https://x.com/ActingOut_Game",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1054198,
-        "url": "https://www.instagram.com/actingoutgame/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 1054199,
-        "url": "https://www.youtube.com/@ActingOutGame",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1054200,
-        "url": "https://discord.gg/ZYdW3sZzJV",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 1054201,
-        "url": "https://bsky.app/profile/actingoutgame.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
         }
       }
     ]
