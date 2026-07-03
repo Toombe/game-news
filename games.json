@@ -11259,7 +11259,7 @@
     "hypes": 6,
     "involved_companies": [
       {
-        "id": 388331,
+        "id": 399677,
         "company": {
           "id": 17795,
           "name": "1047 Games"
@@ -11332,7 +11332,7 @@
       }
     ],
     "status": 4,
-    "summary": "EMPULSE is an upcoming fast-paced 6v6 movement shooter. Wallrun, grapple, Holojump, pilot mechs, and P.A.I.N.T. your way through Freehold\u0027s vertical streets. Outmove your opponent or get outgunned.",
+    "summary": "Empulse is a fast-paced 6v6 movement shooter where movement is the weapon. Outmove and outgun your opponents across the post-utopian streets of Freehold, chain wall-runs into grapple swings into mid-air kills, and fight for Crews to control mechs for the ultimate power spike.",
     "videos": [
       {
         "id": 187012,
@@ -12744,6 +12744,129 @@
     ]
   },
   {
+    "id": 407150,
+    "cover": {
+      "id": 572622,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc9u6.jpg"
+    },
+    "first_release_date": 1782777600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "hypes": 3,
+    "involved_companies": [
+      {
+        "id": 395544,
+        "company": {
+          "id": 78229,
+          "name": "SadSloth"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Bubbly",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 930783,
+        "date": 1782777600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1863796,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13y44.jpg"
+      },
+      {
+        "id": 1864565,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13yph.jpg"
+      },
+      {
+        "id": 1864566,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13ypi.jpg"
+      },
+      {
+        "id": 1864567,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13ypj.jpg"
+      },
+      {
+        "id": 1864568,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13ypk.jpg"
+      },
+      {
+        "id": 1864569,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13ypl.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Fast-paced roguelike extraction arcade game. Pop endless waves of bubbles, build devastating upgrade combinations, defeat powerful bosses, and decide when to extract before losing everything.",
+    "websites": [
+      {
+        "id": 1073962,
+        "url": "https://store.steampowered.com/app/4706340/Bubbly/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1073963,
+        "url": "https://x.com/SadSloth44",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1074317,
+        "url": "https://www.youtube.com/@SadSlothGames",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1074316,
+        "url": "https://sadsloth.dev/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1073964,
+        "url": "https://www.instagram.com/sadslothgames",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      }
+    ]
+  },
+  {
     "id": 345455,
     "cover": {
       "id": 561582,
@@ -13885,7 +14008,7 @@
         "name": "Adventure"
       }
     ],
-    "hypes": 11,
+    "hypes": 13,
     "involved_companies": [
       {
         "id": 378200,
@@ -25309,6 +25432,210 @@
     ]
   },
   {
+    "id": 280750,
+    "cover": {
+      "id": 351547,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7j97.jpg"
+    },
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 244854,
+        "company": {
+          "id": 51603,
+          "name": "Toasterface Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Pedal Rebel VR",
+    "platforms": [
+      {
+        "id": 386,
+        "name": "Meta Quest 2"
+      },
+      {
+        "id": 163,
+        "name": "SteamVR"
+      },
+      {
+        "id": 471,
+        "name": "Meta Quest 3"
+      },
+      {
+        "id": 384,
+        "name": "Oculus Quest"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 769471,
+        "date": 1752192000,
+        "platform": {
+          "id": 386,
+          "name": "Meta Quest 2"
+        }
+      },
+      {
+        "id": 769472,
+        "date": 1752192000,
+        "platform": {
+          "id": 163,
+          "name": "SteamVR"
+        }
+      },
+      {
+        "id": 927761,
+        "date": 1791158400,
+        "platform": {
+          "id": 386,
+          "name": "Meta Quest 2"
+        }
+      },
+      {
+        "id": 927762,
+        "date": 1791158400,
+        "platform": {
+          "id": 163,
+          "name": "SteamVR"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1212109,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scpz9p.jpg"
+      },
+      {
+        "id": 1212110,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scpz9q.jpg"
+      },
+      {
+        "id": 1212111,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scpz9r.jpg"
+      }
+    ],
+    "status": 2,
+    "summary": "Pedal Rebel VR is a adrenaline-pumping cyberpunk motorbike street racing game that completely transforms any exercise bike and any VR headset into an immersive racing experience!",
+    "videos": [
+      {
+        "id": 103522,
+        "video_id": "aPT0YL_tfec"
+      },
+      {
+        "id": 155767,
+        "video_id": "oqJPREB0Zk8"
+      },
+      {
+        "id": 187632,
+        "video_id": "dMFihHvhsBw"
+      }
+    ],
+    "websites": [
+      {
+        "id": 603681,
+        "url": "https://twitter.com/PedalRebelVR",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 603682,
+        "url": "https://www.instagram.com/pedalrebelvr/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 684360,
+        "url": "https://store.steampowered.com/app/2909380",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 603677,
+        "url": "https://pedalrebelvr.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 603678,
+        "url": "https://www.twitch.tv/arvock_12",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 603680,
+        "url": "https://www.facebook.com/pedalrebelvr",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 603679,
+        "url": "https://www.youtube.com/@pedalrebelvr",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 603683,
+        "url": "https://discord.gg/puewSKymQH",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1070037,
+        "url": "https://www.meta.com/en-us/experiences/pedal-rebel/8490249061006009/",
+        "type": {
+          "id": 25,
+          "type": "Meta"
+        }
+      }
+    ]
+  },
+  {
     "id": 291446,
     "cover": {
       "id": 512648,
@@ -25517,6 +25844,218 @@
         "type": {
           "id": 17,
           "type": "GOG"
+        }
+      }
+    ]
+  },
+  {
+    "id": 305011,
+    "cover": {
+      "id": 388164,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8bic.jpg"
+    },
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 19,
+    "involved_companies": [
+      {
+        "id": 282419,
+        "company": {
+          "id": 16137,
+          "name": "Paper Cult"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Tears of Metal",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 843160,
+        "date": 1744243200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 932813,
+        "date": 1784678400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 933760,
+        "date": 1784678400,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1337447,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnzb.jpg"
+      },
+      {
+        "id": 1337448,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnzc.jpg"
+      },
+      {
+        "id": 1337449,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnzd.jpg"
+      },
+      {
+        "id": 1337450,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnze.jpg"
+      },
+      {
+        "id": 1337452,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnzg.jpg"
+      },
+      {
+        "id": 1337453,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnzh.jpg"
+      },
+      {
+        "id": 1337459,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnzn.jpg"
+      },
+      {
+        "id": 1337455,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnzj.jpg"
+      },
+      {
+        "id": 1337457,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnzl.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Tears of Metal is a medieval hack-and-slash co-op roguelike. Carve through hordes of enemies to reclaim your island with the help of your formidable Scottish battalion. As you advance deeper into the trenches, uncover more about the mysterious Dragon Meteor and the treacherous enemy invasion.",
+    "videos": [
+      {
+        "id": 115540,
+        "video_id": "n28LrKFLe1U"
+      },
+      {
+        "id": 151529,
+        "video_id": "XOnzHiqMhaY"
+      },
+      {
+        "id": 134666,
+        "video_id": "yMX5H6du9OU"
+      },
+      {
+        "id": 145665,
+        "video_id": "UmUYIDzMrjQ"
+      },
+      {
+        "id": 181958,
+        "video_id": "Lzdegjfm8b0"
+      },
+      {
+        "id": 188605,
+        "video_id": "kvv5TSWd5S4"
+      },
+      {
+        "id": 188830,
+        "video_id": "9hXbDmMmwEk"
+      }
+    ],
+    "websites": [
+      {
+        "id": 667896,
+        "url": "https://www.instagram.com/paper.cult.games/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 667897,
+        "url": "https://discord.gg/invite/papercult",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 643842,
+        "url": "https://store.steampowered.com/app/1913120",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 643843,
+        "url": "https://www.papercultgames.com/?game\u003dtears_of_metal",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 667894,
+        "url": "https://www.facebook.com/PaperCultGames/",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 667893,
+        "url": "https://www.youtube.com/channel/UCYaLjiGdDIaCfOsE1pmWeKw",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 667892,
+        "url": "https://www.twitch.tv/directory/category/tears-of-metal",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 667895,
+        "url": "https://twitter.com/papercultgames",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
         }
       }
     ]
