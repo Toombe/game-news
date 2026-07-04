@@ -2304,6 +2304,175 @@
     ]
   },
   {
+    "id": 235852,
+    "cover": {
+      "id": 456279,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9s2f.jpg"
+    },
+    "first_release_date": 1746576000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 3,
+    "involved_companies": [
+      {
+        "id": 360284,
+        "company": {
+          "id": 29185,
+          "name": "Logoi Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Doloc Town",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 734463,
+        "date": 1746576000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 938233,
+        "date": 1785974400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 981477,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scl1b9.jpg"
+      },
+      {
+        "id": 981480,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scl1bc.jpg"
+      },
+      {
+        "id": 981474,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scl1b6.jpg"
+      },
+      {
+        "id": 981479,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scl1bb.jpg"
+      },
+      {
+        "id": 981472,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scl1b4.jpg"
+      },
+      {
+        "id": 981475,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scl1b7.jpg"
+      },
+      {
+        "id": 981473,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scl1b5.jpg"
+      },
+      {
+        "id": 981482,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scl1be.jpg"
+      },
+      {
+        "id": 981483,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scl1bf.jpg"
+      },
+      {
+        "id": 981484,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scl1bg.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "This game is a pixel art simulation game \u0026 shooting game, it has cute picture, semi-open world story system, rich and deep game system. The story is witty, lighthearted and casual, you can build your own farm, tackle cute Npcs, catch small animals, learn food recipes or fight monster in jungle-land",
+    "videos": [
+      {
+        "id": 149440,
+        "video_id": "J90zRBVQtxE"
+      },
+      {
+        "id": 149441,
+        "video_id": "63THl5RXyc4"
+      },
+      {
+        "id": 189588,
+        "video_id": "LymGuqwXZIk"
+      }
+    ],
+    "websites": [
+      {
+        "id": 746452,
+        "url": "https://www.youtube.com/@LogoiGames",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 729675,
+        "url": "https://www.instagram.com/doloc_town/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 729674,
+        "url": "https://x.com/RedSawGames",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 939621,
+        "url": "https://weibo.com/u/7940078494",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 527687,
+        "url": "https://store.steampowered.com/app/2285550",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      }
+    ]
+  },
+  {
     "id": 348187,
     "cover": {
       "id": 463848,
@@ -4377,380 +4546,6 @@
         "type": {
           "id": 18,
           "type": "Discord"
-        }
-      }
-    ]
-  },
-  {
-    "id": 125370,
-    "cover": {
-      "id": 497762,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coao2q.jpg"
-    },
-    "first_release_date": 1777939200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 5,
-        "name": "Shooter"
-      },
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 3,
-    "name": "In the Black",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 905932,
-        "date": 1777939200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 422655,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc924f.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "In The Black is a PC space combat sim based on realism from the designers of Crysis, MechWarrior 2, and X-Wing.",
-    "videos": [
-      {
-        "id": 45738,
-        "video_id": "IqBqHbvsSt0"
-      },
-      {
-        "id": 45740,
-        "video_id": "DbUyoXj8Qac"
-      },
-      {
-        "id": 45742,
-        "video_id": "diCyhGuvrpc"
-      },
-      {
-        "id": 45739,
-        "video_id": "HRYF4N1gisM"
-      },
-      {
-        "id": 45741,
-        "video_id": "gykA57nW88I"
-      },
-      {
-        "id": 45743,
-        "video_id": "Hd63xfEDqvA"
-      }
-    ],
-    "websites": [
-      {
-        "id": 223600,
-        "url": "https://store.steampowered.com/app/380110",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 892335,
-        "url": "https://www.youtube.com/@intheblackgame",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 892334,
-        "url": "https://www.instagram.com/intheblackgame/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 892336,
-        "url": "https://www.reddit.com/r/intheblack/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 892337,
-        "url": "https://bsky.app/profile/intheblackgame.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 170153,
-        "url": "https://discord.gg/intheblack",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 170152,
-        "url": "https://twitter.com/InTheBlackGame",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 170151,
-        "url": "https://www.facebook.com/InTheBlackGame",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 170148,
-        "url": "https://intheblack.gg/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 390938,
-        "url": "https://www.twitch.tv/directory/game/In%20The%20Black",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      }
-    ]
-  },
-  {
-    "id": 341592,
-    "cover": {
-      "id": 454158,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9qfi.jpg"
-    },
-    "first_release_date": 1777939200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      },
-      {
-        "id": 4,
-        "name": "Split screen"
-      }
-    ],
-    "genres": [
-      {
-        "id": 4,
-        "name": "Fighting"
-      },
-      {
-        "id": 7,
-        "name": "Music"
-      },
-      {
-        "id": 25,
-        "name": "Hack and slash/Beat \u0027em up"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 15,
-    "involved_companies": [
-      {
-        "id": 317812,
-        "company": {
-          "id": 63298,
-          "name": "Brain Jar Games"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Dead as Disco",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 508,
-        "name": "Nintendo Switch 2"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      },
-      {
-        "id": 130,
-        "name": "Nintendo Switch"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 891246,
-        "platform": {
-          "id": 130,
-          "name": "Nintendo Switch"
-        }
-      },
-      {
-        "id": 891247,
-        "platform": {
-          "id": 508,
-          "name": "Nintendo Switch 2"
-        }
-      },
-      {
-        "id": 891248,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 891249,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      },
-      {
-        "id": 899013,
-        "date": 1777939200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 899014,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1517242,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwipm.jpg"
-      },
-      {
-        "id": 1517243,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwipn.jpg"
-      },
-      {
-        "id": 1517245,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwipp.jpg"
-      },
-      {
-        "id": 1517246,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwipq.jpg"
-      },
-      {
-        "id": 1517244,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwipo.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Martial arts meets music video in Dead as Disco, a neon-drenched Beat ‘Em Up where every punch, kick, and combo syncs to the music. Join Charlie Disco on a quest to confront the villainous Idols and reunite the band.",
-    "videos": [
-      {
-        "id": 148408,
-        "video_id": "ipBPeI3bOW0"
-      },
-      {
-        "id": 180743,
-        "video_id": "cSNXMSU3vJo"
-      },
-      {
-        "id": 182902,
-        "video_id": "Vq2uYYkkoPo"
-      }
-    ],
-    "websites": [
-      {
-        "id": 737413,
-        "url": "https://www.instagram.com/deadasdiscogame/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 737414,
-        "url": "https://www.youtube.com/@DeadAsDiscoGame",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 734155,
-        "url": "https://store.steampowered.com/app/3404260",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 737412,
-        "url": "https://deadasdisco.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 982769,
-        "url": "https://www.twitch.tv/directory/category/dead-as-disco",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
         }
       }
     ]
@@ -24232,6 +24027,100 @@
       {
         "id": 484090,
         "url": "https://www.twitch.tv/directory/game/Maze%27Em",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      }
+    ]
+  },
+  {
+    "id": 199421,
+    "cover": {
+      "id": 300576,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6fxc.jpg"
+    },
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 3,
+    "involved_companies": [
+      {
+        "id": 170100,
+        "company": {
+          "id": 41148,
+          "name": "CryZENx"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Unreal Engine The Legend of Zelda: Ocarina of Time",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 937831,
+        "date": 1798675200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 938207,
+        "date": 1672444800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 787014,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scgv9i.jpg"
+      },
+      {
+        "id": 787019,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scgv9n.jpg"
+      },
+      {
+        "id": 787020,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scgv9o.jpg"
+      },
+      {
+        "id": 787018,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scgv9m.jpg"
+      },
+      {
+        "id": 787021,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scgv9p.jpg"
+      },
+      {
+        "id": 790443,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scgxwr.jpg"
+      }
+    ],
+    "status": 6,
+    "summary": "A fan recreation of The Legend of Zelda: Ocarina of Time with updated graphics, made using the Unreal Engine.",
+    "websites": [
+      {
+        "id": 490192,
+        "url": "https://www.twitch.tv/directory/game/Unreal%20Engine%20The%20Legend%20of%20Zelda:%20Ocarina%20of%20Time",
         "type": {
           "id": 6,
           "type": "Twitch"
