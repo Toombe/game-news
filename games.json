@@ -16153,6 +16153,160 @@
     ]
   },
   {
+    "id": 201754,
+    "cover": {
+      "id": 542430,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobmji.jpg"
+    },
+    "first_release_date": 1798675200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 6,
+    "involved_companies": [
+      {
+        "id": 372059,
+        "company": {
+          "id": 63851,
+          "name": "505 Pulse"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 372060,
+        "company": {
+          "id": 51419,
+          "name": "AvantGarden Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Among the Trolls",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 941206,
+        "date": 1798675200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 796496,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sch2kw.jpg"
+      },
+      {
+        "id": 796497,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sch2kx.jpg"
+      },
+      {
+        "id": 796498,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sch2ky.jpg"
+      },
+      {
+        "id": 796499,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sch2kz.jpg"
+      },
+      {
+        "id": 796495,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sch2kv.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Among the Trolls is a first-person, survival, action-adventure game where the secret mysteries of Finnish forests are unraveled. Venture deep into the Finnish wilderness to uncover family truths and master the art of survival",
+    "videos": [
+      {
+        "id": 68221,
+        "video_id": "JdgkoNgZs1Y"
+      },
+      {
+        "id": 177221,
+        "video_id": "2x9JT2Qer2A"
+      }
+    ],
+    "websites": [
+      {
+        "id": 825301,
+        "url": "https://www.facebook.com/AmongTheTrolls",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 284214,
+        "url": "https://store.steampowered.com/app/1675260/Among_the_Trolls",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 825299,
+        "url": "https://discord.gg/fkC24Q3ymj",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 825300,
+        "url": "https://www.instagram.com/AmongTheTrolls",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 284215,
+        "url": "https://www.forbidden.dev/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 284216,
+        "url": "https://twitter.com/forbiddendevs",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 491958,
+        "url": "https://www.twitch.tv/directory/game/Among%20the%20Trolls",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      }
+    ]
+  },
+  {
     "id": 212175,
     "cover": {
       "id": 257480,

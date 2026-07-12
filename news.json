@@ -1,99 +1,395 @@
 [
   {
+    "title": "Assassin's Creed Black Flag Skin Returns In Rayman Legends Retold",
+    "link": "https://www.nintendolife.com/news/2026/07/assassins-creed-black-flag-skin-returns-in-rayman-legends-retold",
+    "thumbnail": "https://images.nintendolife.com/d450034d60af7/large.jpg",
+    "source": "Nintendo Life",
+    "category": "Article",
+    "date": 1783810800000
+  },
+  {
+    "title": "Warframe's next major update blends Blade Runner, The Sopranos, and film noir in a whole new solar system, coming later this year",
+    "link": "https://www.eurogamer.net/warframe-tau-tennocon-reveal-blade-runner-sopranos",
+    "thumbnail": "https://assetsio.gnwcdn.com/WF_TauDemo_Screenshotr_Brysko_3840x2160.png?width=690&quality=85&format=jpg&auto=webp",
+    "source": "Eurogamer",
+    "category": "PS4",
+    "date": 1783808540000
+  },
+  {
+    "title": "Digital Extremes finally reveal Warframe: Tau, the sci-fi shooter's long-awaited second solar system, and it's a gruesome place indeed",
+    "link": "https://www.rockpapershotgun.com/digital-extremes-finally-reveal-warframe-tau-the-sci-fi-shooters-long-awaited-second-solar-system-and-its-a-gruesome-place-indeed",
+    "thumbnail": "https://assetsio.gnwcdn.com/WF_TauPromo_Keyart_4x3.png?width=690&quality=85&format=jpg&auto=webp",
+    "source": "Rock Paper Shotgun",
+    "category": "iOS",
+    "date": 1783808514000
+  },
+  {
+    "title": "\"This is our Spider-Man 3\" - Soulfame's Warsong update adds \"edgelord\" progression path later this year",
+    "link": "https://www.eurogamer.net/soulframe-warsong-trailer-spiderman-3-edgy-mount-fishing",
+    "thumbnail": "https://assetsio.gnwcdn.com/SF_TC2026_Screenshots_Nightmaiden_B.png?width=690&quality=85&format=jpg&auto=webp",
+    "source": "Eurogamer",
+    "category": "RPG",
+    "date": 1783805228000
+  },
+  {
+    "title": "After years of teasing, the viral Nopia synth is ‘basically finished’",
+    "link": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/maxresdefault_503c4e.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
+    "source": "The Verge (Tech)",
+    "category": "Entertainment",
+    "date": 1783803462000
+  },
+  {
+    "title": "Marvel Tokon's Single Player Penned by Kieron Gillen, Features Five Stories and Boss Fights",
+    "link": "https://www.pushsquare.com/news/2026/07/marvel-tokons-single-player-penned-by-kieron-gillen-features-five-stories-and-boss-fights",
+    "thumbnail": "https://images.pushsquare.com/13fe9d89b31b2/large.jpg",
+    "source": "Push Square",
+    "category": "Article",
+    "date": 1783798200000
+  },
+  {
+    "title": "'Bare Bones' PS5 Black Ops Ports Reportedly Have More Players Than Latest Game, Already Best Sellers on PS Store",
+    "link": "https://www.pushsquare.com/news/2026/07/bare-bones-ps5-black-ops-ports-reportedly-have-more-players-than-latest-game-already-best-sellers-on-ps-store",
+    "thumbnail": "https://images.pushsquare.com/7e56920a966ab/large.jpg",
+    "source": "Push Square",
+    "category": "Article",
+    "date": 1783795500000
+  },
+  {
+    "title": "I've found my perfect summer game: A stomach-churning horror story about Czech train conductors built over a bafflingly deep simulation of a fictional subway",
+    "link": "https://www.pcgamer.com/games/horror/ive-found-my-perfect-summer-game-a-stomach-churning-horror-story-about-czech-train-conductors-built-over-a-bafflingly-deep-simulation-of-a-fictional-subway/",
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/WXcPoHqhwvQ6JoRenSV5sn-1280-80.jpg",
+    "source": "PC Gamer",
+    "category": "Horror",
+    "date": 1783794192000
+  },
+  {
+    "title": "College Football 27 to Remove Single Player Microtransactions After Fans Threatened Boycott",
+    "link": "https://www.pushsquare.com/news/2026/07/college-football-27-to-remove-single-player-microtransactions-after-fans-threatened-boycott",
+    "thumbnail": "https://images.pushsquare.com/532c054685876/large.jpg",
+    "source": "Push Square",
+    "category": "Article",
+    "date": 1783791000000
+  },
+  {
+    "title": "Steam has raked in an estimated $11.1 billion gross revenue so far this year, says market analyst—its 'biggest-ever six months'",
+    "link": "https://www.pcgamer.com/gaming-industry/steam-has-raked-in-an-estimated-usd11-1-billion-gross-revenue-so-far-this-year-says-market-analyst-its-biggest-ever-six-months/",
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/wMScrGtVbFerSg7T8FwzmS-1280-80.png",
+    "source": "PC Gamer",
+    "category": "Gaming Industry",
+    "date": 1783789763000
+  },
+  {
+    "title": "Fantasy action-RPG Soulframe is open to all players for a limited time, with a new dark progression path, wolf mounts, and a Warsongs origin quest on the way",
+    "link": "https://www.rockpapershotgun.com/fantasy-action-rpg-soulframe-is-open-to-all-players-for-a-limited-time-with-a-new-dark-progression-path-wolf-mounts-and-a-warsongs-origin-quest-on-the-way",
+    "thumbnail": "https://assetsio.gnwcdn.com/MendicantReinbreaker.png?width=690&quality=85&format=jpg&auto=webp",
+    "source": "Rock Paper Shotgun",
+    "category": "PC",
+    "date": 1783789200000
+  },
+  {
+    "title": "College Football 27 to remove microtransactions after player backlash, though EA maintains they were only added to 'give players more choice'",
+    "link": "https://www.pcgamer.com/games/sports/college-football-27-to-remove-microtransactions-after-player-backlash-though-ea-maintains-they-were-only-added-to-give-players-more-choice/",
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/oTtfkm5NERr7GfFnFdyfJj-1280-80.jpg",
+    "source": "PC Gamer",
+    "category": "Sports",
+    "date": 1783787429000
+  },
+  {
+    "title": "id Software insists in new statement that it still has \"the crew we need to build the games and tech we're known for\"",
+    "link": "https://www.eurogamer.net/id-software-can-still-build-games",
+    "thumbnail": "https://assetsio.gnwcdn.com/DOOM-SITE_5fKgryC-(1).jpg?width=690&quality=85&format=jpg&auto=webp",
+    "source": "Eurogamer",
+    "category": "Microsoft",
+    "date": 1783785660000
+  },
+  {
+    "title": "The Elder Scrolls Online's developer deserved better than to get sucker-punched by Microsoft twice in two years",
+    "link": "https://www.pcgamer.com/games/mmo/the-elder-scrolls-onlines-developer-deserved-better-than-to-get-sucker-punched-by-microsoft-twice-in-two-years/",
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/rAmvhZQmCnJAsRpqFQogRB-1280-80.png",
+    "source": "PC Gamer",
+    "category": "MMO",
+    "date": 1783785600000
+  },
+  {
+    "title": "Assassin's Creed Black Flag Resynced opens to 2 million sales on launch day",
+    "link": "https://www.eurogamer.net/assassins-creed-black-flag-resynced-2-million-sales",
+    "thumbnail": "https://assetsio.gnwcdn.com/Main-Image-2-Edward-Smiling-Finding-Treasure.png?width=690&quality=85&format=jpg&auto=webp",
+    "source": "Eurogamer",
+    "category": "Ubisoft",
+    "date": 1783783959000
+  },
+  {
+    "title": "\"I sued their asses and won!\" Gamer wins legal battle to get hacked Xbox account back after they were told to rebuy all their digital games",
+    "link": "https://www.eurogamer.net/court-demands-xbox-restore-suspended-hacked-account",
+    "thumbnail": "https://assetsio.gnwcdn.com/Screenshot-2026-07-11-at-15.58.06.png?width=690&quality=85&format=jpg&auto=webp",
+    "source": "Eurogamer",
+    "category": "Microsoft",
+    "date": 1783782262000
+  },
+  {
+    "title": "Handheld gaming PCs are cooked",
+    "link": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/handheld-gaming-pcs-are-cooked/",
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/XDGVG4pcGgw2e7RQtqLpo4-1280-80.jpg",
+    "source": "PC Gamer",
+    "category": "Handheld Gaming PCs",
+    "date": 1783782000000
+  },
+  {
+    "title": "Nintendo’s Talking Flower got a small price cut",
+    "link": "https://www.theverge.com/gadgets/964138/nintendo-talking-flower-mario-wonder-deal-sale",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/SMBW_Talking_Flower_001_illu01_01_R_ad-0.png?quality=90&amp;strip=all&amp;crop=0,0,100,100",
+    "source": "The Verge (Games)",
+    "category": "Deals",
+    "date": 1783782000000
+  },
+  {
+    "title": "FL Studio head Constantin Koehncke turns to Reddit for feedback and fun",
+    "link": "https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/IMG_2887.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
+    "source": "The Verge (Tech)",
+    "category": "Apps",
+    "date": 1783782000000
+  },
+  {
+    "title": "Talking Point: New Ocarina = New amiibo? Nintendo Needs To Make These Zelda Figurines",
+    "link": "https://www.nintendolife.com/features/talking-point-new-ocarina-new-amiibo-nintendo-needs-to-make-these-zelda-figurines",
+    "thumbnail": "https://images.nintendolife.com/1fecaf4185629/large.jpg",
+    "source": "Nintendo Life",
+    "category": "Article",
+    "date": 1783782000000
+  },
+  {
+    "title": "Poll: What Do You Think Of Assassin's Creed Black Flag In General?",
+    "link": "https://www.purexbox.com/features/poll-what-do-you-think-of-assassins-creed-black-flag-in-general",
+    "thumbnail": "https://images.purexbox.com/7d3343e8b0d71/large.jpg",
+    "source": "Pure Xbox",
+    "category": "Article",
+    "date": 1783782000000
+  },
+  {
+    "title": "EU admits it cannot stop Sony killing physical discs – \"companies are free to offer games and services in the manner that they see fit\"",
+    "link": "https://www.eurogamer.net/eu-cannot-stop-sony-killing-physical-discs",
+    "thumbnail": "https://assetsio.gnwcdn.com/Screenshot-2026-07-11-at-15.03.49.png?width=690&quality=85&format=jpg&auto=webp",
+    "source": "Eurogamer",
+    "category": "European Commission",
+    "date": 1783779055000
+  },
+  {
+    "title": "Star Citizen's next update will switch focus to fixing its bug-riddled previous update, with bigger changes shunted to a later patch",
+    "link": "https://www.pcgamer.com/games/mmo/star-citizens-next-update-will-switch-focus-to-fixing-its-bug-riddled-previous-update-with-bigger-changes-shunted-to-a-later-patch/",
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/eXBkZxPBmn2xAgJj7UFYgG-1280-80.jpg",
+    "source": "PC Gamer",
+    "category": "MMO",
+    "date": 1783778400000
+  },
+  {
+    "title": "After 17 years, a developer has finally revived the dream of Hannah Montana Linux, an open source operating system themed around Hannah Montana",
+    "link": "https://www.pcgamer.com/software/operating-systems/after-17-years-a-developer-has-finally-revived-the-dream-of-hannah-montana-linux-an-open-source-operating-system-themed-around-hannah-montana/",
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/sk3My5hCaU7fJTc87yduSg-1280-80.jpg",
+    "source": "PC Gamer",
+    "category": "Operating Systems",
+    "date": 1783777910000
+  },
+  {
+    "title": "Obsidian game director reacts to people \"spouting off\" about the studio and how it's not what it \"used to be\"",
+    "link": "https://www.eurogamer.net/obsidian-director-disputes-studio-not-what-it-used-to-be",
+    "thumbnail": "https://assetsio.gnwcdn.com/Fallout-4_new-art.png?width=690&quality=85&format=jpg&auto=webp",
+    "source": "Eurogamer",
+    "category": "Obsidian Entertainment",
+    "date": 1783776789000
+  },
+  {
+    "title": "Five Games Are Confirmed For Xbox Game Pass In August 2026 So Far",
+    "link": "https://www.purexbox.com/news/2026/07/five-games-are-confirmed-for-xbox-game-pass-in-august-2026-so-far",
+    "thumbnail": "https://images.purexbox.com/92690b4f0c846/large.jpg",
+    "source": "Pure Xbox",
+    "category": "Article",
+    "date": 1783776600000
+  },
+  {
+    "title": "Mortal Shell 2 is the latest game to join the Grand Theft Auto 6 release crush, but I don't think it has much to worry about because it looks sick as hell",
+    "link": "https://www.pcgamer.com/games/rpg/mortal-shell-2-is-the-latest-game-to-join-the-grand-theft-auto-6-release-crush-but-i-dont-think-it-has-much-to-worry-about-because-it-looks-sick-as-hell/",
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/MKZuz22L4oqRVwwPvHYXQP-1280-80.jpg",
+    "source": "PC Gamer",
+    "category": "RPG",
+    "date": 1783774800000
+  },
+  {
+    "title": "AC Black Flag: Resynced Records Two Million Sales in Opening Day Booty",
+    "link": "https://www.pushsquare.com/news/2026/07/ac-black-flag-resynced-records-two-million-sales-in-opening-day-booty",
+    "thumbnail": "https://images.pushsquare.com/b03b4cad23a15/large.jpg",
+    "source": "Push Square",
+    "category": "Article",
+    "date": 1783774800000
+  },
+  {
+    "title": "After Space Marine 2 'literally changed everything', Saber Interactive has been inundated with offers from major licenses: 'We are in a very fortunate position to turn down more than we can accept'",
+    "link": "https://www.pcgamer.com/games/action/after-space-marine-2-literally-changed-everything-saber-interactive-has-been-inundated-with-offers-from-major-licenses-we-are-in-a-very-fortunate-position-to-turn-down-more-than-we-can-accept/",
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/nZQbCP69rRhsnBZVge4Kch-1280-80.jpg",
+    "source": "PC Gamer",
+    "category": "Action",
+    "date": 1783771200000
+  },
+  {
+    "title": "A tasty RPG that will make you very hungry",
+    "link": "https://www.theverge.com/entertainment/964061/dosa-divas-review-ps5-steam-switch",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Dosa_Divas_Screenshot_cooking02_4k.png?quality=90&amp;strip=all&amp;crop=0,0,100,100",
+    "source": "The Verge (Games)",
+    "category": "Entertainment",
+    "date": 1783771200000
+  },
+  {
+    "title": "The perfect kit for all your tiny repairs",
+    "link": "https://www.theverge.com/tech/964169/ifixit-repairs-kit-nothing-3a-installer",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Installer-135.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
+    "source": "The Verge (Tech)",
+    "category": "Gadgets",
+    "date": 1783771200000
+  },
+  {
+    "title": "Avowed 2 May Still Happen, Obsidian Skeleton Crew Continues Work",
+    "link": "https://www.pushsquare.com/news/2026/07/avowed-2-may-still-happen-obsidian-skeleton-crew-continues-work",
+    "thumbnail": "https://images.pushsquare.com/0a0cd39da3d56/large.jpg",
+    "source": "Push Square",
+    "category": "Article",
+    "date": 1783771200000
+  },
+  {
+    "title": "Feature: These 40+ Games Are Coming To Xbox Next Week (July 13-17)",
+    "link": "https://www.purexbox.com/features/these-40plus-games-are-coming-to-xbox-next-week-july-13-17",
+    "thumbnail": "https://images.purexbox.com/6e3f86e105585/large.jpg",
+    "source": "Pure Xbox",
+    "category": "Article",
+    "date": 1783771200000
+  },
+  {
+    "title": "A piece of GTA modding history that was considered lost has been rebuilt from scratch and fixed 22 years later",
+    "link": "https://www.pcgamer.com/games/grand-theft-auto/a-piece-of-gta-modding-history-that-was-considered-lost-has-been-rebuilt-from-scratch-and-fixed-22-years-later/",
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/gwoPHdPxqe6SzzXb5KBGdA-1280-80.png",
+    "source": "PC Gamer",
+    "category": "Grand Theft Auto",
+    "date": 1783767600000
+  },
+  {
+    "title": "Guide: These 13+ PS5 Games Are Coming Out Next Week (13th-19th July)",
+    "link": "https://www.pushsquare.com/guides/these-13plus-ps5-games-are-coming-out-next-week-13th-19th-july",
+    "thumbnail": "https://images.pushsquare.com/21b2656d965af/large.jpg",
+    "source": "Push Square",
+    "category": "Article",
+    "date": 1783767600000
+  },
+  {
+    "title": "Talking Point: What Are You Playing This Weekend? (July 11-12)",
+    "link": "https://www.purexbox.com/features/talking-point-what-are-you-playing-this-weekend-july-11-12",
+    "thumbnail": "https://images.purexbox.com/0a2eb39f81d7d/large.jpg",
+    "source": "Pure Xbox",
+    "category": "Article",
+    "date": 1783767600000
+  },
+  {
+    "title": "Talking Point: What Are You Playing This Weekend? (11th July)",
+    "link": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-11th-july",
+    "thumbnail": "https://images.nintendolife.com/6a74b7e292d6f/large.jpg",
+    "source": "Nintendo Life",
+    "category": "Article",
+    "date": 1783760400000
+  },
+  {
+    "title": "Talking Point: What Are You Playing This Weekend? - Issue 641",
+    "link": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-641",
+    "thumbnail": "https://images.pushsquare.com/b17e98186b7f3/large.jpg",
+    "source": "Push Square",
+    "category": "Article",
+    "date": 1783760400000
+  },
+  {
+    "title": "What are we all playing this weekend?",
+    "link": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-390",
+    "thumbnail": "https://assetsio.gnwcdn.com/swwekend-summer.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "source": "Rock Paper Shotgun",
+    "category": "PC",
+    "date": 1783753200000
+  },
+  {
+    "title": "Are you filthy enough for a $700 portable shower? ",
+    "link": "https://www.theverge.com/reviews/963814/joolca-hottap-portable-shower-review",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/IMG_2100.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
+    "source": "The Verge (Tech)",
+    "category": "Accessory Reviews",
+    "date": 1783753200000
+  },
+  {
+    "title": "Sonic Frontiers First 4 Figures Statue Sneak Peek, Pre-Orders Open Soon",
+    "link": "https://www.nintendolife.com/news/2026/07/sonic-frontiers-first-4-figures-statue-sneak-peek-pre-orders-open-soon",
+    "thumbnail": "https://images.nintendolife.com/9b11c42186d0f/large.jpg",
+    "source": "Nintendo Life",
+    "category": "Article",
+    "date": 1783749300000
+  },
+  {
+    "title": "Atelier Yumia Switch 2 Update Adds Performance Settings Option, Improves Frame Rate And More",
+    "link": "https://www.nintendolife.com/news/2026/07/atelier-yumia-switch-2-update-adds-performance-settings-option-improves-frame-rate-and-more",
+    "thumbnail": "https://images.nintendolife.com/0812edb420e2d/large.jpg",
+    "source": "Nintendo Life",
+    "category": "Article",
+    "date": 1783738500000
+  },
+  {
+    "title": "Donkey Kong Arcade Set Surfaces In New LEGO Leak, Here's A First Look",
+    "link": "https://www.nintendolife.com/news/2026/07/donkey-kong-arcade-set-surfaces-in-new-lego-leak-heres-a-first-look",
+    "thumbnail": "https://images.nintendolife.com/c7aa4189b4e5a/large.jpg",
+    "source": "Nintendo Life",
+    "category": "Article",
+    "date": 1783731300000
+  },
+  {
     "title": "No, Flock isn’t threatening people for debating surveillance",
     "link": "https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK471_Government_Surveillance_CVirginia_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK471_Government_Surveillance_CVirginia_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
     "source": "The Verge (Tech)",
     "category": "Tech",
     "date": 1783728638000
   },
   {
-    "title": "Call of Duty fans surprised to discover new Black Ops 2 port preserves the emblem editor, not surprised to find swastikas being made with it",
-    "link": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-fans-surprised-to-discover-new-black-ops-2-port-preserves-the-emblem-editor-not-surprised-to-find-swastikas-being-made-with-it/",
-    "thumbnail": "https://cdn.mos.cms.futurecdn.net/eLQwoD3iDy7MeM6cBfi9UG-1280-80.jpg",
-    "source": "PC Gamer",
-    "category": "Call of Duty",
-    "date": 1783728256000
-  },
-  {
     "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
     "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&strip=all&crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/meta-muse-image-instagram-tag.png?quality=90&amp;strip=all&amp;crop=0,0,100,100",
     "source": "The Verge (Tech)",
     "category": "AI",
     "date": 1783727390000
   },
   {
-    "title": "Xbox's new chief strategist is a metaverse true believer",
-    "link": "https://www.pcgamer.com/gaming-industry/matthew-ball-was-hired-to-help-fix-xbox-will-gamers-like-what-he-prescribes/",
-    "thumbnail": "https://cdn.mos.cms.futurecdn.net/meAhgJ6W4hXFXTNmQFWThD-1280-80.jpg",
-    "source": "PC Gamer",
-    "category": "Gaming Industry",
-    "date": 1783726388000
-  },
-  {
-    "title": "'Surprised there was anyone left to post this': Fans react as The Elder Scrolls Online debuts seasonal content days after hundreds laid off from studio",
-    "link": "https://www.pcgamer.com/games/mmo/surprised-there-was-anyone-left-to-post-this-fans-react-as-the-elder-scrolls-online-debuts-seasonal-content-days-after-hundreds-laid-off-from-studio/",
-    "thumbnail": "https://cdn.mos.cms.futurecdn.net/w7YWWV7tSpRnEi6Z3g5LQ4-1280-80.jpg",
-    "source": "PC Gamer",
-    "category": "MMO",
-    "date": 1783724724000
+    "title": "Don't Worry, You'll Get to Own God of War Laufey on a PS5 Disc",
+    "link": "https://www.pushsquare.com/news/2026/07/dont-worry-youll-get-to-own-god-of-war-laufey-on-a-ps5-disc",
+    "thumbnail": "https://images.pushsquare.com/75039d940793c/large.jpg",
+    "source": "Push Square",
+    "category": "Article",
+    "date": 1783724400000
   },
   {
     "title": "The FCC is cracking down on DJI tech that dodged the foreign drone ban",
     "link": "https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/sean-hollister-verge-331A1409.jpg?quality=90&strip=all&crop=6,0,94,95.799934373975",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/sean-hollister-verge-331A1409.jpg?quality=90&amp;strip=all&amp;crop=6,0,94,95.799934373975",
     "source": "The Verge (Tech)",
     "category": "Policy",
     "date": 1783722918000
   },
   {
-    "title": "Assassin's Creed Black Flag Resynced sells 2 million copies in 1 day and achieves the 'highest concurrent player count ever recorded for an Assassin's Creed title' on Steam",
-    "link": "https://www.pcgamer.com/games/assassins-creed/assassins-creed-black-flag-resynced-sells-2-million-copies-in-1-day-and-achieves-the-highest-concurrent-player-count-ever-recorded-for-an-assassins-creed-title-on-steam/",
-    "thumbnail": "https://cdn.mos.cms.futurecdn.net/548p4MiCPM6cdBJsP38kgm-1280-80.jpg",
-    "source": "PC Gamer",
-    "category": "Assassin&amp;#039;s Creed",
-    "date": 1783721428000
-  },
-  {
-    "title": "How to get hardwood in Palworld",
-    "link": "https://www.pcgamer.com/games/survival-crafting/palworld-hardwood/",
-    "thumbnail": "https://cdn.mos.cms.futurecdn.net/bHLPoDUwN3XqNSwim54WUg-1280-80.jpg",
-    "source": "PC Gamer",
-    "category": "Survival &amp;amp; Crafting",
-    "date": 1783720654000
-  },
-  {
     "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
     "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
     "source": "The Verge (Tech)",
     "category": "AI",
     "date": 1783719411000
   },
   {
-    "title": "Microsoft responds to racist Xbox layoff conspiracy theory, says CEO Asha Sharma is 'American born, raised, and educated'",
-    "link": "https://www.pcgamer.com/gaming-industry/microsoft-responds-to-racist-xbox-layoff-conspiracy-theory-says-ceo-asha-sharma-is-american-born-raised-and-educated/",
-    "thumbnail": "https://cdn.mos.cms.futurecdn.net/HggwSWr5d5qdRucowUPLXB-1280-80.jpg",
-    "source": "PC Gamer",
-    "category": "Gaming Industry",
-    "date": 1783715931000
-  },
-  {
     "title": "Dear Magical Girls combines a tale of burnout with a tactical defence puzzle in which you shape and reshape a field of sorcery",
     "link": "https://www.rockpapershotgun.com/dear-magical-girls-combines-a-tale-of-burnout-with-a-tactical-defence-puzzle-in-which-you-shape-and-reshape-a-field-of-sorcery",
-    "thumbnail": "https://assetsio.gnwcdn.com/dearmagicalgirls.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
+    "thumbnail": "https://assetsio.gnwcdn.com/dearmagicalgirls.png?width=690&quality=85&format=jpg&auto=webp",
     "source": "Rock Paper Shotgun",
     "category": "Article",
     "date": 1783714600000
-  },
-  {
-    "title": "Palworld revises some of its most egregious creature designs for its 1.0 release",
-    "link": "https://www.pcgamer.com/games/survival-crafting/palworld-revises-some-of-its-most-egregious-creature-designs-for-its-1-0-release/",
-    "thumbnail": "https://cdn.mos.cms.futurecdn.net/jE3wCZ5Y4ixdHP737edxrS-1280-80.jpg",
-    "source": "PC Gamer",
-    "category": "Survival &amp;amp; Crafting",
-    "date": 1783713198000
   },
   {
     "title": "A decade later, Pokémon Go finally made good on its original promise",
@@ -104,20 +400,20 @@
     "date": 1783713070000
   },
   {
-    "title": "Guide a living landship through a deadly fungal world in Trailblazers, a roguelite colony sim inspired by Rimworld, Moebius, and Darkest Dungeon",
-    "link": "https://www.rockpapershotgun.com/guide-a-living-landship-through-a-deadly-fungal-world-in-trailblazers-a-roguelite-colony-sim-inspired-by-rimworld-moebius-and-darkest-dungeon",
-    "thumbnail": "https://assetsio.gnwcdn.com/Trailblazers-Into-The-March-1.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
-    "source": "Rock Paper Shotgun",
-    "category": "Trailblazers: Into The March",
-    "date": 1783709709000
+    "title": "DOOM Developer Addresses Concerned Fans With Message About Xbox Layoffs",
+    "link": "https://www.purexbox.com/news/2026/07/doom-developer-addresses-concerned-fans-with-message-about-xbox-layoffs",
+    "thumbnail": "https://images.purexbox.com/0f1e4cab64a2c/large.jpg",
+    "source": "Pure Xbox",
+    "category": "Article",
+    "date": 1783711920000
   },
   {
-    "title": "id Software provides proof of life, says it 'still has the crew we need to build the games and tech we're known for' after massive layoffs",
-    "link": "https://www.pcgamer.com/gaming-industry/id-software-provides-proof-of-life-says-it-still-has-the-crew-we-need-to-build-the-games-and-tech-were-known-for-after-massive-layoffs/",
-    "thumbnail": "https://cdn.mos.cms.futurecdn.net/WqWgyiyrYyo7NtvWFfguFc-1280-80.jpg",
-    "source": "PC Gamer",
-    "category": "Gaming Industry",
-    "date": 1783709432000
+    "title": "Guide a living landship through a deadly fungal world in Trailblazers, a roguelite colony sim inspired by Rimworld, Moebius, and Darkest Dungeon",
+    "link": "https://www.rockpapershotgun.com/guide-a-living-landship-through-a-deadly-fungal-world-in-trailblazers-a-roguelite-colony-sim-inspired-by-rimworld-moebius-and-darkest-dungeon",
+    "thumbnail": "https://assetsio.gnwcdn.com/Trailblazers-Into-The-March-1.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "source": "Rock Paper Shotgun",
+    "category": "PC",
+    "date": 1783709709000
   },
   {
     "title": "'We're Going to Keep Building Great Games': DOOM Dev Denies It's Been Cut to 'Support Studio' Size",
@@ -136,33 +432,17 @@
     "date": 1783708200000
   },
   {
-    "title": "How to unlock Samael's romance and begin dating the brooding bartender in Moonlight Peaks",
-    "link": "https://www.pcgamer.com/games/life-sim/moonlight-peaks-date-samael-romance-unlock/",
-    "thumbnail": "https://cdn.mos.cms.futurecdn.net/6Ds7EmpRkxXZMBqMwGy7hV-1280-80.jpg",
-    "source": "PC Gamer",
-    "category": "Life Sim",
-    "date": 1783704860000
-  },
-  {
     "title": "Nvidia’s biggest RAM supplier just had a trillion-dollar debut on Wall Street",
     "link": "https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284882241.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284882241.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
     "source": "The Verge (Tech)",
     "category": "Business",
     "date": 1783704695000
   },
   {
-    "title": "Indie dev defends criticism of Steam refund abuse amid review bombing of his game: 'It's wrong to refund a game after having fun with it and completing it'",
-    "link": "https://www.pcgamer.com/gaming-industry/indie-dev-defends-criticism-of-steam-refund-abuse-amid-review-bombing-of-his-game-its-wrong-to-refund-a-game-after-having-fun-with-it-and-completing-it/",
-    "thumbnail": "https://cdn.mos.cms.futurecdn.net/aFQ24tbNoxdunEYKvVoiLc-1280-80.jpg",
-    "source": "PC Gamer",
-    "category": "Gaming Industry",
-    "date": 1783703331000
-  },
-  {
     "title": "Spotify will let you fine-tune your weekly Release Radar playlist",
     "link": "https://www.theverge.com/entertainment/964021/spotify-release-radar-algorithm-controls",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/KtzRDIOEJYs3A6mb9MaNfOeEAekXQwD5Omr7BQZWkzg.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/KtzRDIOEJYs3A6mb9MaNfOeEAekXQwD5Omr7BQZWkzg.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
     "source": "The Verge (Tech)",
     "category": "Entertainment",
     "date": 1783702933000
@@ -172,6 +452,14 @@
     "link": "https://www.nintendolife.com/features/opinion-help-im-obsessed-with-rhythm-heaven-grooves-secret-beatspell-finale",
     "thumbnail": "https://images.nintendolife.com/3af6b54e49480/large.jpg",
     "source": "Nintendo Life",
+    "category": "Article",
+    "date": 1783702800000
+  },
+  {
+    "title": "PUBG Is Getting Two New Graphics Modes For Xbox, Full Resolution &amp; FPS Details Revealed",
+    "link": "https://www.purexbox.com/news/2026/07/pubg-is-getting-two-new-graphics-modes-for-xbox-full-resolution-and-fps-details-revealed",
+    "thumbnail": "https://images.purexbox.com/c72e0cf477055/large.jpg",
+    "source": "Pure Xbox",
     "category": "Article",
     "date": 1783702800000
   },
@@ -190,293 +478,5 @@
     "source": "Eurogamer",
     "category": "First person",
     "date": 1783702245000
-  },
-  {
-    "title": "Netflix is turning into YouTube",
-    "link": "https://www.theverge.com/podcast/964082/netflix-youtube-smart-glasses-vergecast",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_20260710.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source": "The Verge (Tech)",
-    "category": "Gadgets",
-    "date": 1783700990000
-  },
-  {
-    "title": "Brazil Is Taking On Digital Games Ownership and Preservation After Sony Says No More Discs",
-    "link": "https://www.pushsquare.com/news/2026/07/brazil-is-taking-on-digital-games-ownership-and-preservation-after-sony-says-no-more-discs",
-    "thumbnail": "https://images.pushsquare.com/4d5cb9027aab9/large.jpg",
-    "source": "Push Square",
-    "category": "Article",
-    "date": 1783699200000
-  },
-  {
-    "title": "Rockstar have stayed mum on GTA 6 multiplayer, but they might be hedging their bets with a new GTA Online heist that boasts a \"unique new level of replayability\"",
-    "link": "https://www.rockpapershotgun.com/rockstar-have-stayed-mum-on-gta-6-multiplayer-but-they-might-be-hedging-their-bets-with-a-new-gta-online-heist-that-boasts-a-unique-new-level-of-replayability",
-    "thumbnail": "https://assetsio.gnwcdn.com/gta-online-kortz-center-heist-01.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
-    "source": "Rock Paper Shotgun",
-    "category": "Racing",
-    "date": 1783699062000
-  },
-  {
-    "title": "As Xbox and PlayStation flounder, Steam is reportedly having another record year",
-    "link": "https://www.eurogamer.net/valve-steam-revenue-2026-record",
-    "thumbnail": "https://assetsio.gnwcdn.com/steam-graph.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "source": "Eurogamer",
-    "category": "Racing",
-    "date": 1783698777000
-  },
-  {
-    "title": "Anker’s 3-in-1 Qi2.2 charging station is $95 off",
-    "link": "https://www.theverge.com/gadgets/963665/anker-prime-wireless-charging-station-lg-oled-c6-tv-deal-sale",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ankerprimewirelesschargingstation.png?quality=90&strip=all&crop=0,0,100,100",
-    "source": "The Verge (Tech)",
-    "category": "Deals",
-    "date": 1783696268000
-  },
-  {
-    "title": "\"Compliance-in-advance is never enough to appease a zealous censor\": Robert Yang on the current challenge of bringing experimental gay games to Steam",
-    "link": "https://www.rockpapershotgun.com/compliance-in-advance-is-never-enough-to-appease-a-zealous-censor-robert-yang-on-the-current-challenge-of-bringing-experimental-gay-games-to-steam",
-    "thumbnail": "https://assetsio.gnwcdn.com/robert-yang-radiator-forever-01.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
-    "source": "Rock Paper Shotgun",
-    "category": "PC",
-    "date": 1783694014000
-  },
-  {
-    "title": "Underfire Sony Slowly Making Marvel Tokon Available in More Countries on PC",
-    "link": "https://www.pushsquare.com/news/2026/07/underfire-sony-slowly-making-marvel-tokon-available-in-more-countries-on-pc",
-    "thumbnail": "https://images.pushsquare.com/65dd411ee01a3/large.jpg",
-    "source": "Push Square",
-    "category": "Article",
-    "date": 1783693800000
-  },
-  {
-    "title": "I spent a week using the Trump phone — it sucks",
-    "link": "https://www.theverge.com/tech/963382/trump-mobile-t1-phone-review",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268626_Trump_phone_AKrales_0778.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source": "The Verge (Tech)",
-    "category": "Gadgets",
-    "date": 1783693199000
-  },
-  {
-    "title": "I’m filling in at The Verge for 6 weeks. Ask me anything!",
-    "link": "https://www.theverge.com/column/963495/im-filling-in-at-the-verge-for-6-weeks-ask-me-anything",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/David-Profile-AMA.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source": "The Verge (Tech)",
-    "category": "Column",
-    "date": 1783692000000
-  },
-  {
-    "title": "\"We mean business\" - Bethesda union members to march in protest of sweeping Xbox job cuts",
-    "link": "https://www.eurogamer.net/xbox-layoffs-bethesda-union-protest-plans",
-    "thumbnail": "https://assetsio.gnwcdn.com/one-bgs-logo.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "source": "Eurogamer",
-    "category": "Nintendo Switch 2",
-    "date": 1783691522000
-  },
-  {
-    "title": "Prepare for GTA 6 by Robbing an Art Gallery in GTA Online on PS5 Next Week",
-    "link": "https://www.pushsquare.com/news/2026/07/prepare-for-gta-6-by-robbing-an-art-gallery-in-gta-online-on-ps5-next-week",
-    "thumbnail": "https://images.pushsquare.com/5994f48115d76/large.jpg",
-    "source": "Push Square",
-    "category": "Article",
-    "date": 1783690200000
-  },
-  {
-    "title": "Hooded Horse's new spaceship RPG C-Beams isn't just a riff on Blade Runner - it's a \"modern version\" of one of my favourite childhood space sims",
-    "link": "https://www.rockpapershotgun.com/hooded-horse-spaceship-rpg-c-beams-isnt-just-a-riff-on-blade-runner-its-a-modern-version-of-one-of-my-favourite-childhood-space-sims",
-    "thumbnail": "https://assetsio.gnwcdn.com/Cbeams.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
-    "source": "Rock Paper Shotgun",
-    "category": "Science Fiction",
-    "date": 1783689034000
-  },
-  {
-    "title": "Xreal’s new AR glasses are way cheaper and almost just right",
-    "link": "https://www.theverge.com/tech/963465/xreal-a01-plus-xbx-ar-glasses-hands-on",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268631_Xreal_A01_Plus_CFaulkner_0001.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
-    "source": "The Verge (Games)",
-    "category": "Gadgets",
-    "date": 1783688400000
-  },
-  {
-    "title": "This Developer Wants You to Pay Less for PS5 Survival Horror",
-    "link": "https://www.pushsquare.com/news/2026/07/this-developer-wants-you-to-pay-less-for-ps5-survival-horror",
-    "thumbnail": "https://images.pushsquare.com/e10e392b942ae/large.jpg",
-    "source": "Push Square",
-    "category": "Article",
-    "date": 1783688400000
-  },
-  {
-    "title": "Adventures Of Elliot Patch Lets You Remove The Incessant Voice Support",
-    "link": "https://www.nintendolife.com/news/2026/07/adventures-of-elliot-patch-lets-you-remove-the-incessant-voice-support",
-    "thumbnail": "https://images.nintendolife.com/64f568e0f92db/large.jpg",
-    "source": "Nintendo Life",
-    "category": "Article",
-    "date": 1783687500000
-  },
-  {
-    "title": "'Sony Knows a $1,000 PS6 Won't Sell as Much': Analyst on Manufacturer's Plan to Maximise Revenue",
-    "link": "https://www.pushsquare.com/news/2026/07/sony-knows-a-usd1000-ps6-wont-sell-as-much-analyst-on-manufacturers-plan-to-maximise-revenue",
-    "thumbnail": "https://images.pushsquare.com/a6faf9a589d8c/large.jpg",
-    "source": "Push Square",
-    "category": "Article",
-    "date": 1783685700000
-  },
-  {
-    "title": "Doom’s new expansion shows just what makes id Software special",
-    "link": "https://www.theverge.com/games/963515/doom-the-dark-ages-revelations-review",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/IMG_9745.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
-    "source": "The Verge (Games)",
-    "category": "Entertainment",
-    "date": 1783684800000
-  },
-  {
-    "title": "Palworld Finally Launches in Full Today on PS5, and the Patch Notes are Colossal",
-    "link": "https://www.pushsquare.com/news/2026/07/palworld-finally-launches-in-full-today-on-ps5-and-the-patch-notes-are-colossal",
-    "thumbnail": "https://images.pushsquare.com/2a45400ec07f7/large.jpg",
-    "source": "Push Square",
-    "category": "Article",
-    "date": 1783684800000
-  },
-  {
-    "title": "Assassin's Creed Black Flag Resynced's standard edition is \"is the full, complete experience\", Ubisoft insist in response to Steam DLC furore",
-    "link": "https://www.rockpapershotgun.com/assassins-creed-black-flag-resynceds-standard-edition-is-is-the-full-complete-experience-ubisoft-insist-in-response-to-steam-dlc-furore",
-    "thumbnail": "https://assetsio.gnwcdn.com/assassins-creed-black-flag-resynced-dlc-steam-backlash-01.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
-    "source": "Rock Paper Shotgun",
-    "category": "Assassin's Creed Black Flag Resynced",
-    "date": 1783684530000
-  },
-  {
-    "title": "\"My 'Microsoft will probably be a good steward of the brand' statement isn't aging well\" - id Software co-founder John Carmack speaks out after devastating Xbox layoffs",
-    "link": "https://www.eurogamer.net/xbox-layoffs-id-software-john-carmack",
-    "thumbnail": "https://assetsio.gnwcdn.com/doom-eternal_gsYdnot.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "source": "Eurogamer",
-    "category": "Xbox Series X/S",
-    "date": 1783681376000
-  },
-  {
-    "title": "Pokémon Go Recreates Original Trailer With A Huge Times Square Mewtwo Raid",
-    "link": "https://www.nintendolife.com/news/2026/07/pokemon-go-recreates-original-trailer-with-a-huge-times-square-mewtwo-raid",
-    "thumbnail": "https://images.nintendolife.com/2b16a661fc72a/large.jpg",
-    "source": "Nintendo Life",
-    "category": "Article",
-    "date": 1783681200000
-  },
-  {
-    "title": "Assassin's Creed Black Flag Remake Studio Faced with Layoffs Despite Successful Launch",
-    "link": "https://www.pushsquare.com/news/2026/07/assassins-creed-black-flag-remake-studio-faced-with-layoffs-despite-successful-launch",
-    "thumbnail": "https://images.pushsquare.com/b977bad247078/large.jpg",
-    "source": "Push Square",
-    "category": "Article",
-    "date": 1783681200000
-  },
-  {
-    "title": "Id Software co-founder John Carmack \"can’t muster anger or outrage\" over Xbox gutting the Doom studio, but does say it'll \"dampen the mood of the founder reunion\"",
-    "link": "https://www.rockpapershotgun.com/id-software-co-founder-john-carmack-cant-muster-anger-or-outrage-over-xbox-gutting-the-doom-studio-but-does-say-itll-dampen-the-mood-of-the-founder-reunion",
-    "thumbnail": "https://assetsio.gnwcdn.com/id-software-layoffs-john-carmack-01.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
-    "source": "Rock Paper Shotgun",
-    "category": "First person",
-    "date": 1783681130000
-  },
-  {
-    "title": "Steam Machine Verified medals appear on games' store pages overnight, as if left by the Compatibility Fairy",
-    "link": "https://www.rockpapershotgun.com/steam-machine-verified-medals-appear-on-games-store-pages-overnight-as-if-left-by-the-compatibility-fairy",
-    "thumbnail": "https://assetsio.gnwcdn.com/Steam-Machine-fan-panel.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
-    "source": "Rock Paper Shotgun",
-    "category": "Steam",
-    "date": 1783679183000
-  },
-  {
-    "title": "\"It was like being back in 2016\" Pokémon Go celebrates 10th anniversary by recreating the original trailer's Times Square Mewtwo raid",
-    "link": "https://www.eurogamer.net/pokemon-go-10th-anniversary-mewtwo-times-square",
-    "thumbnail": "https://assetsio.gnwcdn.com/Pokemon_Go_Times_Square_69.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "source": "Eurogamer",
-    "category": "Family-friendly",
-    "date": 1783677267000
-  },
-  {
-    "title": "\"No thanks!\" - Assassin's Creed Black Flag remake Resynced being review bombed on Steam for single-player microtransactions",
-    "link": "https://www.eurogamer.net/assassins-creed-black-flag-resynced-steam-review-bomb-dlc",
-    "thumbnail": "https://assetsio.gnwcdn.com/Black-Flag-store.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "source": "Eurogamer",
-    "category": "Assassin's Creed Black Flag Resynced",
-    "date": 1783675606000
-  },
-  {
-    "title": "\"We are the best allies to game devs\": Skyrim modder shows solidarity with laid off Bethesda workers by draping union logos across Tamriel",
-    "link": "https://www.rockpapershotgun.com/we-are-the-best-allies-to-game-devs-skyrim-modder-shows-solidarity-with-laid-off-bethesda-workers-by-draping-union-logos-across-tamriel",
-    "thumbnail": "https://assetsio.gnwcdn.com/skyrim-mod-bethesda-union-solidarity-xbox-layoffs-01.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
-    "source": "Rock Paper Shotgun",
-    "category": "Nintendo Switch 2",
-    "date": 1783675124000
-  },
-  {
-    "title": "Xbox leader Asha Sharma has joined a US government task force for employment, days after announcing restructuring that has left thousands of people without jobs",
-    "link": "https://www.eurogamer.net/asha-sharma-xbox-us-government-employment-task-force",
-    "thumbnail": "https://assetsio.gnwcdn.com/sharma-fed.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "source": "Eurogamer",
-    "category": "Asha Sharma",
-    "date": 1783674742000
-  },
-  {
-    "title": "Poll: Splatoon 3's Raiders-Themed Splatfest Kicks Off This Weekend, Which Team Gets Your Vote?",
-    "link": "https://www.nintendolife.com/news/2026/07/poll-splatoon-3s-raiders-themed-splatfest-kicks-off-this-weekend-which-team-gets-your-vote",
-    "thumbnail": "https://images.nintendolife.com/46bb434bab9ab/large.jpg",
-    "source": "Nintendo Life",
-    "category": "Article",
-    "date": 1783674000000
-  },
-  {
-    "title": "Hell Is Us Shifts Switch 2 Launch Due To \"Very Busy\" September Release Window",
-    "link": "https://www.nintendolife.com/news/2026/07/hell-is-us-shifts-switch-2-launch-due-to-very-busy-september-release-window",
-    "thumbnail": "https://images.nintendolife.com/769e9293e423f/large.jpg",
-    "source": "Nintendo Life",
-    "category": "Article",
-    "date": 1783665000000
-  },
-  {
-    "title": "Rumour: Call Of Duty Black Ops 1 &amp; 2 Switch Ports Supposedly \"Not Planned\"",
-    "link": "https://www.nintendolife.com/news/2026/07/rumour-call-of-duty-black-ops-1-and-2-switch-ports-supposedly-not-planned",
-    "thumbnail": "https://images.nintendolife.com/7f59076769d20/large.jpg",
-    "source": "Nintendo Life",
-    "category": "Article",
-    "date": 1783659300000
-  },
-  {
-    "title": "After years of Nintendo lawsuits and many millions of sales, Pokémon baiter Palworld is out in 1.0 today",
-    "link": "https://www.rockpapershotgun.com/after-years-of-nintendo-lawsuits-and-many-millions-of-sales-pokemon-baiter-palworld-is-out-in-10-today",
-    "thumbnail": "https://assetsio.gnwcdn.com/Palwrodl.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
-    "source": "Rock Paper Shotgun",
-    "category": "RPG",
-    "date": 1783652400000
-  },
-  {
-    "title": "PSA: Disgaea Mayhem Demo For Switch 1 &amp; 2 Available Now On The eShop",
-    "link": "https://www.nintendolife.com/news/2026/07/psa-disgaea-mayhem-demo-for-switch-1-and-2-available-now-on-the-eshop",
-    "thumbnail": "https://images.nintendolife.com/aed109187df81/large.jpg",
-    "source": "Nintendo Life",
-    "category": "Article",
-    "date": 1783652100000
-  },
-  {
-    "title": "Another F-Zero Album Joins The Nintendo Music Library This Week",
-    "link": "https://www.nintendolife.com/news/2026/07/another-f-zero-album-joins-the-nintendo-music-library-this-week",
-    "thumbnail": "https://images.nintendolife.com/2bebdeb12446e/large.jpg",
-    "source": "Nintendo Life",
-    "category": "Article",
-    "date": 1783647900000
-  },
-  {
-    "title": "Stardew Valley Official Crochet Book Announced, Out January 2027",
-    "link": "https://www.nintendolife.com/news/2026/07/stardew-valley-official-crochet-book-announced-out-january-2027",
-    "thumbnail": "https://images.nintendolife.com/8e25986c48315/large.jpg",
-    "source": "Nintendo Life",
-    "category": "Article",
-    "date": 1783644300000
-  },
-  {
-    "title": "'PS5 Has Put a Dampener on Gaming': 45% of Enthusiasts 'Seriously Considering' Leaving Sony for PC",
-    "link": "https://www.pushsquare.com/news/2026/07/ps5-has-put-a-dampener-on-gaming-45percent-of-enthusiasts-seriously-considering-leaving-sony-for-pc",
-    "thumbnail": "https://images.pushsquare.com/434425c0b1f73/large.jpg",
-    "source": "Push Square",
-    "category": "Article",
-    "date": 1783638000000
   }
 ]
