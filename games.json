@@ -4551,631 +4551,6 @@
     ]
   },
   {
-    "id": 111333,
-    "cover": {
-      "id": 526690,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobaea.jpg"
-    },
-    "first_release_date": 1778716800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 386856,
-        "company": {
-          "id": 76923,
-          "name": "Apocalypse Studios"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Deadhaus Sonata",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 912493,
-        "date": 1778716800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 341147,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7b8b.jpg"
-      },
-      {
-        "id": 341143,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7b87.jpg"
-      },
-      {
-        "id": 341145,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7b89.jpg"
-      },
-      {
-        "id": 341144,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7b88.jpg"
-      },
-      {
-        "id": 341146,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7b8a.jpg"
-      },
-      {
-        "id": 341142,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7b86.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Deadhaus Sonata is a cooperative multiplayer, free-to-play, action RPG where you play the dead fighting the living. An unstoppable force from Deadhaus, you are a monster among men, dealing death and destruction on a massive scale.",
-    "videos": [
-      {
-        "id": 173150,
-        "video_id": "F57BmeaZyYc"
-      },
-      {
-        "id": 183602,
-        "video_id": "Cjynu2PHoNw"
-      },
-      {
-        "id": 188842,
-        "video_id": "gsoyn2502Yg"
-      }
-    ],
-    "websites": [
-      {
-        "id": 124078,
-        "url": "https://store.steampowered.com/app/1142050",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 898502,
-        "url": "https://discord.gg/deadhaus",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 898503,
-        "url": "https://x.com/DeadhausGame",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 898504,
-        "url": "https://www.youtube.com/deadhaussonata/",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 124079,
-        "url": "https://deadhaussonata.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 386683,
-        "url": "https://www.twitch.tv/directory/game/Deadhaus%20Sonata",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      }
-    ]
-  },
-  {
-    "id": 317334,
-    "cover": {
-      "id": 437082,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9d96.jpg"
-    },
-    "first_release_date": 1778716800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      }
-    ],
-    "hypes": 5,
-    "involved_companies": [
-      {
-        "id": 287880,
-        "company": {
-          "id": 25570,
-          "name": "Mirari\u0026Co"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Dark Light: Survivor",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 907068,
-        "date": 1778716800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1398261,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctywl.jpg"
-      },
-      {
-        "id": 1398263,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctywn.jpg"
-      },
-      {
-        "id": 1398259,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctywj.jpg"
-      },
-      {
-        "id": 1398260,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctywk.jpg"
-      },
-      {
-        "id": 1398262,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctywm.jpg"
-      },
-      {
-        "id": 1398264,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctywo.jpg"
-      },
-      {
-        "id": 1398265,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctywp.jpg"
-      },
-      {
-        "id": 1398266,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctywq.jpg"
-      },
-      {
-        "id": 1398267,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctywr.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "In a dying multiverse, the Phantom Train is your last hope. Traverse a post-apocalyptic, cyberpunk world of nightmarish creatures. Experience dynamic shifts between top-down and third-person views, deep customization, and epic battles across universes in this action roguelike survival game.",
-    "videos": [
-      {
-        "id": 127113,
-        "video_id": "Ij9t4uOVVnw"
-      },
-      {
-        "id": 172604,
-        "video_id": "PCVCA9zDgfg"
-      },
-      {
-        "id": 184890,
-        "video_id": "GY0nOKbj6bs"
-      }
-    ],
-    "websites": [
-      {
-        "id": 675602,
-        "url": "https://www.darklight-game.com/about",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 675606,
-        "url": "https://www.reddit.com/r/darklightgame/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 709937,
-        "url": "https://www.instagram.com/darklight_game",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 709936,
-        "url": "https://www.twitch.tv/directory/category/dark-light-survivor",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 709938,
-        "url": "https://bsky.app/profile/miraricogames.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 675607,
-        "url": "https://dark-light.fandom.com/wiki/Dark_Light",
-        "type": {
-          "id": 2,
-          "type": "Community Wiki"
-        }
-      },
-      {
-        "id": 675605,
-        "url": "https://discord.gg/invite/x2rAp3f",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 675604,
-        "url": "https://twitter.com/Miraricogames",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 675603,
-        "url": "https://www.youtube.com/@darklight7535",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 675601,
-        "url": "https://store.steampowered.com/app/3088070/Dark_Light_Survivor/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      }
-    ]
-  },
-  {
-    "id": 320140,
-    "cover": {
-      "id": 417780,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8yd0.jpg"
-    },
-    "first_release_date": 1778716800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 31,
-        "name": "Adventure"
-      }
-    ],
-    "hypes": 85,
-    "involved_companies": [
-      {
-        "id": 386399,
-        "company": {
-          "id": 856,
-          "name": "Unknown Worlds Entertainment"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Subnautica 2",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 905281,
-        "date": 1778716800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 905282,
-        "date": 1778716800,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      },
-      {
-        "id": 915232,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      },
-      {
-        "id": 915231,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1410408,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu8a0.jpg"
-      },
-      {
-        "id": 1410409,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu8a1.jpg"
-      },
-      {
-        "id": 1410410,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu8a2.jpg"
-      },
-      {
-        "id": 1410411,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu8a3.jpg"
-      },
-      {
-        "id": 1410254,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu85q.jpg"
-      },
-      {
-        "id": 1410255,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu85r.jpg"
-      },
-      {
-        "id": 1410256,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu85s.jpg"
-      },
-      {
-        "id": 1410257,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu85t.jpg"
-      },
-      {
-        "id": 1410258,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu85u.jpg"
-      },
-      {
-        "id": 1410412,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu8a4.jpg"
-      },
-      {
-        "id": 1410259,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu85v.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Subnautica 2 is an underwater survival adventure set on an all-new alien world, developed by Unknown Worlds. Play alone or with friends in 4-player co-op. Adapt to survive by building custom bases and crafting tools. Explore the unknown to uncover the mysteries hidden within the depths.",
-    "videos": [
-      {
-        "id": 130115,
-        "video_id": "WS0vTRl_2PQ"
-      },
-      {
-        "id": 154238,
-        "video_id": "xyG963F4q-8"
-      },
-      {
-        "id": 147054,
-        "video_id": "i8oqrucfXQo"
-      },
-      {
-        "id": 155651,
-        "video_id": "oK5Nr1VtJ9Q"
-      },
-      {
-        "id": 182555,
-        "video_id": "8EZhCzFaQuw"
-      },
-      {
-        "id": 182917,
-        "video_id": "N3nlHGdtCE0"
-      },
-      {
-        "id": 183166,
-        "video_id": "6t2nDHldoSk"
-      },
-      {
-        "id": 183170,
-        "video_id": "cJIHefNB3Hw"
-      },
-      {
-        "id": 186362,
-        "video_id": "TnnucBrqeKQ"
-      }
-    ],
-    "websites": [
-      {
-        "id": 684498,
-        "url": "https://discord.gg/subnautica",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 684507,
-        "url": "https://www.reddit.com/r/subnautica/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 684505,
-        "url": "https://www.youtube.com/subnautica",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 684514,
-        "url": "https://store.epicgames.com/p/subnautica-2-d27f94",
-        "type": {
-          "id": 16,
-          "type": "Epic"
-        }
-      },
-      {
-        "id": 684515,
-        "url": "https://www.twitch.tv/directory/category/subnautica-2",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 830158,
-        "url": "https://www.xbox.com/en-US/games/store/subnautica-2/9PJPCB188SVG",
-        "type": {
-          "id": 22,
-          "type": "Xbox"
-        }
-      },
-      {
-        "id": 732729,
-        "url": "https://bsky.app/profile/subnautica.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 684497,
-        "url": "https://twitter.com/Subnautica",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 684496,
-        "url": "https://www.subnautica.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 684506,
-        "url": "https://www.instagram.com/subnautica",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 684513,
-        "url": "https://store.steampowered.com/app/1962700/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 684516,
-        "url": "https://www.facebook.com/subnautica",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 1057485,
-        "url": "https://wiki.subnautica.com/sn2/",
-        "type": {
-          "id": 2,
-          "type": "Community Wiki"
-        }
-      },
-      {
-        "id": 1057486,
-        "url": "https://en.wikipedia.org/wiki/Subnautica_2",
-        "type": {
-          "id": 3,
-          "type": "Wikipedia"
-        }
-      }
-    ]
-  },
-  {
     "id": 272348,
     "cover": {
       "id": 338498,
@@ -12305,6 +11680,140 @@
     ]
   },
   {
+    "id": 340986,
+    "cover": {
+      "id": 452977,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9pip.jpg"
+    },
+    "first_release_date": 1783987200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "name": "Uh Oh Airlines",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 941589,
+        "date": 1783987200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1510848,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwds0.jpg"
+      },
+      {
+        "id": 1510839,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwdrr.jpg"
+      },
+      {
+        "id": 1510842,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwdru.jpg"
+      },
+      {
+        "id": 1510845,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwdrx.jpg"
+      },
+      {
+        "id": 1510852,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwds4.jpg"
+      }
+    ],
+    "status": 2,
+    "summary": "Uh Oh Airlines is a silly, casual, single player or couch co-op flight attendant simulator where you and a friend perform normal flight attendant duties, but must also wrangle your passengers to make it through the day.",
+    "videos": [
+      {
+        "id": 146484,
+        "video_id": "_ApWbJfCj1I"
+      }
+    ],
+    "websites": [
+      {
+        "id": 732264,
+        "url": "https://www.instagram.com/uh.oh.airlines/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 732262,
+        "url": "https://www.youtube.com/channel/UCEimX7nfX8LU7T2XsWZlq7Q",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 731054,
+        "url": "https://discord.gg/YJkhxxA2Mt",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 731053,
+        "url": "https://uhoh-airlines.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 731052,
+        "url": "https://store.steampowered.com/app/3582430/Uh_Oh_Airlines/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 732263,
+        "url": "https://x.com/UhOhAirlines",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1025848,
+        "url": "https://www.facebook.com/uhohairlines",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      }
+    ]
+  },
+  {
     "id": 364821,
     "cover": {
       "id": 486687,
@@ -17253,7 +16762,7 @@
         "name": "Indie"
       }
     ],
-    "hypes": 3,
+    "hypes": 2,
     "involved_companies": [
       {
         "id": 372524,
@@ -20801,7 +20310,7 @@
         "name": "Card \u0026 Board Game"
       }
     ],
-    "hypes": 5,
+    "hypes": 6,
     "involved_companies": [
       {
         "id": 381807,
@@ -23481,8 +22990,8 @@
     ],
     "release_dates": [
       {
-        "id": 924392,
-        "date": 1785542400,
+        "id": 940991,
+        "date": 1785888000,
         "platform": {
           "id": 6,
           "name": "PC (Microsoft Windows)"
