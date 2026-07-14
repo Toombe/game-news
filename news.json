@@ -1,115 +1,451 @@
 [
   {
-    "title": "Watch a new Total War: Warhammer 40,000 gameplay video and weep for your graphics card",
-    "link": "https://www.pcgamer.com/games/strategy/watch-a-new-total-war-warhammer-40-000-gameplay-video-and-weep-for-your-graphics-card/",
-    "thumbnail": "https://cdn.mos.cms.futurecdn.net/HmEiKiBL8axs54q2iUKwLC-1280-80.jpg",
-    "source": "PC Gamer",
-    "category": "Strategy",
-    "date": 1783902482000
+    "title": "Nintendo Is Releasing A Special Pin Set For Super Mario's 40th Anniversary",
+    "link": "https://www.nintendolife.com/news/2026/07/nintendo-is-releasing-a-special-pin-set-for-super-marios-40th-anniversary",
+    "thumbnail": "https://images.nintendolife.com/5babe39a29557/large.jpg",
+    "source": "Nintendo Life",
+    "category": "Article",
+    "date": 1783989000000
   },
   {
-    "title": "Dutch consumer group suing PlayStation argues the end of physical discs just proves its point: 'Sony alone decides what a game costs and even how long you are allowed to use it'",
-    "link": "https://www.pcgamer.com/gaming-industry/dutch-consumer-group-suing-playstation-argues-the-end-of-physical-discs-just-proves-its-point-sony-alone-decides-what-a-game-costs-and-even-how-long-you-are-allowed-to-use-it/",
-    "thumbnail": "https://cdn.mos.cms.futurecdn.net/nE2VCRs9mfSjF4xCyaMZbP-1280-80.jpg",
-    "source": "PC Gamer",
-    "category": "Gaming Industry",
-    "date": 1783893948000
+    "title": "Gawrsh! Kingdom Hearts 'Deep Dive' Locked for D23 Next Month",
+    "link": "https://www.pushsquare.com/news/2026/07/gawrsh-kingdom-hearts-deep-dive-locked-for-d23-next-month",
+    "thumbnail": "https://images.pushsquare.com/8a57cd9fc1f6c/large.jpg",
+    "source": "Push Square",
+    "category": "Article",
+    "date": 1783985400000
   },
   {
-    "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2279420244.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "title": "PS5's Call of Duty: Black Ops Port Reportedly Riddled with Hackers",
+    "link": "https://www.pushsquare.com/news/2026/07/ps5s-call-of-duty-black-ops-port-reportedly-riddled-with-hackers",
+    "thumbnail": "https://images.pushsquare.com/ae40678cb471b/large.jpg",
+    "source": "Push Square",
+    "category": "Article",
+    "date": 1783983600000
+  },
+  {
+    "title": "Microsoft tests Windows Search without all the ads and fluff",
+    "link": "https://www.theverge.com/tech/965090/microsoft-windows-11-search-menu-ads",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/windows-search-update.png?quality=90&strip=all&crop=0,6.2259176247693,100,93.774082375231",
+    "source": "The Verge (Tech)",
+    "category": "Microsoft",
+    "date": 1783979600000
+  },
+  {
+    "title": "OnePlus is reportedly bailing on the US",
+    "link": "https://www.theverge.com/tech/965084/oneplus-oppo-exit-us-europe",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258099_OnePlus_15_review_AJohnson_0005.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source": "The Verge (Tech)",
+    "category": "OnePlus",
+    "date": 1783979323000
+  },
+  {
+    "title": "Fallout: New Vegas director Josh Sawyer reveals his optimal outcome for the Mojave Wasteland",
+    "link": "https://www.pcgamer.com/games/fallout/fallout-new-vegas-director-josh-sawyer-reveals-his-optimal-outcome-for-the-mojave-wasteland/",
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/b7Ee2QU6bBgDahQqUPHw3N-1280-80.jpg",
+    "source": "PC Gamer",
+    "category": "Fallout",
+    "date": 1783976822000
+  },
+  {
+    "title": "The Shokz OpenRun Pro are the cheapest they’ve been since January",
+    "link": "https://www.theverge.com/gadgets/964982/shokz-openrun-pro-bone-conduction-headphones-summer-deal-sale",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Shokz_OpenRun_Headphones_Lifestyle_Press_Image.webp?quality=90&strip=all&crop=0,0,100,100",
+    "source": "The Verge (Tech)",
+    "category": "Gadgets",
+    "date": 1783976264000
+  },
+  {
+    "title": "The Pixel colors might rule this year",
+    "link": "https://www.theverge.com/tech/964972/google-pixel-11-colors-rumor",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/pixel-11-leak.png?quality=90&strip=all&crop=0,0,100,100",
+    "source": "The Verge (Tech)",
+    "category": "Google",
+    "date": 1783975947000
+  },
+  {
+    "title": "My Chemical Romance front man Gerard Way pauses concert to talk classic RPGs, admits he hasn't played Baldur's Gate 3 yet: 'The first one was a lot of fun, the closest thing at the time to playing D&amp;D'",
+    "link": "https://www.pcgamer.com/games/baldurs-gate/my-chemical-romance-front-man-gerard-way-pauses-concert-to-talk-classic-rpgs-admits-he-hasnt-played-baldurs-gate-3-yet-the-first-one-was-a-lot-of-fun-the-closest-thing-at-the-time-to-playing-d-and-d/",
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/V87wXWzFgFApPkWGE6n7Ma-1280-80.jpg",
+    "source": "PC Gamer",
+    "category": "Baldur&amp;#039;s Gate",
+    "date": 1783975544000
+  },
+  {
+    "title": "Apple’s public betas for iOS 27 and more are out now",
+    "link": "https://www.theverge.com/tech/964307/apple-public-betas-ios-27-siri-ai",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-5.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source": "The Verge (Tech)",
+    "category": "Apple",
+    "date": 1783975540000
+  },
+  {
+    "title": "Siri AI makes the Apple Watch finally feel like a wrist computer",
+    "link": "https://www.theverge.com/tech/964800/watchos-27-preview-siri-ai-apple-watch-gestures-smartwatch",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268635_Siri_AI_AKrales_0004.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source": "The Verge (Tech)",
+    "category": "Apple",
+    "date": 1783975460000
+  },
+  {
+    "title": "Siri AI is already changing how I use my iPhone",
+    "link": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source": "The Verge (Tech)",
     "category": "AI",
-    "date": 1783887019000
+    "date": 1783975400000
   },
   {
-    "title": "Christopher Nolan celebrates Backrooms' success, believes younger generations are rejecting AI: 'Their judgement of AI slop has been immediate and harsh'",
-    "link": "https://www.pcgamer.com/gaming-industry/chirstopher-nolan-celebrates-backrooms-success-believes-younger-generations-are-rejecting-ai-their-judgement-of-ai-slop-has-been-immediate-and-harsh/",
-    "thumbnail": "https://cdn.mos.cms.futurecdn.net/oFoDnnaNY7hVGim3v7hWtZ-1280-80.jpg",
+    "title": "The macOS 27 public beta is worth it just for the Liquid Glass tweaks",
+    "link": "https://www.theverge.com/tech/964701/apple-macos-27-golden-gate-public-beta-impressions-liquid-glass-siri-ai",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-13-at-11.41.37-AM.png?quality=90&strip=all&crop=0,0,100,100",
+    "source": "The Verge (Tech)",
+    "category": "Analysis",
+    "date": 1783975395000
+  },
+  {
+    "title": "Sick of holding F in Palworld? Change these two settings to make crafting and building less obnoxious",
+    "link": "https://www.pcgamer.com/games/survival-crafting/sick-of-holding-f-in-palworld-change-these-two-settings-to-make-crafting-and-building-less-obnoxious/",
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/JQG5QcAFq3pJQp9qtEh3Jm-1280-80.jpg",
+    "source": "PC Gamer",
+    "category": "Survival &amp;amp; Crafting",
+    "date": 1783973382000
+  },
+  {
+    "title": "'I'm in this whole new world': Here's what Eric Barone had to say about the life-changing Stardew Valley 10 years ago this month",
+    "link": "https://www.pcgamer.com/games/rpg/im-in-this-whole-new-world-heres-what-eric-barone-had-to-say-about-the-life-changing-stardew-valley-10-years-ago-this-month/",
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/SD6UNNbsi4xXL7gewprZy3-1280-80.png",
+    "source": "PC Gamer",
+    "category": "RPG",
+    "date": 1783972779000
+  },
+  {
+    "title": "One week after going independent in the Xbox bloodbath, South of Midnight developer Compulsion Games is looking for work",
+    "link": "https://www.pcgamer.com/gaming-industry/one-week-after-going-independent-in-the-xbox-bloodbath-south-of-midnight-developer-compulsion-games-is-looking-for-work/",
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/GghMDwX7RCsY2ESBcRUn2m-1280-80.jpg",
     "source": "PC Gamer",
     "category": "Gaming Industry",
-    "date": 1783886839000
+    "date": 1783971623000
   },
   {
-    "title": "Going from skull-cracker to safecracker in Dishonored 2",
-    "link": "https://www.pcgamer.com/games/action/going-from-skull-cracker-to-safecracker-in-dishonored-2/",
-    "thumbnail": "https://cdn.mos.cms.futurecdn.net/3TZpDVEedV3KUm49GRuyhj-1280-80.png",
+    "title": "How to get married in Moonlight Peaks, or divorced, if your undead heart wanders",
+    "link": "https://www.pcgamer.com/games/life-sim/moonlight-peaks-marriage-divorce/",
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/xUeNGV3S5txWhRPny2Qmtg-1280-80.jpg",
     "source": "PC Gamer",
-    "category": "Action",
-    "date": 1783877439000
+    "category": "Life Sim",
+    "date": 1783971106000
   },
   {
-    "title": "Elder Scrolls Online studio echoes id Software, claims to now be the same size it was 10 years ago following Xbox layoffs",
-    "link": "https://www.pcgamer.com/games/mmo/elder-scrolls-online-studio-echoes-id-software-claims-to-now-be-the-same-size-it-was-10-years-ago-following-xbox-layoffs/",
-    "thumbnail": "https://cdn.mos.cms.futurecdn.net/Z8Jvttj6PzZCDBqaDydeeN-1280-80.jpg",
+    "title": "The GoldenEye homage that left us 'shaken and stirred' in 2022 is finally launching in August",
+    "link": "https://www.pcgamer.com/games/fps/the-goldeneye-homage-that-left-us-shaken-and-stirred-in-2022-is-finally-launching-in-august/",
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/GXxc6Lf96Btezhc6YYCZGY-1280-80.jpg",
     "source": "PC Gamer",
-    "category": "MMO",
-    "date": 1783876877000
+    "category": "FPS",
+    "date": 1783966929000
   },
   {
-    "title": "We're not quite done with 2026, but here are 9 videogame bangers that have defined the year so far",
-    "link": "https://www.pcgamer.com/games/were-not-quite-done-with-2026-but-here-are-9-videogame-bangers-that-have-defined-the-year-so-far/",
-    "thumbnail": "https://cdn.mos.cms.futurecdn.net/yruNZpH3ikCu2292pbB328-1280-80.jpg",
+    "title": "Halo Ready for PS5 Debut, Campaign Evolved Goes Gold",
+    "link": "https://www.pushsquare.com/news/2026/07/halo-ready-for-ps5-debut-campaign-evolved-goes-gold",
+    "thumbnail": "https://images.pushsquare.com/19943772dfdb5/large.jpg",
+    "source": "Push Square",
+    "category": "Article",
+    "date": 1783965600000
+  },
+  {
+    "title": "'Overwhelmingly Positive' Korean Detective Game Coming to PS5 Next Month",
+    "link": "https://www.pushsquare.com/news/2026/07/overwhelmingly-positive-korean-detective-game-coming-to-ps5-next-month",
+    "thumbnail": "https://images.pushsquare.com/95df32f0a65d4/large.jpg",
+    "source": "Push Square",
+    "category": "Article",
+    "date": 1783963800000
+  },
+  {
+    "title": "Steam had a slow start on Monday just like the rest of us",
+    "link": "https://www.pcgamer.com/games/steam-store-issues-july-13-2026/",
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/ocyiDF76QwDQKRvvKB2hRQ-1280-80.jpg",
     "source": "PC Gamer",
     "category": "Games",
-    "date": 1783875600000
+    "date": 1783962666000
   },
   {
-    "title": "Analyst says Sony going all-in on digital is like the death of PC disc drives: 'Not a single person is complaining about it today'",
-    "link": "https://www.pcgamer.com/gaming-industry/analyst-says-sony-going-all-in-on-digital-is-like-the-death-of-pc-disc-drives-not-a-single-person-is-complaining-about-it-today/",
-    "thumbnail": "https://cdn.mos.cms.futurecdn.net/TvQMi6JGvTmcUGmM8c8VgU-1280-80.jpg",
-    "source": "PC Gamer",
-    "category": "Gaming Industry",
-    "date": 1783875205000
-  },
-  {
-    "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
-    "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/apple_chips.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "title": "The 6 wildest claims in Apple’s lawsuit against OpenAI",
+    "link": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2236544097.jpg?quality=90&strip=all&crop=0,0,100,100",
     "source": "The Verge (Tech)",
     "category": "AI",
-    "date": 1783873626000
+    "date": 1783962000000
+  },
+  {
+    "title": "Staff Protest as MindsEye Studio Hosts 'Extravagant' Fan Playtest Following Mass Layoffs",
+    "link": "https://www.pushsquare.com/news/2026/07/staff-protest-as-mindseye-studio-hosts-extravagant-fan-playtest-following-mass-layoffs",
+    "thumbnail": "https://images.pushsquare.com/2f62b0922c0aa/large.jpg",
+    "source": "Push Square",
+    "category": "Article",
+    "date": 1783962000000
+  },
+  {
+    "title": "Marvel Rivals has upset players yet again with some peculiar balances that buff some of the strongest heroes",
+    "link": "https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-has-upset-players-yet-again-with-some-peculiar-balances-that-buff-some-of-the-strongest-heroes/",
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/AVVGZtqSM8jGSr5hrAC5JC-1280-80.png",
+    "source": "PC Gamer",
+    "category": "Third Person Shooter",
+    "date": 1783961294000
+  },
+  {
+    "title": "Hackers quickly prove that Neo Geo Doom ports are not \"impossible\"",
+    "link": "https://arstechnica.com/gaming/2026/07/hackers-quickly-prove-that-neo-geo-doom-ports-are-not-impossible/",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/doomng2-500x500.png",
+    "source": "Ars Technica",
+    "category": "coding",
+    "date": 1783960634000
+  },
+  {
+    "title": "Outlaws + Handful Of Missions Is Coming To Switch 2, Free Upgrade Confirmed",
+    "link": "https://www.nintendolife.com/news/2026/07/outlaws-plus-handful-of-missions-is-coming-to-switch-2-free-upgrade-confirmed",
+    "thumbnail": "https://images.nintendolife.com/14f977f9a4072/large.jpg",
+    "source": "Nintendo Life",
+    "category": "Article",
+    "date": 1783960200000
+  },
+  {
+    "title": "More Windows security updates to come as Microsoft leverages AI vulnerability detection, but 'only the highest-confidence findings reach the engineering team'",
+    "link": "https://www.pcgamer.com/software/ai/more-windows-security-updates-to-come-as-microsoft-leverages-ai-vulnerability-detection-but-only-the-highest-confidence-findings-reach-the-engineering-team/",
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/kc77wf7a29YuNrdx6Ugct9-1280-80.jpg",
+    "source": "PC Gamer",
+    "category": "AI",
+    "date": 1783959881000
+  },
+  {
+    "title": "Halo Studios reportedly cancels Halo multiplayer project Ekur, which had customisable Spartans and Elites and large player battles",
+    "link": "https://www.eurogamer.net/halo-studios-project-ekur-cancelled-certain-affinity",
+    "thumbnail": "https://assetsio.gnwcdn.com/halo-campaign-evolved-reveal-screen-11.jpeg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
+    "source": "Eurogamer",
+    "category": "Action Adventure",
+    "date": 1783959654000
+  },
+  {
+    "title": "\"A kick in the teeth for the fired workers\": Unionised former MindsEye devs protest alleged fan playtest at Build A Rocket Boy",
+    "link": "https://www.rockpapershotgun.com/a-kick-in-the-teeth-for-the-fired-workers-unionised-former-mindseye-devs-protest-alleged-fan-playtest-at-build-a-rocket-boy",
+    "thumbnail": "https://assetsio.gnwcdn.com/iwgb-mindseye-protest-alleged-playtest-event-01.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
+    "source": "Rock Paper Shotgun",
+    "category": "Xbox Series X/S",
+    "date": 1783958932000
+  },
+  {
+    "title": "Games Done Quick announces and then quickly cancels SNK-sponsored stream because of company's Saudi ownership",
+    "link": "https://www.eurogamer.net/games-done-quick-cancels-snk-sponsored-stream",
+    "thumbnail": "https://assetsio.gnwcdn.com/Metal-Slug-Attack-key-art.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
+    "source": "Eurogamer",
+    "category": "gdq",
+    "date": 1783958268000
+  },
+  {
+    "title": "Rally Point: I am extremely here for turn-based strategy game The Great Villainess, and not just for gay reasons",
+    "link": "https://www.rockpapershotgun.com/rally-point-i-am-extremely-here-for-turn-based-strategy-game-the-great-villainess-and-not-just-for-gay-reasons",
+    "thumbnail": "https://assetsio.gnwcdn.com/The-Great-Villainess-1.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
+    "source": "Rock Paper Shotgun",
+    "category": "Side view",
+    "date": 1783956625000
+  },
+  {
+    "title": "DOOM PS5 DLC Quietly Becomes One of 2026's Best-Rated Releases",
+    "link": "https://www.pushsquare.com/news/2026/07/doom-ps5-dlc-quietly-becomes-one-of-2026s-best-rated-releases",
+    "thumbnail": "https://images.pushsquare.com/0b7902184bae1/large.jpg",
+    "source": "Push Square",
+    "category": "Article",
+    "date": 1783955700000
+  },
+  {
+    "title": "Even Nvidia’s head of automotive fights with Nvidia for compute",
+    "link": "https://www.theverge.com/podcast/964614/nvidia-auto-xinzhou-wu-ev-ai-hyperion-autonomy-cars-tesla",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/DCD_20260713_XinzhouWu.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "source": "The Verge (Tech)",
+    "category": "Autonomous Cars",
+    "date": 1783954800000
+  },
+  {
+    "title": "Feature: Nintendo's Japan-Only 'bit Generations' Still Plays Like Little Else 20 Years On",
+    "link": "https://www.nintendolife.com/features/nintendos-japan-only-bit-generations-still-plays-like-little-else-20-years-on",
+    "thumbnail": "https://images.nintendolife.com/fa40a2b072f42/large.jpg",
+    "source": "Nintendo Life",
+    "category": "Article",
+    "date": 1783954800000
+  },
+  {
+    "title": "Nintendo's next Lego set looks to be a retro Donkey Kong arcade machine",
+    "link": "https://www.eurogamer.net/lego-donkey-kong-arcade-machine-set-leaked",
+    "thumbnail": "https://assetsio.gnwcdn.com/DK-arcade-art.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
+    "source": "Eurogamer",
+    "category": "Action Adventure",
+    "date": 1783954518000
+  },
+  {
+    "title": "The Asus ROG Flow Z13 gaming tablet with 64GB RAM is down to $2,100",
+    "link": "https://www.theverge.com/gadgets/964652/asus-rog-flow-z13-switch-2-camera-amd-ryzen-ddr4-deal-sale",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/flowz13.png?quality=90&strip=all&crop=0,0,100,100",
+    "source": "The Verge (Games)",
+    "category": "Deals",
+    "date": 1783954334000
+  },
+  {
+    "title": "Bully's Spiritual Successor Playing Truant on PS5, Console Release Date to Be Announced Later",
+    "link": "https://www.pushsquare.com/news/2026/07/bullys-spiritual-successor-playing-truant-on-ps5-console-release-date-to-be-announced-later",
+    "thumbnail": "https://images.pushsquare.com/082e15abe7d23/large.jpg",
+    "source": "Push Square",
+    "category": "Article",
+    "date": 1783953900000
+  },
+  {
+    "title": "Well, Marvel Tokon: Fighting Souls is now only barred from purchase in 117 countries according to Steam's backend, which is a start",
+    "link": "https://www.rockpapershotgun.com/well-marvel-tokon-fighting-souls-is-now-only-barred-from-purchase-in-117-countries-according-to-steams-backend-which-is-a-start",
+    "thumbnail": "https://assetsio.gnwcdn.com/marvel-tokon-fighting-souls-no-purchase-117-countries-01.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
+    "source": "Rock Paper Shotgun",
+    "category": "Side view",
+    "date": 1783953604000
+  },
+  {
+    "title": "Guide: Marvel Tokon: Fighting Souls Open Beta: Start Times, How to Play, and What's Included",
+    "link": "https://www.pushsquare.com/guides/marvel-tokon-fighting-souls-open-beta-start-times-how-to-play-and-whats-included",
+    "thumbnail": "https://images.pushsquare.com/8553505ea7ee1/large.jpg",
+    "source": "Push Square",
+    "category": "Article",
+    "date": 1783953000000
+  },
+  {
+    "title": "You'll Need to Play Pokémon Dev's Beast of Reincarnation Twice for All the PS5 Trophies",
+    "link": "https://www.pushsquare.com/news/2026/07/youll-need-to-play-pokemon-devs-beast-of-reincarnation-twice-for-all-the-ps5-trophies",
+    "thumbnail": "https://images.pushsquare.com/8603981d196c6/large.jpg",
+    "source": "Push Square",
+    "category": "Article",
+    "date": 1783951200000
+  },
+  {
+    "title": "Octopath Traveler 1 &amp; 2 Announced For Switch 2 With Improved Performance And Visuals",
+    "link": "https://www.nintendolife.com/news/2026/07/octopath-traveler-1-and-2-announced-for-switch-2-with-improved-performance-and-visuals",
+    "thumbnail": "https://images.nintendolife.com/e35387256e00a/large.jpg",
+    "source": "Nintendo Life",
+    "category": "Article",
+    "date": 1783950300000
+  },
+  {
+    "title": "Amid Assassin's Creed Black Flag Resynced furore, Ubisoft's latest financial report removes widely mocked claim microtransactions make games \"more fun\"",
+    "link": "https://www.eurogamer.net/ubisoft-microtransactions-fun-claim-black-flag-resynced",
+    "thumbnail": "https://assetsio.gnwcdn.com/Main-Image-2-Edward-Smiling-Finding-Treasure.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
+    "source": "Eurogamer",
+    "category": "Action Adventure",
+    "date": 1783950136000
+  },
+  {
+    "title": "The 'Classic' nostalgia trend continues as League of Legends Classic gets a release date and the promise of player-voted patches",
+    "link": "https://www.eurogamer.net/league-of-legends-classic-release-date-details",
+    "thumbnail": "https://assetsio.gnwcdn.com/LoL-Classic-key-art.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
+    "source": "Eurogamer",
+    "category": "PC",
+    "date": 1783949239000
+  },
+  {
+    "title": "Here Come the Lawsuits! Sony's Physical Disc Debacle Likely to Keep Its Lawyers Busy",
+    "link": "https://www.pushsquare.com/news/2026/07/here-come-the-lawsuits-sonys-physical-disc-debacle-likely-to-keep-its-lawyers-busy",
+    "thumbnail": "https://images.pushsquare.com/0fd052513057e/large.jpg",
+    "source": "Push Square",
+    "category": "Article",
+    "date": 1783948500000
+  },
+  {
+    "title": "Expensive and pointless? Black Ops 1 and 2 PS4 and PS5 ports cost a lot of money and barely offer any upgrades over the originals",
+    "link": "https://www.eurogamer.net/call-of-duty-black-ops-1-2-ps4-ps5-ports-high-price-lack-of-features",
+    "thumbnail": "https://assetsio.gnwcdn.com/codblops_XDkxcgp.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
+    "source": "Eurogamer",
+    "category": "Multiplayer Cooperative",
+    "date": 1783945393000
+  },
+  {
+    "title": "Obsidian still have \"the same DNA\" that went into New Vegas and KOTOR 2, The Outer Worlds 2 director insists, following chatter around layoffs",
+    "link": "https://www.rockpapershotgun.com/obsidian-still-have-the-same-dna-that-went-into-new-vegas-and-kotor-2-the-outer-worlds-2-director-insists-following-chatter-around-layoffs",
+    "thumbnail": "https://assetsio.gnwcdn.com/outer-worlds-2-director-responds-obsidian-layoffs-02.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
+    "source": "Rock Paper Shotgun",
+    "category": "Third person",
+    "date": 1783944971000
+  },
+  {
+    "title": "Xbox cuts \"not the end\" for The Elder Scrolls Online, insists ZeniMax, despite a drastic reduction in size",
+    "link": "https://www.eurogamer.net/the-elder-scrolls-online-xbox-layoffs-roadmap",
+    "thumbnail": "https://assetsio.gnwcdn.com/elder-scrolls-online-epic-free-game.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
+    "source": "Eurogamer",
+    "category": "Action Adventure",
+    "date": 1783944784000
+  },
+  {
+    "title": "This week in PC games: vert-ramping trains, a retold murder mystery, and Cthulhu’s new gig as an AI Director",
+    "link": "https://www.rockpapershotgun.com/this-week-in-pc-games-vert-ramping-trains-a-retold-murder-mystery-and-cthulhus-new-gig-as-an-ai-director",
+    "thumbnail": "https://assetsio.gnwcdn.com/Denshattack!-Screenshot-1.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
+    "source": "Rock Paper Shotgun",
+    "category": "Third person",
+    "date": 1783942770000
+  },
+  {
+    "title": "Baldur's Gate 3's Astarion gets an extra ending cutscene, made by a modder keen not to finish up on a rather awkward note",
+    "link": "https://www.rockpapershotgun.com/baldurs-gate-3s-astarion-gets-an-extra-ending-cutscene-made-by-a-modder-keen-not-to-finish-up-on-a-rather-awkward-note",
+    "thumbnail": "https://assetsio.gnwcdn.com/baldurs-gate-3-mod-extra-astarion-ending-cutscene-01.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
+    "source": "Rock Paper Shotgun",
+    "category": "Story Rich",
+    "date": 1783940257000
+  },
+  {
+    "title": "Palworld barges Dota 2 aside as PC player counts skyrocket following the game's 1.0 release",
+    "link": "https://www.eurogamer.net/palworld-player-count-launch-weekend",
+    "thumbnail": "https://assetsio.gnwcdn.com/Palworld---pink-and-blue-Pals.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
+    "source": "Eurogamer",
+    "category": "Action Adventure",
+    "date": 1783939074000
+  },
+  {
+    "title": "Persona 3 20th Anniversary Video Showcases Remixed Music And Pixel Art",
+    "link": "https://www.nintendolife.com/news/2026/07/persona-3-20th-anniversary-video-showcases-remixed-music-and-pixel-art",
+    "thumbnail": "https://images.nintendolife.com/2fd5701cec9e9/large.jpg",
+    "source": "Nintendo Life",
+    "category": "Article",
+    "date": 1783937700000
+  },
+  {
+    "title": "Poll: Splatoon 3's Raiders-Themed Splatfest Has Crowned Its Champion",
+    "link": "https://www.nintendolife.com/news/2026/07/poll-splatoon-3s-raiders-themed-splatfest-has-crowned-its-champion",
+    "thumbnail": "https://images.nintendolife.com/46bb434bab9ab/large.jpg",
+    "source": "Nintendo Life",
+    "category": "Article",
+    "date": 1783935000000
+  },
+  {
+    "title": "\"An oversight we deeply regret\": Games Done Quick cancel SNK-sponsored stream following backlash over studio's Saudi Arabian ownership",
+    "link": "https://www.rockpapershotgun.com/an-oversight-we-deeply-regret-games-done-quick-cancel-snk-sponsored-stream-following-backlash-over-studios-saudi-arabian-ownership",
+    "thumbnail": "https://assetsio.gnwcdn.com/metal-slug-gdq-pulls-snk-sponsored-stream-01.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
+    "source": "Rock Paper Shotgun",
+    "category": "Atari",
+    "date": 1783934438000
+  },
+  {
+    "title": "Despite having an offline mode, Assassin's Creed Black Flag Resynced was unplayable when Ubisoft Connect went down",
+    "link": "https://www.eurogamer.net/assassins-creed-black-flag-resynced-ubisoft-connect-outage-offline-mode",
+    "thumbnail": "https://assetsio.gnwcdn.com/AC-Black-Flag-Resynced---reaching-a-port.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
+    "source": "Eurogamer",
+    "category": "Action Adventure",
+    "date": 1783933497000
+  },
+  {
+    "title": "UK Charts: Assassin's Creed Plants Its Black Flag At Number One",
+    "link": "https://www.nintendolife.com/news/2026/07/uk-charts-assassins-creed-plants-its-black-flag-at-number-one",
+    "thumbnail": "https://images.nintendolife.com/699addb5e8d39/large.jpg",
+    "source": "Nintendo Life",
+    "category": "Article",
+    "date": 1783932300000
   },
   {
     "title": "Summer Games Done Quick 2026 raises another $2.4 million for Doctors Without Borders",
     "link": "https://www.eurogamer.net/sgdq-2026-raises-24-m",
     "thumbnail": "https://assetsio.gnwcdn.com/Kirby-Air-Raiders_Kirby_main.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
     "source": "Eurogamer",
-    "category": "PS4",
+    "category": "Action Adventure",
     "date": 1783873483000
-  },
-  {
-    "title": "Steam's \"no questions asked\" refund policy makes it \"super easy for players to abuse this rule\", says indie developer",
-    "link": "https://www.eurogamer.net/indie-dev-steam-refund-policy",
-    "thumbnail": "https://assetsio.gnwcdn.com/ss_951767b5cc22d619992fcc91e859453ab7a2fce5.1920x1080.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
-    "source": "Eurogamer",
-    "category": "Valve",
-    "date": 1783872237000
-  },
-  {
-    "title": "2026's best RPG might look like Disco Elysium, but it was heavily inspired by Deus Ex, and its creator wants 'to do a first-person game at some point'",
-    "link": "https://www.pcgamer.com/gaming-industry/2026s-best-rpg-might-look-like-disco-elysium-but-it-was-heavily-inspired-by-deus-ex-and-its-creator-wants-to-do-a-first-person-game-at-some-point/",
-    "thumbnail": "https://cdn.mos.cms.futurecdn.net/Lkm4j23n2XyGogAGbB97Ak-1280-80.jpg",
-    "source": "PC Gamer",
-    "category": "Gaming Industry",
-    "date": 1783872000000
-  },
-  {
-    "title": "League of Legends' 'classic' mode has a release date, and it isn't just an old version of the game—players will vote on new patches, Old School RuneScape-style",
-    "link": "https://www.pcgamer.com/games/moba/league-of-legends-classic-mode-has-a-release-date-and-it-isnt-just-an-old-version-of-the-game-players-will-vote-on-new-patches-old-school-runescape-style/",
-    "thumbnail": "https://cdn.mos.cms.futurecdn.net/zCGFPK7BZDRwtG3BHJnXmQ-1280-80.jpg",
-    "source": "PC Gamer",
-    "category": "MOBA",
-    "date": 1783871698000
-  },
-  {
-    "title": "God of War Laufey studio hints at 2027 release window following tweet that assures players it \"will be available on disc\"",
-    "link": "https://www.eurogamer.net/god-of-war-laufey-disc-confirmed",
-    "thumbnail": "https://assetsio.gnwcdn.com/god-of-war-laufey.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
-    "source": "Eurogamer",
-    "category": "Santa Monica Studio",
-    "date": 1783869531000
   },
   {
     "title": "One of SteelSeries’ best gaming headsets is over $100 off",
@@ -120,46 +456,6 @@
     "date": 1783868400000
   },
   {
-    "title": "Marvel Tōkon: Fighting Souls' single-player Episode Modes have been written by legendary writer, Kieron Gillen",
-    "link": "https://www.eurogamer.net/marvel-tokon-fighting-souls-episode-modes-kieron-gillen",
-    "thumbnail": "https://assetsio.gnwcdn.com/Marvel-Tokon_teamup.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
-    "source": "Eurogamer",
-    "category": "Marvel Games",
-    "date": 1783868021000
-  },
-  {
-    "title": "How Philips Hue got the smart home right",
-    "link": "https://www.theverge.com/podcast/964515/philips-hue-smart-lights-version-history",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRH_Hue_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source": "The Verge (Tech)",
-    "category": "Gadgets",
-    "date": 1783867081000
-  },
-  {
-    "title": "Black Flag Resynced certainly scratches my nostalgia itch, but do you know what else does? Assassin's Creed Black Flag",
-    "link": "https://www.pcgamer.com/games/assassins-creed/black-flag-resynced-certainly-scratches-my-nostalgia-itch-but-do-you-know-what-else-does-assassins-creed-black-flag/",
-    "thumbnail": "https://cdn.mos.cms.futurecdn.net/42kZECKyfWyghpYasm6cMf-1280-80.jpg",
-    "source": "PC Gamer",
-    "category": "Assassin&amp;#039;s Creed",
-    "date": 1783864800000
-  },
-  {
-    "title": "Less is more with the Oura Ring 5",
-    "link": "https://www.theverge.com/tech/964386/oura-ring-5-review-smart-ring-wearables",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268600_oura_ring_5_AKrales_0125.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source": "The Verge (Tech)",
-    "category": "Fitness",
-    "date": 1783864800000
-  },
-  {
-    "title": "Tomb Raider: Legacy of Atlantis actor wraps up \"on the last official session\" of recording",
-    "link": "https://www.eurogamer.net/tomb-raider-legacy-of-atlantis-wraps-recording",
-    "thumbnail": "https://assetsio.gnwcdn.com/Lara-Croft-holds-her-two-pistols-at-arms-length-in-Tomb-Raider-Legacy-of-Atlantis.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
-    "source": "Eurogamer",
-    "category": "Platformer",
-    "date": 1783862614000
-  },
-  {
     "title": "Blue Prince became a bonding — and learning — experience for my family",
     "link": "https://www.theverge.com/games/964262/blue-prince-family-bonding",
     "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/blue-prince-hallway.png?quality=90&strip=all&crop=0,0,100,100",
@@ -168,33 +464,9 @@
     "date": 1783861200000
   },
   {
-    "title": "PS5's Physical Disc Debacle Will Attract More Anger if This Xbox Rumour Is True",
-    "link": "https://www.pushsquare.com/news/2026/07/ps5s-physical-disc-debacle-will-attract-more-anger-if-this-xbox-rumour-is-true",
-    "thumbnail": "https://images.pushsquare.com/2096e140ba34a/large.jpg",
-    "source": "Push Square",
-    "category": "Article",
-    "date": 1783859400000
-  },
-  {
-    "title": "The fight against AI data centers is just beginning",
-    "link": "https://www.theverge.com/column/963346/ai-data-centers-fight",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2282688394.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source": "The Verge (Tech)",
-    "category": "AI",
-    "date": 1783857600000
-  },
-  {
-    "title": "Hands On: In Its Eleventh Season, The Finals Is Better Than Ever",
-    "link": "https://www.pushsquare.com/features/hands-on-in-its-eleventh-season-the-finals-is-better-than-ever",
-    "thumbnail": "https://images.pushsquare.com/8e0f509527932/large.jpg",
-    "source": "Push Square",
-    "category": "Article",
-    "date": 1783857600000
-  },
-  {
     "title": "The Sunday Papers",
     "link": "https://www.rockpapershotgun.com/the-sunday-papers-818",
-    "thumbnail": "https://assetsio.gnwcdn.com/the-sunday-papers-big.jpg?width=690&quality=85&format=jpg&auto=webp",
+    "thumbnail": "https://assetsio.gnwcdn.com/the-sunday-papers-big.jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
     "source": "Rock Paper Shotgun",
     "category": "The Sunday Papers",
     "date": 1783846800000
@@ -206,277 +478,5 @@
     "source": "Nintendo Life",
     "category": "Article",
     "date": 1783846800000
-  },
-  {
-    "title": "Warframe Reveals Major New Chapter, Playing Card Mini-Game, Fortnite Collab And Much More",
-    "link": "https://www.nintendolife.com/news/2026/07/warframe-reveals-major-new-chapter-playing-card-mini-game-fortnite-collab-and-much-more",
-    "thumbnail": "https://images.nintendolife.com/c079c3a8b37f8/large.jpg",
-    "source": "Nintendo Life",
-    "category": "Article",
-    "date": 1783843200000
-  },
-  {
-    "title": "Reminder: Tetris 99's New Crossover Event Celebrates The Return Of Star Fox, Unlock A Special Theme",
-    "link": "https://www.nintendolife.com/news/2026/07/reminder-tetris-99s-new-crossover-event-celebrates-the-return-of-star-fox-unlock-a-special-theme",
-    "thumbnail": "https://images.nintendolife.com/04a07131fce44/large.jpg",
-    "source": "Nintendo Life",
-    "category": "Article",
-    "date": 1783839600000
-  },
-  {
-    "title": "Poll: Splatoon 3's Raiders-Themed Splatfest Kicks Off This Weekend, Which Team Gets Your Vote?",
-    "link": "https://www.nintendolife.com/news/2026/07/poll-splatoon-3s-raiders-themed-splatfest-kicks-off-this-weekend-which-team-gets-your-vote",
-    "thumbnail": "https://images.nintendolife.com/46bb434bab9ab/large.jpg",
-    "source": "Nintendo Life",
-    "category": "Article",
-    "date": 1783836000000
-  },
-  {
-    "title": "Koei Tecmo Wanted Pokémon Pokopia To Be The Very Best (Selling) Pokémon Spin-Off",
-    "link": "https://www.nintendolife.com/news/2026/07/koei-tecmo-wanted-pokemon-pokopia-to-be-the-very-best-selling-pokemon-spin-off",
-    "thumbnail": "https://images.nintendolife.com/31c30aee008c5/large.jpg",
-    "source": "Nintendo Life",
-    "category": "Article",
-    "date": 1783828800000
-  },
-  {
-    "title": "Assassin's Creed Black Flag Skin Returns In Rayman Legends Retold",
-    "link": "https://www.nintendolife.com/news/2026/07/assassins-creed-black-flag-skin-returns-in-rayman-legends-retold",
-    "thumbnail": "https://images.nintendolife.com/d450034d60af7/large.jpg",
-    "source": "Nintendo Life",
-    "category": "Article",
-    "date": 1783810800000
-  },
-  {
-    "title": "Warframe's next major update blends Blade Runner, The Sopranos, and film noir in a whole new solar system, coming later this year",
-    "link": "https://www.eurogamer.net/warframe-tau-tennocon-reveal-blade-runner-sopranos",
-    "thumbnail": "https://assetsio.gnwcdn.com/WF_TauDemo_Screenshotr_Brysko_3840x2160.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
-    "source": "Eurogamer",
-    "category": "PS4",
-    "date": 1783808540000
-  },
-  {
-    "title": "Digital Extremes finally reveal Warframe: Tau, the sci-fi shooter's long-awaited second solar system, and it's a gruesome place indeed",
-    "link": "https://www.rockpapershotgun.com/digital-extremes-finally-reveal-warframe-tau-the-sci-fi-shooters-long-awaited-second-solar-system-and-its-a-gruesome-place-indeed",
-    "thumbnail": "https://assetsio.gnwcdn.com/WF_TauPromo_Keyart_4x3.png?width=690&quality=85&format=jpg&auto=webp",
-    "source": "Rock Paper Shotgun",
-    "category": "Multiplayer Cooperative",
-    "date": 1783808514000
-  },
-  {
-    "title": "\"This is our Spider-Man 3\" - Soulfame's Warsong update adds \"edgelord\" progression path later this year",
-    "link": "https://www.eurogamer.net/soulframe-warsong-trailer-spiderman-3-edgy-mount-fishing",
-    "thumbnail": "https://assetsio.gnwcdn.com/SF_TC2026_Screenshots_Nightmaiden_B.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
-    "source": "Eurogamer",
-    "category": "PC",
-    "date": 1783805228000
-  },
-  {
-    "title": "After years of teasing, the viral Nopia synth is ‘basically finished’",
-    "link": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/maxresdefault_503c4e.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source": "The Verge (Tech)",
-    "category": "Entertainment",
-    "date": 1783803462000
-  },
-  {
-    "title": "Marvel Tokon's Single Player Penned by Kieron Gillen, Features Five Stories and Boss Fights",
-    "link": "https://www.pushsquare.com/news/2026/07/marvel-tokons-single-player-penned-by-kieron-gillen-features-five-stories-and-boss-fights",
-    "thumbnail": "https://images.pushsquare.com/13fe9d89b31b2/large.jpg",
-    "source": "Push Square",
-    "category": "Article",
-    "date": 1783798200000
-  },
-  {
-    "title": "'Bare Bones' PS5 Black Ops Ports Reportedly Have More Players Than Latest Game, Already Best Sellers on PS Store",
-    "link": "https://www.pushsquare.com/news/2026/07/bare-bones-ps5-black-ops-ports-reportedly-have-more-players-than-latest-game-already-best-sellers-on-ps-store",
-    "thumbnail": "https://images.pushsquare.com/7e56920a966ab/large.jpg",
-    "source": "Push Square",
-    "category": "Article",
-    "date": 1783795500000
-  },
-  {
-    "title": "College Football 27 to Remove Single Player Microtransactions After Fans Threatened Boycott",
-    "link": "https://www.pushsquare.com/news/2026/07/college-football-27-to-remove-single-player-microtransactions-after-fans-threatened-boycott",
-    "thumbnail": "https://images.pushsquare.com/532c054685876/large.jpg",
-    "source": "Push Square",
-    "category": "Article",
-    "date": 1783791000000
-  },
-  {
-    "title": "Fantasy action-RPG Soulframe is open to all players for a limited time, with a new dark progression path, wolf mounts, and a Warsongs origin quest on the way",
-    "link": "https://www.rockpapershotgun.com/fantasy-action-rpg-soulframe-is-open-to-all-players-for-a-limited-time-with-a-new-dark-progression-path-wolf-mounts-and-a-warsongs-origin-quest-on-the-way",
-    "thumbnail": "https://assetsio.gnwcdn.com/MendicantReinbreaker.png?width=690&quality=85&format=jpg&auto=webp",
-    "source": "Rock Paper Shotgun",
-    "category": "Multiplayer Cooperative",
-    "date": 1783789200000
-  },
-  {
-    "title": "id Software insists in new statement that it still has \"the crew we need to build the games and tech we're known for\"",
-    "link": "https://www.eurogamer.net/id-software-can-still-build-games",
-    "thumbnail": "https://assetsio.gnwcdn.com/DOOM-SITE_5fKgryC-(1).jpg?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
-    "source": "Eurogamer",
-    "category": "PS4",
-    "date": 1783785660000
-  },
-  {
-    "title": "Assassin's Creed Black Flag Resynced opens to 2 million sales on launch day",
-    "link": "https://www.eurogamer.net/assassins-creed-black-flag-resynced-2-million-sales",
-    "thumbnail": "https://assetsio.gnwcdn.com/Main-Image-2-Edward-Smiling-Finding-Treasure.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
-    "source": "Eurogamer",
-    "category": "Open World",
-    "date": 1783783959000
-  },
-  {
-    "title": "\"I sued their asses and won!\" Gamer wins legal battle to get hacked Xbox account back after they were told to rebuy all their digital games",
-    "link": "https://www.eurogamer.net/court-demands-xbox-restore-suspended-hacked-account",
-    "thumbnail": "https://assetsio.gnwcdn.com/Screenshot-2026-07-11-at-15.58.06.png?width=690&amp;quality=85&amp;format=jpg&amp;auto=webp",
-    "source": "Eurogamer",
-    "category": "Microsoft",
-    "date": 1783782262000
-  },
-  {
-    "title": "Nintendo’s Talking Flower got a small price cut",
-    "link": "https://www.theverge.com/gadgets/964138/nintendo-talking-flower-mario-wonder-deal-sale",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/SMBW_Talking_Flower_001_illu01_01_R_ad-0.png?quality=90&strip=all&crop=0,0,100,100",
-    "source": "The Verge (Games)",
-    "category": "Deals",
-    "date": 1783782000000
-  },
-  {
-    "title": "FL Studio head Constantin Koehncke turns to Reddit for feedback and fun",
-    "link": "https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/IMG_2887.jpeg?quality=90&strip=all&crop=0,0,100,100",
-    "source": "The Verge (Tech)",
-    "category": "Apps",
-    "date": 1783782000000
-  },
-  {
-    "title": "Talking Point: New Ocarina = New amiibo? Nintendo Needs To Make These Zelda Figurines",
-    "link": "https://www.nintendolife.com/features/talking-point-new-ocarina-new-amiibo-nintendo-needs-to-make-these-zelda-figurines",
-    "thumbnail": "https://images.nintendolife.com/1fecaf4185629/large.jpg",
-    "source": "Nintendo Life",
-    "category": "Article",
-    "date": 1783782000000
-  },
-  {
-    "title": "AC Black Flag: Resynced Records Two Million Sales in Opening Day Booty",
-    "link": "https://www.pushsquare.com/news/2026/07/ac-black-flag-resynced-records-two-million-sales-in-opening-day-booty",
-    "thumbnail": "https://images.pushsquare.com/b03b4cad23a15/large.jpg",
-    "source": "Push Square",
-    "category": "Article",
-    "date": 1783774800000
-  },
-  {
-    "title": "A tasty RPG that will make you very hungry",
-    "link": "https://www.theverge.com/entertainment/964061/dosa-divas-review-ps5-steam-switch",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Dosa_Divas_Screenshot_cooking02_4k.png?quality=90&strip=all&crop=0,0,100,100",
-    "source": "The Verge (Games)",
-    "category": "Entertainment",
-    "date": 1783771200000
-  },
-  {
-    "title": "The perfect kit for all your tiny repairs",
-    "link": "https://www.theverge.com/tech/964169/ifixit-repairs-kit-nothing-3a-installer",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Installer-135.jpeg?quality=90&strip=all&crop=0,0,100,100",
-    "source": "The Verge (Tech)",
-    "category": "Gadgets",
-    "date": 1783771200000
-  },
-  {
-    "title": "Avowed 2 May Still Happen, Obsidian Skeleton Crew Continues Work",
-    "link": "https://www.pushsquare.com/news/2026/07/avowed-2-may-still-happen-obsidian-skeleton-crew-continues-work",
-    "thumbnail": "https://images.pushsquare.com/0a0cd39da3d56/large.jpg",
-    "source": "Push Square",
-    "category": "Article",
-    "date": 1783771200000
-  },
-  {
-    "title": "Guide: These 13+ PS5 Games Are Coming Out Next Week (13th-19th July)",
-    "link": "https://www.pushsquare.com/guides/these-13plus-ps5-games-are-coming-out-next-week-13th-19th-july",
-    "thumbnail": "https://images.pushsquare.com/21b2656d965af/large.jpg",
-    "source": "Push Square",
-    "category": "Article",
-    "date": 1783767600000
-  },
-  {
-    "title": "Talking Point: What Are You Playing This Weekend? (11th July)",
-    "link": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-11th-july",
-    "thumbnail": "https://images.nintendolife.com/6a74b7e292d6f/large.jpg",
-    "source": "Nintendo Life",
-    "category": "Article",
-    "date": 1783760400000
-  },
-  {
-    "title": "Talking Point: What Are You Playing This Weekend? - Issue 641",
-    "link": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-641",
-    "thumbnail": "https://images.pushsquare.com/b17e98186b7f3/large.jpg",
-    "source": "Push Square",
-    "category": "Article",
-    "date": 1783760400000
-  },
-  {
-    "title": "What are we all playing this weekend?",
-    "link": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-390",
-    "thumbnail": "https://assetsio.gnwcdn.com/swwekend-summer.jpg?width=690&quality=85&format=jpg&auto=webp",
-    "source": "Rock Paper Shotgun",
-    "category": "Simulation",
-    "date": 1783753200000
-  },
-  {
-    "title": "Are you filthy enough for a $700 portable shower? ",
-    "link": "https://www.theverge.com/reviews/963814/joolca-hottap-portable-shower-review",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/IMG_2100.jpeg?quality=90&strip=all&crop=0,0,100,100",
-    "source": "The Verge (Tech)",
-    "category": "Accessory Reviews",
-    "date": 1783753200000
-  },
-  {
-    "title": "Sonic Frontiers First 4 Figures Statue Sneak Peek, Pre-Orders Open Soon",
-    "link": "https://www.nintendolife.com/news/2026/07/sonic-frontiers-first-4-figures-statue-sneak-peek-pre-orders-open-soon",
-    "thumbnail": "https://images.nintendolife.com/9b11c42186d0f/large.jpg",
-    "source": "Nintendo Life",
-    "category": "Article",
-    "date": 1783749300000
-  },
-  {
-    "title": "Atelier Yumia Switch 2 Update Adds Performance Settings Option, Improves Frame Rate And More",
-    "link": "https://www.nintendolife.com/news/2026/07/atelier-yumia-switch-2-update-adds-performance-settings-option-improves-frame-rate-and-more",
-    "thumbnail": "https://images.nintendolife.com/0812edb420e2d/large.jpg",
-    "source": "Nintendo Life",
-    "category": "Article",
-    "date": 1783738500000
-  },
-  {
-    "title": "No, Flock isn’t threatening people for debating surveillance",
-    "link": "https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK471_Government_Surveillance_CVirginia_C.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source": "The Verge (Tech)",
-    "category": "Tech",
-    "date": 1783728638000
-  },
-  {
-    "title": "Don't Worry, You'll Get to Own God of War Laufey on a PS5 Disc",
-    "link": "https://www.pushsquare.com/news/2026/07/dont-worry-youll-get-to-own-god-of-war-laufey-on-a-ps5-disc",
-    "thumbnail": "https://images.pushsquare.com/75039d940793c/large.jpg",
-    "source": "Push Square",
-    "category": "Article",
-    "date": 1783724400000
-  },
-  {
-    "title": "Dear Magical Girls combines a tale of burnout with a tactical defence puzzle in which you shape and reshape a field of sorcery",
-    "link": "https://www.rockpapershotgun.com/dear-magical-girls-combines-a-tale-of-burnout-with-a-tactical-defence-puzzle-in-which-you-shape-and-reshape-a-field-of-sorcery",
-    "thumbnail": "https://assetsio.gnwcdn.com/dearmagicalgirls.png?width=690&quality=85&format=jpg&auto=webp",
-    "source": "Rock Paper Shotgun",
-    "category": "Article",
-    "date": 1783714600000
-  },
-  {
-    "title": "A decade later, Pokémon Go finally made good on its original promise",
-    "link": "https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026",
-    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/AP26191114345728.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "source": "The Verge (Games)",
-    "category": "Entertainment",
-    "date": 1783713070000
   }
 ]
