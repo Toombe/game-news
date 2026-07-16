@@ -433,307 +433,6 @@
     ]
   },
   {
-    "id": 244178,
-    "cover": {
-      "id": 567733,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc62d.jpg"
-    },
-    "first_release_date": 1718668800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      },
-      {
-        "id": 4,
-        "name": "Split screen"
-      }
-    ],
-    "genres": [
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 264063,
-        "company": {
-          "id": 12308,
-          "name": "Prideful Sloth"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Go-Go Town!",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 48,
-        "name": "PlayStation 4"
-      },
-      {
-        "id": 508,
-        "name": "Nintendo Switch 2"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      },
-      {
-        "id": 49,
-        "name": "Xbox One"
-      },
-      {
-        "id": 130,
-        "name": "Nintendo Switch"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 603109,
-        "date": 1718668800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 844551,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      },
-      {
-        "id": 844550,
-        "platform": {
-          "id": 49,
-          "name": "Xbox One"
-        }
-      },
-      {
-        "id": 844548,
-        "platform": {
-          "id": 48,
-          "name": "PlayStation 4"
-        }
-      },
-      {
-        "id": 844549,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 923410,
-        "date": 1784160000,
-        "platform": {
-          "id": 130,
-          "name": "Nintendo Switch"
-        }
-      },
-      {
-        "id": 923412,
-        "date": 1784160000,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 923411,
-        "date": 1784160000,
-        "platform": {
-          "id": 508,
-          "name": "Nintendo Switch 2"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1848179,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13m2b.jpg"
-      },
-      {
-        "id": 1848180,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13m2c.jpg"
-      },
-      {
-        "id": 1848181,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13m2d.jpg"
-      },
-      {
-        "id": 1848182,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13m2e.jpg"
-      },
-      {
-        "id": 1848183,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13m2f.jpg"
-      },
-      {
-        "id": 1848184,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13m2g.jpg"
-      },
-      {
-        "id": 1848185,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13m2h.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Step into the role of a hands-on mayor and build your town from the ground up. Plan neighborhoods, automate logistics, and grow your community—all while juggling workers, infrastructure, and day-to-day chaos to create your dream town. Play solo for total control, or bring friends for co-op mayhem.",
-    "videos": [
-      {
-        "id": 87408,
-        "video_id": "-S1I0uxbP6U"
-      },
-      {
-        "id": 91654,
-        "video_id": "xo32ujK0RHc"
-      },
-      {
-        "id": 102922,
-        "video_id": "TregOV57s7Y"
-      },
-      {
-        "id": 107208,
-        "video_id": "9FXN0sDPPkA"
-      },
-      {
-        "id": 115983,
-        "video_id": "yg4tx5ZoveM"
-      },
-      {
-        "id": 122180,
-        "video_id": "oGERW-uyE98"
-      },
-      {
-        "id": 158356,
-        "video_id": "d-V6K2gtvbg"
-      },
-      {
-        "id": 186807,
-        "video_id": "ah9Ww_xh0Ts"
-      }
-    ],
-    "websites": [
-      {
-        "id": 738953,
-        "url": "https://bsky.app/profile/gogotowngame.com",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 692706,
-        "url": "https://gogotown.wiki.gg/",
-        "type": {
-          "id": 2,
-          "type": "Community Wiki"
-        }
-      },
-      {
-        "id": 549700,
-        "url": "https://www.reddit.com/r/PridefulSloth/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 542760,
-        "url": "https://store.steampowered.com/app/2195120",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 543777,
-        "url": "https://twitter.com/GoGoTownGame",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 543778,
-        "url": "https://www.instagram.com/gogotowngame/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 542761,
-        "url": "https://www.gogotowngame.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 615171,
-        "url": "https://discord.gg/pridefulsloth",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 662479,
-        "url": "https://www.twitch.tv/directory/category/go-go-town",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 692707,
-        "url": "https://www.youtube.com/@PridefulSlothGames",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1069655,
-        "url": "https://www.nintendo.com/us/store/products/go-go-town-switch/",
-        "type": {
-          "id": 24,
-          "type": "Nintendo"
-        }
-      }
-    ]
-  },
-  {
     "id": 226035,
     "cover": {
       "id": 348503,
@@ -11684,6 +11383,307 @@
     ]
   },
   {
+    "id": 244178,
+    "cover": {
+      "id": 567733,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc62d.jpg"
+    },
+    "first_release_date": 1784160000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 264063,
+        "company": {
+          "id": 12308,
+          "name": "Prideful Sloth"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Go-Go Town!",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 508,
+        "name": "Nintendo Switch 2"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 603109,
+        "date": 1718668800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 844551,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      },
+      {
+        "id": 844550,
+        "platform": {
+          "id": 49,
+          "name": "Xbox One"
+        }
+      },
+      {
+        "id": 844548,
+        "platform": {
+          "id": 48,
+          "name": "PlayStation 4"
+        }
+      },
+      {
+        "id": 844549,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 923410,
+        "date": 1784160000,
+        "platform": {
+          "id": 130,
+          "name": "Nintendo Switch"
+        }
+      },
+      {
+        "id": 923412,
+        "date": 1784160000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 923411,
+        "date": 1784160000,
+        "platform": {
+          "id": 508,
+          "name": "Nintendo Switch 2"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1848179,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13m2b.jpg"
+      },
+      {
+        "id": 1848180,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13m2c.jpg"
+      },
+      {
+        "id": 1848181,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13m2d.jpg"
+      },
+      {
+        "id": 1848182,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13m2e.jpg"
+      },
+      {
+        "id": 1848183,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13m2f.jpg"
+      },
+      {
+        "id": 1848184,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13m2g.jpg"
+      },
+      {
+        "id": 1848185,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13m2h.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Step into the role of a hands-on mayor and build your town from the ground up. Plan neighborhoods, automate logistics, and grow your community—all while juggling workers, infrastructure, and day-to-day chaos to create your dream town. Play solo for total control, or bring friends for co-op mayhem.",
+    "videos": [
+      {
+        "id": 87408,
+        "video_id": "-S1I0uxbP6U"
+      },
+      {
+        "id": 91654,
+        "video_id": "xo32ujK0RHc"
+      },
+      {
+        "id": 102922,
+        "video_id": "TregOV57s7Y"
+      },
+      {
+        "id": 107208,
+        "video_id": "9FXN0sDPPkA"
+      },
+      {
+        "id": 115983,
+        "video_id": "yg4tx5ZoveM"
+      },
+      {
+        "id": 122180,
+        "video_id": "oGERW-uyE98"
+      },
+      {
+        "id": 158356,
+        "video_id": "d-V6K2gtvbg"
+      },
+      {
+        "id": 186807,
+        "video_id": "ah9Ww_xh0Ts"
+      }
+    ],
+    "websites": [
+      {
+        "id": 738953,
+        "url": "https://bsky.app/profile/gogotowngame.com",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 692706,
+        "url": "https://gogotown.wiki.gg/",
+        "type": {
+          "id": 2,
+          "type": "Community Wiki"
+        }
+      },
+      {
+        "id": 549700,
+        "url": "https://www.reddit.com/r/PridefulSloth/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 542760,
+        "url": "https://store.steampowered.com/app/2195120",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 543777,
+        "url": "https://twitter.com/GoGoTownGame",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 543778,
+        "url": "https://www.instagram.com/gogotowngame/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 542761,
+        "url": "https://www.gogotowngame.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 615171,
+        "url": "https://discord.gg/pridefulsloth",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 662479,
+        "url": "https://www.twitch.tv/directory/category/go-go-town",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 692707,
+        "url": "https://www.youtube.com/@PridefulSlothGames",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1069655,
+        "url": "https://www.nintendo.com/us/store/products/go-go-town-switch/",
+        "type": {
+          "id": 24,
+          "type": "Nintendo"
+        }
+      }
+    ]
+  },
+  {
     "id": 364821,
     "cover": {
       "id": 486687,
@@ -12539,175 +12539,6 @@
       {
         "id": 1046245,
         "url": "https://www.twitch.tv/directory/category/everquest-legends",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      }
-    ]
-  },
-  {
-    "id": 304148,
-    "cover": {
-      "id": 459744,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9uqo.jpg"
-    },
-    "first_release_date": 1785283200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 5,
-    "involved_companies": [
-      {
-        "id": 272506,
-        "company": {
-          "id": 34918,
-          "name": "From South Games"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Below, Rusted Gods",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 929835,
-        "date": 1785283200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1332209,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsjxt.jpg"
-      },
-      {
-        "id": 1332214,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsjxy.jpg"
-      },
-      {
-        "id": 1332210,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsjxu.jpg"
-      },
-      {
-        "id": 1332211,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsjxv.jpg"
-      },
-      {
-        "id": 1332212,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsjxw.jpg"
-      },
-      {
-        "id": 1332213,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsjxx.jpg"
-      },
-      {
-        "id": 1332215,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsjxz.jpg"
-      },
-      {
-        "id": 1332216,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsjy0.jpg"
-      },
-      {
-        "id": 1332217,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsjy1.jpg"
-      }
-    ],
-    "status": 2,
-    "summary": "A short horror game where you control an operator helping an expedition through a hole descending into the unknown.",
-    "videos": [
-      {
-        "id": 151092,
-        "video_id": "rvoNsFLI5Io"
-      },
-      {
-        "id": 114910,
-        "video_id": "-_rzXmaZ16Q"
-      },
-      {
-        "id": 132832,
-        "video_id": "I6m-x51H8fE"
-      },
-      {
-        "id": 135165,
-        "video_id": "N0dAf08Txrs"
-      },
-      {
-        "id": 135696,
-        "video_id": "v-IvNHjikDw"
-      },
-      {
-        "id": 190075,
-        "video_id": "oZC6xjXfhHU"
-      }
-    ],
-    "websites": [
-      {
-        "id": 797955,
-        "url": "https://www.youtube.com/@fromsouthgames",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 642177,
-        "url": "https://discord.gg/JkQzqgxhjm",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 642624,
-        "url": "https://store.steampowered.com/app/2895680",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 642399,
-        "url": "https://belowrustedgods.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 642176,
-        "url": "https://twitter.com/FromSouthGames",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 698760,
-        "url": "https://www.twitch.tv/directory/category/below-rusted-gods",
         "type": {
           "id": 6,
           "type": "Twitch"
@@ -23435,8 +23266,8 @@
   {
     "id": 191032,
     "cover": {
-      "id": 463575,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9xp3.jpg"
+      "id": 583785,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocig9.jpg"
     },
     "game_modes": [
       {
@@ -23454,10 +23285,6 @@
         "name": "Simulator"
       },
       {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
         "id": 31,
         "name": "Adventure"
       },
@@ -23466,16 +23293,16 @@
         "name": "Indie"
       }
     ],
-    "hypes": 2,
+    "hypes": 3,
     "involved_companies": [
       {
-        "id": 163951,
+        "id": 402071,
         "company": {
           "id": 40240,
           "name": "Slappy Inc."
         },
         "developer": true,
-        "publisher": true
+        "publisher": false
       }
     ],
     "name": "Mazey Village",
@@ -23497,37 +23324,45 @@
     ],
     "screenshots": [
       {
-        "id": 736119,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scfrzr.jpg"
+        "id": 1879906,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14ajm.jpg"
       },
       {
-        "id": 736122,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scfrzu.jpg"
+        "id": 1879907,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14ajn.jpg"
       },
       {
-        "id": 736123,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scfrzv.jpg"
+        "id": 1879908,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14ajo.jpg"
       },
       {
-        "id": 736138,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scfs0a.jpg"
+        "id": 1879909,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14ajp.jpg"
       },
       {
-        "id": 736125,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scfrzx.jpg"
+        "id": 1879910,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14ajq.jpg"
       },
       {
-        "id": 736130,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scfs02.jpg"
+        "id": 1879911,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14ajr.jpg"
       },
       {
-        "id": 736135,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scfs07.jpg"
+        "id": 1879912,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14ajs.jpg"
+      },
+      {
+        "id": 1879913,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14ajt.jpg"
       }
     ],
-    "status": 3,
+    "status": 4,
     "summary": "Mazey Village is a cozy adventure exploration game about rebuilding a village after a disaster. Explore maze-like worlds, find lost items, restore villagers’ homes, decorate your village, and bring hope back to a community torn apart by a tornado.",
     "videos": [
+      {
+        "id": 190321,
+        "video_id": "z7XaXR8zJIw"
+      },
       {
         "id": 64398,
         "video_id": "KbwNbQ4i0i4"
@@ -24505,19 +24340,19 @@
     ],
     "release_dates": [
       {
+        "id": 942481,
+        "date": 1793059200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
         "id": 864842,
         "date": 1790726400,
         "platform": {
           "id": 3,
           "name": "Linux"
-        }
-      },
-      {
-        "id": 863656,
-        "date": 1790726400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
         }
       }
     ],
@@ -24562,6 +24397,10 @@
     "status": 4,
     "summary": "Help the citizens of Emberville rebuild their town, as you rescue them from the clutches of wicked forces with the aid of a mysterious and loyal friend. Learn various crafting and combat skills as you explore the treacherous corridors of a massive, ever-changing dungeon.",
     "videos": [
+      {
+        "id": 190403,
+        "video_id": "BKW4LQdC0U8"
+      },
       {
         "id": 174686,
         "video_id": "LnJ2XrjLqqI"
