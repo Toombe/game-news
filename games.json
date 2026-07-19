@@ -4040,175 +4040,6 @@
     ]
   },
   {
-    "id": 270354,
-    "cover": {
-      "id": 510942,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coay8u.jpg"
-    },
-    "first_release_date": 1779235200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 5,
-        "name": "Shooter"
-      }
-    ],
-    "hypes": 13,
-    "involved_companies": [
-      {
-        "id": 233717,
-        "company": {
-          "id": 12074,
-          "name": "Ghost Ship Games"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Deep Rock Galactic: Rogue Core",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 888661,
-        "date": 1779235200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1159996,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scov24.jpg"
-      },
-      {
-        "id": 1159998,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scov26.jpg"
-      },
-      {
-        "id": 1159994,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scov22.jpg"
-      },
-      {
-        "id": 1159995,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scov23.jpg"
-      },
-      {
-        "id": 1159999,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scov27.jpg"
-      },
-      {
-        "id": 1159997,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scov25.jpg"
-      },
-      {
-        "id": 1160000,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scov28.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "DEEP ROCK GALACTIC: ROGUE CORE is a 1-4 player co-op FPS roguelite featuring 100% destructible environments and procedurally-generated caves. Join a team of dwarven Reclaimers tasked with reestablishing control over lost deep mining operations on Hoxxes IV.",
-    "videos": [
-      {
-        "id": 110108,
-        "video_id": "kiALb0dCsiw"
-      },
-      {
-        "id": 145664,
-        "video_id": "eq303OLkBkY"
-      },
-      {
-        "id": 170139,
-        "video_id": "CQ__5je1Bgw"
-      },
-      {
-        "id": 178648,
-        "video_id": "7YnopCuFTWM"
-      },
-      {
-        "id": 183420,
-        "video_id": "qdHGDsSYiQE"
-      }
-    ],
-    "websites": [
-      {
-        "id": 586967,
-        "url": "https://store.steampowered.com/app/2605790/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 588321,
-        "url": "https://deeprockgalactic.wiki.gg/wiki/Deep_Rock_Galactic:_Rogue_Core",
-        "type": {
-          "id": 2,
-          "type": "Community Wiki"
-        }
-      },
-      {
-        "id": 1040294,
-        "url": "http://deeprockgalactic.com/roguecore",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1040295,
-        "url": "https://www.youtube.com/ghostshipgames/",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1040296,
-        "url": "https://discord.com/invite/drg",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 1040297,
-        "url": "https://x.com/JoinDeepRock",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1040298,
-        "url": "https://www.facebook.com/JoinDeepRock/",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      }
-    ]
-  },
-  {
     "id": 357776,
     "cover": {
       "id": 494423,
@@ -15385,7 +15216,7 @@
         "name": "Adventure"
       }
     ],
-    "hypes": 7,
+    "hypes": 6,
     "involved_companies": [
       {
         "id": 402460,
@@ -25079,7 +24910,7 @@
         "name": "Indie"
       }
     ],
-    "hypes": 17,
+    "hypes": 18,
     "involved_companies": [
       {
         "id": 236223,
@@ -26007,7 +25838,7 @@
         "name": "Hack and slash/Beat \u0027em up"
       }
     ],
-    "hypes": 14,
+    "hypes": 13,
     "involved_companies": [
       {
         "id": 303476,
