@@ -3881,165 +3881,6 @@
     ]
   },
   {
-    "id": 314807,
-    "cover": {
-      "id": 565151,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc42n.jpg"
-    },
-    "first_release_date": 1777852800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      }
-    ],
-    "genres": [
-      {
-        "id": 7,
-        "name": "Music"
-      },
-      {
-        "id": 8,
-        "name": "Platform"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      },
-      {
-        "id": 33,
-        "name": "Arcade"
-      }
-    ],
-    "hypes": 3,
-    "involved_companies": [
-      {
-        "id": 283845,
-        "company": {
-          "id": 57611,
-          "name": "Pricklety"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Jammer Dash",
-    "platforms": [
-      {
-        "id": 3,
-        "name": "Linux"
-      },
-      {
-        "id": 34,
-        "name": "Android"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 917240,
-        "date": 1701820800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 917241,
-        "date": 1814313600,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 917242,
-        "date": 1744848000,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 917243,
-        "date": 1777852800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 917244,
-        "date": 1779494400,
-        "platform": {
-          "id": 3,
-          "name": "Linux"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1841227,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13gp7.jpg"
-      },
-      {
-        "id": 1841228,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13gp8.jpg"
-      },
-      {
-        "id": 1841229,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13gp9.jpg"
-      },
-      {
-        "id": 1841230,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13gpa.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Jammer Dash is a free rhythm 2D game in which you move and destroy objects on beat made for Windows and Linux! Inspired by many awesome games such as Muse Dash, Geometry Dash and osu!. Made in Unity and C#.",
-    "websites": [
-      {
-        "id": 722494,
-        "url": "https://store.steampowered.com/app/3627820/Jammer_Dash/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 718111,
-        "url": "https://www.twitch.tv/directory/category/jammer-dash/videos/all",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 667909,
-        "url": "https://twitter.com/JammerDash",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1059736,
-        "url": "https://discord.gg/DQ8ZhByEBh",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      }
-    ]
-  },
-  {
     "id": 126547,
     "cover": {
       "id": 472418,
@@ -11555,229 +11396,6 @@
     ]
   },
   {
-    "id": 275251,
-    "cover": {
-      "id": 569355,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc7bf.jpg"
-    },
-    "first_release_date": 1784246400,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 9,
-        "name": "Puzzle"
-      },
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 11,
-    "involved_companies": [
-      {
-        "id": 323579,
-        "company": {
-          "id": 50695,
-          "name": "Recurring Dream"
-        },
-        "developer": true,
-        "publisher": true
-      },
-      {
-        "id": 396811,
-        "company": {
-          "id": 12337,
-          "name": "indienova"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 355139,
-        "company": {
-          "id": 47935,
-          "name": "Outersloth"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Desktop Explorer",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 656130,
-        "date": 1687651200,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 656128,
-        "date": 1687651200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 922068,
-        "date": 1784246400,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 922069,
-        "date": 1784246400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1682536,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10294.jpg"
-      },
-      {
-        "id": 1867957,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc141bp.jpg"
-      },
-      {
-        "id": 1867958,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc141bq.jpg"
-      },
-      {
-        "id": 1867959,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc141br.jpg"
-      },
-      {
-        "id": 1867960,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc141bs.jpg"
-      }
-    ],
-    "status": 2,
-    "summary": "Desktop Explorer is an eerie point-n-click mystery game through the abandoned profiles of an old PC.\n\nRummage through the abandoned profiles of an old PC to unravel an inherited mystery. What secrets hide in this eerie adventure of cryptic games and outdated software? Who was using this computer? And what happened to them?",
-    "videos": [
-      {
-        "id": 130757,
-        "video_id": "k3UA6CcYeHg"
-      },
-      {
-        "id": 130262,
-        "video_id": "Z8kg_4Oc-J4"
-      },
-      {
-        "id": 153166,
-        "video_id": "RcI3PdIGxCo"
-      },
-      {
-        "id": 156570,
-        "video_id": "ktxW9TbQcs4"
-      },
-      {
-        "id": 162640,
-        "video_id": "OQVbRGBVb7E"
-      },
-      {
-        "id": 186247,
-        "video_id": "pImSZSWCs9A"
-      },
-      {
-        "id": 186868,
-        "video_id": "RwXgYjekrks"
-      },
-      {
-        "id": 188627,
-        "video_id": "qfpuWJIeCXo"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1076360,
-        "url": "https://discord.com/invite/NY7eJxZWBH",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 1076359,
-        "url": "https://x.com/DesktopExplorer",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1076361,
-        "url": "https://bsky.app/profile/desktopexplorergame.com",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 685097,
-        "url": "https://recurringdream.studio/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 594196,
-        "url": "https://store.steampowered.com/app/2527160/Desktop_Explorer/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 594199,
-        "url": "https://www.instagram.com/desktopexplorer/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 594197,
-        "url": "https://www.youtube.com/channel/UCaudqRNkKibDYN-GkjkaVsw",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      }
-    ]
-  },
-  {
     "id": 262659,
     "cover": {
       "id": 585063,
@@ -11907,7 +11525,7 @@
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14cy6.jpg"
       }
     ],
-    "status": 2,
+    "status": 4,
     "summary": "ZeroSpace is a hybrid sci-fi RTS / RPG game that allows you to play as the commander of The Protectorate, a galactic force dedicated to securing humanity’s place in the galaxy. The Orion sector is locked in a vicious power struggle between many alien factions, ready to fight to the death.",
     "videos": [
       {
@@ -12152,6 +11770,384 @@
     ]
   },
   {
+    "id": 244913,
+    "cover": {
+      "id": 560973,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc0ul.jpg"
+    },
+    "first_release_date": 1784592000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 384308,
+        "company": {
+          "id": 76588,
+          "name": "Rustic Panda Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Colossus: Eternal Blight",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 944589,
+        "date": 1784592000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1030096,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scm2ts.jpg"
+      },
+      {
+        "id": 1030089,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scm2tl.jpg"
+      },
+      {
+        "id": 1030092,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scm2to.jpg"
+      },
+      {
+        "id": 1030095,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scm2tr.jpg"
+      },
+      {
+        "id": 1030098,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scm2tu.jpg"
+      },
+      {
+        "id": 1030100,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scm2tw.jpg"
+      },
+      {
+        "id": 1030102,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scm2ty.jpg"
+      },
+      {
+        "id": 1030104,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scm2u0.jpg"
+      },
+      {
+        "id": 1030106,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scm2u2.jpg"
+      },
+      {
+        "id": 1030108,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scm2u4.jpg"
+      },
+      {
+        "id": 1030109,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scm2u5.jpg"
+      },
+      {
+        "id": 1030112,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scm2u8.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Colossus is a story-driven action RPG with precision combat, a hand-crafted pixel art world, and choices that leave real scars. The Blight will test you. How you answer is up to you.",
+    "videos": [
+      {
+        "id": 185226,
+        "video_id": "CaWIW_hWqmM"
+      }
+    ],
+    "websites": [
+      {
+        "id": 543649,
+        "url": "https://store.steampowered.com/app/1722800",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 802434,
+        "url": "https://x.com/Rustic_Panda",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 922661,
+        "url": "https://discord.com/invite/vJEkZ8RP",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 543650,
+        "url": "https://www.rusticpandagames.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1063708,
+        "url": "https://www.youtube.com/@rusticpandagames",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1063709,
+        "url": "https://www.instagram.com/rusticpandagames/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      }
+    ]
+  },
+  {
+    "id": 305011,
+    "cover": {
+      "id": 388164,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8bic.jpg"
+    },
+    "first_release_date": 1784678400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 19,
+    "involved_companies": [
+      {
+        "id": 282419,
+        "company": {
+          "id": 16137,
+          "name": "Paper Cult"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Tears of Metal",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 843160,
+        "date": 1744243200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 932813,
+        "date": 1784678400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 933760,
+        "date": 1784678400,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1337447,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnzb.jpg"
+      },
+      {
+        "id": 1337448,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnzc.jpg"
+      },
+      {
+        "id": 1337449,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnzd.jpg"
+      },
+      {
+        "id": 1337450,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnze.jpg"
+      },
+      {
+        "id": 1337452,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnzg.jpg"
+      },
+      {
+        "id": 1337453,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnzh.jpg"
+      },
+      {
+        "id": 1337459,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnzn.jpg"
+      },
+      {
+        "id": 1337455,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnzj.jpg"
+      },
+      {
+        "id": 1337457,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnzl.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Tears of Metal is a medieval hack-and-slash co-op roguelike. Carve through hordes of enemies to reclaim your island with the help of your formidable Scottish battalion. As you advance deeper into the trenches, uncover more about the mysterious Dragon Meteor and the treacherous enemy invasion.",
+    "videos": [
+      {
+        "id": 115540,
+        "video_id": "n28LrKFLe1U"
+      },
+      {
+        "id": 151529,
+        "video_id": "XOnzHiqMhaY"
+      },
+      {
+        "id": 134666,
+        "video_id": "yMX5H6du9OU"
+      },
+      {
+        "id": 145665,
+        "video_id": "UmUYIDzMrjQ"
+      },
+      {
+        "id": 181958,
+        "video_id": "Lzdegjfm8b0"
+      },
+      {
+        "id": 188605,
+        "video_id": "kvv5TSWd5S4"
+      },
+      {
+        "id": 188830,
+        "video_id": "9hXbDmMmwEk"
+      }
+    ],
+    "websites": [
+      {
+        "id": 667896,
+        "url": "https://www.instagram.com/paper.cult.games/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 667897,
+        "url": "https://discord.gg/invite/papercult",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 643842,
+        "url": "https://store.steampowered.com/app/1913120",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 643843,
+        "url": "https://www.papercultgames.com/?game\u003dtears_of_metal",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 667894,
+        "url": "https://www.facebook.com/PaperCultGames/",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 667893,
+        "url": "https://www.youtube.com/channel/UCYaLjiGdDIaCfOsE1pmWeKw",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 667892,
+        "url": "https://www.twitch.tv/directory/category/tears-of-metal",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 667895,
+        "url": "https://twitter.com/papercultgames",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      }
+    ]
+  },
+  {
     "id": 225604,
     "cover": {
       "id": 269250,
@@ -12178,7 +12174,7 @@
         "name": "Indie"
       }
     ],
-    "hypes": 2,
+    "hypes": 3,
     "involved_companies": [
       {
         "id": 207283,
@@ -24917,218 +24913,6 @@
     ]
   },
   {
-    "id": 305011,
-    "cover": {
-      "id": 388164,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8bic.jpg"
-    },
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 19,
-    "involved_companies": [
-      {
-        "id": 282419,
-        "company": {
-          "id": 16137,
-          "name": "Paper Cult"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Tears of Metal",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 843160,
-        "date": 1744243200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 932813,
-        "date": 1784678400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 933760,
-        "date": 1784678400,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1337447,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnzb.jpg"
-      },
-      {
-        "id": 1337448,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnzc.jpg"
-      },
-      {
-        "id": 1337449,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnzd.jpg"
-      },
-      {
-        "id": 1337450,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnze.jpg"
-      },
-      {
-        "id": 1337452,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnzg.jpg"
-      },
-      {
-        "id": 1337453,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnzh.jpg"
-      },
-      {
-        "id": 1337459,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnzn.jpg"
-      },
-      {
-        "id": 1337455,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnzj.jpg"
-      },
-      {
-        "id": 1337457,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnzl.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Tears of Metal is a medieval hack-and-slash co-op roguelike. Carve through hordes of enemies to reclaim your island with the help of your formidable Scottish battalion. As you advance deeper into the trenches, uncover more about the mysterious Dragon Meteor and the treacherous enemy invasion.",
-    "videos": [
-      {
-        "id": 115540,
-        "video_id": "n28LrKFLe1U"
-      },
-      {
-        "id": 151529,
-        "video_id": "XOnzHiqMhaY"
-      },
-      {
-        "id": 134666,
-        "video_id": "yMX5H6du9OU"
-      },
-      {
-        "id": 145665,
-        "video_id": "UmUYIDzMrjQ"
-      },
-      {
-        "id": 181958,
-        "video_id": "Lzdegjfm8b0"
-      },
-      {
-        "id": 188605,
-        "video_id": "kvv5TSWd5S4"
-      },
-      {
-        "id": 188830,
-        "video_id": "9hXbDmMmwEk"
-      }
-    ],
-    "websites": [
-      {
-        "id": 667896,
-        "url": "https://www.instagram.com/paper.cult.games/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 667897,
-        "url": "https://discord.gg/invite/papercult",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 643842,
-        "url": "https://store.steampowered.com/app/1913120",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 643843,
-        "url": "https://www.papercultgames.com/?game\u003dtears_of_metal",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 667894,
-        "url": "https://www.facebook.com/PaperCultGames/",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 667893,
-        "url": "https://www.youtube.com/channel/UCYaLjiGdDIaCfOsE1pmWeKw",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 667892,
-        "url": "https://www.twitch.tv/directory/category/tears-of-metal",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 667895,
-        "url": "https://twitter.com/papercultgames",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      }
-    ]
-  },
-  {
     "id": 317124,
     "cover": {
       "id": 471007,
@@ -26745,6 +26529,10 @@
       {
         "id": 2,
         "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
       }
     ],
     "genres": [
