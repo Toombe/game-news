@@ -3881,473 +3881,6 @@
     ]
   },
   {
-    "id": 126547,
-    "cover": {
-      "id": 472418,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coa4iq.jpg"
-    },
-    "first_release_date": 1779667200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 43,
-    "involved_companies": [
-      {
-        "id": 138723,
-        "company": {
-          "id": 24074,
-          "name": "Alex Massé"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Paralives",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 843263,
-        "date": 1779667200,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 843264,
-        "date": 1779667200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1247370,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqqh6.jpg"
-      },
-      {
-        "id": 1247371,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqqh7.jpg"
-      },
-      {
-        "id": 1247373,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqqh9.jpg"
-      },
-      {
-        "id": 1247374,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqqha.jpg"
-      },
-      {
-        "id": 1247369,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqqh5.jpg"
-      },
-      {
-        "id": 1247372,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqqh8.jpg"
-      },
-      {
-        "id": 1663937,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scznwh.jpg"
-      },
-      {
-        "id": 1663938,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scznwi.jpg"
-      },
-      {
-        "id": 1663939,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scznwj.jpg"
-      },
-      {
-        "id": 1663940,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scznwk.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Paralives is a life simulation game about building homes, lives and bonds. Through both hardship and success, where will your story take you?",
-    "videos": [
-      {
-        "id": 107918,
-        "video_id": "xIIy4CuGDyU"
-      },
-      {
-        "id": 107919,
-        "video_id": "saPMQS1jquc"
-      },
-      {
-        "id": 153443,
-        "video_id": "ZQt5BWjXATU"
-      },
-      {
-        "id": 186817,
-        "video_id": "cXUOcNnbgJs"
-      }
-    ],
-    "websites": [
-      {
-        "id": 793671,
-        "url": "https://bsky.app/profile/paralives.com",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 793670,
-        "url": "https://paralives.wiki.gg/",
-        "type": {
-          "id": 2,
-          "type": "Community Wiki"
-        }
-      },
-      {
-        "id": 613246,
-        "url": "https://en.wikipedia.org/wiki/Paralives",
-        "type": {
-          "id": 3,
-          "type": "Wikipedia"
-        }
-      },
-      {
-        "id": 129289,
-        "url": "https://www.instagram.com/paralivesgame",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 129285,
-        "url": "https://twitter.com/ParalivesGame",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 129283,
-        "url": "https://www.paralives.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 129284,
-        "url": "https://www.facebook.com/Paralives",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 129287,
-        "url": "https://store.steampowered.com/app/1118520",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 129290,
-        "url": "https://www.youtube.com/c/Paralives",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 129291,
-        "url": "https://www.reddit.com/r/Paralives",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 369547,
-        "url": "https://www.twitch.tv/directory/game/Paralives",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 613245,
-        "url": "https://discord.gg/Paralives",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      }
-    ]
-  },
-  {
-    "id": 177862,
-    "cover": {
-      "id": 381118,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co862m.jpg"
-    },
-    "first_release_date": 1779667200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 5,
-    "involved_companies": [
-      {
-        "id": 293587,
-        "company": {
-          "id": 54501,
-          "name": "Effort Star"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 293588,
-        "company": {
-          "id": 41347,
-          "name": "Joystick Ventures"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Enter the Chronosphere",
-    "platforms": [
-      {
-        "id": 82,
-        "name": "Web browser"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 660077,
-        "date": 1615593600,
-        "platform": {
-          "id": 82,
-          "name": "Web browser"
-        }
-      },
-      {
-        "id": 660075,
-        "date": 1615593600,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 660076,
-        "date": 1615593600,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 908918,
-        "date": 1779667200,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 908919,
-        "date": 1779667200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1313391,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scs5f3.jpg"
-      },
-      {
-        "id": 1313392,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scs5f4.jpg"
-      },
-      {
-        "id": 1313393,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scs5f5.jpg"
-      },
-      {
-        "id": 1313389,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scs5f1.jpg"
-      },
-      {
-        "id": 1313390,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scs5f2.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "A psychedelic roguelike that blurs the line between real-time action and turn-based tactics. Play as misfit aliens, craft wild combinations between hundreds of weapons, items and abilities, and disable uncharted chronospheres: Colossal structures that consume time and distort reality.",
-    "videos": [
-      {
-        "id": 113146,
-        "video_id": "BlQtytQJe5g"
-      },
-      {
-        "id": 116033,
-        "video_id": "Iea2uf-2StM"
-      },
-      {
-        "id": 134458,
-        "video_id": "OoRp3S5t_LM"
-      },
-      {
-        "id": 134674,
-        "video_id": "qwumic3VOPU"
-      },
-      {
-        "id": 155203,
-        "video_id": "errgBgHlyf4"
-      },
-      {
-        "id": 156565,
-        "video_id": "KCgV2me32CY"
-      },
-      {
-        "id": 182592,
-        "video_id": "-rIYqG2BFok"
-      },
-      {
-        "id": 184828,
-        "video_id": "Ly1tTAeixKs"
-      },
-      {
-        "id": 187448,
-        "video_id": "jZITIb6Q5RY"
-      },
-      {
-        "id": 187449,
-        "video_id": "Cn_gQ0TLcko"
-      }
-    ],
-    "websites": [
-      {
-        "id": 635520,
-        "url": "https://effort-star.itch.io/enter-the-chronosphere",
-        "type": {
-          "id": 15,
-          "type": "Itch"
-        }
-      },
-      {
-        "id": 732544,
-        "url": "https://x.com/EffortStarGames",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 732546,
-        "url": "https://discord.gg/guCYG8567Q",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 732545,
-        "url": "https://www.youtube.com/channel/UCi8Z4bnOB7t1ugsaKGxNqnQ/",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 310440,
-        "url": "https://store.steampowered.com/app/1969810",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 474391,
-        "url": "https://www.twitch.tv/directory/game/Enter%20the%20Chronosphere",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 1014669,
-        "url": "https://weibo.com/gameragame",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1063000,
-        "url": "https://www.gog.com/game/enter_the_chronosphere",
-        "type": {
-          "id": 17,
-          "type": "GOG"
-        }
-      }
-    ]
-  },
-  {
     "id": 336150,
     "cover": {
       "id": 564365,
@@ -11210,6 +10743,167 @@
     ]
   },
   {
+    "id": 343323,
+    "cover": {
+      "id": 570142,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc7xa.jpg"
+    },
+    "first_release_date": 1784246400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 320039,
+        "company": {
+          "id": 29146,
+          "name": "Oddshot Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Strikers Club",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 936817,
+        "date": 1784246400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1855264,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13rj4.jpg"
+      },
+      {
+        "id": 1855262,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13rj2.jpg"
+      },
+      {
+        "id": 1855263,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13rj3.jpg"
+      },
+      {
+        "id": 1855265,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13rj5.jpg"
+      },
+      {
+        "id": 1855266,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13rj6.jpg"
+      },
+      {
+        "id": 1855267,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13rj7.jpg"
+      },
+      {
+        "id": 1855268,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13rj8.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Strikers Club is a multiplayer football game where you take control of a player and compete in action-packed matches against others. Every move counts. Master dribbling, passing, and shooting while working with your team to outplay opponents.",
+    "videos": [
+      {
+        "id": 149758,
+        "video_id": "dBTQxM3o05E"
+      }
+    ],
+    "websites": [
+      {
+        "id": 754320,
+        "url": "https://www.youtube.com/@strikersclubgame",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 754318,
+        "url": "https://strikersclub.gg/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 754317,
+        "url": "https://store.steampowered.com/app/1952920/Strikers_Club/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 754322,
+        "url": "https://discord.gg/Mmp7KAnPkE",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 754319,
+        "url": "https://www.instagram.com/strikersclubgame",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 754321,
+        "url": "https://www.reddit.com/r/strikersclub/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 754323,
+        "url": "https://bsky.app/profile/strikersclub.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      }
+    ]
+  },
+  {
     "id": 262659,
     "cover": {
       "id": 585063,
@@ -12429,6 +12123,10 @@
         "video_id": "Lzdegjfm8b0"
       },
       {
+        "id": 191148,
+        "video_id": "knxVrf9jsuk"
+      },
+      {
         "id": 188605,
         "video_id": "kvv5TSWd5S4"
       },
@@ -12500,6 +12198,204 @@
         "type": {
           "id": 5,
           "type": "Twitter"
+        }
+      }
+    ]
+  },
+  {
+    "id": 334544,
+    "cover": {
+      "id": 569393,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc7ch.jpg"
+    },
+    "first_release_date": 1784678400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 3,
+    "involved_companies": [
+      {
+        "id": 310603,
+        "company": {
+          "id": 4824,
+          "name": "Defiant Development"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 310604,
+        "company": {
+          "id": 43583,
+          "name": "Spitfire Interactive"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Hand of Fate: Hordes",
+    "platforms": [
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 945403,
+        "date": 1784678400,
+        "platform": {
+          "id": 3,
+          "name": "Linux"
+        }
+      },
+      {
+        "id": 945404,
+        "date": 1784678400,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      },
+      {
+        "id": 945405,
+        "date": 1784678400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1523415,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwnh3.jpg"
+      },
+      {
+        "id": 1523410,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwngy.jpg"
+      },
+      {
+        "id": 1523416,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwnh4.jpg"
+      },
+      {
+        "id": 1523411,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwngz.jpg"
+      },
+      {
+        "id": 1523412,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwnh0.jpg"
+      },
+      {
+        "id": 1523413,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwnh1.jpg"
+      },
+      {
+        "id": 1523414,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwnh2.jpg"
+      },
+      {
+        "id": 1523417,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwnh5.jpg"
+      },
+      {
+        "id": 1523418,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwnh6.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Hand of Fate: Hordes is a dark-fantasy bullet heaven auto-shooter powered by your strategic deckbuilding mastery. Survive the horde, forge your build, and unleash devastating attacks to escape a netherworld beyond the 13th Gate. Thrive in chaos!",
+    "videos": [
+      {
+        "id": 142357,
+        "video_id": "FqFMhr0E88o"
+      },
+      {
+        "id": 177237,
+        "video_id": "BJq2boGGjkA"
+      },
+      {
+        "id": 176578,
+        "video_id": "rsUBjY4cjP4"
+      }
+    ],
+    "websites": [
+      {
+        "id": 741982,
+        "url": "https://discord.gg/4xrFrP4ATq",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 741981,
+        "url": "https://www.spitfireinteractive.com.au/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 741983,
+        "url": "https://x.com/Spitfire_IA",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 876589,
+        "url": "https://store.epicgames.com/en-US/p/hordes-of-fate-a-hand-of-fate-adventure-8a7a86",
+        "type": {
+          "id": 16,
+          "type": "Epic"
+        }
+      },
+      {
+        "id": 717166,
+        "url": "https://store.steampowered.com/app/3075410/Hordes_of_Fate__A_Hand_of_Fate_Adventure/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1016047,
+        "url": "https://www.instagram.com/hordesoffateofficial/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
         }
       }
     ]
@@ -12611,7 +12507,7 @@
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13mkb.jpg"
       }
     ],
-    "status": 2,
+    "status": 4,
     "summary": "Carnival Hunt is an asymmetric multiplayer horror game set inside a living, ever-shifting mechanical carnival designed by the Puppetmaster. One player becomes the Carnival Monster, while others play as puppet Bunnies struggling to survive, ascend, and escape the hunt.",
     "videos": [
       {
@@ -13519,6 +13415,10 @@
         "video_id": "cen2Lbmmo_Q"
       },
       {
+        "id": 191168,
+        "video_id": "EE955NDdmj8"
+      },
+      {
         "id": 189177,
         "video_id": "JjpJ2xwUagM"
       }
@@ -13795,6 +13695,124 @@
         "type": {
           "id": 18,
           "type": "Discord"
+        }
+      }
+    ]
+  },
+  {
+    "id": 379356,
+    "cover": {
+      "id": 511345,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coayk1.jpg"
+    },
+    "first_release_date": 1787097600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 3,
+    "name": "Project P.I.T.T.",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 945264,
+        "date": 1787097600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1712456,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10pc8.jpg"
+      },
+      {
+        "id": 1712457,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10pc9.jpg"
+      },
+      {
+        "id": 1712458,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10pca.jpg"
+      },
+      {
+        "id": 1712459,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10pcb.jpg"
+      },
+      {
+        "id": 1712460,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10pcc.jpg"
+      },
+      {
+        "id": 1712461,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10pcd.jpg"
+      },
+      {
+        "id": 1712462,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10pce.jpg"
+      }
+    ],
+    "status": 2,
+    "summary": "Feed rubber ducks to a corporate void. Build physics contraptions. Chain combos for profit as the Maw grows hungrier... and larger. Brutalist PSX satire meets first-person sandbox chaos.",
+    "videos": [
+      {
+        "id": 169604,
+        "video_id": "QykBYMEDXZE"
+      },
+      {
+        "id": 191133,
+        "video_id": "2P2Elrio1f4"
+      }
+    ],
+    "websites": [
+      {
+        "id": 930088,
+        "url": "https://www.instagram.com/fr0k3",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 923202,
+        "url": "https://store.steampowered.com/app/4026250/Project_PITT/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 923203,
+        "url": "https://fr0ke.itch.io/project-pitt-demo",
+        "type": {
+          "id": 15,
+          "type": "Itch"
+        }
+      },
+      {
+        "id": 982254,
+        "url": "https://www.threads.com/@fr0k3",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
         }
       }
     ]
@@ -14164,6 +14182,15 @@
         },
         "developer": true,
         "publisher": false
+      },
+      {
+        "id": 403663,
+        "company": {
+          "id": 2603,
+          "name": "Free Lives Games"
+        },
+        "developer": false,
+        "publisher": true
       }
     ],
     "name": "Dressmaker",
@@ -24693,7 +24720,7 @@
         "name": "Indie"
       }
     ],
-    "hypes": 7,
+    "hypes": 8,
     "involved_companies": [
       {
         "id": 235751,
@@ -26447,7 +26474,7 @@
         "name": "Indie"
       }
     ],
-    "hypes": 3,
+    "hypes": 4,
     "involved_companies": [
       {
         "id": 403485,
