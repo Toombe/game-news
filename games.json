@@ -3881,381 +3881,6 @@
     ]
   },
   {
-    "id": 336150,
-    "cover": {
-      "id": 564365,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc3gt.jpg"
-    },
-    "first_release_date": 1779753600,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 12,
-    "involved_companies": [
-      {
-        "id": 312293,
-        "company": {
-          "id": 37669,
-          "name": "Beartwigs"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 312294,
-        "company": {
-          "id": 62459,
-          "name": "Three Friends"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Romestead",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 898478,
-        "date": 1779753600,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1483449,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsmx.jpg"
-      },
-      {
-        "id": 1483448,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsmw.jpg"
-      },
-      {
-        "id": 1483444,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsms.jpg"
-      },
-      {
-        "id": 1483445,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsmt.jpg"
-      },
-      {
-        "id": 1483451,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsmz.jpg"
-      },
-      {
-        "id": 1483450,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsmy.jpg"
-      },
-      {
-        "id": 1483452,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsn0.jpg"
-      },
-      {
-        "id": 1483446,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsmu.jpg"
-      },
-      {
-        "id": 1483447,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsmv.jpg"
-      },
-      {
-        "id": 1483440,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsmo.jpg"
-      },
-      {
-        "id": 1483441,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsmp.jpg"
-      },
-      {
-        "id": 1483442,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsmq.jpg"
-      },
-      {
-        "id": 1483443,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsmr.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Rome has fallen! Rebuild civilization in this action-adventure survival game for 1-8 players. Fight, build towns and earn favor with the Roman gods! ...or just farm your crops.",
-    "videos": [
-      {
-        "id": 143696,
-        "video_id": "qH0l3VLKIIA"
-      },
-      {
-        "id": 177257,
-        "video_id": "1RA4wDSvl2Y"
-      },
-      {
-        "id": 180761,
-        "video_id": "4Bd2YetKWg4"
-      }
-    ],
-    "websites": [
-      {
-        "id": 720374,
-        "url": "https://discord.gg/invite/BDgRY2WFDS",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 745635,
-        "url": "https://romestead.wiki.gg/",
-        "type": {
-          "id": 2,
-          "type": "Community Wiki"
-        }
-      },
-      {
-        "id": 720376,
-        "url": "https://bsky.app/profile/romestead.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 720370,
-        "url": "https://store.steampowered.com/app/1805320",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 720371,
-        "url": "https://romestead.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 720372,
-        "url": "https://www.youtube.com/channel/UC_sk9v98jJFHf2BobWqB3yQ",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 720373,
-        "url": "https://twitter.com/romesteadgame",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 720377,
-        "url": "https://www.twitch.tv/directory/category/romestead",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 720375,
-        "url": "https://www.reddit.com/r/Romestead/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 720521,
-        "url": "https://www.instagram.com/beartwigsstudio/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      }
-    ]
-  },
-  {
-    "id": 380138,
-    "cover": {
-      "id": 543744,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobnk0.jpg"
-    },
-    "first_release_date": 1779753600,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 373853,
-        "company": {
-          "id": 74422,
-          "name": "Feeble Minds"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Serpent\u0027s Gaze",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 920990,
-        "date": 1779753600,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1710017,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ngh.jpg"
-      },
-      {
-        "id": 1710020,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ngk.jpg"
-      },
-      {
-        "id": 1710021,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ngl.jpg"
-      },
-      {
-        "id": 1710014,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10nge.jpg"
-      },
-      {
-        "id": 1710016,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ngg.jpg"
-      },
-      {
-        "id": 1710018,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ngi.jpg"
-      },
-      {
-        "id": 1710019,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ngj.jpg"
-      },
-      {
-        "id": 1710013,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ngd.jpg"
-      },
-      {
-        "id": 1710015,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ngf.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Serpent’s Gaze is a punishing 1-4 player co-op third-person action game where you fight tough enemies and relentless bosses, all while uncovering the secrets of an ancient desert.",
-    "videos": [
-      {
-        "id": 169864,
-        "video_id": "_xwxRj7CAqo"
-      }
-    ],
-    "websites": [
-      {
-        "id": 925508,
-        "url": "https://discord.gg/serpentsgaze",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 925511,
-        "url": "https://x.com/TheFeebleMinds/",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 925507,
-        "url": "https://store.steampowered.com/app/3069050",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 925509,
-        "url": "https://www.instagram.com/serpents.gaze/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 925510,
-        "url": "https://bsky.app/profile/serpentsgaze.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      }
-    ]
-  },
-  {
     "id": 280353,
     "cover": {
       "id": 387865,
@@ -12603,6 +12228,171 @@
     ]
   },
   {
+    "id": 406030,
+    "cover": {
+      "id": 571517,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc8zh.jpg"
+    },
+    "first_release_date": 1784851200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 6,
+        "name": "Battle Royale"
+      }
+    ],
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 35,
+        "name": "Card \u0026 Board Game"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 394606,
+        "company": {
+          "id": 77952,
+          "name": "Glacir Studios Inc."
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Norectus: Theatre of War",
+    "platforms": [
+      {
+        "id": 82,
+        "name": "Web browser"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 945804,
+        "date": 1784851200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 945805,
+        "date": 1784851200,
+        "platform": {
+          "id": 82,
+          "name": "Web browser"
+        }
+      },
+      {
+        "id": 928910,
+        "date": 1781222400,
+        "platform": {
+          "id": 82,
+          "name": "Web browser"
+        }
+      },
+      {
+        "id": 929135,
+        "date": 1781222400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1857396,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13t6c.jpg"
+      },
+      {
+        "id": 1859302,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13una.jpg"
+      },
+      {
+        "id": 1860524,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13vl8.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Norectus: Rebellion is a digital collectible card game set in a gritty world of five nations locked in a decades-long war.\n\nCollect from 400+ cards across five nations and a Neutral faction, each built around six elements (Flame, Frost, Nature, Spirit, Ki, Neutral) and more than 35 keyword mechanics. Build nation-aligned decks and take them into a deep roster of modes:\n\nRanked \u0026 Casual PvP: 1v1 ladder, 2v2, and free-for-all\nCooperative: team up to take down Raid Bosses and a persistent server-wide World Boss\nThe Gauntlet: a 100-floor roguelike climb with stacking boons and mini-bosses, solo or in a co-op party\nThrone: defend your seat against an endless challenger queue\nStory Campaign: 45 chapters of nation lore with NPC dialogue and branching paths\nGrind your way up the level track, master your chosen nation, and climb the ELO rankings. Earn cosmetics, season-pass rewards, and nation essence along the way, then relive your best matches with full replay scrubbing.\n\nPick your nation and win the war.",
+    "videos": [
+      {
+        "id": 188320,
+        "video_id": "Z4qOHdqGlg4"
+      },
+      {
+        "id": 188321,
+        "video_id": "I_vqwhdGJUI"
+      },
+      {
+        "id": 190202,
+        "video_id": "sTMXviIQyQg"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1081351,
+        "url": "https://store.steampowered.com/app/4899470",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1081352,
+        "url": "https://discord.gg/norectus",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1081353,
+        "url": "https://www.instagram.com/glacir.studios",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1069480,
+        "url": "https://play.norectus.net/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1086632,
+        "url": "https://www.twitch.tv/directory/category/norectus-theatre-of-war/videos/all",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      }
+    ]
+  },
+  {
     "id": 225604,
     "cover": {
       "id": 269250,
@@ -13245,7 +13035,7 @@
         "name": "Fighting"
       }
     ],
-    "hypes": 49,
+    "hypes": 50,
     "involved_companies": [
       {
         "id": 323908,
@@ -25800,7 +25590,7 @@
         "name": "Indie"
       }
     ],
-    "hypes": 3,
+    "hypes": 4,
     "involved_companies": [
       {
         "id": 307095,
@@ -26754,154 +26544,6 @@
       {
         "id": 1037752,
         "url": "https://www.twitch.tv/directory/category/ascenders-beyond-the-peak",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      }
-    ]
-  },
-  {
-    "id": 406030,
-    "cover": {
-      "id": 571517,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc8zh.jpg"
-    },
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      },
-      {
-        "id": 6,
-        "name": "Battle Royale"
-      }
-    ],
-    "genres": [
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 35,
-        "name": "Card \u0026 Board Game"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 394606,
-        "company": {
-          "id": 77952,
-          "name": "Glacir Studios Inc."
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Norectus: Theatre of War",
-    "platforms": [
-      {
-        "id": 82,
-        "name": "Web browser"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 928910,
-        "date": 1781222400,
-        "platform": {
-          "id": 82,
-          "name": "Web browser"
-        }
-      },
-      {
-        "id": 929135,
-        "date": 1781222400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1857396,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13t6c.jpg"
-      },
-      {
-        "id": 1859302,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13una.jpg"
-      },
-      {
-        "id": 1860524,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13vl8.jpg"
-      }
-    ],
-    "status": 2,
-    "summary": "Norectus: Rebellion is a digital collectible card game set in a gritty world of five nations locked in a decades-long war.\n\nCollect from 400+ cards across five nations and a Neutral faction, each built around six elements (Flame, Frost, Nature, Spirit, Ki, Neutral) and more than 35 keyword mechanics. Build nation-aligned decks and take them into a deep roster of modes:\n\nRanked \u0026 Casual PvP: 1v1 ladder, 2v2, and free-for-all\nCooperative: team up to take down Raid Bosses and a persistent server-wide World Boss\nThe Gauntlet: a 100-floor roguelike climb with stacking boons and mini-bosses, solo or in a co-op party\nThrone: defend your seat against an endless challenger queue\nStory Campaign: 45 chapters of nation lore with NPC dialogue and branching paths\nGrind your way up the level track, master your chosen nation, and climb the ELO rankings. Earn cosmetics, season-pass rewards, and nation essence along the way, then relive your best matches with full replay scrubbing.\n\nPick your nation and win the war.",
-    "videos": [
-      {
-        "id": 188320,
-        "video_id": "Z4qOHdqGlg4"
-      },
-      {
-        "id": 188321,
-        "video_id": "I_vqwhdGJUI"
-      },
-      {
-        "id": 190202,
-        "video_id": "sTMXviIQyQg"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1081351,
-        "url": "https://store.steampowered.com/app/4899470",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1081352,
-        "url": "https://discord.gg/norectus",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 1081353,
-        "url": "https://www.instagram.com/glacir.studios",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 1069480,
-        "url": "https://play.norectus.net/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1086632,
-        "url": "https://www.twitch.tv/directory/category/norectus-theatre-of-war/videos/all",
         "type": {
           "id": 6,
           "type": "Twitch"
