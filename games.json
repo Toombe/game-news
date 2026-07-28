@@ -12183,66 +12183,62 @@
     ]
   },
   {
-    "id": 225604,
+    "id": 228043,
     "cover": {
-      "id": 269250,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5rr6.jpg"
+      "id": 566406,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc51i.jpg"
     },
     "first_release_date": 1785110400,
     "game_modes": [
       {
         "id": 1,
         "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
       }
     ],
     "genres": [
       {
-        "id": 2,
-        "name": "Point-and-click"
+        "id": 15,
+        "name": "Strategy"
       },
       {
-        "id": 31,
-        "name": "Adventure"
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
       },
       {
         "id": 32,
         "name": "Indie"
+      },
+      {
+        "id": 35,
+        "name": "Card \u0026 Board Game"
       }
     ],
-    "hypes": 3,
+    "hypes": 2,
     "involved_companies": [
       {
-        "id": 207283,
+        "id": 195216,
         "company": {
-          "id": 34240,
-          "name": "Andyl4nd"
+          "id": 44503,
+          "name": "Fatus Games"
         },
         "developer": true,
-        "publisher": true
+        "publisher": false
       }
     ],
-    "name": "Endacopia",
+    "name": "Ariokan",
     "platforms": [
       {
         "id": 6,
         "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
       }
     ],
     "release_dates": [
       {
-        "id": 941959,
-        "date": 1785110400,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 941960,
+        "id": 946357,
         "date": 1785110400,
         "platform": {
           "id": 6,
@@ -12252,61 +12248,97 @@
     ],
     "screenshots": [
       {
-        "id": 925161,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scjtux.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Endacopia is a nontraditional point and click adventure game for Windows and Macintosh.\n\n“It’s like if Pajama Sam and Petscop had a baby.” -Playtester\n\nYou will be required to guide a lost child through a world that operates on foreign rules. The child’s name is “Mellow” and he doesn’t know much about anything other than the fact that he has a strong gut instinct. With a little help from his guardian angel (You!), Mellow will be able to overcome many obstacles in the way of him finding a place he can call “home”… wherever that may be.",
-    "videos": [
-      {
-        "id": 78369,
-        "video_id": "6HlfHjkmvDo"
+        "id": 1844594,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13jaq.jpg"
       },
       {
-        "id": 143898,
-        "video_id": "_wJsmY8huvk"
+        "id": 1844595,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13jar.jpg"
+      },
+      {
+        "id": 1844596,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13jas.jpg"
+      },
+      {
+        "id": 1844597,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13jat.jpg"
+      }
+    ],
+    "status": 3,
+    "summary": "Ariokan is the online collectible card game where you can create new (and balanced) official cards to invent new combos and break the \"Meta\". No floodgates, no 10-minutes turns, no pay-to-win. Generated cards can be unlocked by other players, contributing to an ever-growing library of cards!",
+    "videos": [
+      {
+        "id": 79150,
+        "video_id": "1pbEVRH97x4"
+      },
+      {
+        "id": 185451,
+        "video_id": "sB2hJigFnSE"
       }
     ],
     "websites": [
       {
-        "id": 599113,
-        "url": "https://store.steampowered.com/app/2684630",
+        "id": 624616,
+        "url": "https://www.reddit.com/r/ariokan/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 876616,
+        "url": "https://store.epicgames.com/en-US/p/ariokan-536e54",
+        "type": {
+          "id": 16,
+          "type": "Epic"
+        }
+      },
+      {
+        "id": 892921,
+        "url": "https://store.steampowered.com/app/3833620",
         "type": {
           "id": 13,
           "type": "Steam"
         }
       },
       {
-        "id": 323848,
-        "url": "https://andyl4nd.itch.io/endacopiademo",
-        "type": {
-          "id": 15,
-          "type": "Itch"
-        }
-      },
-      {
-        "id": 323849,
-        "url": "https://www.kickstarter.com/projects/endacopia/endacopia",
+        "id": 329228,
+        "url": "https://www.playariokan.com/",
         "type": {
           "id": 1,
           "type": "Official Website"
         }
       },
       {
-        "id": 323850,
-        "url": "https://www.youtube.com/watch?v\u003d6HlfHjkmvDo",
+        "id": 516446,
+        "url": "https://discord.gg/wRyrpXvAdc",
         "type": {
-          "id": 9,
-          "type": "YouTube"
+          "id": 18,
+          "type": "Discord"
         }
       },
       {
-        "id": 510612,
-        "url": "https://www.twitch.tv/directory/game/Endacopia",
+        "id": 511075,
+        "url": "https://www.twitch.tv/directory/game/Ariokan",
         "type": {
           "id": 6,
           "type": "Twitch"
+        }
+      },
+      {
+        "id": 1009928,
+        "url": "https://x.com/fatumgamessl",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1061824,
+        "url": "https://www.youtube.com/@ariokan",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
         }
       }
     ]
@@ -12825,7 +12857,7 @@
         "name": "Fighting"
       }
     ],
-    "hypes": 49,
+    "hypes": 50,
     "involved_companies": [
       {
         "id": 323908,
@@ -15652,7 +15684,7 @@
         "name": "Indie"
       }
     ],
-    "hypes": 2,
+    "hypes": 3,
     "involved_companies": [
       {
         "id": 377078,
@@ -20552,7 +20584,7 @@
         "name": "Card \u0026 Board Game"
       }
     ],
-    "hypes": 6,
+    "hypes": 7,
     "involved_companies": [
       {
         "id": 381807,
@@ -24882,6 +24914,124 @@
         "type": {
           "id": 25,
           "type": "Meta"
+        }
+      }
+    ]
+  },
+  {
+    "id": 302224,
+    "cover": {
+      "id": 586501,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cockjp.jpg"
+    },
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 404181,
+        "company": {
+          "id": 79529,
+          "name": "glass Pixel Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Fuel Station Simulator",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 907793,
+        "date": 1793145600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1321665,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsbsx.jpg"
+      },
+      {
+        "id": 1321666,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsbsy.jpg"
+      },
+      {
+        "id": 1321667,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsbsz.jpg"
+      },
+      {
+        "id": 1321668,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsbt0.jpg"
+      },
+      {
+        "id": 1321669,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsbt1.jpg"
+      },
+      {
+        "id": 1321672,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsbt4.jpg"
+      },
+      {
+        "id": 1321670,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsbt2.jpg"
+      },
+      {
+        "id": 1321671,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsbt3.jpg"
+      },
+      {
+        "id": 1321664,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsbsw.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Are you ready for the most comprehensive fuel station simulation ever? Manage your fuel station, your shop, the car wash, the workshop, your employees and much more…",
+    "websites": [
+      {
+        "id": 887908,
+        "url": "https://discord.gg/ZQFTGxhFqJ",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 639090,
+        "url": "https://store.steampowered.com/app/2876130",
+        "type": {
+          "id": 13,
+          "type": "Steam"
         }
       }
     ]
