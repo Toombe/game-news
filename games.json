@@ -8666,198 +8666,6 @@
     ]
   },
   {
-    "id": 364821,
-    "cover": {
-      "id": 486687,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coafj3.jpg"
-    },
-    "first_release_date": 1782864000,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      },
-      {
-        "id": 5,
-        "name": "Massively Multiplayer Online (MMO)"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      }
-    ],
-    "hypes": 6,
-    "involved_companies": [
-      {
-        "id": 342317,
-        "company": {
-          "id": 363,
-          "name": "Gravity"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Ragnarok: The New World",
-    "platforms": [
-      {
-        "id": 34,
-        "name": "Android"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 39,
-        "name": "iOS"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 943912,
-        "date": 1782864000,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 795137,
-        "date": 1756339200,
-        "platform": {
-          "id": 34,
-          "name": "Android"
-        }
-      },
-      {
-        "id": 795138,
-        "date": 1756339200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 795382,
-        "platform": {
-          "id": 39,
-          "name": "iOS"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1626531,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyv1f.jpg"
-      },
-      {
-        "id": 1626532,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyv1g.jpg"
-      },
-      {
-        "id": 1626533,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyv1h.jpg"
-      },
-      {
-        "id": 1626534,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyv1i.jpg"
-      },
-      {
-        "id": 1626535,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyv1j.jpg"
-      },
-      {
-        "id": 1626536,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyv1k.jpg"
-      },
-      {
-        "id": 1626537,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyv1l.jpg"
-      }
-    ],
-    "status": 3,
-    "summary": "Ragnarok: The New World is a massive online role-playing adventure set in the legendary world of Midgard. Explore vast fields, bustling cities, and mysterious dungeons where every journey holds new challenges and stories.\n\nCreate your own character and choose from classic jobs such as Swordsman, Mage, Archer, and Merchant. Customize your appearance with a wide variety of outfits, raise pets, ride mounts, and truly express yourself in a vibrant open world.\n\nBeyond combat, build and decorate your own home—design a personal sanctuary to relax, gather with friends, and show off your creativity.\n\nJoin forces with allies to defeat powerful bosses, tackle dangerous raids, and grow together in guilds and communities. Or simply wander freely, trade, and enjoy the world at your own pace. With nostalgia and freedom at its core, Ragnarok: The New World invites you to relive the spirit of Ragnarok while writing your own legend in an ever-evolving online world.",
-    "videos": [
-      {
-        "id": 167745,
-        "video_id": "KVHa83JkUV0"
-      }
-    ],
-    "websites": [
-      {
-        "id": 867233,
-        "url": "https://www.twitch.tv/directory/category/ragnarok-the-new-world/videos/all",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 861741,
-        "url": "https://play.google.com/store/apps/details?id\u003dcom.ggv.roworld.aos",
-        "type": {
-          "id": 12,
-          "type": "Google Play"
-        }
-      },
-      {
-        "id": 861744,
-        "url": "https://youtube.com/%40RagnarokWorld",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 861745,
-        "url": "https://discord.gg/GhKGR6cTBm",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 861742,
-        "url": "https://gevents.gnjoy.hk/mlktgayy/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 861743,
-        "url": "https://www.facebook.com/ROWorld.Gravity/",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 1043673,
-        "url": "https://store.steampowered.com/app/4212480",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      }
-    ]
-  },
-  {
     "id": 401278,
     "cover": {
       "id": 562300,
@@ -11818,8 +11626,8 @@
   {
     "id": 126669,
     "cover": {
-      "id": 494097,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coal8x.jpg"
+      "id": 587018,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocky2.jpg"
     },
     "first_release_date": 1784764800,
     "game_modes": [
@@ -12339,6 +12147,383 @@
         "type": {
           "id": 9,
           "type": "YouTube"
+        }
+      }
+    ]
+  },
+  {
+    "id": 301494,
+    "cover": {
+      "id": 431875,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co998j.jpg"
+    },
+    "first_release_date": 1785110400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 267031,
+        "company": {
+          "id": 54740,
+          "name": "QUICKFIREGAMES"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Prelude Dark Pain",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 940567,
+        "date": 1785110400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1503881,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw8eh.jpg"
+      },
+      {
+        "id": 1503882,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw8ei.jpg"
+      },
+      {
+        "id": 1503883,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw8ej.jpg"
+      },
+      {
+        "id": 1503884,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw8ek.jpg"
+      },
+      {
+        "id": 1503885,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw8el.jpg"
+      },
+      {
+        "id": 1503880,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw8eg.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Prelude Dark Pain is a Tactical RPG set in a dark fantasy world. Assume the role of a local blacksmith named Soren, lead an uprising against the Order of the Ash Crusade and save a world ravaged by war.",
+    "videos": [
+      {
+        "id": 178299,
+        "video_id": "iWoP0IPjHhU"
+      },
+      {
+        "id": 182006,
+        "video_id": "9v8Qo_wJMG8"
+      },
+      {
+        "id": 182007,
+        "video_id": "_HI0nERb4P8"
+      },
+      {
+        "id": 189998,
+        "video_id": "ALLWJ9lAUGA"
+      }
+    ],
+    "websites": [
+      {
+        "id": 726233,
+        "url": "https://bsky.app/profile/preludethegame.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 919271,
+        "url": "https://discord.gg/vsxD6n8P8J",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 637830,
+        "url": "https://store.steampowered.com/app/2479090/Prelude_Dark_Pain/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 703472,
+        "url": "https://www.instagram.com/preludethegame/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 703471,
+        "url": "https://twitter.com/preludethegame",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 703469,
+        "url": "https://quickfiregames.es/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 703470,
+        "url": "https://www.youtube.com/@preludethegame",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 703473,
+        "url": "https://www.reddit.com/user/preludethegame/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      }
+    ]
+  },
+  {
+    "id": 364821,
+    "cover": {
+      "id": 486687,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coafj3.jpg"
+    },
+    "first_release_date": 1785110400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 5,
+        "name": "Massively Multiplayer Online (MMO)"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 6,
+    "involved_companies": [
+      {
+        "id": 342317,
+        "company": {
+          "id": 363,
+          "name": "Gravity"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Ragnarok: The New World",
+    "platforms": [
+      {
+        "id": 34,
+        "name": "Android"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 39,
+        "name": "iOS"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 947006,
+        "date": 1785110400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 795137,
+        "date": 1756339200,
+        "platform": {
+          "id": 34,
+          "name": "Android"
+        }
+      },
+      {
+        "id": 795138,
+        "date": 1756339200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 795382,
+        "platform": {
+          "id": 39,
+          "name": "iOS"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1626531,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyv1f.jpg"
+      },
+      {
+        "id": 1626532,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyv1g.jpg"
+      },
+      {
+        "id": 1626533,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyv1h.jpg"
+      },
+      {
+        "id": 1626534,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyv1i.jpg"
+      },
+      {
+        "id": 1626535,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyv1j.jpg"
+      },
+      {
+        "id": 1626536,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyv1k.jpg"
+      },
+      {
+        "id": 1626537,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyv1l.jpg"
+      }
+    ],
+    "status": 3,
+    "summary": "Ragnarok: The New World is a massive online role-playing adventure set in the legendary world of Midgard. Explore vast fields, bustling cities, and mysterious dungeons where every journey holds new challenges and stories.\n\nCreate your own character and choose from classic jobs such as Swordsman, Mage, Archer, and Merchant. Customize your appearance with a wide variety of outfits, raise pets, ride mounts, and truly express yourself in a vibrant open world.\n\nBeyond combat, build and decorate your own home—design a personal sanctuary to relax, gather with friends, and show off your creativity.\n\nJoin forces with allies to defeat powerful bosses, tackle dangerous raids, and grow together in guilds and communities. Or simply wander freely, trade, and enjoy the world at your own pace. With nostalgia and freedom at its core, Ragnarok: The New World invites you to relive the spirit of Ragnarok while writing your own legend in an ever-evolving online world.",
+    "videos": [
+      {
+        "id": 167745,
+        "video_id": "KVHa83JkUV0"
+      }
+    ],
+    "websites": [
+      {
+        "id": 867233,
+        "url": "https://www.twitch.tv/directory/category/ragnarok-the-new-world/videos/all",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 861741,
+        "url": "https://play.google.com/store/apps/details?id\u003dcom.ggv.roworld.aos",
+        "type": {
+          "id": 12,
+          "type": "Google Play"
+        }
+      },
+      {
+        "id": 861744,
+        "url": "https://youtube.com/%40RagnarokWorld",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 861745,
+        "url": "https://discord.gg/GhKGR6cTBm",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 861742,
+        "url": "https://gevents.gnjoy.hk/mlktgayy/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 861743,
+        "url": "https://www.facebook.com/ROWorld.Gravity/",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 1043673,
+        "url": "https://store.steampowered.com/app/4212480",
+        "type": {
+          "id": 13,
+          "type": "Steam"
         }
       }
     ]
