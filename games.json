@@ -1017,6 +1017,248 @@
     ]
   },
   {
+    "id": 149340,
+    "cover": {
+      "id": 419382,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8zli.jpg"
+    },
+    "first_release_date": 1729555200,
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 7,
+    "involved_companies": [
+      {
+        "id": 404587,
+        "company": {
+          "id": 1118,
+          "name": "Torn Banner Studios"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 404586,
+        "company": {
+          "id": 10836,
+          "name": "Green Man Gaming Publishing"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "No More Room in Hell 2",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 643671,
+        "date": 1729555200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 946827,
+        "date": 1786406400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 466723,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sca04j.jpg"
+      },
+      {
+        "id": 466726,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sca04m.jpg"
+      },
+      {
+        "id": 466728,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sca04o.jpg"
+      },
+      {
+        "id": 466732,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sca04s.jpg"
+      },
+      {
+        "id": 466736,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sca04w.jpg"
+      },
+      {
+        "id": 466738,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sca04y.jpg"
+      },
+      {
+        "id": 466740,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sca050.jpg"
+      },
+      {
+        "id": 466743,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sca053.jpg"
+      },
+      {
+        "id": 466746,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sca056.jpg"
+      },
+      {
+        "id": 466748,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sca058.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "No More Room in Hell 2 is a terrifying 8 player co-op action horror experience. Find your friends in the dark and survive - in a dynamic, endlessly replayable zombie apocalypse.",
+    "videos": [
+      {
+        "id": 115976,
+        "video_id": "iI89IwxSico"
+      },
+      {
+        "id": 123492,
+        "video_id": "Bp3nRkfkp1w"
+      },
+      {
+        "id": 127355,
+        "video_id": "wNX8EmGqo8c"
+      },
+      {
+        "id": 132735,
+        "video_id": "hhmakh-Zxn8"
+      },
+      {
+        "id": 153422,
+        "video_id": "tmNdG8skIPI"
+      },
+      {
+        "id": 191466,
+        "video_id": "5PEjv2Wc0Jw"
+      }
+    ],
+    "websites": [
+      {
+        "id": 191053,
+        "url": "https://store.steampowered.com/app/292000",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 191054,
+        "url": "https://www.nmrih2.com",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 325594,
+        "url": "https://store.epicgames.com/en-US/p/no-more-room-in-hell-2-ea1b5c",
+        "type": {
+          "id": 16,
+          "type": "Epic"
+        }
+      },
+      {
+        "id": 457070,
+        "url": "https://www.twitch.tv/directory/game/No%20More%20Room%20in%20Hell%202",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 665698,
+        "url": "https://www.youtube.com/@NoMoreRoomInHellMod",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 665699,
+        "url": "https://twitter.com/nmrih",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 665700,
+        "url": "https://www.reddit.com/r/nmrih",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 665702,
+        "url": "https://en.wikipedia.org/wiki/No_More_Room_in_Hell",
+        "type": {
+          "id": 3,
+          "type": "Wikipedia"
+        }
+      },
+      {
+        "id": 325597,
+        "url": "https://discord.gg/nmrih",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 325595,
+        "url": "https://www.facebook.com/nmrih",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 665701,
+        "url": "https://en.namu.wiki/w/No%20More%20Room%20in%20Hell%202",
+        "type": {
+          "id": 2,
+          "type": "Community Wiki"
+        }
+      }
+    ]
+  },
+  {
     "id": 125642,
     "cover": {
       "id": 386712,
@@ -9170,311 +9412,6 @@
     ]
   },
   {
-    "id": 244178,
-    "cover": {
-      "id": 567733,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc62d.jpg"
-    },
-    "first_release_date": 1784160000,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      },
-      {
-        "id": 4,
-        "name": "Split screen"
-      }
-    ],
-    "genres": [
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 264063,
-        "company": {
-          "id": 12308,
-          "name": "Prideful Sloth"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Go-Go Town!",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 48,
-        "name": "PlayStation 4"
-      },
-      {
-        "id": 508,
-        "name": "Nintendo Switch 2"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      },
-      {
-        "id": 49,
-        "name": "Xbox One"
-      },
-      {
-        "id": 130,
-        "name": "Nintendo Switch"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 603109,
-        "date": 1718668800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 844551,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      },
-      {
-        "id": 844550,
-        "platform": {
-          "id": 49,
-          "name": "Xbox One"
-        }
-      },
-      {
-        "id": 844548,
-        "platform": {
-          "id": 48,
-          "name": "PlayStation 4"
-        }
-      },
-      {
-        "id": 844549,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 923410,
-        "date": 1784160000,
-        "platform": {
-          "id": 130,
-          "name": "Nintendo Switch"
-        }
-      },
-      {
-        "id": 923412,
-        "date": 1784160000,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 923411,
-        "date": 1784160000,
-        "platform": {
-          "id": 508,
-          "name": "Nintendo Switch 2"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1848179,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13m2b.jpg"
-      },
-      {
-        "id": 1848180,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13m2c.jpg"
-      },
-      {
-        "id": 1848181,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13m2d.jpg"
-      },
-      {
-        "id": 1848182,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13m2e.jpg"
-      },
-      {
-        "id": 1848183,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13m2f.jpg"
-      },
-      {
-        "id": 1848184,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13m2g.jpg"
-      },
-      {
-        "id": 1848185,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13m2h.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Step into the role of a hands-on mayor and build your town from the ground up. Plan neighborhoods, automate logistics, and grow your community—all while juggling workers, infrastructure, and day-to-day chaos to create your dream town. Play solo for total control, or bring friends for co-op mayhem.",
-    "videos": [
-      {
-        "id": 87408,
-        "video_id": "-S1I0uxbP6U"
-      },
-      {
-        "id": 91654,
-        "video_id": "xo32ujK0RHc"
-      },
-      {
-        "id": 102922,
-        "video_id": "TregOV57s7Y"
-      },
-      {
-        "id": 107208,
-        "video_id": "9FXN0sDPPkA"
-      },
-      {
-        "id": 115983,
-        "video_id": "yg4tx5ZoveM"
-      },
-      {
-        "id": 122180,
-        "video_id": "oGERW-uyE98"
-      },
-      {
-        "id": 158356,
-        "video_id": "d-V6K2gtvbg"
-      },
-      {
-        "id": 191074,
-        "video_id": "nVsZYiY7lU8"
-      },
-      {
-        "id": 186807,
-        "video_id": "ah9Ww_xh0Ts"
-      }
-    ],
-    "websites": [
-      {
-        "id": 738953,
-        "url": "https://bsky.app/profile/gogotowngame.com",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 692706,
-        "url": "https://gogotown.wiki.gg/",
-        "type": {
-          "id": 2,
-          "type": "Community Wiki"
-        }
-      },
-      {
-        "id": 549700,
-        "url": "https://www.reddit.com/r/PridefulSloth/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 542760,
-        "url": "https://store.steampowered.com/app/2195120",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 543777,
-        "url": "https://twitter.com/GoGoTownGame",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 543778,
-        "url": "https://www.instagram.com/gogotowngame/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 542761,
-        "url": "https://www.gogotowngame.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 615171,
-        "url": "https://discord.gg/pridefulsloth",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 662479,
-        "url": "https://www.twitch.tv/directory/category/go-go-town",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 692707,
-        "url": "https://www.youtube.com/@PridefulSlothGames",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1069655,
-        "url": "https://www.nintendo.com/us/store/products/go-go-town-switch/",
-        "type": {
-          "id": 24,
-          "type": "Nintendo"
-        }
-      }
-    ]
-  },
-  {
     "id": 327817,
     "cover": {
       "id": 459342,
@@ -13016,6 +12953,212 @@
     ]
   },
   {
+    "id": 142498,
+    "cover": {
+      "id": 274550,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5vue.jpg"
+    },
+    "first_release_date": 1785369600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 8,
+    "involved_companies": [
+      {
+        "id": 403507,
+        "company": {
+          "id": 41519,
+          "name": "Trophy Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 403506,
+        "company": {
+          "id": 39166,
+          "name": "RedPilzStudio"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "The Ranchers",
+    "platforms": [
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 927650,
+        "date": 1785369600,
+        "platform": {
+          "id": 3,
+          "name": "Linux"
+        }
+      },
+      {
+        "id": 927651,
+        "date": 1785369600,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      },
+      {
+        "id": 927652,
+        "date": 1785369600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 688810,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scerhm.jpg"
+      },
+      {
+        "id": 688808,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scerhk.jpg"
+      },
+      {
+        "id": 688809,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scerhl.jpg"
+      },
+      {
+        "id": 688807,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scerhj.jpg"
+      },
+      {
+        "id": 688811,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scerhn.jpg"
+      },
+      {
+        "id": 688812,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scerho.jpg"
+      },
+      {
+        "id": 688813,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scerhp.jpg"
+      },
+      {
+        "id": 688814,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scerhq.jpg"
+      }
+    ],
+    "status": 2,
+    "summary": "The Ranchers is an open world country-life sim for 1-4 players. Raise animals, grow crops, craft machines, build your dream house and explore the gigantic open world where mines and dangerous monsters abound. Earn the villagers\u0027 respect and esteem. And who knows, maybe find love and start a family.",
+    "videos": [
+      {
+        "id": 59776,
+        "video_id": "GxYxirLhRqE"
+      },
+      {
+        "id": 90134,
+        "video_id": "YIacTvb28po"
+      }
+    ],
+    "websites": [
+      {
+        "id": 505658,
+        "url": "https://www.twitch.tv/directory/game/The%20Ranchers",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 340791,
+        "url": "https://www.facebook.com/RanchersGame",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 166285,
+        "url": "https://store.steampowered.com/app/1501310",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 246110,
+        "url": "https://www.ranchers.game/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 246111,
+        "url": "https://www.youtube.com/channel/UCCm6oFWJZ1y0VzfJfSezXOg",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 340792,
+        "url": "https://discord.gg/invite/qrEzSJUb4E",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 246112,
+        "url": "https://twitter.com/RanchersGame",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      }
+    ]
+  },
+  {
     "id": 347132,
     "cover": {
       "id": 583877,
@@ -13042,7 +13185,7 @@
         "name": "Fighting"
       }
     ],
-    "hypes": 50,
+    "hypes": 51,
     "involved_companies": [
       {
         "id": 323908,
@@ -15424,6 +15567,223 @@
     ]
   },
   {
+    "id": 304944,
+    "cover": {
+      "id": 587252,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocl4k.jpg"
+    },
+    "first_release_date": 1790726400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 6,
+        "name": "Battle Royale"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 4,
+    "involved_companies": [
+      {
+        "id": 269291,
+        "company": {
+          "id": 22484,
+          "name": "Double Dash Studios"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Shadows of Chroma Tower",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 890724,
+        "date": 1790726400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 890725,
+        "date": 1790726400,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1887220,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14g6s.jpg"
+      },
+      {
+        "id": 1887224,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14g6w.jpg"
+      },
+      {
+        "id": 1887225,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14g6x.jpg"
+      },
+      {
+        "id": 1887222,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14g6u.jpg"
+      },
+      {
+        "id": 1887217,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14g6p.jpg"
+      },
+      {
+        "id": 1887218,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14g6q.jpg"
+      },
+      {
+        "id": 1887219,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14g6r.jpg"
+      },
+      {
+        "id": 1887221,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14g6t.jpg"
+      },
+      {
+        "id": 1887223,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14g6v.jpg"
+      }
+    ],
+    "status": 3,
+    "summary": "Choose your faction and fight for control of the Tower! Shadows of Chroma Tower mixes together the best features of Dungeon Crawlers and ARPGs. Choose between steel, wit and magic to face hordes of enemies and huge bosses in PvE dungeons while participating in Asynchronous PvP modes.",
+    "videos": [
+      {
+        "id": 150731,
+        "video_id": "OoIHNBLF8aM"
+      },
+      {
+        "id": 134514,
+        "video_id": "YqiPbCUhljQ"
+      },
+      {
+        "id": 156583,
+        "video_id": "KNpcoHHHiEQ"
+      },
+      {
+        "id": 160618,
+        "video_id": "0HXWW5a2uPo"
+      }
+    ],
+    "websites": [
+      {
+        "id": 662260,
+        "url": "https://www.reddit.com/r/ChromaTower/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 836831,
+        "url": "https://chromatower.wiki.gg/",
+        "type": {
+          "id": 2,
+          "type": "Community Wiki"
+        }
+      },
+      {
+        "id": 798708,
+        "url": "https://bsky.app/profile/chromatower.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 643620,
+        "url": "https://store.steampowered.com/app/2713380",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 662254,
+        "url": "https://www.doubledashstudios.com/shadowsofchromatower",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 662256,
+        "url": "https://www.youtube.com/@ShadowsofChromaTower",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 662257,
+        "url": "https://twitter.com/ChromaTower",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 662259,
+        "url": "https://discord.gg/chEG3bWcdH",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 662255,
+        "url": "https://www.twitch.tv/chromatower",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 662258,
+        "url": "https://www.instagram.com/chromatower/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      }
+    ]
+  },
+  {
     "id": 355028,
     "cover": {
       "id": 481469,
@@ -15838,163 +16198,6 @@
         "type": {
           "id": 14,
           "type": "Subreddit"
-        }
-      }
-    ]
-  },
-  {
-    "id": 122521,
-    "cover": {
-      "id": 550390,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobsom.jpg"
-    },
-    "first_release_date": 1798675200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 25,
-        "name": "Hack and slash/Beat \u0027em up"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 3,
-    "involved_companies": [
-      {
-        "id": 377078,
-        "company": {
-          "id": 74999,
-          "name": "Sigil Games"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Divinum",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 846934,
-        "date": 1798675200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 846935,
-        "date": 1798675200,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1802652,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12mxo.jpg"
-      },
-      {
-        "id": 1802653,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12mxp.jpg"
-      },
-      {
-        "id": 1802654,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12mxq.jpg"
-      },
-      {
-        "id": 1802655,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12mxr.jpg"
-      },
-      {
-        "id": 1802656,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12mxs.jpg"
-      },
-      {
-        "id": 1802657,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12mxt.jpg"
-      }
-    ],
-    "status": 3,
-    "summary": "Divinum is an action-adventure that blends stylish, expressive combat with rewarding exploration. Master devastating combos and craft unique builds to fight back mysterious invaders and uncover your island’s hidden truth.",
-    "videos": [
-      {
-        "id": 158451,
-        "video_id": "OSIiIczLsqY"
-      },
-      {
-        "id": 179139,
-        "video_id": "vkpkx3VRO6g"
-      }
-    ],
-    "websites": [
-      {
-        "id": 798692,
-        "url": "https://x.com/DivinumGame",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 799724,
-        "url": "https://youtube.com/@divinumgame",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 117755,
-        "url": "https://store.steampowered.com/app/1148130",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 440423,
-        "url": "https://www.twitch.tv/directory/game/Divinum",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 1031664,
-        "url": "https://divinumgame.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1031665,
-        "url": "https://discord.gg/4a9mAKbUSX",
-        "type": {
-          "id": 18,
-          "type": "Discord"
         }
       }
     ]
@@ -23222,211 +23425,6 @@
     ]
   },
   {
-    "id": 142498,
-    "cover": {
-      "id": 274550,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5vue.jpg"
-    },
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 8,
-    "involved_companies": [
-      {
-        "id": 403507,
-        "company": {
-          "id": 41519,
-          "name": "Trophy Games"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 403506,
-        "company": {
-          "id": 39166,
-          "name": "RedPilzStudio"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "The Ranchers",
-    "platforms": [
-      {
-        "id": 3,
-        "name": "Linux"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 927650,
-        "date": 1785369600,
-        "platform": {
-          "id": 3,
-          "name": "Linux"
-        }
-      },
-      {
-        "id": 927651,
-        "date": 1785369600,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 927652,
-        "date": 1785369600,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 688810,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scerhm.jpg"
-      },
-      {
-        "id": 688808,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scerhk.jpg"
-      },
-      {
-        "id": 688809,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scerhl.jpg"
-      },
-      {
-        "id": 688807,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scerhj.jpg"
-      },
-      {
-        "id": 688811,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scerhn.jpg"
-      },
-      {
-        "id": 688812,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scerho.jpg"
-      },
-      {
-        "id": 688813,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scerhp.jpg"
-      },
-      {
-        "id": 688814,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scerhq.jpg"
-      }
-    ],
-    "status": 2,
-    "summary": "The Ranchers is an open world country-life sim for 1-4 players. Raise animals, grow crops, craft machines, build your dream house and explore the gigantic open world where mines and dangerous monsters abound. Earn the villagers\u0027 respect and esteem. And who knows, maybe find love and start a family.",
-    "videos": [
-      {
-        "id": 59776,
-        "video_id": "GxYxirLhRqE"
-      },
-      {
-        "id": 90134,
-        "video_id": "YIacTvb28po"
-      }
-    ],
-    "websites": [
-      {
-        "id": 505658,
-        "url": "https://www.twitch.tv/directory/game/The%20Ranchers",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 340791,
-        "url": "https://www.facebook.com/RanchersGame",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 166285,
-        "url": "https://store.steampowered.com/app/1501310",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 246110,
-        "url": "https://www.ranchers.game/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 246111,
-        "url": "https://www.youtube.com/channel/UCCm6oFWJZ1y0VzfJfSezXOg",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 340792,
-        "url": "https://discord.gg/invite/qrEzSJUb4E",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 246112,
-        "url": "https://twitter.com/RanchersGame",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      }
-    ]
-  },
-  {
     "id": 152498,
     "cover": {
       "id": 561430,
@@ -25837,6 +25835,14 @@
         "type": {
           "id": 14,
           "type": "Subreddit"
+        }
+      },
+      {
+        "id": 1090189,
+        "url": "https://discord.gg/S5k62jcH",
+        "type": {
+          "id": 18,
+          "type": "Discord"
         }
       }
     ]
