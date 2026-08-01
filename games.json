@@ -1,190 +1,5 @@
 [
   {
-    "id": 152779,
-    "cover": {
-      "id": 291519,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co68xr.jpg"
-    },
-    "first_release_date": 1678406400,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 3,
-    "involved_companies": [
-      {
-        "id": 178155,
-        "company": {
-          "id": 42207,
-          "name": "Hovgaard Games"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Big Ambitions",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 844687,
-        "date": 1785542400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 554507,
-        "date": 1678406400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1010891,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sclo0b.jpg"
-      },
-      {
-        "id": 1010895,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sclo0f.jpg"
-      },
-      {
-        "id": 1010896,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sclo0g.jpg"
-      },
-      {
-        "id": 1010893,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sclo0d.jpg"
-      },
-      {
-        "id": 1010897,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sclo0h.jpg"
-      },
-      {
-        "id": 1010894,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sclo0e.jpg"
-      },
-      {
-        "id": 1010890,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sclo0a.jpg"
-      },
-      {
-        "id": 1010892,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sclo0c.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Big Ambitions is a revolutionary role-playing business sim. Go from nothing to the biggest entrepreneur in New York by opening small businesses or slowly building huge corporations any way you like.",
-    "videos": [
-      {
-        "id": 85892,
-        "video_id": "flDB9YNNm4c"
-      },
-      {
-        "id": 85893,
-        "video_id": "1hKg7q-HifU"
-      }
-    ],
-    "websites": [
-      {
-        "id": 295812,
-        "url": "https://www.facebook.com/hovgaardgames",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 295811,
-        "url": "https://www.bigambitionsgame.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 295815,
-        "url": "https://discord.gg/hovgaardgames",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 295814,
-        "url": "https://www.instagram.com/hovgaardgames",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 295813,
-        "url": "https://twitter.com/hovgaardgames",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 459937,
-        "url": "https://www.twitch.tv/directory/game/Big%20Ambitions",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 886288,
-        "url": "https://www.reddit.com/r/bigambitions/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 295810,
-        "url": "https://store.steampowered.com/app/1331550",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 536717,
-        "url": "https://www.youtube.com/c/HovgaardGames?app\u003ddesktop",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      }
-    ]
-  },
-  {
     "id": 279627,
     "cover": {
       "id": 348975,
@@ -1012,248 +827,6 @@
         "type": {
           "id": 22,
           "type": "Xbox"
-        }
-      }
-    ]
-  },
-  {
-    "id": 149340,
-    "cover": {
-      "id": 419382,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8zli.jpg"
-    },
-    "first_release_date": 1729555200,
-    "game_modes": [
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 5,
-        "name": "Shooter"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 7,
-    "involved_companies": [
-      {
-        "id": 404587,
-        "company": {
-          "id": 1118,
-          "name": "Torn Banner Studios"
-        },
-        "developer": true,
-        "publisher": true
-      },
-      {
-        "id": 404586,
-        "company": {
-          "id": 10836,
-          "name": "Green Man Gaming Publishing"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "No More Room in Hell 2",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 643671,
-        "date": 1729555200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 946827,
-        "date": 1786406400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 466723,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sca04j.jpg"
-      },
-      {
-        "id": 466726,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sca04m.jpg"
-      },
-      {
-        "id": 466728,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sca04o.jpg"
-      },
-      {
-        "id": 466732,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sca04s.jpg"
-      },
-      {
-        "id": 466736,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sca04w.jpg"
-      },
-      {
-        "id": 466738,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sca04y.jpg"
-      },
-      {
-        "id": 466740,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sca050.jpg"
-      },
-      {
-        "id": 466743,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sca053.jpg"
-      },
-      {
-        "id": 466746,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sca056.jpg"
-      },
-      {
-        "id": 466748,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sca058.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "No More Room in Hell 2 is a terrifying 8 player co-op action horror experience. Find your friends in the dark and survive - in a dynamic, endlessly replayable zombie apocalypse.",
-    "videos": [
-      {
-        "id": 115976,
-        "video_id": "iI89IwxSico"
-      },
-      {
-        "id": 123492,
-        "video_id": "Bp3nRkfkp1w"
-      },
-      {
-        "id": 127355,
-        "video_id": "wNX8EmGqo8c"
-      },
-      {
-        "id": 132735,
-        "video_id": "hhmakh-Zxn8"
-      },
-      {
-        "id": 153422,
-        "video_id": "tmNdG8skIPI"
-      },
-      {
-        "id": 191466,
-        "video_id": "5PEjv2Wc0Jw"
-      }
-    ],
-    "websites": [
-      {
-        "id": 191053,
-        "url": "https://store.steampowered.com/app/292000",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 191054,
-        "url": "https://www.nmrih2.com",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 325594,
-        "url": "https://store.epicgames.com/en-US/p/no-more-room-in-hell-2-ea1b5c",
-        "type": {
-          "id": 16,
-          "type": "Epic"
-        }
-      },
-      {
-        "id": 457070,
-        "url": "https://www.twitch.tv/directory/game/No%20More%20Room%20in%20Hell%202",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 665698,
-        "url": "https://www.youtube.com/@NoMoreRoomInHellMod",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 665699,
-        "url": "https://twitter.com/nmrih",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 665700,
-        "url": "https://www.reddit.com/r/nmrih",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 665702,
-        "url": "https://en.wikipedia.org/wiki/No_More_Room_in_Hell",
-        "type": {
-          "id": 3,
-          "type": "Wikipedia"
-        }
-      },
-      {
-        "id": 325597,
-        "url": "https://discord.gg/nmrih",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 325595,
-        "url": "https://www.facebook.com/nmrih",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 665701,
-        "url": "https://en.namu.wiki/w/No%20More%20Room%20in%20Hell%202",
-        "type": {
-          "id": 2,
-          "type": "Community Wiki"
         }
       }
     ]
@@ -4299,318 +3872,6 @@
         "type": {
           "id": 18,
           "type": "Discord"
-        }
-      }
-    ]
-  },
-  {
-    "id": 348334,
-    "cover": {
-      "id": 487392,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coag2o.jpg"
-    },
-    "first_release_date": 1780358400,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 3,
-    "involved_companies": [
-      {
-        "id": 345648,
-        "company": {
-          "id": 68832,
-          "name": "SethMadDev"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 345649,
-        "company": {
-          "id": 59148,
-          "name": "Ivy Juice Games"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "My Little Cafe Nightmare",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 829610,
-        "date": 1761696000,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 904674,
-        "date": 1780358400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1554709,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxbmd.jpg"
-      },
-      {
-        "id": 1554710,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxbme.jpg"
-      },
-      {
-        "id": 1554711,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxbmf.jpg"
-      },
-      {
-        "id": 1554712,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxbmg.jpg"
-      },
-      {
-        "id": 1554713,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxbmh.jpg"
-      },
-      {
-        "id": 1554714,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxbmi.jpg"
-      },
-      {
-        "id": 1554715,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxbmj.jpg"
-      },
-      {
-        "id": 1554716,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxbmk.jpg"
-      },
-      {
-        "id": 1554717,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxbml.jpg"
-      },
-      {
-        "id": 1554718,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxbmm.jpg"
-      },
-      {
-        "id": 1554719,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxbmn.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Brew otherworldly coffee for ghostly patrons in a dark, cozy first-person café. Upgrade your shop, manage supplies, and turn a haunted café into a sanctuary amidst nightmares.",
-    "videos": [
-      {
-        "id": 153068,
-        "video_id": "Fx0sxcg2Tjs"
-      },
-      {
-        "id": 178120,
-        "video_id": "2GWrY1fqt9g"
-      }
-    ],
-    "websites": [
-      {
-        "id": 868832,
-        "url": "https://discord.gg/UGdC24k8eQ",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 909724,
-        "url": "https://www.twitch.tv/directory/category/my-little-cafe-nightmare",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 898773,
-        "url": "https://x.com/ivyjuicegames",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 810941,
-        "url": "https://store.steampowered.com/app/3726250",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 810942,
-        "url": "https://bsky.app/profile/sethmaddev.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 811091,
-        "url": "https://www.youtube.com/@SethMadDev",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      }
-    ]
-  },
-  {
-    "id": 358769,
-    "cover": {
-      "id": 476535,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coa7p3.jpg"
-    },
-    "first_release_date": 1780358400,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 25,
-        "name": "Hack and slash/Beat \u0027em up"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      }
-    ],
-    "hypes": 56,
-    "involved_companies": [
-      {
-        "id": 333853,
-        "company": {
-          "id": 66170,
-          "name": "Paraglacial"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 333854,
-        "company": {
-          "id": 10075,
-          "name": "THQ Nordic"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Fatekeeper",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 918501,
-        "date": 1780358400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1681077,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1014l.jpg"
-      },
-      {
-        "id": 1681078,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1014m.jpg"
-      },
-      {
-        "id": 1681079,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1014n.jpg"
-      },
-      {
-        "id": 1681080,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1014o.jpg"
-      },
-      {
-        "id": 1681081,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1014p.jpg"
-      },
-      {
-        "id": 1681082,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1014q.jpg"
-      },
-      {
-        "id": 1681083,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1014r.jpg"
-      },
-      {
-        "id": 1681084,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1014s.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Venture into a handcrafted world where ruins whisper of past cataclysms. Master the art of sword and sorcery and forge your path with relics, spells and choices that shape who you become in this first-person RPG.",
-    "videos": [
-      {
-        "id": 157795,
-        "video_id": "x9xHZodgC2Y"
-      }
-    ],
-    "websites": [
-      {
-        "id": 844265,
-        "url": "https://store.steampowered.com/app/2186990",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 901528,
-        "url": "https://discord.gg/fatekeeper",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 844266,
-        "url": "https://fatekeeper.thqnordic.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
         }
       }
     ]
@@ -13095,7 +12356,7 @@
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/scerhq.jpg"
       }
     ],
-    "status": 2,
+    "status": 4,
     "summary": "The Ranchers is an open world country-life sim for 1-4 players. Raise animals, grow crops, craft machines, build your dream house and explore the gigantic open world where mines and dangerous monsters abound. Earn the villagers\u0027 respect and esteem. And who knows, maybe find love and start a family.",
     "videos": [
       {
@@ -13364,6 +12625,555 @@
         "type": {
           "id": 9,
           "type": "YouTube"
+        }
+      }
+    ]
+  },
+  {
+    "id": 192948,
+    "cover": {
+      "id": 431406,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co98vi.jpg"
+    },
+    "first_release_date": 1785456000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 358708,
+        "company": {
+          "id": 71435,
+          "name": "Luigi Cinelli"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 358709,
+        "company": {
+          "id": 71436,
+          "name": "Andrea Koutifaris"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 358707,
+        "company": {
+          "id": 71434,
+          "name": "Sirio Art Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Occulto",
+    "platforms": [
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 939775,
+        "date": 1785456000,
+        "platform": {
+          "id": 3,
+          "name": "Linux"
+        }
+      },
+      {
+        "id": 939776,
+        "date": 1785456000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1445816,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuzlk.jpg"
+      },
+      {
+        "id": 1445817,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuzll.jpg"
+      },
+      {
+        "id": 1445818,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuzlm.jpg"
+      },
+      {
+        "id": 1445819,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuzln.jpg"
+      },
+      {
+        "id": 1445820,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuzlo.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Occulto is an indie adventure game with a focus on artistic hand-drawn visuals and a non verbal game play, set in a fantasy world. Guide Eliot through riddles, mysteries, puzzles, strange creatures, faraway places and help him find his master!",
+    "videos": [
+      {
+        "id": 137340,
+        "video_id": "3Z_gRZBsXn8"
+      }
+    ],
+    "websites": [
+      {
+        "id": 267778,
+        "url": "https://store.steampowered.com/app/1892630",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 267779,
+        "url": "https://www.sirioartgames.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 485504,
+        "url": "https://www.twitch.tv/directory/game/Occulto",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 702930,
+        "url": "https://www.reddit.com/r/SirioArtGames/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 702928,
+        "url": "https://twitter.com/SirioArtGames",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 702929,
+        "url": "https://www.instagram.com/sirioartgames/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 702927,
+        "url": "https://www.youtube.com/@siriogamessirioartgames5539",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 702926,
+        "url": "https://play.google.com/store/apps/details?id\u003dcom.SirioArtGames.OccultoDemo",
+        "type": {
+          "id": 12,
+          "type": "Google Play"
+        }
+      }
+    ]
+  },
+  {
+    "id": 152779,
+    "cover": {
+      "id": 291519,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co68xr.jpg"
+    },
+    "first_release_date": 1785542400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 3,
+    "involved_companies": [
+      {
+        "id": 178155,
+        "company": {
+          "id": 42207,
+          "name": "Hovgaard Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Big Ambitions",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 844687,
+        "date": 1785542400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 554507,
+        "date": 1678406400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1010891,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sclo0b.jpg"
+      },
+      {
+        "id": 1010895,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sclo0f.jpg"
+      },
+      {
+        "id": 1010896,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sclo0g.jpg"
+      },
+      {
+        "id": 1010893,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sclo0d.jpg"
+      },
+      {
+        "id": 1010897,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sclo0h.jpg"
+      },
+      {
+        "id": 1010894,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sclo0e.jpg"
+      },
+      {
+        "id": 1010890,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sclo0a.jpg"
+      },
+      {
+        "id": 1010892,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sclo0c.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Big Ambitions is a revolutionary role-playing business sim. Go from nothing to the biggest entrepreneur in New York by opening small businesses or slowly building huge corporations any way you like.",
+    "videos": [
+      {
+        "id": 85892,
+        "video_id": "flDB9YNNm4c"
+      },
+      {
+        "id": 85893,
+        "video_id": "1hKg7q-HifU"
+      }
+    ],
+    "websites": [
+      {
+        "id": 295812,
+        "url": "https://www.facebook.com/hovgaardgames",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 295811,
+        "url": "https://www.bigambitionsgame.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 295815,
+        "url": "https://discord.gg/hovgaardgames",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 295814,
+        "url": "https://www.instagram.com/hovgaardgames",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 295813,
+        "url": "https://twitter.com/hovgaardgames",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 459937,
+        "url": "https://www.twitch.tv/directory/game/Big%20Ambitions",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 886288,
+        "url": "https://www.reddit.com/r/bigambitions/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 295810,
+        "url": "https://store.steampowered.com/app/1331550",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 536717,
+        "url": "https://www.youtube.com/c/HovgaardGames?app\u003ddesktop",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      }
+    ]
+  },
+  {
+    "id": 204463,
+    "cover": {
+      "id": 555813,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobwv9.jpg"
+    },
+    "first_release_date": 1785542400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 4,
+    "involved_companies": [
+      {
+        "id": 265516,
+        "company": {
+          "id": 8359,
+          "name": "Nowhere Studios"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Good Heavens!",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 929217,
+        "date": 1785542400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 929218,
+        "date": 1785542400,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 810049,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/schd1d.jpg"
+      },
+      {
+        "id": 810050,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/schd1e.jpg"
+      },
+      {
+        "id": 810051,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/schd1f.jpg"
+      },
+      {
+        "id": 810052,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/schd1g.jpg"
+      },
+      {
+        "id": 810053,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/schd1h.jpg"
+      }
+    ],
+    "status": 2,
+    "summary": "Good Heavens! Is an open-world crafting and building RPG. Embark on a solo adventure or team up with up friends, picking your tool of choice – sword, wand, or carpenter\u0027s hammer. Navigate the quirky races and cultures of the promised lands and restore them to their, ahem, intended glory.",
+    "videos": [
+      {
+        "id": 69562,
+        "video_id": "a8xU4ttMOt4"
+      },
+      {
+        "id": 91164,
+        "video_id": "qKT-w2vN57E"
+      },
+      {
+        "id": 180899,
+        "video_id": "lXPPZyEKGtM"
+      }
+    ],
+    "websites": [
+      {
+        "id": 743384,
+        "url": "https://store.epicgames.com/en-US/p/good-heavens-323f08",
+        "type": {
+          "id": 16,
+          "type": "Epic"
+        }
+      },
+      {
+        "id": 493925,
+        "url": "https://www.twitch.tv/directory/game/Good%20Heavens%21",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 635482,
+        "url": "https://store.steampowered.com/app/1617120/Good_Heavens",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 634808,
+        "url": "https://twitter.com/goodheavensrpg",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 583081,
+        "url": "https://www.gog.com/en/game/good_heavens",
+        "type": {
+          "id": 17,
+          "type": "GOG"
+        }
+      },
+      {
+        "id": 634809,
+        "url": "https://discord.gg/kaYpYrcGZa",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1027190,
+        "url": "https://www.instagram.com/goodheavensrpg/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1058192,
+        "url": "https://www.reddit.com/r/GoodHeavens/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
         }
       }
     ]
@@ -23432,6 +23242,30 @@
     ],
     "websites": [
       {
+        "id": 1091151,
+        "url": "https://x.com/donebypan",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1091152,
+        "url": "https://www.tumblr.com/donebypan",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1091153,
+        "url": "https://www.youtube.com/@donebypan",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
         "id": 1060187,
         "url": "https://store.steampowered.com/app/4454280/Cozy_Archivist_Simulator/",
         "type": {
@@ -24331,186 +24165,6 @@
         "type": {
           "id": 6,
           "type": "Twitch"
-        }
-      }
-    ]
-  },
-  {
-    "id": 204463,
-    "cover": {
-      "id": 555813,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobwv9.jpg"
-    },
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 4,
-    "involved_companies": [
-      {
-        "id": 265516,
-        "company": {
-          "id": 8359,
-          "name": "Nowhere Studios"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Good Heavens!",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 929217,
-        "date": 1785542400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 929218,
-        "date": 1785542400,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 810049,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/schd1d.jpg"
-      },
-      {
-        "id": 810050,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/schd1e.jpg"
-      },
-      {
-        "id": 810051,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/schd1f.jpg"
-      },
-      {
-        "id": 810052,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/schd1g.jpg"
-      },
-      {
-        "id": 810053,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/schd1h.jpg"
-      }
-    ],
-    "status": 2,
-    "summary": "Good Heavens! Is an open-world crafting and building RPG. Embark on a solo adventure or team up with up friends, picking your tool of choice – sword, wand, or carpenter\u0027s hammer. Navigate the quirky races and cultures of the promised lands and restore them to their, ahem, intended glory.",
-    "videos": [
-      {
-        "id": 69562,
-        "video_id": "a8xU4ttMOt4"
-      },
-      {
-        "id": 91164,
-        "video_id": "qKT-w2vN57E"
-      },
-      {
-        "id": 180899,
-        "video_id": "lXPPZyEKGtM"
-      }
-    ],
-    "websites": [
-      {
-        "id": 743384,
-        "url": "https://store.epicgames.com/en-US/p/good-heavens-323f08",
-        "type": {
-          "id": 16,
-          "type": "Epic"
-        }
-      },
-      {
-        "id": 493925,
-        "url": "https://www.twitch.tv/directory/game/Good%20Heavens%21",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 635482,
-        "url": "https://store.steampowered.com/app/1617120/Good_Heavens",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 634808,
-        "url": "https://twitter.com/goodheavensrpg",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 583081,
-        "url": "https://www.gog.com/en/game/good_heavens",
-        "type": {
-          "id": 17,
-          "type": "GOG"
-        }
-      },
-      {
-        "id": 634809,
-        "url": "https://discord.gg/kaYpYrcGZa",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 1027190,
-        "url": "https://www.instagram.com/goodheavensrpg/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 1058192,
-        "url": "https://www.reddit.com/r/GoodHeavens/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
         }
       }
     ]
@@ -26892,167 +26546,6 @@
         "type": {
           "id": 6,
           "type": "Twitch"
-        }
-      }
-    ]
-  },
-  {
-    "id": 408625,
-    "cover": {
-      "id": 577031,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocd8n.jpg"
-    },
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 398869,
-        "company": {
-          "id": 42836,
-          "name": "Goose Byte"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 400873,
-        "company": {
-          "id": 78970,
-          "name": "Balor Games"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Sponge Break",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 937025,
-        "date": 1783382400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1874954,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc146q2.jpg"
-      },
-      {
-        "id": 1874955,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc146q3.jpg"
-      },
-      {
-        "id": 1874957,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc146q5.jpg"
-      },
-      {
-        "id": 1874956,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc146q4.jpg"
-      }
-    ],
-    "status": 3,
-    "summary": "Sponge Break is a physics-based co-op survival game in which one to four players control sponges attempting to escape down a treacherous river aboard a fragile raft, steering through rapids, environmental hazards, and hostile wildlife. It supports drop-in co-op and solo play, and features proximity voice chat with sponges that lip-sync to player speech. Players use a plunger that doubles as a grappling hook, throw loose objects, and store loot in a shared raft stash, while a physics system governs raft handling and damage. Progression is level-based across multiple biomes such as sewers, rivers, and abandoned facilities, with safehouses between levels for repairing, reviving, and restocking, alongside over 100 unlockable cosmetic options, emotes, controller support, and a range of side activities.",
-    "videos": [
-      {
-        "id": 189427,
-        "video_id": "W0xT5nqSI7E"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1079733,
-        "url": "https://www.spongebreak.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1080148,
-        "url": "https://twitter.com/goosebytegames",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1080149,
-        "url": "https://www.instagram.com/goosebytegames",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 1080150,
-        "url": "https://www.youtube.com/@GooseByteGames",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1080151,
-        "url": "https://www.reddit.com/r/SpongeBreak",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 1080152,
-        "url": "https://discord.gg/SpongeBreak",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 1082464,
-        "url": "https://store.steampowered.com/app/2657560/Sponge_Break/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1084457,
-        "url": "https://bsky.app/profile/goosebyte.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
         }
       }
     ]
