@@ -3475,235 +3475,6 @@
     ]
   },
   {
-    "id": 310885,
-    "cover": {
-      "id": 425061,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co93z9.jpg"
-    },
-    "first_release_date": 1770768000,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 11,
-    "involved_companies": [
-      {
-        "id": 338385,
-        "company": {
-          "id": 67051,
-          "name": "Seed Lab"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Starsand Island",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 508,
-        "name": "Nintendo Switch 2"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 866806,
-        "date": 1770768000,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 866807,
-        "date": 1790726400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 866808,
-        "date": 1790726400,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 866809,
-        "date": 1770768000,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      },
-      {
-        "id": 866810,
-        "date": 1790726400,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      },
-      {
-        "id": 866841,
-        "date": 1790726400,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 866842,
-        "date": 1770768000,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 866843,
-        "date": 1790726400,
-        "platform": {
-          "id": 508,
-          "name": "Nintendo Switch 2"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1368237,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctbql.jpg"
-      },
-      {
-        "id": 1368236,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctbqk.jpg"
-      },
-      {
-        "id": 1368238,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctbqm.jpg"
-      },
-      {
-        "id": 1368239,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctbqn.jpg"
-      },
-      {
-        "id": 1368240,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctbqo.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Leave the hustle of the city behind and embrace life on Starsand Island. Fish, farm, raise animals, and befriend or fall in love with locals to learn their secrets. Customize your world with our DIY system, and invite friends to help build your dream paradise!",
-    "videos": [
-      {
-        "id": 146406,
-        "video_id": "eXbbQy2otes"
-      },
-      {
-        "id": 159686,
-        "video_id": "d8PywddJnDU"
-      },
-      {
-        "id": 163283,
-        "video_id": "sebMNTrHDSw"
-      },
-      {
-        "id": 170175,
-        "video_id": "X0-YSWoUkNU"
-      }
-    ],
-    "websites": [
-      {
-        "id": 855329,
-        "url": "https://www.xbox.com/en-us/games/store/starsand-island/9p86lldcl5cc",
-        "type": {
-          "id": 22,
-          "type": "Xbox"
-        }
-      },
-      {
-        "id": 807122,
-        "url": "https://www.youtube.com/@StarsandIslandOfficial",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 807121,
-        "url": "https://x.com/IslandStarsand",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 807120,
-        "url": "https://discord.gg/HHnJvsspk4",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 966995,
-        "url": "https://www.twitch.tv/directory/category/starsand-island",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 943543,
-        "url": "https://www.reddit.com/r/Starsandisland/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 658395,
-        "url": "https://store.steampowered.com/app/2966320",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      }
-    ]
-  },
-  {
     "id": 397601,
     "cover": {
       "id": 554922,
@@ -9912,155 +9683,6 @@
     ]
   },
   {
-    "id": 402652,
-    "cover": {
-      "id": 573031,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coca5j.jpg"
-    },
-    "first_release_date": 1784505600,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 31,
-        "name": "Adventure"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 396029,
-        "company": {
-          "id": 31736,
-          "name": "J6 Games"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Loot Gobblin\u0027 Together",
-    "platforms": [
-      {
-        "id": 3,
-        "name": "Linux"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 931400,
-        "date": 1784505600,
-        "platform": {
-          "id": 3,
-          "name": "Linux"
-        }
-      },
-      {
-        "id": 931401,
-        "date": 1784505600,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 931402,
-        "date": 1784505600,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1839855,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13fn3.jpg"
-      },
-      {
-        "id": 1839856,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13fn4.jpg"
-      },
-      {
-        "id": 1839857,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13fn5.jpg"
-      },
-      {
-        "id": 1839858,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13fn6.jpg"
-      }
-    ],
-    "status": 2,
-    "summary": "An online co-op game where you and your friends play greedy gobblins invading human houses to steal and gobble loot. Climb, stretch, and manage your stamina to survive chaotic heists and feed your Gobblin King.",
-    "videos": [
-      {
-        "id": 188361,
-        "video_id": "Q9IJh4i8XbY"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1074649,
-        "url": "https://www.twitch.tv/directory/category/loot-gobblin-together",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 1074650,
-        "url": "https://x.com/TheJustinSix",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1074651,
-        "url": "https://www.youtube.com/@JustinSixVideos",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1059002,
-        "url": "https://store.steampowered.com/app/4651490/Loot_Gobblin_Together/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1068411,
-        "url": "https://discord.gg/YBJvrg44tE",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      }
-    ]
-  },
-  {
     "id": 244913,
     "cover": {
       "id": 560973,
@@ -11905,323 +11527,6 @@
     ]
   },
   {
-    "id": 137604,
-    "cover": {
-      "id": 573514,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocaiy.jpg"
-    },
-    "first_release_date": 1785369600,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 5,
-        "name": "Shooter"
-      },
-      {
-        "id": 8,
-        "name": "Platform"
-      },
-      {
-        "id": 9,
-        "name": "Puzzle"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 3,
-    "involved_companies": [
-      {
-        "id": 353644,
-        "company": {
-          "id": 28892,
-          "name": "Squirrel Bytes"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Hyperstacks",
-    "platforms": [
-      {
-        "id": 162,
-        "name": "Oculus VR"
-      },
-      {
-        "id": 386,
-        "name": "Meta Quest 2"
-      },
-      {
-        "id": 390,
-        "name": "PlayStation VR2"
-      },
-      {
-        "id": 161,
-        "name": "Windows Mixed Reality"
-      },
-      {
-        "id": 34,
-        "name": "Android"
-      },
-      {
-        "id": 163,
-        "name": "SteamVR"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 608199,
-        "date": 1600819200,
-        "platform": {
-          "id": 34,
-          "name": "Android"
-        }
-      },
-      {
-        "id": 608200,
-        "platform": {
-          "id": 34,
-          "name": "Android"
-        }
-      },
-      {
-        "id": 466963,
-        "platform": {
-          "id": 390,
-          "name": "PlayStation VR2"
-        }
-      },
-      {
-        "id": 466961,
-        "platform": {
-          "id": 162,
-          "name": "Oculus VR"
-        }
-      },
-      {
-        "id": 466965,
-        "platform": {
-          "id": 161,
-          "name": "Windows Mixed Reality"
-        }
-      },
-      {
-        "id": 932105,
-        "date": 1785369600,
-        "platform": {
-          "id": 163,
-          "name": "SteamVR"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1648015,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbm7.jpg"
-      },
-      {
-        "id": 1648008,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbm0.jpg"
-      },
-      {
-        "id": 1648014,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbm6.jpg"
-      },
-      {
-        "id": 1648006,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbly.jpg"
-      },
-      {
-        "id": 1648009,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbm1.jpg"
-      },
-      {
-        "id": 1648013,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbm5.jpg"
-      },
-      {
-        "id": 1648011,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbm3.jpg"
-      },
-      {
-        "id": 1648005,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczblx.jpg"
-      },
-      {
-        "id": 1648023,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbmf.jpg"
-      },
-      {
-        "id": 1648010,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbm2.jpg"
-      },
-      {
-        "id": 1648007,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczblz.jpg"
-      },
-      {
-        "id": 1648012,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbm4.jpg"
-      },
-      {
-        "id": 1648016,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbm8.jpg"
-      },
-      {
-        "id": 1648017,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbm9.jpg"
-      },
-      {
-        "id": 1648018,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbma.jpg"
-      },
-      {
-        "id": 1648019,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbmb.jpg"
-      },
-      {
-        "id": 1648020,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbmc.jpg"
-      },
-      {
-        "id": 1648021,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbmd.jpg"
-      },
-      {
-        "id": 1648022,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbme.jpg"
-      },
-      {
-        "id": 1648024,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczbmg.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Hyperstacks is a VR world of combat, parkour, logic-driven puzzles, memorable characters, and community-made levels.\nMeet its residents through quests and discover a growing library of player creations.",
-    "videos": [
-      {
-        "id": 47671,
-        "video_id": "j5HQ6PzjBKM"
-      },
-      {
-        "id": 163243,
-        "video_id": "oTaAXGZF6EE"
-      },
-      {
-        "id": 163244,
-        "video_id": "R1nBbEFSmX4"
-      },
-      {
-        "id": 163245,
-        "video_id": "8y4EdwJXfwk"
-      },
-      {
-        "id": 188456,
-        "video_id": "qw3MQUWtbCw"
-      }
-    ],
-    "websites": [
-      {
-        "id": 158555,
-        "url": "https://www.youtube.com/channel/UCb1Qn8CL1YKj2aFcjwOH2Jg",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 158554,
-        "url": "https://squirrel-bytes.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 156410,
-        "url": "https://store.steampowered.com/app/1046760/Hyperstacks",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 896575,
-        "url": "https://www.meta.com/en-us/experiences/hyperstacks/5022888091116866",
-        "type": {
-          "id": 25,
-          "type": "Meta"
-        }
-      },
-      {
-        "id": 816266,
-        "url": "https://bsky.app/profile/squirrelbytes.com",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 158556,
-        "url": "https://twitter.com/Squirrel_Bytes",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 159555,
-        "url": "https://squirrelbytes.itch.io/hyperstacks",
-        "type": {
-          "id": 15,
-          "type": "Itch"
-        }
-      },
-      {
-        "id": 318154,
-        "url": "https://www.reddit.com/r/Hyperstacks",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 318153,
-        "url": "https://discord.gg/squirrelbytes",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 369416,
-        "url": "https://www.twitch.tv/directory/game/Hyperstacks",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      }
-    ]
-  },
-  {
     "id": 142498,
     "cover": {
       "id": 274550,
@@ -13179,278 +12484,6 @@
     ]
   },
   {
-    "id": 347132,
-    "cover": {
-      "id": 583877,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cociit.jpg"
-    },
-    "first_release_date": 1785974400,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 4,
-        "name": "Split screen"
-      }
-    ],
-    "genres": [
-      {
-        "id": 4,
-        "name": "Fighting"
-      }
-    ],
-    "hypes": 51,
-    "involved_companies": [
-      {
-        "id": 323908,
-        "company": {
-          "id": 1218,
-          "name": "Arc System Works"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 323909,
-        "company": {
-          "id": 26294,
-          "name": "PlayStation Studios"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 323917,
-        "company": {
-          "id": 10100,
-          "name": "Sony Interactive Entertainment"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 323910,
-        "company": {
-          "id": 16532,
-          "name": "Marvel Games"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Marvel Tokon: Fighting Souls",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 942831,
-        "date": 1784851200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 942832,
-        "date": 1784851200,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 874069,
-        "date": 1785974400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 874070,
-        "date": 1785974400,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1549146,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx7bu.jpg"
-      },
-      {
-        "id": 1549147,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx7bv.jpg"
-      },
-      {
-        "id": 1549148,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx7bw.jpg"
-      },
-      {
-        "id": 1549149,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx7bx.jpg"
-      },
-      {
-        "id": 1549150,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx7by.jpg"
-      },
-      {
-        "id": 1549151,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx7bz.jpg"
-      },
-      {
-        "id": 1549152,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx7c0.jpg"
-      },
-      {
-        "id": 1549153,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx7c1.jpg"
-      },
-      {
-        "id": 1622352,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyrtc.jpg"
-      },
-      {
-        "id": 1622353,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyrtd.jpg"
-      },
-      {
-        "id": 1622354,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyrte.jpg"
-      }
-    ],
-    "status": 3,
-    "summary": "Assemble your team of legendary Marvel characters in the ultimate 4v4 tag team fighter from PlayStation Studios, Arc System Works and Marvel Games.\nImmerse yourself in the Marvel universe like never before with an iconic roster of heroes and villains, authentic stages, and intuitive gameplay mechanics. Experience the thrill of fast-paced over the top action with stunning anime-inspired visuals, where every battle is a unique and exciting team VS battle experience.",
-    "videos": [
-      {
-        "id": 190546,
-        "video_id": "X8UlNl6VB0g"
-      },
-      {
-        "id": 152576,
-        "video_id": "6fbfrV5qqnU"
-      },
-      {
-        "id": 152604,
-        "video_id": "nZxxPHqFFnY"
-      },
-      {
-        "id": 157841,
-        "video_id": "ftKJCWCqiEQ"
-      },
-      {
-        "id": 168004,
-        "video_id": "CHHTVR47-8k"
-      },
-      {
-        "id": 176073,
-        "video_id": "X4C_0Yf43fM"
-      },
-      {
-        "id": 179383,
-        "video_id": "krh98HsMk5c"
-      },
-      {
-        "id": 182721,
-        "video_id": "AFdxKvplq9M"
-      },
-      {
-        "id": 185940,
-        "video_id": "cen2Lbmmo_Q"
-      },
-      {
-        "id": 191168,
-        "video_id": "EE955NDdmj8"
-      },
-      {
-        "id": 189177,
-        "video_id": "JjpJ2xwUagM"
-      }
-    ],
-    "websites": [
-      {
-        "id": 852124,
-        "url": "https://en.wikipedia.org/wiki/Marvel_Tokon:_Fighting_Souls",
-        "type": {
-          "id": 3,
-          "type": "Wikipedia"
-        }
-      },
-      {
-        "id": 806755,
-        "url": "https://www.marvel.com/games/marvel-tokon-fighting-souls",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 819208,
-        "url": "https://store.steampowered.com/app/3787240",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 819209,
-        "url": "https://store.playstation.com/en-us/concept/10008019",
-        "type": {
-          "id": 23,
-          "type": "Playstation"
-        }
-      },
-      {
-        "id": 806758,
-        "url": "https://www.twitch.tv/directory/category/marvel-tokon-fighting-souls",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 820331,
-        "url": "https://store.epicgames.com/en-US/p/marvel-tokon-fighting-souls-a3ecbd",
-        "type": {
-          "id": 16,
-          "type": "Epic"
-        }
-      },
-      {
-        "id": 1086406,
-        "url": "https://marvel.fandom.com/wiki/MARVEL_T%C5%8Dkon:_Fighting_Souls",
-        "type": {
-          "id": 2,
-          "type": "Community Wiki"
-        }
-      },
-      {
-        "id": 1086407,
-        "url": "https://www.reddit.com/r/MarvelTokon/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      }
-    ]
-  },
-  {
     "id": 148270,
     "cover": {
       "id": 493202,
@@ -13930,6 +12963,155 @@
         "type": {
           "id": 13,
           "type": "Steam"
+        }
+      }
+    ]
+  },
+  {
+    "id": 402652,
+    "cover": {
+      "id": 573031,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coca5j.jpg"
+    },
+    "first_release_date": 1787270400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 396029,
+        "company": {
+          "id": 31736,
+          "name": "J6 Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Loot Gobblin\u0027 Together",
+    "platforms": [
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 948846,
+        "date": 1787270400,
+        "platform": {
+          "id": 3,
+          "name": "Linux"
+        }
+      },
+      {
+        "id": 948847,
+        "date": 1787270400,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      },
+      {
+        "id": 948848,
+        "date": 1787270400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1839855,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13fn3.jpg"
+      },
+      {
+        "id": 1839856,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13fn4.jpg"
+      },
+      {
+        "id": 1839857,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13fn5.jpg"
+      },
+      {
+        "id": 1839858,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13fn6.jpg"
+      }
+    ],
+    "status": 2,
+    "summary": "An online co-op game where you and your friends play greedy gobblins invading human houses to steal and gobble loot. Climb, stretch, and manage your stamina to survive chaotic heists and feed your Gobblin King.",
+    "videos": [
+      {
+        "id": 188361,
+        "video_id": "Q9IJh4i8XbY"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1074649,
+        "url": "https://www.twitch.tv/directory/category/loot-gobblin-together",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 1074650,
+        "url": "https://x.com/TheJustinSix",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1074651,
+        "url": "https://www.youtube.com/@JustinSixVideos",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1059002,
+        "url": "https://store.steampowered.com/app/4651490/Loot_Gobblin_Together/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1068411,
+        "url": "https://discord.gg/YBJvrg44tE",
+        "type": {
+          "id": 18,
+          "type": "Discord"
         }
       }
     ]
@@ -24345,6 +23527,194 @@
         "type": {
           "id": 4,
           "type": "Facebook"
+        }
+      }
+    ]
+  },
+  {
+    "id": 244671,
+    "cover": {
+      "id": 464073,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9y2x.jpg"
+    },
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 322998,
+        "company": {
+          "id": 60633,
+          "name": "Agate"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Riftstorm",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 948698,
+        "date": 1786406400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1253456,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv68.jpg"
+      },
+      {
+        "id": 1253457,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv69.jpg"
+      },
+      {
+        "id": 1253458,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv6a.jpg"
+      },
+      {
+        "id": 1253462,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv6e.jpg"
+      },
+      {
+        "id": 1253463,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv6f.jpg"
+      },
+      {
+        "id": 1253464,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv6g.jpg"
+      },
+      {
+        "id": 1253460,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv6c.jpg"
+      },
+      {
+        "id": 1253461,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv6d.jpg"
+      },
+      {
+        "id": 1253465,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv6h.jpg"
+      },
+      {
+        "id": 1253466,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv6i.jpg"
+      },
+      {
+        "id": 1253459,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv6b.jpg"
+      }
+    ],
+    "status": 3,
+    "summary": "Storms are coming, and there are rules you must follow. RIFTSTORM is co-op looter-shooter set in a world of myth and secret societies where you can play solo or co-op in a party of three.",
+    "videos": [
+      {
+        "id": 108373,
+        "video_id": "qdoACi3z8ss"
+      },
+      {
+        "id": 136890,
+        "video_id": "utVPh08Fr2U"
+      },
+      {
+        "id": 151284,
+        "video_id": "CzZxaOBjN3s"
+      }
+    ],
+    "websites": [
+      {
+        "id": 592713,
+        "url": "https://twitter.com/playriftstorm",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 802194,
+        "url": "https://www.twitch.tv/directory/category/mythic-protocol-riftstorm",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 543317,
+        "url": "https://store.steampowered.com/app/2282790",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 618880,
+        "url": "https://reddit.com/r/playriftstorm",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 618879,
+        "url": "https://www.youtube.com/@playriftstorm",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 592711,
+        "url": "https://playriftstorm.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 592714,
+        "url": "https://instagram.com/playriftstorm",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 592715,
+        "url": "https://discord.gg/riftstorm",
+        "type": {
+          "id": 18,
+          "type": "Discord"
         }
       }
     ]
