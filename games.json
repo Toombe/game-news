@@ -3112,6 +3112,14 @@
           "id": 5,
           "type": "Twitter"
         }
+      },
+      {
+        "id": 1091820,
+        "url": "https://en.wikipedia.org/wiki/Moonlighter_2:_The_Endless_Vault",
+        "type": {
+          "id": 3,
+          "type": "Wikipedia"
+        }
       }
     ]
   },
@@ -12719,8 +12727,16 @@
     "name": "Project P.I.T.T.",
     "platforms": [
       {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
         "id": 6,
         "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
       }
     ],
     "release_dates": [
@@ -12730,6 +12746,22 @@
         "platform": {
           "id": 6,
           "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 949231,
+        "date": 1787097600,
+        "platform": {
+          "id": 3,
+          "name": "Linux"
+        }
+      },
+      {
+        "id": 949232,
+        "date": 1787097600,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
         }
       }
     ],
@@ -13308,7 +13340,16 @@
     "hypes": 11,
     "involved_companies": [
       {
-        "id": 351999,
+        "id": 403663,
+        "company": {
+          "id": 2603,
+          "name": "Free Lives Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 405516,
         "company": {
           "id": 25018,
           "name": "raithza"
@@ -13317,22 +13358,13 @@
         "publisher": false
       },
       {
-        "id": 352000,
+        "id": 405517,
         "company": {
           "id": 27568,
           "name": "elyaradine"
         },
         "developer": true,
         "publisher": false
-      },
-      {
-        "id": 403663,
-        "company": {
-          "id": 2603,
-          "name": "Free Lives Games"
-        },
-        "developer": false,
-        "publisher": true
       }
     ],
     "name": "Dressmaker",
@@ -15229,6 +15261,119 @@
         "type": {
           "id": 5,
           "type": "Twitter"
+        }
+      }
+    ]
+  },
+  {
+    "id": 403093,
+    "cover": {
+      "id": 565551,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc4dr.jpg"
+    },
+    "first_release_date": 1793059200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 405492,
+        "company": {
+          "id": 79780,
+          "name": "Done by Pan"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Cozy Archivist Simulator",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 949193,
+        "date": 1793059200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1842109,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13hdp.jpg"
+      },
+      {
+        "id": 1842110,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13hdq.jpg"
+      },
+      {
+        "id": 1842111,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13hdr.jpg"
+      },
+      {
+        "id": 1842112,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13hds.jpg"
+      },
+      {
+        "id": 1844587,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13jaj.jpg"
+      }
+    ],
+    "status": 2,
+    "summary": "Cozy Archivist Simulator is a first-person organizing simulation game set in an archive. The player works with piles of document folders, reads filing instructions, and places files on shelves according to archive rules.\n\nThe gameplay focuses on sorting and arranging documents by parameters such as category, subcategory, date, number, and other filing criteria. Tasks include processing incoming boxes, finding requested files, checking records, cleaning up workspaces, correcting misplaced documents, and restoring order to archive rooms.\n\nThe game features Sandbox Mode with selectable levels and archive tasks, and Campaign Mode structured around a series of working days with different assignments.",
+    "videos": [
+      {
+        "id": 185450,
+        "video_id": "5DqEUUbQZus"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1091151,
+        "url": "https://x.com/donebypan",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1091152,
+        "url": "https://www.tumblr.com/donebypan",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1091153,
+        "url": "https://www.youtube.com/@donebypan",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1060187,
+        "url": "https://store.steampowered.com/app/4454280/Cozy_Archivist_Simulator/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
         }
       }
     ]
@@ -22343,116 +22488,6 @@
         "type": {
           "id": 14,
           "type": "Subreddit"
-        }
-      }
-    ]
-  },
-  {
-    "id": 403093,
-    "cover": {
-      "id": 565551,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc4dr.jpg"
-    },
-    "first_release_date": 1798675200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 13,
-        "name": "Simulator"
-      }
-    ],
-    "hypes": 2,
-    "name": "Cozy Archivist Simulator",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 921867,
-        "date": 1798675200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 924404,
-        "date": 1798675200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1842109,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13hdp.jpg"
-      },
-      {
-        "id": 1842110,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13hdq.jpg"
-      },
-      {
-        "id": 1842111,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13hdr.jpg"
-      },
-      {
-        "id": 1842112,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13hds.jpg"
-      },
-      {
-        "id": 1844587,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13jaj.jpg"
-      }
-    ],
-    "status": 2,
-    "summary": "Cozy Archivist Simulator is a first-person organizing simulation game set in an archive. The player works with piles of document folders, reads filing instructions, and places files on shelves according to archive rules.\n\nThe gameplay focuses on sorting and arranging documents by parameters such as category, subcategory, date, number, and other filing criteria. Tasks include processing incoming boxes, finding requested files, checking records, cleaning up workspaces, correcting misplaced documents, and restoring order to archive rooms.\n\nThe game features Sandbox Mode with selectable levels and archive tasks, and Campaign Mode structured around a series of working days with different assignments.",
-    "videos": [
-      {
-        "id": 185450,
-        "video_id": "5DqEUUbQZus"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1091151,
-        "url": "https://x.com/donebypan",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1091152,
-        "url": "https://www.tumblr.com/donebypan",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1091153,
-        "url": "https://www.youtube.com/@donebypan",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1060187,
-        "url": "https://store.steampowered.com/app/4454280/Cozy_Archivist_Simulator/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
         }
       }
     ]
