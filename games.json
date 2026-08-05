@@ -248,179 +248,6 @@
     ]
   },
   {
-    "id": 226035,
-    "cover": {
-      "id": 348503,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7gwn.jpg"
-    },
-    "first_release_date": 1722816000,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 4,
-    "involved_companies": [
-      {
-        "id": 219130,
-        "company": {
-          "id": 47987,
-          "name": "NPC Studio"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Fields of Mistria",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 594104,
-        "date": 1722816000,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 923379,
-        "date": 1785888000,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 927830,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scjvx2.jpg"
-      },
-      {
-        "id": 927835,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scjvx7.jpg"
-      },
-      {
-        "id": 927829,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scjvx1.jpg"
-      },
-      {
-        "id": 927831,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scjvx3.jpg"
-      },
-      {
-        "id": 927832,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scjvx4.jpg"
-      },
-      {
-        "id": 927833,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scjvx5.jpg"
-      },
-      {
-        "id": 927834,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scjvx6.jpg"
-      },
-      {
-        "id": 927836,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scjvx8.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Start your new life! Build the farm of your dreams as you discover a world brimming with possibilities. Magic, romance, and adventure all await you in this nostalgic farming / life sim RPG!",
-    "videos": [
-      {
-        "id": 91631,
-        "video_id": "cD1vxp5N8q0"
-      },
-      {
-        "id": 186764,
-        "video_id": "BdEyGaAM9YY"
-      },
-      {
-        "id": 189345,
-        "video_id": "SlKzf6oKQ4g"
-      }
-    ],
-    "websites": [
-      {
-        "id": 719732,
-        "url": "https://www.reddit.com/r/FieldsOfMistriaGame/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 681694,
-        "url": "https://www.twitch.tv/directory/category/fields-of-mistria",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 328661,
-        "url": "https://store.steampowered.com/app/2142790/Fields_of_Mistria",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 681695,
-        "url": "https://fields-of-mistria.fandom.com/wiki/Fields_of_Mistria",
-        "type": {
-          "id": 2,
-          "type": "Community Wiki"
-        }
-      },
-      {
-        "id": 636764,
-        "url": "https://www.fieldsofmistria.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 941576,
-        "url": "https://en.wikipedia.org/wiki/Fields_of_Mistria",
-        "type": {
-          "id": 3,
-          "type": "Wikipedia"
-        }
-      },
-      {
-        "id": 328662,
-        "url": "https://mobile.twitter.com/FieldsofMistria",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      }
-    ]
-  },
-  {
     "id": 211347,
     "cover": {
       "id": 262052,
@@ -12469,6 +12296,360 @@
     ]
   },
   {
+    "id": 191032,
+    "cover": {
+      "id": 583785,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocig9.jpg"
+    },
+    "first_release_date": 1785888000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 4,
+    "involved_companies": [
+      {
+        "id": 402071,
+        "company": {
+          "id": 40240,
+          "name": "Slappy Inc."
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Mazey Village",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 940991,
+        "date": 1785888000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1879906,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14ajm.jpg"
+      },
+      {
+        "id": 1879907,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14ajn.jpg"
+      },
+      {
+        "id": 1879908,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14ajo.jpg"
+      },
+      {
+        "id": 1879909,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14ajp.jpg"
+      },
+      {
+        "id": 1879910,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14ajq.jpg"
+      },
+      {
+        "id": 1879911,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14ajr.jpg"
+      },
+      {
+        "id": 1879912,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14ajs.jpg"
+      },
+      {
+        "id": 1879913,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14ajt.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Mazey Village is a cozy adventure exploration game about rebuilding a village after a disaster. Explore maze-like worlds, find lost items, restore villagers’ homes, decorate your village, and bring hope back to a community torn apart by a tornado.",
+    "videos": [
+      {
+        "id": 190321,
+        "video_id": "z7XaXR8zJIw"
+      },
+      {
+        "id": 64398,
+        "video_id": "KbwNbQ4i0i4"
+      }
+    ],
+    "websites": [
+      {
+        "id": 842101,
+        "url": "https://www.mazeyvillage.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 265147,
+        "url": "https://discord.gg/cTBgzZDp5d",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 265146,
+        "url": "https://www.instagram.com/slappyincdev",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 265148,
+        "url": "https://slappy-inc.itch.io/mazeem",
+        "type": {
+          "id": 15,
+          "type": "Itch"
+        }
+      },
+      {
+        "id": 265143,
+        "url": "https://www.youtube.com/channel/UCeQckd0ZO4d30ehuYquVVEQ",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 265145,
+        "url": "https://twitter.com/maze_em",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 265144,
+        "url": "https://www.facebook.com/SlappyInc",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 263627,
+        "url": "https://store.steampowered.com/app/1766240",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 484090,
+        "url": "https://www.twitch.tv/directory/game/Maze%27Em",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      }
+    ]
+  },
+  {
+    "id": 226035,
+    "cover": {
+      "id": 348503,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7gwn.jpg"
+    },
+    "first_release_date": 1785888000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 4,
+    "involved_companies": [
+      {
+        "id": 219130,
+        "company": {
+          "id": 47987,
+          "name": "NPC Studio"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Fields of Mistria",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 594104,
+        "date": 1722816000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 923379,
+        "date": 1785888000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 927830,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scjvx2.jpg"
+      },
+      {
+        "id": 927835,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scjvx7.jpg"
+      },
+      {
+        "id": 927829,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scjvx1.jpg"
+      },
+      {
+        "id": 927831,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scjvx3.jpg"
+      },
+      {
+        "id": 927832,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scjvx4.jpg"
+      },
+      {
+        "id": 927833,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scjvx5.jpg"
+      },
+      {
+        "id": 927834,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scjvx6.jpg"
+      },
+      {
+        "id": 927836,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scjvx8.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Start your new life! Build the farm of your dreams as you discover a world brimming with possibilities. Magic, romance, and adventure all await you in this nostalgic farming / life sim RPG!",
+    "videos": [
+      {
+        "id": 91631,
+        "video_id": "cD1vxp5N8q0"
+      },
+      {
+        "id": 186764,
+        "video_id": "BdEyGaAM9YY"
+      },
+      {
+        "id": 189345,
+        "video_id": "SlKzf6oKQ4g"
+      }
+    ],
+    "websites": [
+      {
+        "id": 719732,
+        "url": "https://www.reddit.com/r/FieldsOfMistriaGame/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 681694,
+        "url": "https://www.twitch.tv/directory/category/fields-of-mistria",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 328661,
+        "url": "https://store.steampowered.com/app/2142790/Fields_of_Mistria",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 681695,
+        "url": "https://fields-of-mistria.fandom.com/wiki/Fields_of_Mistria",
+        "type": {
+          "id": 2,
+          "type": "Community Wiki"
+        }
+      },
+      {
+        "id": 636764,
+        "url": "https://www.fieldsofmistria.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 941576,
+        "url": "https://en.wikipedia.org/wiki/Fields_of_Mistria",
+        "type": {
+          "id": 3,
+          "type": "Wikipedia"
+        }
+      },
+      {
+        "id": 328662,
+        "url": "https://mobile.twitter.com/FieldsofMistria",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      }
+    ]
+  },
+  {
     "id": 148270,
     "cover": {
       "id": 493202,
@@ -13126,387 +13307,6 @@
     ]
   },
   {
-    "id": 283078,
-    "cover": {
-      "id": 508870,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coawna.jpg"
-    },
-    "first_release_date": 1787616000,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "name": "24",
-    "platforms": [
-      {
-        "id": 3,
-        "name": "Linux"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 810044,
-        "date": 1761955200,
-        "platform": {
-          "id": 3,
-          "name": "Linux"
-        }
-      },
-      {
-        "id": 810046,
-        "date": 1761955200,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 810048,
-        "date": 1761955200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 810045,
-        "date": 1787616000,
-        "platform": {
-          "id": 3,
-          "name": "Linux"
-        }
-      },
-      {
-        "id": 810047,
-        "date": 1787616000,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 810049,
-        "date": 1787616000,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1220384,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scq5nk.jpg"
-      },
-      {
-        "id": 1220386,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scq5nm.jpg"
-      },
-      {
-        "id": 1220390,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scq5nq.jpg"
-      },
-      {
-        "id": 1220393,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scq5nt.jpg"
-      },
-      {
-        "id": 1220396,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scq5nw.jpg"
-      },
-      {
-        "id": 1220397,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scq5nx.jpg"
-      },
-      {
-        "id": 1220398,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scq5ny.jpg"
-      },
-      {
-        "id": 1220399,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scq5nz.jpg"
-      },
-      {
-        "id": 1220400,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scq5o0.jpg"
-      },
-      {
-        "id": 1220401,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scq5o1.jpg"
-      },
-      {
-        "id": 1220402,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scq5o2.jpg"
-      },
-      {
-        "id": 1220403,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scq5o3.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "In this 2D pixel RPG, 24 navigate battles, puzzles, and quests in a war-torn world devoid of color. Your choices dictate the non-linear plot, with multiple endings and an open world hanging in the balance. Will you bring back color as the savior or succumb to darkness?",
-    "videos": [
-      {
-        "id": 169567,
-        "video_id": "Y4LWN_nCQIc"
-      }
-    ],
-    "websites": [
-      {
-        "id": 922992,
-        "url": "https://www.twitch.tv/directory/category/24",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 608381,
-        "url": "https://store.steampowered.com/app/2761830",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      }
-    ]
-  },
-  {
-    "id": 365465,
-    "cover": {
-      "id": 571946,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc9be.jpg"
-    },
-    "first_release_date": 1788220800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 11,
-    "involved_companies": [
-      {
-        "id": 403663,
-        "company": {
-          "id": 2603,
-          "name": "Free Lives Games"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 405516,
-        "company": {
-          "id": 25018,
-          "name": "raithza"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 405517,
-        "company": {
-          "id": 27568,
-          "name": "elyaradine"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Dressmaker",
-    "platforms": [
-      {
-        "id": 3,
-        "name": "Linux"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 797853,
-        "date": 1753747200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 816293,
-        "date": 1753747200,
-        "platform": {
-          "id": 3,
-          "name": "Linux"
-        }
-      },
-      {
-        "id": 816453,
-        "date": 1753747200,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 923376,
-        "date": 1788220800,
-        "platform": {
-          "id": 3,
-          "name": "Linux"
-        }
-      },
-      {
-        "id": 923377,
-        "date": 1788220800,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 923378,
-        "date": 1788220800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1630365,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyxzx.jpg"
-      },
-      {
-        "id": 1630366,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyxzy.jpg"
-      },
-      {
-        "id": 1630367,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyxzz.jpg"
-      },
-      {
-        "id": 1630368,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyy00.jpg"
-      },
-      {
-        "id": 1630369,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyy01.jpg"
-      },
-      {
-        "id": 1630370,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyy02.jpg"
-      },
-      {
-        "id": 1630371,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyy03.jpg"
-      }
-    ],
-    "status": 2,
-    "summary": "Dressmaker is a cozy game inspired by real dressmaking.\n\nBecome a dressmaker, choose dress designs, cut out fabric and sew them all together to satisfy (or sabotage!) customers.",
-    "videos": [
-      {
-        "id": 186697,
-        "video_id": "ODvmwag-EW4"
-      }
-    ],
-    "websites": [
-      {
-        "id": 888086,
-        "url": "https://store.steampowered.com/app/4019220/Dressmaker/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 888087,
-        "url": "https://discord.gg/nJY2TsCKm9",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 865446,
-        "url": "https://www.twitch.tv/directory/category/dressmaker-1/videos/all",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 863852,
-        "url": "https://elyaradine.itch.io/dressmaker",
-        "type": {
-          "id": 15,
-          "type": "Itch"
-        }
-      },
-      {
-        "id": 863853,
-        "url": "https://www.instagram.com/elyaradine/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 940422,
-        "url": "https://www.freelives.net",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1084423,
-        "url": "https://www.reddit.com/r/Dressmaker/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      }
-    ]
-  },
-  {
     "id": 321405,
     "cover": {
       "id": 489975,
@@ -13675,6 +13475,135 @@
       {
         "id": 730628,
         "url": "https://everdeepstudios.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      }
+    ]
+  },
+  {
+    "id": 393839,
+    "cover": {
+      "id": 546682,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobptm.jpg"
+    },
+    "first_release_date": 1788393600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 375096,
+        "company": {
+          "id": 15779,
+          "name": "SquarePlay Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Monk Took Book",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 949561,
+        "date": 1788393600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1796031,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12htr.jpg"
+      },
+      {
+        "id": 1796032,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12hts.jpg"
+      },
+      {
+        "id": 1796033,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12htt.jpg"
+      },
+      {
+        "id": 1796034,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12htu.jpg"
+      },
+      {
+        "id": 1796035,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12htv.jpg"
+      }
+    ],
+    "status": 3,
+    "summary": "A game about organizing, stacking and remembering where you put hundreds of books in a cozy-creepy medieval library. Play solo or with up to three fellow monks.",
+    "videos": [
+      {
+        "id": 177786,
+        "video_id": "Q7ikVZsRQI8"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1025294,
+        "url": "https://twitter.com/SquarePlayGames",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1025295,
+        "url": "https://discord.gg/squareplaygames",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1025292,
+        "url": "https://store.steampowered.com/app/4022090/Monk_Took_Book/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1025293,
+        "url": "https://www.squareplaygames.com/monk-took-book",
         "type": {
           "id": 1,
           "type": "Official Website"
@@ -14014,6 +13943,221 @@
     ]
   },
   {
+    "id": 365465,
+    "cover": {
+      "id": 571946,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc9be.jpg"
+    },
+    "first_release_date": 1789948800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 11,
+    "involved_companies": [
+      {
+        "id": 403663,
+        "company": {
+          "id": 2603,
+          "name": "Free Lives Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 405516,
+        "company": {
+          "id": 25018,
+          "name": "raithza"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 405517,
+        "company": {
+          "id": 27568,
+          "name": "elyaradine"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Dressmaker",
+    "platforms": [
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 797853,
+        "date": 1753747200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 816293,
+        "date": 1753747200,
+        "platform": {
+          "id": 3,
+          "name": "Linux"
+        }
+      },
+      {
+        "id": 816453,
+        "date": 1753747200,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      },
+      {
+        "id": 947185,
+        "date": 1789948800,
+        "platform": {
+          "id": 3,
+          "name": "Linux"
+        }
+      },
+      {
+        "id": 947186,
+        "date": 1789948800,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      },
+      {
+        "id": 947187,
+        "date": 1789948800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1630365,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyxzx.jpg"
+      },
+      {
+        "id": 1630366,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyxzy.jpg"
+      },
+      {
+        "id": 1630367,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyxzz.jpg"
+      },
+      {
+        "id": 1630368,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyy00.jpg"
+      },
+      {
+        "id": 1630369,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyy01.jpg"
+      },
+      {
+        "id": 1630370,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyy02.jpg"
+      },
+      {
+        "id": 1630371,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyy03.jpg"
+      }
+    ],
+    "status": 2,
+    "summary": "Dressmaker is a cozy game inspired by real dressmaking.\n\nBecome a dressmaker, choose dress designs, cut out fabric and sew them all together to satisfy (or sabotage!) customers.",
+    "videos": [
+      {
+        "id": 186697,
+        "video_id": "ODvmwag-EW4"
+      }
+    ],
+    "websites": [
+      {
+        "id": 888086,
+        "url": "https://store.steampowered.com/app/4019220/Dressmaker/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 888087,
+        "url": "https://discord.gg/nJY2TsCKm9",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 865446,
+        "url": "https://www.twitch.tv/directory/category/dressmaker-1/videos/all",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 863852,
+        "url": "https://elyaradine.itch.io/dressmaker",
+        "type": {
+          "id": 15,
+          "type": "Itch"
+        }
+      },
+      {
+        "id": 863853,
+        "url": "https://www.instagram.com/elyaradine/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 940422,
+        "url": "https://www.freelives.net",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1084423,
+        "url": "https://www.reddit.com/r/Dressmaker/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      }
+    ]
+  },
+  {
     "id": 150509,
     "cover": {
       "id": 460934,
@@ -14040,7 +14184,7 @@
         "name": "Indie"
       }
     ],
-    "hypes": 3,
+    "hypes": 5,
     "involved_companies": [
       {
         "id": 359909,
@@ -16074,7 +16218,7 @@
         "name": "Indie"
       }
     ],
-    "hypes": 2,
+    "hypes": 3,
     "involved_companies": [
       {
         "id": 353575,
@@ -23012,186 +23156,6 @@
     ]
   },
   {
-    "id": 191032,
-    "cover": {
-      "id": 583785,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocig9.jpg"
-    },
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 9,
-        "name": "Puzzle"
-      },
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 4,
-    "involved_companies": [
-      {
-        "id": 402071,
-        "company": {
-          "id": 40240,
-          "name": "Slappy Inc."
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Mazey Village",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 940991,
-        "date": 1785888000,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1879906,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14ajm.jpg"
-      },
-      {
-        "id": 1879907,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14ajn.jpg"
-      },
-      {
-        "id": 1879908,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14ajo.jpg"
-      },
-      {
-        "id": 1879909,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14ajp.jpg"
-      },
-      {
-        "id": 1879910,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14ajq.jpg"
-      },
-      {
-        "id": 1879911,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14ajr.jpg"
-      },
-      {
-        "id": 1879912,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14ajs.jpg"
-      },
-      {
-        "id": 1879913,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14ajt.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Mazey Village is a cozy adventure exploration game about rebuilding a village after a disaster. Explore maze-like worlds, find lost items, restore villagers’ homes, decorate your village, and bring hope back to a community torn apart by a tornado.",
-    "videos": [
-      {
-        "id": 190321,
-        "video_id": "z7XaXR8zJIw"
-      },
-      {
-        "id": 64398,
-        "video_id": "KbwNbQ4i0i4"
-      }
-    ],
-    "websites": [
-      {
-        "id": 842101,
-        "url": "https://www.mazeyvillage.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 265147,
-        "url": "https://discord.gg/cTBgzZDp5d",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 265146,
-        "url": "https://www.instagram.com/slappyincdev",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 265148,
-        "url": "https://slappy-inc.itch.io/mazeem",
-        "type": {
-          "id": 15,
-          "type": "Itch"
-        }
-      },
-      {
-        "id": 265143,
-        "url": "https://www.youtube.com/channel/UCeQckd0ZO4d30ehuYquVVEQ",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 265145,
-        "url": "https://twitter.com/maze_em",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 265144,
-        "url": "https://www.facebook.com/SlappyInc",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 263627,
-        "url": "https://store.steampowered.com/app/1766240",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 484090,
-        "url": "https://www.twitch.tv/directory/game/Maze%27Em",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      }
-    ]
-  },
-  {
     "id": 199421,
     "cover": {
       "id": 300576,
@@ -23681,6 +23645,10 @@
       {
         "id": 12,
         "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
       },
       {
         "id": 32,
@@ -24675,162 +24643,6 @@
         "type": {
           "id": 13,
           "type": "Steam"
-        }
-      }
-    ]
-  },
-  {
-    "id": 321689,
-    "cover": {
-      "id": 557008,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobxsg.jpg"
-    },
-    "game_modes": [
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 5,
-        "name": "Massively Multiplayer Online (MMO)"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 294360,
-        "company": {
-          "id": 59475,
-          "name": "Playable Worlds"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Stars Reach",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 949590,
-        "date": 1787011200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1818451,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12z4j.jpg"
-      },
-      {
-        "id": 1818452,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12z4k.jpg"
-      },
-      {
-        "id": 1818453,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12z4l.jpg"
-      },
-      {
-        "id": 1818454,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12z4m.jpg"
-      },
-      {
-        "id": 1818455,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12z4n.jpg"
-      }
-    ],
-    "status": 2,
-    "summary": "Explore a living galaxy in Stars Reach. Discover new planets, build settlements, and shape environments that react to everything you do. Players work together to transform untamed worlds into thriving civilizations across a single shared universe.",
-    "videos": [
-      {
-        "id": 164599,
-        "video_id": "ZRd5xiNfCg0"
-      }
-    ],
-    "websites": [
-      {
-        "id": 689397,
-        "url": "https://discord.gg/invite/DYtN7HAN4X",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 689393,
-        "url": "https://starsreach.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 888162,
-        "url": "https://store.steampowered.com/app/1925650/Stars_Reach/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 888163,
-        "url": "https://www.reddit.com/r/StarsReach/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 689396,
-        "url": "https://twitter.com/playstarsreach",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 689394,
-        "url": "https://www.youtube.com/channel/UCFwxW4iaHv9KodeqRIPK1zQ",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 689395,
-        "url": "https://www.facebook.com/StarsReachGame/",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 689398,
-        "url": "https://www.instagram.com/playstarsreach/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 690209,
-        "url": "https://www.twitch.tv/directory/category/stars-reach",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
         }
       }
     ]
