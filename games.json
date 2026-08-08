@@ -2520,268 +2520,6 @@
     ]
   },
   {
-    "id": 324570,
-    "cover": {
-      "id": 425516,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co94bw.jpg"
-    },
-    "first_release_date": 1763510400,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      }
-    ],
-    "hypes": 33,
-    "involved_companies": [
-      {
-        "id": 298287,
-        "company": {
-          "id": 4133,
-          "name": "11 bit studios"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 298286,
-        "company": {
-          "id": 12319,
-          "name": "Digital Sun Games"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Moonlighter 2: The Endless Vault",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 508,
-        "name": "Nintendo Switch 2"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 814325,
-        "date": 1763510400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 885298,
-        "date": 1798675200,
-        "platform": {
-          "id": 508,
-          "name": "Nintendo Switch 2"
-        }
-      },
-      {
-        "id": 885428,
-        "date": 1798675200,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 885429,
-        "date": 1798675200,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      },
-      {
-        "id": 903174,
-        "date": 1798675200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1431166,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuoam.jpg"
-      },
-      {
-        "id": 1431164,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuoak.jpg"
-      },
-      {
-        "id": 1431165,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuoal.jpg"
-      },
-      {
-        "id": 1431167,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuoan.jpg"
-      },
-      {
-        "id": 1431169,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuoap.jpg"
-      },
-      {
-        "id": 1431168,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuoao.jpg"
-      },
-      {
-        "id": 1431170,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuoaq.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Live the double life of a fearless adventurer and a crafty merchant! Dive into vibrant dimensions brimming with shiny loot and pesky enemies. Grow your shop, tinker with weapons and gadgets, as well as make your mark among a ragtag community of castaways.",
-    "videos": [
-      {
-        "id": 134620,
-        "video_id": "uZW8MwekNHk"
-      },
-      {
-        "id": 141251,
-        "video_id": "FIJpQye2Ksw"
-      },
-      {
-        "id": 145670,
-        "video_id": "FJLtx7yFafU"
-      },
-      {
-        "id": 153418,
-        "video_id": "py6GDBmJmcM"
-      },
-      {
-        "id": 153268,
-        "video_id": "E9PCSbbv-LU"
-      },
-      {
-        "id": 159546,
-        "video_id": "0OCz8WarKos"
-      },
-      {
-        "id": 168595,
-        "video_id": "jxM_GByzcvc"
-      },
-      {
-        "id": 170480,
-        "video_id": "pqFQnNp_wDU"
-      },
-      {
-        "id": 177596,
-        "video_id": "5bcVLw6WRgs"
-      },
-      {
-        "id": 181995,
-        "video_id": "vyReJFQOUl0"
-      }
-    ],
-    "websites": [
-      {
-        "id": 696074,
-        "url": "https://www.twitch.tv/directory/category/moonlighter-2-the-endless-vault",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 696077,
-        "url": "https://www.instagram.com/digitalsungames/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 868073,
-        "url": "https://store.playstation.com/en-us/concept/10008133",
-        "type": {
-          "id": 23,
-          "type": "Playstation"
-        }
-      },
-      {
-        "id": 871753,
-        "url": "https://digitalsungames.com/games/moonlighter-2/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 729098,
-        "url": "https://bsky.app/profile/digitalsungames.com",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 696036,
-        "url": "https://store.steampowered.com/app/2350790",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 696075,
-        "url": "https://www.youtube.com/@DigitalSunGames",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 696078,
-        "url": "https://discord.gg/invite/BFWrAfxd2H",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 696076,
-        "url": "https://twitter.com/DigitalSunGames",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1091820,
-        "url": "https://en.wikipedia.org/wiki/Moonlighter_2:_The_Endless_Vault",
-        "type": {
-          "id": 3,
-          "type": "Wikipedia"
-        }
-      }
-    ]
-  },
-  {
     "id": 189246,
     "cover": {
       "id": 249834,
@@ -11776,7 +11514,7 @@
       }
     ],
     "status": 4,
-    "summary": "This game is a pixel art simulation game \u0026 shooting game, it has cute picture, semi-open world story system, rich and deep game system. The story is witty, lighthearted and casual, you can build your own farm, tackle cute Npcs, catch small animals, learn food recipes or fight monster in jungle-land",
+    "summary": "Play as a young scavenger and construct your vertical farm one platform at a time under extreme weather. Evolving from a scrap-gathering survivor into an easygoing farming tycoon. Transform the climate, and remake the wasteland into your personal Eden.",
     "videos": [
       {
         "id": 149440,
@@ -13284,6 +13022,187 @@
         "type": {
           "id": 19,
           "type": "Bluesky"
+        }
+      }
+    ]
+  },
+  {
+    "id": 412303,
+    "cover": {
+      "id": 588954,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocmfu.jpg"
+    },
+    "first_release_date": 1789171200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 7,
+    "involved_companies": [
+      {
+        "id": 405821,
+        "company": {
+          "id": 79840,
+          "name": "Luduvo Corporation"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Luduvo",
+    "platforms": [
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 949817,
+        "date": 1789171200,
+        "platform": {
+          "id": 3,
+          "name": "Linux"
+        }
+      },
+      {
+        "id": 949815,
+        "date": 1789171200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 949816,
+        "date": 1789171200,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1892336,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14k4w.jpg"
+      }
+    ],
+    "status": 2,
+    "summary": "Luduvo is a user-generated content (UGC) sandbox gaming platform built on a proprietary engine. The platform allows players to create, share, and play community-designed games using a suite of built-in development tools and custom avatar configurations. Emphasizing digital safety and moderation, Luduvo features an in-game economy driven by virtual currency (Lunes).",
+    "videos": [
+      {
+        "id": 192074,
+        "video_id": "B5rzxVG-3nQ"
+      },
+      {
+        "id": 192068,
+        "video_id": "1x5Lu6qxdEg"
+      },
+      {
+        "id": 192069,
+        "video_id": "7JpOw9JGwog"
+      },
+      {
+        "id": 192070,
+        "video_id": "msQo8fTjGQA"
+      },
+      {
+        "id": 192075,
+        "video_id": "NxPckVD8zfg"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1092547,
+        "url": "https://luduvo.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1092548,
+        "url": "https://www.twitch.tv/luduvoapp",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 1092549,
+        "url": "https://luduvo.miraheze.org/",
+        "type": {
+          "id": 2,
+          "type": "Community Wiki"
+        }
+      },
+      {
+        "id": 1092550,
+        "url": "https://x.com/@luduvoapp",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1092551,
+        "url": "https://www.instagram.com/luduvoapp/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1092552,
+        "url": "https://www.youtube.com/@Luduvo",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1092553,
+        "url": "https://www.reddit.com/r/Luduvo",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 1092554,
+        "url": "https://discord.gg/luduvo",
+        "type": {
+          "id": 18,
+          "type": "Discord"
         }
       }
     ]
@@ -19291,6 +19210,14 @@
           "id": 13,
           "type": "Steam"
         }
+      },
+      {
+        "id": 1093796,
+        "url": "http://laceygames.com.br/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
       }
     ]
   },
@@ -21912,6 +21839,135 @@
         "type": {
           "id": 1,
           "type": "Official Website"
+        }
+      }
+    ]
+  },
+  {
+    "id": 127894,
+    "cover": {
+      "id": 566217,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc4w9.jpg"
+    },
+    "first_release_date": 1802044800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 5,
+    "involved_companies": [
+      {
+        "id": 158282,
+        "company": {
+          "id": 39368,
+          "name": "Candy Valley Network"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Wild Life",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 919169,
+        "date": 1802044800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 422033,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc91n5.jpg"
+      },
+      {
+        "id": 422034,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc91n6.jpg"
+      },
+      {
+        "id": 422035,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc91n7.jpg"
+      },
+      {
+        "id": 422036,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc91n8.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Become the heroine Maya - strong, beautiful and able to call upon her wings, her tribal heritage - in this gripping Adult Action-RPG. Roam the world from fertile forests to dry and sun-soaked deserts, spread your wings and cut through the skies of a world torn by greed and vanity. Find your own way to ensure your survival and embrace the possibilities of fighting and sex.",
+    "videos": [
+      {
+        "id": 185335,
+        "video_id": "yVRD-9TwMdw"
+      },
+      {
+        "id": 185336,
+        "video_id": "VZpeSaCpLOs"
+      }
+    ],
+    "websites": [
+      {
+        "id": 935277,
+        "url": "https://wildlife.adult/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 935278,
+        "url": "https://discord.gg/TueZKjsfjW",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 128605,
+        "url": "https://twitter.com/adeptussteve",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 128606,
+        "url": "https://www.youtube.com/channel/UCE94N3wj3hZIsoiTD4FwUoQ",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 310618,
+        "url": "https://store.steampowered.com/app/1032980",
+        "type": {
+          "id": 13,
+          "type": "Steam"
         }
       }
     ]
