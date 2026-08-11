@@ -615,10 +615,6 @@
         "video_id": "hYyZVRpRnKc"
       },
       {
-        "id": 182365,
-        "video_id": "Cie36UtJMoo"
-      },
-      {
         "id": 186654,
         "video_id": "gFgWMT-yENE"
       }
@@ -10675,10 +10671,6 @@
         "video_id": "YePGFxedZ6c"
       },
       {
-        "id": 168926,
-        "video_id": "SWSm4GwFjX4"
-      },
-      {
         "id": 178632,
         "video_id": "ecNi8P56l4Q"
       }
@@ -11262,6 +11254,522 @@
       {
         "id": 1009228,
         "url": "https://discord.gg/hwuzqKme2T",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      }
+    ]
+  },
+  {
+    "id": 152498,
+    "cover": {
+      "id": 589750,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocn1y.jpg"
+    },
+    "first_release_date": 1786406400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 4,
+    "involved_companies": [
+      {
+        "id": 247085,
+        "company": {
+          "id": 51947,
+          "name": "Refractive Entertainment"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Luminary",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 936210,
+        "date": 1786406400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 490578,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scaij6.jpg"
+      },
+      {
+        "id": 490579,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scaij7.jpg"
+      },
+      {
+        "id": 490580,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scaij8.jpg"
+      },
+      {
+        "id": 490581,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scaij9.jpg"
+      },
+      {
+        "id": 490582,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scaija.jpg"
+      },
+      {
+        "id": 490583,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scaijb.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Luminary is a solo or 3 player co-op Openworld Action RPG that creates a balanced, accessible experience for everyone. Using a unique world and character progression system, explore vast hand-crafted lands together, uncover hidden treasures, level up your town, and push back the darkness with light.",
+    "websites": [
+      {
+        "id": 875467,
+        "url": "https://www.facebook.com/RefractiveENT",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 459707,
+        "url": "https://www.twitch.tv/directory/game/Luminary",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 243561,
+        "url": "https://store.steampowered.com/app/1648360/Luminary",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 605952,
+        "url": "https://discord.gg/invite/NNrurAT5um",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 605951,
+        "url": "https://twitter.com/RefractiveENT",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      }
+    ]
+  },
+  {
+    "id": 175772,
+    "cover": {
+      "id": 568482,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc6n6.jpg"
+    },
+    "first_release_date": 1786406400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 152162,
+        "company": {
+          "id": 38173,
+          "name": "Temple Door Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Swordcery",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 941881,
+        "date": 1786406400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 941882,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1850440,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13nt4.jpg"
+      },
+      {
+        "id": 1850441,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13nt5.jpg"
+      },
+      {
+        "id": 1850442,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13nt6.jpg"
+      },
+      {
+        "id": 1850443,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13nt7.jpg"
+      },
+      {
+        "id": 1850444,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13nt8.jpg"
+      },
+      {
+        "id": 1850445,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13nt9.jpg"
+      },
+      {
+        "id": 1850446,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13nta.jpg"
+      },
+      {
+        "id": 1850447,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13ntb.jpg"
+      }
+    ],
+    "status": 2,
+    "summary": "A colossal blade has pierced the Earth, unleashing a storm of enchanted swords from the heavens. Collect and wield an arsenal of these spellbound blades, turning them against the very force that summoned them. In this roguelike ARPG, you will defy the Celestial evil consuming the world!",
+    "videos": [
+      {
+        "id": 186509,
+        "video_id": "0Poohn18K1A"
+      },
+      {
+        "id": 190241,
+        "video_id": "-2ZwBJT-yLk"
+      }
+    ],
+    "websites": [
+      {
+        "id": 234436,
+        "url": "https://www.instagram.com/swordcery",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 829624,
+        "url": "https://bsky.app/profile/templedoorgames.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 829625,
+        "url": "https://www.youtube.com/@templedoorgames",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 684193,
+        "url": "https://www.twitch.tv/directory/category/swordcery",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 679265,
+        "url": "https://store.steampowered.com/app/1817030/Swordcery/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 234435,
+        "url": "https://twitter.com/templedoorgames",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 234437,
+        "url": "https://discord.gg/YNMYDr7",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 234434,
+        "url": "https://www.facebook.com/Swordcery",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 234433,
+        "url": "https://swordcerygame.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      }
+    ]
+  },
+  {
+    "id": 244671,
+    "cover": {
+      "id": 464073,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9y2x.jpg"
+    },
+    "first_release_date": 1786406400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 322998,
+        "company": {
+          "id": 60633,
+          "name": "Agate"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Riftstorm",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 948698,
+        "date": 1786406400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1253456,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv68.jpg"
+      },
+      {
+        "id": 1253457,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv69.jpg"
+      },
+      {
+        "id": 1253458,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv6a.jpg"
+      },
+      {
+        "id": 1253462,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv6e.jpg"
+      },
+      {
+        "id": 1253463,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv6f.jpg"
+      },
+      {
+        "id": 1253464,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv6g.jpg"
+      },
+      {
+        "id": 1253460,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv6c.jpg"
+      },
+      {
+        "id": 1253461,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv6d.jpg"
+      },
+      {
+        "id": 1253465,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv6h.jpg"
+      },
+      {
+        "id": 1253466,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv6i.jpg"
+      },
+      {
+        "id": 1253459,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv6b.jpg"
+      }
+    ],
+    "status": 3,
+    "summary": "Storms are coming, and there are rules you must follow. RIFTSTORM is co-op looter-shooter set in a world of myth and secret societies where you can play solo or co-op in a party of three.",
+    "videos": [
+      {
+        "id": 108373,
+        "video_id": "qdoACi3z8ss"
+      },
+      {
+        "id": 136890,
+        "video_id": "utVPh08Fr2U"
+      },
+      {
+        "id": 151284,
+        "video_id": "CzZxaOBjN3s"
+      }
+    ],
+    "websites": [
+      {
+        "id": 592713,
+        "url": "https://twitter.com/playriftstorm",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 802194,
+        "url": "https://www.twitch.tv/directory/category/mythic-protocol-riftstorm",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 543317,
+        "url": "https://store.steampowered.com/app/2282790",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 618880,
+        "url": "https://reddit.com/r/playriftstorm",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 618879,
+        "url": "https://www.youtube.com/@playriftstorm",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 592711,
+        "url": "https://playriftstorm.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 592714,
+        "url": "https://instagram.com/playriftstorm",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 592715,
+        "url": "https://discord.gg/riftstorm",
         "type": {
           "id": 18,
           "type": "Discord"
@@ -12857,10 +13365,6 @@
       {
         "id": 190790,
         "video_id": "HZFXf0Ivp8M"
-      },
-      {
-        "id": 168893,
-        "video_id": "6yTy_I-8uT8"
       },
       {
         "id": 169984,
@@ -18014,10 +18518,6 @@
       {
         "id": 182232,
         "video_id": "_R296j5HjCA"
-      },
-      {
-        "id": 182400,
-        "video_id": "HTrxmK74czg"
       }
     ],
     "websites": [
@@ -21306,331 +21806,6 @@
     ]
   },
   {
-    "id": 152498,
-    "cover": {
-      "id": 589750,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocn1y.jpg"
-    },
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      },
-      {
-        "id": 4,
-        "name": "Split screen"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 4,
-    "involved_companies": [
-      {
-        "id": 247085,
-        "company": {
-          "id": 51947,
-          "name": "Refractive Entertainment"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Luminary",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 936210,
-        "date": 1786406400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 490578,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scaij6.jpg"
-      },
-      {
-        "id": 490579,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scaij7.jpg"
-      },
-      {
-        "id": 490580,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scaij8.jpg"
-      },
-      {
-        "id": 490581,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scaij9.jpg"
-      },
-      {
-        "id": 490582,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scaija.jpg"
-      },
-      {
-        "id": 490583,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scaijb.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Luminary is a solo or 3 player co-op Openworld Action RPG that creates a balanced, accessible experience for everyone. Using a unique world and character progression system, explore vast hand-crafted lands together, uncover hidden treasures, level up your town, and push back the darkness with light.",
-    "websites": [
-      {
-        "id": 875467,
-        "url": "https://www.facebook.com/RefractiveENT",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 459707,
-        "url": "https://www.twitch.tv/directory/game/Luminary",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 243561,
-        "url": "https://store.steampowered.com/app/1648360/Luminary",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 605952,
-        "url": "https://discord.gg/invite/NNrurAT5um",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 605951,
-        "url": "https://twitter.com/RefractiveENT",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      }
-    ]
-  },
-  {
-    "id": 175772,
-    "cover": {
-      "id": 568482,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc6n6.jpg"
-    },
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 25,
-        "name": "Hack and slash/Beat \u0027em up"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 152162,
-        "company": {
-          "id": 38173,
-          "name": "Temple Door Games"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Swordcery",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 941881,
-        "date": 1786406400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 941882,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1850440,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13nt4.jpg"
-      },
-      {
-        "id": 1850441,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13nt5.jpg"
-      },
-      {
-        "id": 1850442,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13nt6.jpg"
-      },
-      {
-        "id": 1850443,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13nt7.jpg"
-      },
-      {
-        "id": 1850444,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13nt8.jpg"
-      },
-      {
-        "id": 1850445,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13nt9.jpg"
-      },
-      {
-        "id": 1850446,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13nta.jpg"
-      },
-      {
-        "id": 1850447,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13ntb.jpg"
-      }
-    ],
-    "status": 2,
-    "summary": "A colossal blade has pierced the Earth, unleashing a storm of enchanted swords from the heavens. Collect and wield an arsenal of these spellbound blades, turning them against the very force that summoned them. In this roguelike ARPG, you will defy the Celestial evil consuming the world!",
-    "videos": [
-      {
-        "id": 186509,
-        "video_id": "0Poohn18K1A"
-      },
-      {
-        "id": 190241,
-        "video_id": "-2ZwBJT-yLk"
-      }
-    ],
-    "websites": [
-      {
-        "id": 234436,
-        "url": "https://www.instagram.com/swordcery",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 829624,
-        "url": "https://bsky.app/profile/templedoorgames.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 829625,
-        "url": "https://www.youtube.com/@templedoorgames",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 684193,
-        "url": "https://www.twitch.tv/directory/category/swordcery",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 679265,
-        "url": "https://store.steampowered.com/app/1817030/Swordcery/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 234435,
-        "url": "https://twitter.com/templedoorgames",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 234437,
-        "url": "https://discord.gg/YNMYDr7",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 234434,
-        "url": "https://www.facebook.com/Swordcery",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 234433,
-        "url": "https://swordcerygame.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      }
-    ]
-  },
-  {
     "id": 199421,
     "cover": {
       "id": 300576,
@@ -21900,194 +22075,6 @@
         "type": {
           "id": 4,
           "type": "Facebook"
-        }
-      }
-    ]
-  },
-  {
-    "id": 244671,
-    "cover": {
-      "id": 464073,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9y2x.jpg"
-    },
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 5,
-        "name": "Shooter"
-      },
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 322998,
-        "company": {
-          "id": 60633,
-          "name": "Agate"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Riftstorm",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 948698,
-        "date": 1786406400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1253456,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv68.jpg"
-      },
-      {
-        "id": 1253457,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv69.jpg"
-      },
-      {
-        "id": 1253458,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv6a.jpg"
-      },
-      {
-        "id": 1253462,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv6e.jpg"
-      },
-      {
-        "id": 1253463,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv6f.jpg"
-      },
-      {
-        "id": 1253464,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv6g.jpg"
-      },
-      {
-        "id": 1253460,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv6c.jpg"
-      },
-      {
-        "id": 1253461,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv6d.jpg"
-      },
-      {
-        "id": 1253465,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv6h.jpg"
-      },
-      {
-        "id": 1253466,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv6i.jpg"
-      },
-      {
-        "id": 1253459,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv6b.jpg"
-      }
-    ],
-    "status": 3,
-    "summary": "Storms are coming, and there are rules you must follow. RIFTSTORM is co-op looter-shooter set in a world of myth and secret societies where you can play solo or co-op in a party of three.",
-    "videos": [
-      {
-        "id": 108373,
-        "video_id": "qdoACi3z8ss"
-      },
-      {
-        "id": 136890,
-        "video_id": "utVPh08Fr2U"
-      },
-      {
-        "id": 151284,
-        "video_id": "CzZxaOBjN3s"
-      }
-    ],
-    "websites": [
-      {
-        "id": 592713,
-        "url": "https://twitter.com/playriftstorm",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 802194,
-        "url": "https://www.twitch.tv/directory/category/mythic-protocol-riftstorm",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 543317,
-        "url": "https://store.steampowered.com/app/2282790",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 618880,
-        "url": "https://reddit.com/r/playriftstorm",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 618879,
-        "url": "https://www.youtube.com/@playriftstorm",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 592711,
-        "url": "https://playriftstorm.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 592714,
-        "url": "https://instagram.com/playriftstorm",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 592715,
-        "url": "https://discord.gg/riftstorm",
-        "type": {
-          "id": 18,
-          "type": "Discord"
         }
       }
     ]
