@@ -2013,6 +2013,14 @@
     ],
     "screenshots": [
       {
+        "id": 564687,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scc3pr.jpg"
+      },
+      {
+        "id": 564694,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scc3py.jpg"
+      },
+      {
         "id": 564661,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/scc3p1.jpg"
       },
@@ -2025,24 +2033,16 @@
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/scc3pb.jpg"
       },
       {
-        "id": 564678,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scc3pi.jpg"
-      },
-      {
-        "id": 564687,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scc3pr.jpg"
-      },
-      {
-        "id": 564694,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scc3py.jpg"
-      },
-      {
         "id": 564699,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/scc3q3.jpg"
       },
       {
         "id": 564703,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/scc3q7.jpg"
+      },
+      {
+        "id": 564678,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scc3pi.jpg"
       }
     ],
     "status": 4,
@@ -2059,6 +2059,10 @@
       {
         "id": 114142,
         "video_id": "HOozyx2uX5s"
+      },
+      {
+        "id": 192723,
+        "video_id": "zuhAFcOGx0A"
       }
     ],
     "websites": [
@@ -2358,6 +2362,244 @@
         "type": {
           "id": 23,
           "type": "Playstation"
+        }
+      }
+    ]
+  },
+  {
+    "id": 332851,
+    "cover": {
+      "id": 452119,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9ouv.jpg"
+    },
+    "first_release_date": 1755734400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 338980,
+        "company": {
+          "id": 31614,
+          "name": "Stairway Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Funguys Swarm",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 508,
+        "name": "Nintendo Switch 2"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 732568,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      },
+      {
+        "id": 732569,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 732570,
+        "platform": {
+          "id": 130,
+          "name": "Nintendo Switch"
+        }
+      },
+      {
+        "id": 790059,
+        "date": 1755734400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 953419,
+        "date": 1787616000,
+        "platform": {
+          "id": 508,
+          "name": "Nintendo Switch 2"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1488386,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvwg2.jpg"
+      },
+      {
+        "id": 1488388,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvwg4.jpg"
+      },
+      {
+        "id": 1488390,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvwg6.jpg"
+      },
+      {
+        "id": 1488391,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvwg7.jpg"
+      },
+      {
+        "id": 1488376,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvwfs.jpg"
+      },
+      {
+        "id": 1488378,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvwfu.jpg"
+      },
+      {
+        "id": 1488380,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvwfw.jpg"
+      },
+      {
+        "id": 1488382,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvwfy.jpg"
+      },
+      {
+        "id": 1488384,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvwg0.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Funguys Swarm is a cartoony survivor bullet hell where the forest is on fire—and it’s very much not fine. Become a Funguy, arm yourself with forest-crafted weapons, and unleash some bonkers powers on the Fireking’s army. And maybe—just maybe—save the day if you’re skilled (or lucky) enough.",
+    "videos": [
+      {
+        "id": 153213,
+        "video_id": "lo_GNDrC1EE"
+      },
+      {
+        "id": 145994,
+        "video_id": "CM_qUOPS8zI"
+      },
+      {
+        "id": 146781,
+        "video_id": "hOomJOKHm8c"
+      }
+    ],
+    "websites": [
+      {
+        "id": 727170,
+        "url": "https://www.facebook.com/funguys.swarm",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 727167,
+        "url": "https://store.epicgames.com/en-US/p/funguys-swarm-1f96a8",
+        "type": {
+          "id": 16,
+          "type": "Epic"
+        }
+      },
+      {
+        "id": 727169,
+        "url": "https://x.com/Funguys_swarm",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 727168,
+        "url": "https://blog.stairwaygames.com/funguys-swarm",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 727174,
+        "url": "https://bsky.app/profile/funguys-swarm.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 727173,
+        "url": "https://discord.gg/stairway",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 727172,
+        "url": "https://www.youtube.com/@Funguys_Swarm",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 727171,
+        "url": "https://www.instagram.com/funguys_swarm/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 727166,
+        "url": "https://store.steampowered.com/app/3371770/Funguys_Swarm/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1096240,
+        "url": "https://www.nintendo.com/us/store/products/funguys-swarm-switch-2/",
+        "type": {
+          "id": 24,
+          "type": "Nintendo"
         }
       }
     ]
@@ -2870,6 +3112,517 @@
         "type": {
           "id": 13,
           "type": "Steam"
+        }
+      }
+    ]
+  },
+  {
+    "id": 310885,
+    "cover": {
+      "id": 425061,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co93z9.jpg"
+    },
+    "first_release_date": 1770768000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 11,
+    "involved_companies": [
+      {
+        "id": 405066,
+        "company": {
+          "id": 67051,
+          "name": "Seed Lab"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Starsand Island",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 508,
+        "name": "Nintendo Switch 2"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 866806,
+        "date": 1770768000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 947933,
+        "date": 1787011200,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      },
+      {
+        "id": 947889,
+        "date": 1787011200,
+        "platform": {
+          "id": 508,
+          "name": "Nintendo Switch 2"
+        }
+      },
+      {
+        "id": 947890,
+        "date": 1787011200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 947891,
+        "date": 1787011200,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 947935,
+        "date": 1798675200,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      },
+      {
+        "id": 947934,
+        "date": 1770768000,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1368237,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctbql.jpg"
+      },
+      {
+        "id": 1368239,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctbqn.jpg"
+      },
+      {
+        "id": 1368240,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctbqo.jpg"
+      },
+      {
+        "id": 1368236,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctbqk.jpg"
+      },
+      {
+        "id": 1368238,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctbqm.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Leave the hustle of the city behind and embrace life on Starsand Island. Fish, farm, raise animals, and befriend or fall in love with locals to learn their secrets. Customize your world with our DIY system, and invite friends to help build your dream paradise!",
+    "videos": [
+      {
+        "id": 146406,
+        "video_id": "eXbbQy2otes"
+      },
+      {
+        "id": 159686,
+        "video_id": "d8PywddJnDU"
+      },
+      {
+        "id": 163283,
+        "video_id": "sebMNTrHDSw"
+      },
+      {
+        "id": 170175,
+        "video_id": "X0-YSWoUkNU"
+      },
+      {
+        "id": 191737,
+        "video_id": "y9RCr7iVpBw"
+      }
+    ],
+    "websites": [
+      {
+        "id": 855329,
+        "url": "https://www.xbox.com/en-us/games/store/starsand-island/9p86lldcl5cc",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
+      },
+      {
+        "id": 807122,
+        "url": "https://www.youtube.com/@StarsandIslandOfficial",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 807121,
+        "url": "https://x.com/IslandStarsand",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 807120,
+        "url": "https://discord.gg/HHnJvsspk4",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 966995,
+        "url": "https://www.twitch.tv/directory/category/starsand-island",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 943543,
+        "url": "https://www.reddit.com/r/Starsandisland/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 658395,
+        "url": "https://store.steampowered.com/app/2966320",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1093570,
+        "url": "https://www.nintendo.com/us/store/products/starsand-island-switch-2/",
+        "type": {
+          "id": 24,
+          "type": "Nintendo"
+        }
+      },
+      {
+        "id": 1094582,
+        "url": "https://store.playstation.com/en-us/concept/10015004",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
+        }
+      },
+      {
+        "id": 1095729,
+        "url": "https://www.starsandisland.com/en/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1095730,
+        "url": "https://starsandisland.wiki.gg/",
+        "type": {
+          "id": 2,
+          "type": "Community Wiki"
+        }
+      }
+    ]
+  },
+  {
+    "id": 142304,
+    "cover": {
+      "id": 442391,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9hcn.jpg"
+    },
+    "first_release_date": 1773705600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 4,
+    "involved_companies": [
+      {
+        "id": 116608,
+        "company": {
+          "id": 31004,
+          "name": "CMD Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 373477,
+        "company": {
+          "id": 31003,
+          "name": "Winter Crew"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Fallen Tear: The Ascension",
+    "platforms": [
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 852047,
+        "platform": {
+          "id": 130,
+          "name": "Nintendo Switch"
+        }
+      },
+      {
+        "id": 852045,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 852044,
+        "platform": {
+          "id": 48,
+          "name": "PlayStation 4"
+        }
+      },
+      {
+        "id": 852046,
+        "platform": {
+          "id": 49,
+          "name": "Xbox One"
+        }
+      },
+      {
+        "id": 879879,
+        "date": 1773705600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 952732,
+        "date": 1789516800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1306601,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scs06h.jpg"
+      },
+      {
+        "id": 1306602,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scs06i.jpg"
+      },
+      {
+        "id": 1306603,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scs06j.jpg"
+      },
+      {
+        "id": 1306600,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scs06g.jpg"
+      },
+      {
+        "id": 1306604,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scs06k.jpg"
+      },
+      {
+        "id": 1306605,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scs06l.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Fallen Tear: The Ascension is an epic adventure set in a vast magical world where you’ll fight dangerous beasts, defy corrupt gods, and face many challenges, all in an attempt to bring balance back to your world.​Embark on this journey with Hira, a mysterious young boy who seeks the truth about his forgotten past. Along the way, bond with many fully-voiced characters to unlock new skills and abilities that will aid you in your battle through environments that constantly change and react to your choices - all in classic, hand-drawn animation.",
+    "videos": [
+      {
+        "id": 111611,
+        "video_id": "bh-GCGyeR1E"
+      },
+      {
+        "id": 111612,
+        "video_id": "o77xxlKR87s"
+      },
+      {
+        "id": 153245,
+        "video_id": "8hgkSJBK4DE"
+      },
+      {
+        "id": 153115,
+        "video_id": "Qx7Zl62-srY"
+      },
+      {
+        "id": 177229,
+        "video_id": "-Vm9f-_4vFk"
+      },
+      {
+        "id": 178232,
+        "video_id": "wUv9ikhQZ_U"
+      }
+    ],
+    "websites": [
+      {
+        "id": 797884,
+        "url": "https://www.twitch.tv/directory/category/fallen-tear-the-ascension",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 165618,
+        "url": "https://www.instagram.com/fallenteargame",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 165615,
+        "url": "https://www.youtube.com/channel/UCgwznm9ySgQ7vMZrY6oXJ7g",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 165616,
+        "url": "https://www.facebook.com/fallenteargame",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 165617,
+        "url": "https://twitter.com/FallenTearGame",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 168093,
+        "url": "https://discord.gg/XWN8hdf9Qs",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 168092,
+        "url": "https://store.steampowered.com/app/1446900",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 165613,
+        "url": "https://www.fallentearascension.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 168094,
+        "url": "https://www.reddit.com/r/FallenTearGame",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
         }
       }
     ]
@@ -12398,6 +13151,14 @@
           "id": 1,
           "type": "Official Website"
         }
+      },
+      {
+        "id": 1095832,
+        "url": "https://discord.gg/Zdk8Rk7cVR",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
       }
     ]
   },
@@ -14370,6 +15131,179 @@
         "type": {
           "id": 13,
           "type": "Steam"
+        }
+      }
+    ]
+  },
+  {
+    "id": 404091,
+    "cover": {
+      "id": 567398,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc5t2.jpg"
+    },
+    "first_release_date": 1793491200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 391420,
+        "company": {
+          "id": 17078,
+          "name": "LINE Games Corporation"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Come To My Party!",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 921041,
+        "date": 1793491200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1847413,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13lh1.jpg"
+      },
+      {
+        "id": 1847414,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13lh2.jpg"
+      },
+      {
+        "id": 1847415,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13lh3.jpg"
+      },
+      {
+        "id": 1847416,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13lh4.jpg"
+      },
+      {
+        "id": 1847417,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13lh5.jpg"
+      },
+      {
+        "id": 1847418,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13lh6.jpg"
+      },
+      {
+        "id": 1847419,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13lh7.jpg"
+      },
+      {
+        "id": 1847420,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13lh8.jpg"
+      },
+      {
+        "id": 1847421,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13lh9.jpg"
+      }
+    ],
+    "status": 3,
+    "summary": "Jimin dreams of finally having her first birthday party, but what begins as a childhood wish unravels into social pressure, fragile friendships, family expectations, and consequences that hit closer than you’d like. Join Jimin in this coming-of-age story where every choice carries weight.",
+    "videos": [
+      {
+        "id": 185988,
+        "video_id": "xvOPb6o_qDY"
+      },
+      {
+        "id": 186337,
+        "video_id": "tUQjQmNXkdw"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1063557,
+        "url": "https://store.steampowered.com/app/3003760/Come_to_my_party/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1063558,
+        "url": "https://store.epicgames.com/p/come-to-my-party-9d9972",
+        "type": {
+          "id": 16,
+          "type": "Epic"
+        }
+      },
+      {
+        "id": 1063559,
+        "url": "https://x.com/simsangy8n",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1063560,
+        "url": "https://www.youtube.com/@MijiLee/featured",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1063561,
+        "url": "https://bsky.app/profile/simsangy8n.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 1063677,
+        "url": "https://www.instagram.com/simsangy8n",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1063678,
+        "url": "https://discord.gg/ugXngWaVSt",
+        "type": {
+          "id": 18,
+          "type": "Discord"
         }
       }
     ]
@@ -17486,6 +18420,155 @@
     ]
   },
   {
+    "id": 305743,
+    "cover": {
+      "id": 400900,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8lc4.jpg"
+    },
+    "first_release_date": 1798675200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 7,
+    "involved_companies": [
+      {
+        "id": 277939,
+        "company": {
+          "id": 56600,
+          "name": "CSquareStudio"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Gummy Nightmares",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 746420,
+        "date": 1798675200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1346644,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsv2s.jpg"
+      },
+      {
+        "id": 1346641,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsv2p.jpg"
+      },
+      {
+        "id": 1346637,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsv2l.jpg"
+      },
+      {
+        "id": 1346639,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsv2n.jpg"
+      },
+      {
+        "id": 1346640,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsv2o.jpg"
+      },
+      {
+        "id": 1346642,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsv2q.jpg"
+      },
+      {
+        "id": 1346638,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsv2m.jpg"
+      },
+      {
+        "id": 1346643,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsv2r.jpg"
+      }
+    ],
+    "status": 3,
+    "summary": "Step into the enigmatic world of Gummy Nightmares as a little boy who wakes up in a mysterious amusement park with no memory. Explore, solve puzzles, and uncover lost memories while evading sinister plushie robots. Use weapons, set traps, and find hideouts to survive and reveal the truth",
+    "videos": [
+      {
+        "id": 133801,
+        "video_id": "VYyG_FBBX84"
+      },
+      {
+        "id": 133802,
+        "video_id": "gUZc6-PEMQY"
+      }
+    ],
+    "websites": [
+      {
+        "id": 701511,
+        "url": "https://twitter.com/BabyZoneYT",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 701510,
+        "url": "https://www.facebook.com/babyzone.channel",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 701509,
+        "url": "https://www.youtube.com/@XestroyGaming",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 701512,
+        "url": "https://discord.gg/XENv3QZp88",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 645255,
+        "url": "https://store.steampowered.com/app/3002520/Gummy_Nightmares/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 698923,
+        "url": "https://www.twitch.tv/directory/category/gummy-nightmares",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      }
+    ]
+  },
+  {
     "id": 309915,
     "cover": {
       "id": 412165,
@@ -20506,159 +21589,6 @@
     ]
   },
   {
-    "id": 373878,
-    "cover": {
-      "id": 549834,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobs96.jpg"
-    },
-    "first_release_date": 1798675200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 9,
-        "name": "Puzzle"
-      },
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 24,
-        "name": "Tactical"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 353517,
-        "company": {
-          "id": 70406,
-          "name": "Cold Zephyr Games"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Contact Protocol",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 821959,
-        "date": 1798675200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1801749,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12m8l.jpg"
-      },
-      {
-        "id": 1801750,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12m8m.jpg"
-      },
-      {
-        "id": 1801751,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12m8n.jpg"
-      },
-      {
-        "id": 1801752,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12m8o.jpg"
-      },
-      {
-        "id": 1801753,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12m8p.jpg"
-      }
-    ],
-    "status": 2,
-    "summary": "Contact Protocol is a starship job simulator taking place in a gritty, cassette-future. Humanity has spread throughout the solar system and started extracting its natural resources.\n\nYou play as the security officer aboard PALE HORSE - a Galileo Corporation vessel carrying miners set for Ganymede, Jupiter\u0027s biggest moon. It’s your job to assess the intentions of approaching ships, decide their fate, and keep your crew alive. The company is watching.",
-    "videos": [
-      {
-        "id": 178976,
-        "video_id": "oVJN5r05BxM"
-      }
-    ],
-    "websites": [
-      {
-        "id": 895629,
-        "url": "https://store.steampowered.com/app/3846690/Contact_Protocol/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 895630,
-        "url": "https://coldzephyr.co.uk/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 895631,
-        "url": "https://x.com/ColdZephyrGames",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 895632,
-        "url": "https://www.instagram.com/contactprotocolgame/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 895633,
-        "url": "https://www.youtube.com/@ColdZephyrGames",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 895634,
-        "url": "https://discord.gg/T4HyG5eCEv",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 895635,
-        "url": "https://bsky.app/profile/coldzephyrgames.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      }
-    ]
-  },
-  {
     "id": 380980,
     "cover": {
       "id": 585184,
@@ -21801,6 +22731,211 @@
         "type": {
           "id": 13,
           "type": "Steam"
+        }
+      }
+    ]
+  },
+  {
+    "id": 384353,
+    "cover": {
+      "id": 523740,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cob84c.jpg"
+    },
+    "first_release_date": 1802563200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 365659,
+        "company": {
+          "id": 72825,
+          "name": "R16 Studio"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Wake Up",
+    "platforms": [
+      {
+        "id": 34,
+        "name": "Android"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 856330,
+        "date": 1760486400,
+        "platform": {
+          "id": 34,
+          "name": "Android"
+        }
+      },
+      {
+        "id": 856329,
+        "date": 1802563200,
+        "platform": {
+          "id": 34,
+          "name": "Android"
+        }
+      },
+      {
+        "id": 856075,
+        "date": 1802563200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 856076,
+        "date": 1760486400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 858130,
+        "date": 1813363200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1734195,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11643.jpg"
+      },
+      {
+        "id": 1734196,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11644.jpg"
+      },
+      {
+        "id": 1734193,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11641.jpg"
+      },
+      {
+        "id": 1734194,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11642.jpg"
+      },
+      {
+        "id": 1734197,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11645.jpg"
+      },
+      {
+        "id": 1734198,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11646.jpg"
+      },
+      {
+        "id": 1735564,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11764.jpg"
+      }
+    ],
+    "status": 3,
+    "summary": "Wake Up is a thrilling 2D/3D adventure game made by R16studio. Dive into a world full of mystery, puzzles, psychological horror, and tension where every choice matters.\nAre you ready to wake up and find the truth or maybe not.",
+    "videos": [
+      {
+        "id": 172655,
+        "video_id": "U0pwMsWQztc"
+      },
+      {
+        "id": 173622,
+        "video_id": "7MxK4Yu6IUk"
+      }
+    ],
+    "websites": [
+      {
+        "id": 978635,
+        "url": "https://r16studio.itch.io/wake-up",
+        "type": {
+          "id": 15,
+          "type": "Itch"
+        }
+      },
+      {
+        "id": 978636,
+        "url": "https://r16studio.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 978637,
+        "url": "https://r16studio.com/wake-up-game",
+        "type": {
+          "id": 2,
+          "type": "Community Wiki"
+        }
+      },
+      {
+        "id": 978638,
+        "url": "https://x.com/r16_studio",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 978639,
+        "url": "https://www.instagram.com/r16studio_dev/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 978640,
+        "url": "https://www.youtube.com/@trifon4o",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 978641,
+        "url": "https://www.reddit.com/user/trifon1402/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 978642,
+        "url": "https://discord.gg/z7ebAZbPuS",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 987284,
+        "url": "https://www.facebook.com/profile.php?id\u003d61586823293750",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
         }
       }
     ]
