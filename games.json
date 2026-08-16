@@ -248,204 +248,6 @@
     ]
   },
   {
-    "id": 211347,
-    "cover": {
-      "id": 262052,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5m78.jpg"
-    },
-    "first_release_date": 1726099200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 10,
-    "involved_companies": [
-      {
-        "id": 263728,
-        "company": {
-          "id": 41013,
-          "name": "Fireshine Games"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 263727,
-        "company": {
-          "id": 47960,
-          "name": "Emberstorm Entertainment"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Reka",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 629921,
-        "date": 1726099200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 920011,
-        "date": 1787011200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 842830,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sci2by.jpg"
-      },
-      {
-        "id": 842831,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sci2bz.jpg"
-      },
-      {
-        "id": 842832,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sci2c0.jpg"
-      },
-      {
-        "id": 842833,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sci2c1.jpg"
-      },
-      {
-        "id": 842834,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sci2c2.jpg"
-      },
-      {
-        "id": 842835,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sci2c3.jpg"
-      },
-      {
-        "id": 842836,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sci2c4.jpg"
-      },
-      {
-        "id": 842837,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sci2c5.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Start your life as an apprentice witch to the legendary Baba Jaga and venture across a mysterious, natural landscape with your companion, chicken-legged cottage. Develop your magical powers, customise your home, craft potions, help or hinder villagers find your way in the world.",
-    "videos": [
-      {
-        "id": 91431,
-        "video_id": "X5CDteG81_A"
-      },
-      {
-        "id": 91455,
-        "video_id": "hhZiJ1AFfyw"
-      },
-      {
-        "id": 115766,
-        "video_id": "VGYF6cQXwzg"
-      },
-      {
-        "id": 115990,
-        "video_id": "89Gp9vhRRoU"
-      },
-      {
-        "id": 185649,
-        "video_id": "vx5PtGjGPqA"
-      }
-    ],
-    "websites": [
-      {
-        "id": 637892,
-        "url": "https://twitter.com/emberstorm_de",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 826761,
-        "url": "https://reka.wiki.gg/",
-        "type": {
-          "id": 2,
-          "type": "Community Wiki"
-        }
-      },
-      {
-        "id": 826762,
-        "url": "https://www.reddit.com/r/REKA/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 637891,
-        "url": "https://www.youtube.com/@emberstormentertainment",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 300497,
-        "url": "https://store.steampowered.com/app/1737870",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 633018,
-        "url": "https://discord.gg/invite/nZ4mx8sk4a",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 557280,
-        "url": "https://fireshinegames.co.uk/games/reka/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 671999,
-        "url": "https://www.twitch.tv/directory/category/reka",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      }
-    ]
-  },
-  {
     "id": 309862,
     "cover": {
       "id": 404661,
@@ -4106,99 +3908,6 @@
         "type": {
           "id": 22,
           "type": "Xbox"
-        }
-      }
-    ]
-  },
-  {
-    "id": 271228,
-    "cover": {
-      "id": 454235,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9qhn.jpg"
-    },
-    "first_release_date": 1781654400,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 5,
-        "name": "Shooter"
-      },
-      {
-        "id": 8,
-        "name": "Platform"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 244878,
-        "company": {
-          "id": 51618,
-          "name": "Gil Lawson"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "GoblinAmerica",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 888524,
-        "date": 1781654400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1211908,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scpz44.jpg"
-      },
-      {
-        "id": 1211907,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scpz43.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "goblinAmerica is a squirmy, bouncy shooting game filled with lovely sights and horrible places. Careen across the planet, blast yourself to new heights, and discover the dark tunnels and deep places of a world beneath our own.",
-    "videos": [
-      {
-        "id": 153440,
-        "video_id": "P1FSIreQ3s0"
-      }
-    ],
-    "websites": [
-      {
-        "id": 588417,
-        "url": "https://twitter.com/computer_gil",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 588416,
-        "url": "https://store.steampowered.com/app/1944040/goblinAmerica/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
         }
       }
     ]
@@ -11876,16 +11585,28 @@
     ],
     "screenshots": [
       {
+        "id": 1253458,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv6a.jpg"
+      },
+      {
         "id": 1253456,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv68.jpg"
       },
       {
-        "id": 1253457,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv69.jpg"
+        "id": 1253464,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv6g.jpg"
       },
       {
-        "id": 1253458,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv6a.jpg"
+        "id": 1253461,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv6d.jpg"
+      },
+      {
+        "id": 1253466,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv6i.jpg"
+      },
+      {
+        "id": 1253457,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv69.jpg"
       },
       {
         "id": 1253462,
@@ -11896,31 +11617,19 @@
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv6f.jpg"
       },
       {
-        "id": 1253464,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv6g.jpg"
-      },
-      {
         "id": 1253460,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv6c.jpg"
-      },
-      {
-        "id": 1253461,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv6d.jpg"
       },
       {
         "id": 1253465,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv6h.jpg"
       },
       {
-        "id": 1253466,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv6i.jpg"
-      },
-      {
         "id": 1253459,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqv6b.jpg"
       }
     ],
-    "status": 3,
+    "status": 4,
     "summary": "Storms are coming, and there are rules you must follow. RIFTSTORM is co-op looter-shooter set in a world of myth and secret societies where you can play solo or co-op in a party of three.",
     "videos": [
       {
@@ -11999,6 +11708,183 @@
         "type": {
           "id": 18,
           "type": "Discord"
+        }
+      }
+    ]
+  },
+  {
+    "id": 314426,
+    "cover": {
+      "id": 406610,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8pqq.jpg"
+    },
+    "first_release_date": 1786406400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 6,
+    "involved_companies": [
+      {
+        "id": 349450,
+        "company": {
+          "id": 20922,
+          "name": "Borealys Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Echoes of Mystralia",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 948694,
+        "date": 1786406400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1385421,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctozx.jpg"
+      },
+      {
+        "id": 1385422,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctozy.jpg"
+      },
+      {
+        "id": 1385423,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctozz.jpg"
+      },
+      {
+        "id": 1385424,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctp00.jpg"
+      },
+      {
+        "id": 1385427,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctp03.jpg"
+      },
+      {
+        "id": 1385429,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctp05.jpg"
+      },
+      {
+        "id": 1385426,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctp02.jpg"
+      },
+      {
+        "id": 1385425,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctp01.jpg"
+      },
+      {
+        "id": 1385428,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctp04.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Mages of Mystralia\u0027s award-winning spellcrafting system enters a new era. Free Mystralia from the Shadows of the Past in this action-RPG roguelite. Create an infinite variety of spells to save the Memory of the World.",
+    "videos": [
+      {
+        "id": 123718,
+        "video_id": "9xA4uBM2DO0"
+      },
+      {
+        "id": 176611,
+        "video_id": "BUzQW4-9es8"
+      },
+      {
+        "id": 187718,
+        "video_id": "ZsxKhHMVQ8g"
+      },
+      {
+        "id": 187719,
+        "video_id": "Gp1PimQ825A"
+      },
+      {
+        "id": 187720,
+        "video_id": "VvvADAYDAGI"
+      },
+      {
+        "id": 187721,
+        "video_id": "bLr8TAk2700"
+      }
+    ],
+    "websites": [
+      {
+        "id": 919908,
+        "url": "https://www.facebook.com/mystralia",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 919909,
+        "url": "https://x.com/Mystralia/",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 919910,
+        "url": "https://www.youtube.com/@BorealysGames",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 919911,
+        "url": "https://discord.gg/Ge4sysstj3",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 666481,
+        "url": "https://www.echoesofmystralia.com",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 666480,
+        "url": "https://store.steampowered.com/app/974480",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1006164,
+        "url": "https://www.instagram.com/mystralia.games/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
         }
       }
     ]
