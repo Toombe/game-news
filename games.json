@@ -3647,409 +3647,6 @@
     ]
   },
   {
-    "id": 252846,
-    "cover": {
-      "id": 571668,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc93o.jpg"
-    },
-    "first_release_date": 1782086400,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      }
-    ],
-    "genres": [
-      {
-        "id": 31,
-        "name": "Adventure"
-      }
-    ],
-    "hypes": 22,
-    "involved_companies": [
-      {
-        "id": 267363,
-        "company": {
-          "id": 5040,
-          "name": "tinyBuild"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 267364,
-        "company": {
-          "id": 15681,
-          "name": "Hologryph"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 267365,
-        "company": {
-          "id": 48001,
-          "name": "TowerHaus"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Sand: Raiders Of Sophie",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 932918,
-        "date": 1782086400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 933154,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 933155,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1068804,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmwp0.jpg"
-      },
-      {
-        "id": 1068806,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmwp2.jpg"
-      },
-      {
-        "id": 1068808,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmwp4.jpg"
-      },
-      {
-        "id": 1068811,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmwp7.jpg"
-      },
-      {
-        "id": 1068813,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmwp9.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "In an alternate 1910, scavenge the sands of Sophie in towering Tramplers. Build your highly customizable walking base. Squad up or go solo. Gather loot, weapons, precious artifacts. Clash with other players in a brutal procedurally generated desert forged by history and chaos.",
-    "videos": [
-      {
-        "id": 91707,
-        "video_id": "Pi_lFqOvxjE"
-      },
-      {
-        "id": 114063,
-        "video_id": "LPEMtTe8t8Y"
-      },
-      {
-        "id": 142317,
-        "video_id": "6rvIyS0eIlY"
-      },
-      {
-        "id": 151345,
-        "video_id": "_uENIPtZIec"
-      },
-      {
-        "id": 172599,
-        "video_id": "H-Q9LKOOnvg"
-      },
-      {
-        "id": 186514,
-        "video_id": "9mjNPkIbSTM"
-      },
-      {
-        "id": 188829,
-        "video_id": "zkH4dKTLfr4"
-      }
-    ],
-    "websites": [
-      {
-        "id": 800516,
-        "url": "https://store.playstation.com/en-us/concept/10010847/",
-        "type": {
-          "id": 23,
-          "type": "Playstation"
-        }
-      },
-      {
-        "id": 800515,
-        "url": "https://www.xbox.com/en-US/games/store/sand/9NG0FFHT5MCB/0010",
-        "type": {
-          "id": 22,
-          "type": "Xbox"
-        }
-      },
-      {
-        "id": 682699,
-        "url": "https://www.twitch.tv/directory/category/sand",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 717014,
-        "url": "https://www.youtube.com/@tinyBuildGAMES",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 557500,
-        "url": "https://store.steampowered.com/app/1431300",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 557524,
-        "url": "https://sand-game.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 690962,
-        "url": "https://twitter.com/sandthegame",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 690963,
-        "url": "https://www.instagram.com/sandgamehq/?next\u003d%2F",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 690961,
-        "url": "https://www.facebook.com/SANDtheGame/",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 690964,
-        "url": "https://discord.gg/invite/zk3ZWg8Ntd",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      }
-    ]
-  },
-  {
-    "id": 374711,
-    "cover": {
-      "id": 500397,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coaq3x.jpg"
-    },
-    "first_release_date": 1782086400,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 3,
-    "involved_companies": [
-      {
-        "id": 397325,
-        "company": {
-          "id": 70598,
-          "name": "Pixel Puffs"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 391640,
-        "company": {
-          "id": 63202,
-          "name": "GameDev.ist"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Pawsome Resort",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 920893,
-        "date": 1782086400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1678685,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczza5.jpg"
-      },
-      {
-        "id": 1678686,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczza6.jpg"
-      },
-      {
-        "id": 1678693,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczzad.jpg"
-      },
-      {
-        "id": 1678694,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczzae.jpg"
-      },
-      {
-        "id": 1678695,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczzaf.jpg"
-      },
-      {
-        "id": 1678687,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczza7.jpg"
-      },
-      {
-        "id": 1678688,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczza8.jpg"
-      },
-      {
-        "id": 1678689,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczza9.jpg"
-      },
-      {
-        "id": 1678690,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczzaa.jpg"
-      },
-      {
-        "id": 1678691,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczzab.jpg"
-      },
-      {
-        "id": 1678692,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczzac.jpg"
-      },
-      {
-        "id": 1678683,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczza3.jpg"
-      },
-      {
-        "id": 1678684,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczza4.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Pawsome Resort is a cozy life sim with Co-op gameplay where you run an animal hotel in a charming pixel-art village. Design your resort, care for cute animals, grow crops, craft things, complete quests, and bond with villagers. With farming and RPG elements, it\u0027s a perfect cozy escape.",
-    "videos": [
-      {
-        "id": 165732,
-        "video_id": "f8InsH-ZNuE"
-      }
-    ],
-    "websites": [
-      {
-        "id": 922997,
-        "url": "https://store.steampowered.com/app/3759220",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 898987,
-        "url": "https://x.com/pixelpuffsgames",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 898988,
-        "url": "https://www.instagram.com/pawsomeresort_game/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 898989,
-        "url": "https://discord.gg/k4XtMccpEu",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      }
-    ]
-  },
-  {
     "id": 338053,
     "cover": {
       "id": 574799,
@@ -12369,6 +11966,220 @@
     ]
   },
   {
+    "id": 400902,
+    "cover": {
+      "id": 561758,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc1ge.jpg"
+    },
+    "first_release_date": 1787011200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 384930,
+        "company": {
+          "id": 39120,
+          "name": "Grove Street Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "BeastLink",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 946550,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 946551,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      },
+      {
+        "id": 946548,
+        "date": 1787011200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 946549,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1846672,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13kwg.jpg"
+      },
+      {
+        "id": 1846673,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13kwh.jpg"
+      },
+      {
+        "id": 1846675,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13kwj.jpg"
+      },
+      {
+        "id": 1846671,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13kwf.jpg"
+      },
+      {
+        "id": 1846674,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13kwi.jpg"
+      },
+      {
+        "id": 1846676,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13kwk.jpg"
+      },
+      {
+        "id": 1846678,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13kwm.jpg"
+      },
+      {
+        "id": 1846677,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13kwl.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "BeastLink is a giant multiplayer Kaiju experience where humans, vehicles, and colossal Beasts collide in urban environments at unprecedented scale where absolutely everything you see can be destroyed. Build your Link and unleash your power before it consumes you!",
+    "videos": [
+      {
+        "id": 191402,
+        "video_id": "q_kjm-MPlps"
+      },
+      {
+        "id": 183137,
+        "video_id": "xUDcsyePN1o"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1052983,
+        "url": "https://store.steampowered.com/app/2962780/BeastLink/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1052984,
+        "url": "https://www.xbox.com/en-US/games/store/beastlink/9NHGMVR69KBX",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
+      },
+      {
+        "id": 1052985,
+        "url": "https://store.playstation.com/en-us/concept/10016937",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
+        }
+      },
+      {
+        "id": 1063211,
+        "url": "https://playbeastlink.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1063212,
+        "url": "https://discord.gg/2QTxdTMhtB",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1063213,
+        "url": "https://x.com/playbeastlink",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1063214,
+        "url": "https://www.instagram.com/playbeastlink",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1063215,
+        "url": "https://www.facebook.com/share/1ETzQMsTr1",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 1063216,
+        "url": "https://www.youtube.com/@playbeastlinkgame",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      }
+    ]
+  },
+  {
     "id": 292519,
     "cover": {
       "id": 506545,
@@ -12521,165 +12332,6 @@
         "type": {
           "id": 13,
           "type": "Steam"
-        }
-      }
-    ]
-  },
-  {
-    "id": 412313,
-    "cover": {
-      "id": 588885,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocmdx.jpg"
-    },
-    "first_release_date": 1787184000,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 24,
-        "name": "Tactical"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 3,
-    "involved_companies": [
-      {
-        "id": 405823,
-        "company": {
-          "id": 79839,
-          "name": "AFireForge"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Mine Defense",
-    "platforms": [
-      {
-        "id": 34,
-        "name": "Android"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 949832,
-        "date": 1760054400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 949833,
-        "date": 1787184000,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 949834,
-        "date": 1760054400,
-        "platform": {
-          "id": 34,
-          "name": "Android"
-        }
-      },
-      {
-        "id": 949835,
-        "date": 1787184000,
-        "platform": {
-          "id": 34,
-          "name": "Android"
-        }
-      },
-      {
-        "id": 949836,
-        "date": 1760054400,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 949837,
-        "date": 1787184000,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1901286,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14r1i.jpg"
-      },
-      {
-        "id": 1901287,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14r1j.jpg"
-      },
-      {
-        "id": 1901288,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14r1k.jpg"
-      },
-      {
-        "id": 1901284,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14r1g.jpg"
-      },
-      {
-        "id": 1901285,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14r1h.jpg"
-      }
-    ],
-    "status": 3,
-    "summary": "Mine Defense is a 2D action-adventure game inspired by sandbox survival games. Explore a dangerous world, gather resources, craft weapons and equipment, fight hostile creatures, and build your own base. Progress through the game by discovering new materials, improving your gear, and facing increasingly powerful enemies and bosses.",
-    "websites": [
-      {
-        "id": 1092587,
-        "url": "https://afireforge.itch.io/minedefense",
-        "type": {
-          "id": 15,
-          "type": "Itch"
-        }
-      },
-      {
-        "id": 1092588,
-        "url": "https://gamejolt.com/games/minedefense/791226",
-        "type": {
-          "id": 26,
-          "type": "GameJolt"
-        }
-      },
-      {
-        "id": 1092589,
-        "url": "https://www.youtube.com/channel/UCkIXNwSYv_hKtQnf3NELXSw",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
         }
       }
     ]
