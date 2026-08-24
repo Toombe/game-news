@@ -11532,45 +11532,45 @@
     ]
   },
   {
-    "id": 402652,
+    "id": 315988,
     "cover": {
-      "id": 573031,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coca5j.jpg"
+      "id": 409895,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8s9z.jpg"
     },
-    "first_release_date": 1787270400,
+    "first_release_date": 1788134400,
     "game_modes": [
       {
         "id": 1,
         "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
       }
     ],
     "genres": [
       {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
         "id": 31,
         "name": "Adventure"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
       }
     ],
-    "hypes": 2,
+    "hypes": 3,
     "involved_companies": [
       {
-        "id": 396029,
+        "id": 286411,
         "company": {
-          "id": 31736,
-          "name": "J6 Games"
+          "id": 58097,
+          "name": "KumaPaws"
         },
         "developer": true,
         "publisher": true
       }
     ],
-    "name": "Loot Gobblin\u0027 Together",
+    "name": "Project Reignition",
     "platforms": [
       {
         "id": 3,
@@ -11579,32 +11579,36 @@
       {
         "id": 6,
         "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
       }
     ],
     "release_dates": [
       {
-        "id": 948846,
-        "date": 1787270400,
+        "id": 640665,
+        "date": 1717372800,
         "platform": {
           "id": 3,
           "name": "Linux"
         }
       },
       {
-        "id": 948847,
-        "date": 1787270400,
+        "id": 640664,
+        "date": 1717372800,
         "platform": {
-          "id": 14,
-          "name": "Mac"
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
         }
       },
       {
-        "id": 948848,
-        "date": 1787270400,
+        "id": 956433,
+        "date": 1788134400,
+        "platform": {
+          "id": 3,
+          "name": "Linux"
+        }
+      },
+      {
+        "id": 956434,
+        "date": 1788134400,
         "platform": {
           "id": 6,
           "name": "PC (Microsoft Windows)"
@@ -11613,69 +11617,69 @@
     ],
     "screenshots": [
       {
-        "id": 1839855,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13fn3.jpg"
+        "id": 1391583,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scttr3.jpg"
       },
       {
-        "id": 1839856,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13fn4.jpg"
+        "id": 1391581,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scttr1.jpg"
       },
       {
-        "id": 1839857,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13fn5.jpg"
-      },
-      {
-        "id": 1839858,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13fn6.jpg"
+        "id": 1391582,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scttr2.jpg"
       }
     ],
-    "status": 2,
-    "summary": "An online co-op game where you and your friends play greedy gobblins invading human houses to steal and gobble loot. Climb, stretch, and manage your stamina to survive chaotic heists and feed your Gobblin King.",
+    "status": 3,
+    "summary": "Project Reignition is an on-rails platformer developed by KumaPauZ. This unofficial remake of Sonic and the Secret Rings, originally developed by Sonic Team and published by SEGA in 2007 for the Wii, aims to bring the classic game to modern systems. Built using the Godot engine, this free and open-source project features enhanced graphics, refined controls, and a smoother frame rate, offering a fresh experience while staying true to the original.",
     "videos": [
       {
-        "id": 188361,
-        "video_id": "Q9IJh4i8XbY"
+        "id": 125539,
+        "video_id": "uKrbNbQrEcE"
+      },
+      {
+        "id": 163557,
+        "video_id": "tJXjfT3Cxxs"
       }
     ],
     "websites": [
       {
-        "id": 1074649,
-        "url": "https://www.twitch.tv/directory/category/loot-gobblin-together",
+        "id": 678886,
+        "url": "https://www.twitch.tv/directory/category/project-reignition",
         "type": {
           "id": 6,
           "type": "Twitch"
         }
       },
       {
-        "id": 1074650,
-        "url": "https://x.com/TheJustinSix",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1074651,
-        "url": "https://www.youtube.com/@JustinSixVideos",
+        "id": 671696,
+        "url": "https://www.youtube.com/channel/UCq2BP71z9inU98finjl_tow",
         "type": {
           "id": 9,
           "type": "YouTube"
         }
       },
       {
-        "id": 1059002,
-        "url": "https://store.steampowered.com/app/4651490/Loot_Gobblin_Together/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1068411,
-        "url": "https://discord.gg/YBJvrg44tE",
+        "id": 671698,
+        "url": "https://discord.gg/w3kvyv3GeZ",
         "type": {
           "id": 18,
           "type": "Discord"
+        }
+      },
+      {
+        "id": 671697,
+        "url": "https://twitter.com/KumaPauZ",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1094248,
+        "url": "https://github.com/kumapauz/project-reignition",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
         }
       }
     ]
@@ -12642,6 +12646,136 @@
         "type": {
           "id": 8,
           "type": "Instagram"
+        }
+      }
+    ]
+  },
+  {
+    "id": 407158,
+    "cover": {
+      "id": 572739,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc9xf.jpg"
+    },
+    "first_release_date": 1789603200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "hypes": 3,
+    "involved_companies": [
+      {
+        "id": 395777,
+        "company": {
+          "id": 78258,
+          "name": "Pangolin Interactive"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 409680,
+        "company": {
+          "id": 42648,
+          "name": "Gamersky Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Pop! Pachinko",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 955023,
+        "date": 1789603200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1864082,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13yc2.jpg"
+      },
+      {
+        "id": 1864084,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13yc4.jpg"
+      },
+      {
+        "id": 1864083,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13yc3.jpg"
+      },
+      {
+        "id": 1864085,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13yc5.jpg"
+      },
+      {
+        "id": 1864077,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13ybx.jpg"
+      },
+      {
+        "id": 1864078,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13yby.jpg"
+      },
+      {
+        "id": 1864079,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13ybz.jpg"
+      },
+      {
+        "id": 1864080,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13yc0.jpg"
+      },
+      {
+        "id": 1864081,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13yc1.jpg"
+      }
+    ],
+    "status": 3,
+    "summary": "Pop! Pachinko is a pachinko roguelite with city pop vibes. Build up your collection of enchanted balls to fire into the machine. Collect charms to build up powerful synergies between your balls. Listen to some pop music as you expand your Chibi Pop collection!",
+    "videos": [
+      {
+        "id": 188284,
+        "video_id": "tWmJmw9NhvU"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1073988,
+        "url": "https://store.steampowered.com/app/4437370",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1100312,
+        "url": "https://discord.gg/qqsDUbaVP",
+        "type": {
+          "id": 18,
+          "type": "Discord"
         }
       }
     ]
@@ -17631,10 +17765,6 @@
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12p1u.jpg"
       },
       {
-        "id": 1805395,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12p1v.jpg"
-      },
-      {
         "id": 1805396,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12p1w.jpg"
       },
@@ -17643,16 +17773,20 @@
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12p1x.jpg"
       },
       {
-        "id": 1805398,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12p1y.jpg"
-      },
-      {
         "id": 1805399,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12p1z.jpg"
       },
       {
         "id": 1805400,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12p20.jpg"
+      },
+      {
+        "id": 1805395,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12p1v.jpg"
+      },
+      {
+        "id": 1805398,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12p1y.jpg"
       }
     ],
     "status": 2,
@@ -17665,6 +17799,10 @@
       {
         "id": 179599,
         "video_id": "QGnYwtWLs_8"
+      },
+      {
+        "id": 193736,
+        "video_id": "KRR6TEUnVeY"
       },
       {
         "id": 181377,
