@@ -1706,6 +1706,264 @@
     ]
   },
   {
+    "id": 215042,
+    "cover": {
+      "id": 481718,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coabp2.jpg"
+    },
+    "first_release_date": 1755475200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 5,
+    "involved_companies": [
+      {
+        "id": 185622,
+        "company": {
+          "id": 32720,
+          "name": "Free Lives"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 185623,
+        "company": {
+          "id": 634,
+          "name": "Devolver Digital"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Stick It to the Stickman",
+    "platforms": [
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 780987,
+        "date": 1755475200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 787411,
+        "date": 1755475200,
+        "platform": {
+          "id": 3,
+          "name": "Linux"
+        }
+      },
+      {
+        "id": 954420,
+        "date": 1790121600,
+        "platform": {
+          "id": 3,
+          "name": "Linux"
+        }
+      },
+      {
+        "id": 954421,
+        "date": 1790121600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 866269,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scikf1.jpg"
+      },
+      {
+        "id": 866272,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scikf4.jpg"
+      },
+      {
+        "id": 866276,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scikf8.jpg"
+      },
+      {
+        "id": 866273,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scikf5.jpg"
+      },
+      {
+        "id": 866275,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scikf7.jpg"
+      },
+      {
+        "id": 866274,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scikf6.jpg"
+      },
+      {
+        "id": 866270,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scikf2.jpg"
+      },
+      {
+        "id": 866271,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scikf3.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Stick it to the Stickman is a practical guide for anybody seeking to climb the corporate ladder in the fastest way possible. A groin-kicking, staple-gunning, chainsaw-wielding roguelike brawler loaded with high-impact, physics-based combat, copious amounts of coffee, and weaponized farts!",
+    "videos": [
+      {
+        "id": 103752,
+        "video_id": "akYfZqkxrK8"
+      },
+      {
+        "id": 134096,
+        "video_id": "SNSIB_4V0EA"
+      },
+      {
+        "id": 141227,
+        "video_id": "qMu6tIlA9kc"
+      },
+      {
+        "id": 158065,
+        "video_id": "8MzaVuBYWAQ"
+      },
+      {
+        "id": 159478,
+        "video_id": "HB3URY5DHcs"
+      },
+      {
+        "id": 193209,
+        "video_id": "ucxlcq1A2ZM"
+      }
+    ],
+    "websites": [
+      {
+        "id": 845853,
+        "url": "https://www.facebook.com/freelivesgames",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 845854,
+        "url": "https://www.instagram.com/freelives_official/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 877294,
+        "url": "https://www.reddit.com/r/sittsm_game/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 845855,
+        "url": "https://www.youtube.com/c/freelivesgames",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 853601,
+        "url": "https://bsky.app/profile/freelives.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 312197,
+        "url": "https://callofthevoid.itch.io/stick-it-to-the-stick-man",
+        "type": {
+          "id": 15,
+          "type": "Itch"
+        }
+      },
+      {
+        "id": 307185,
+        "url": "https://store.steampowered.com/app/2085540/Stick_It_to_the_Stickman",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 501644,
+        "url": "https://www.twitch.tv/directory/game/Stick%20It%20to%20the%20Stickman",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 694678,
+        "url": "https://twitter.com/SITT_STICKMAN",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 694677,
+        "url": "https://www.stickittothestickman.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 694679,
+        "url": "https://discord.gg/invite/freelives",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      }
+    ]
+  },
+  {
     "id": 339626,
     "cover": {
       "id": 450496,
@@ -2189,6 +2447,14 @@
         "type": {
           "id": 13,
           "type": "Steam"
+        }
+      },
+      {
+        "id": 1100791,
+        "url": "https://store.playstation.com/en-us/concept/10016847",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
         }
       },
       {
@@ -3639,213 +3905,6 @@
       {
         "id": 1097665,
         "url": "https://discord.gg/astroneer",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      }
-    ]
-  },
-  {
-    "id": 367362,
-    "cover": {
-      "id": 565620,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc4fo.jpg"
-    },
-    "first_release_date": 1782432000,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 5,
-        "name": "Shooter"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 398054,
-        "company": {
-          "id": 4741,
-          "name": "Forever Entertainment S.A."
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 398053,
-        "company": {
-          "id": 70500,
-          "name": "Virtual Sanctuary"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Eyes of the ElderWood",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      },
-      {
-        "id": 130,
-        "name": "Nintendo Switch"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 898998,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 898999,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      },
-      {
-        "id": 899000,
-        "platform": {
-          "id": 130,
-          "name": "Nintendo Switch"
-        }
-      },
-      {
-        "id": 918020,
-        "date": 1782432000,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1870693,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc143fp.jpg"
-      },
-      {
-        "id": 1870694,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc143fq.jpg"
-      },
-      {
-        "id": 1870695,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc143fr.jpg"
-      },
-      {
-        "id": 1870696,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc143fs.jpg"
-      },
-      {
-        "id": 1870697,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc143ft.jpg"
-      },
-      {
-        "id": 1870698,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc143fu.jpg"
-      },
-      {
-        "id": 1870699,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc143fv.jpg"
-      },
-      {
-        "id": 1870700,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc143fw.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Eyes of the ElderWood is a first-person adventure horror set in Kashubian folklore, emphasizing diverse locations, challenges, and enemies. Draw spells to solve puzzles and deal with foes, or fight using a revolver. Keep an eye on your sanity level to avoid descending into madness.",
-    "videos": [
-      {
-        "id": 180815,
-        "video_id": "UIEF_WRmZlc"
-      },
-      {
-        "id": 184977,
-        "video_id": "Rqvt76aqL9Y"
-      },
-      {
-        "id": 189042,
-        "video_id": "jo0hnQ2dsXE"
-      }
-    ],
-    "websites": [
-      {
-        "id": 900450,
-        "url": "https://www.twitch.tv/directory/category/eyes-of-the-elderwood",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 870671,
-        "url": "https://store.steampowered.com/app/3963050",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1030720,
-        "url": "https://x.com/ForeverEntert",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1041745,
-        "url": "https://www.facebook.com/ForeverEntert",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 1041744,
-        "url": "https://store.playstation.com/en-us/concept/10019123",
-        "type": {
-          "id": 23,
-          "type": "Playstation"
-        }
-      },
-      {
-        "id": 1041804,
-        "url": "https://www.youtube.com/@ForeverEntert",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1060378,
-        "url": "https://discord.gg/foreverentert",
         "type": {
           "id": 18,
           "type": "Discord"
@@ -12571,6 +12630,10 @@
     ],
     "screenshots": [
       {
+        "id": 1904538,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14tju.jpg"
+      },
+      {
         "id": 1808806,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12rom.jpg"
       },
@@ -12646,6 +12709,14 @@
         "type": {
           "id": 8,
           "type": "Instagram"
+        }
+      },
+      {
+        "id": 1099979,
+        "url": "https://www.twitch.tv/directory/category/neat",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
         }
       }
     ]
@@ -20697,6 +20768,131 @@
         "type": {
           "id": 9,
           "type": "YouTube"
+        }
+      }
+    ]
+  },
+  {
+    "id": 393657,
+    "cover": {
+      "id": 546068,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobpck.jpg"
+    },
+    "first_release_date": 1798675200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 7,
+        "name": "Music"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 374844,
+        "company": {
+          "id": 74614,
+          "name": "Echolox Interactive"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Beat Weaver",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 885873,
+        "date": 1798675200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1795157,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12h5h.jpg"
+      },
+      {
+        "id": 1795158,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12h5i.jpg"
+      }
+    ],
+    "status": 2,
+    "summary": "3D multi-track rhythm action with space-time bending mechanics that reward your style as much as your precision. Hit notes and switch tracks to add instruments to the mix. Become a remix machine, enter the flow state and uniquely approach each song of a highly replayable, genre-defying soundtrack.\n\nEach journey through a song creates a unique mix driven by your choices. Improvise new routes and string together perfect combos. Fling yourself across tracks or dare to perform multiple instruments simultaneously.\n\nGroove to a vibrant, eclectic soundtrack (made by humans, not machines) composed \u0026 selected for a never before seen synergy between music and gameplay.",
+    "videos": [
+      {
+        "id": 177673,
+        "video_id": "nG_Fq2-OmgQ"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1079976,
+        "url": "https://instagram.com/beatweaver_game",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1024445,
+        "url": "https://store.steampowered.com/app/4265140/Beat_Weaver/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1024447,
+        "url": "https://www.twitter.com/echolox",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1024448,
+        "url": "https://www.youtube.com/@Echolox",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1024449,
+        "url": "https://discord.gg/Fz2Q83vB",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1024450,
+        "url": "https://bsky.app/profile/beatweaver.echolox.com",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
         }
       }
     ]
