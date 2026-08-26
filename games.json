@@ -360,32 +360,32 @@
         }
       },
       {
-        "id": 907979,
-        "date": 1798675200,
+        "id": 957208,
+        "date": 1796947200,
         "platform": {
           "id": 14,
           "name": "Mac"
         }
       },
       {
-        "id": 907980,
-        "date": 1798675200,
+        "id": 957209,
+        "date": 1796947200,
         "platform": {
           "id": 6,
           "name": "PC (Microsoft Windows)"
         }
       },
       {
-        "id": 907981,
-        "date": 1798675200,
+        "id": 957210,
+        "date": 1796947200,
         "platform": {
           "id": 167,
           "name": "PlayStation 5"
         }
       },
       {
-        "id": 907982,
-        "date": 1798675200,
+        "id": 957211,
+        "date": 1796947200,
         "platform": {
           "id": 169,
           "name": "Xbox Series X|S"
@@ -456,6 +456,10 @@
       {
         "id": 123445,
         "video_id": "uDdNXSv3CWc"
+      },
+      {
+        "id": 193908,
+        "video_id": "BwYNNQJO-AE"
       }
     ],
     "websites": [
@@ -2217,252 +2221,6 @@
         "type": {
           "id": 23,
           "type": "Playstation"
-        }
-      }
-    ]
-  },
-  {
-    "id": 332851,
-    "cover": {
-      "id": 452119,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9ouv.jpg"
-    },
-    "first_release_date": 1755734400,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 338980,
-        "company": {
-          "id": 31614,
-          "name": "Stairway Games"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Funguys Swarm",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 508,
-        "name": "Nintendo Switch 2"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      },
-      {
-        "id": 130,
-        "name": "Nintendo Switch"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 732568,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      },
-      {
-        "id": 732569,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 732570,
-        "platform": {
-          "id": 130,
-          "name": "Nintendo Switch"
-        }
-      },
-      {
-        "id": 790059,
-        "date": 1755734400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 953419,
-        "date": 1787616000,
-        "platform": {
-          "id": 508,
-          "name": "Nintendo Switch 2"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1488386,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvwg2.jpg"
-      },
-      {
-        "id": 1488388,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvwg4.jpg"
-      },
-      {
-        "id": 1488390,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvwg6.jpg"
-      },
-      {
-        "id": 1488391,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvwg7.jpg"
-      },
-      {
-        "id": 1488376,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvwfs.jpg"
-      },
-      {
-        "id": 1488378,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvwfu.jpg"
-      },
-      {
-        "id": 1488380,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvwfw.jpg"
-      },
-      {
-        "id": 1488382,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvwfy.jpg"
-      },
-      {
-        "id": 1488384,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvwg0.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Funguys Swarm is a cartoony survivor bullet hell where the forest is on fire—and it’s very much not fine. Become a Funguy, arm yourself with forest-crafted weapons, and unleash some bonkers powers on the Fireking’s army. And maybe—just maybe—save the day if you’re skilled (or lucky) enough.",
-    "videos": [
-      {
-        "id": 153213,
-        "video_id": "lo_GNDrC1EE"
-      },
-      {
-        "id": 145994,
-        "video_id": "CM_qUOPS8zI"
-      },
-      {
-        "id": 146781,
-        "video_id": "hOomJOKHm8c"
-      }
-    ],
-    "websites": [
-      {
-        "id": 727170,
-        "url": "https://www.facebook.com/funguys.swarm",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 727167,
-        "url": "https://store.epicgames.com/en-US/p/funguys-swarm-1f96a8",
-        "type": {
-          "id": 16,
-          "type": "Epic"
-        }
-      },
-      {
-        "id": 727169,
-        "url": "https://x.com/Funguys_swarm",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 727168,
-        "url": "https://blog.stairwaygames.com/funguys-swarm",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 727174,
-        "url": "https://bsky.app/profile/funguys-swarm.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 727173,
-        "url": "https://discord.gg/stairway",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 727172,
-        "url": "https://www.youtube.com/@Funguys_Swarm",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 727171,
-        "url": "https://www.instagram.com/funguys_swarm/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 727166,
-        "url": "https://store.steampowered.com/app/3371770/Funguys_Swarm/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1100791,
-        "url": "https://store.playstation.com/en-us/concept/10016847",
-        "type": {
-          "id": 23,
-          "type": "Playstation"
-        }
-      },
-      {
-        "id": 1096240,
-        "url": "https://www.nintendo.com/us/store/products/funguys-swarm-switch-2/",
-        "type": {
-          "id": 24,
-          "type": "Nintendo"
         }
       }
     ]
@@ -7346,6 +7104,14 @@
     ],
     "screenshots": [
       {
+        "id": 1337455,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnzj.jpg"
+      },
+      {
+        "id": 1337459,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnzn.jpg"
+      },
+      {
         "id": 1337447,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnzb.jpg"
       },
@@ -7368,14 +7134,6 @@
       {
         "id": 1337453,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnzh.jpg"
-      },
-      {
-        "id": 1337459,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnzn.jpg"
-      },
-      {
-        "id": 1337455,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnzj.jpg"
       },
       {
         "id": 1337457,
@@ -8399,8 +8157,8 @@
   {
     "id": 364821,
     "cover": {
-      "id": 486687,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coafj3.jpg"
+      "id": 595352,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocrdk.jpg"
     },
     "first_release_date": 1785110400,
     "game_modes": [
@@ -8497,6 +8255,50 @@
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyv1f.jpg"
       },
       {
+        "id": 1626535,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyv1j.jpg"
+      },
+      {
+        "id": 1906746,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14v96.jpg"
+      },
+      {
+        "id": 1906740,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14v90.jpg"
+      },
+      {
+        "id": 1906741,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14v91.jpg"
+      },
+      {
+        "id": 1906742,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14v92.jpg"
+      },
+      {
+        "id": 1906743,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14v93.jpg"
+      },
+      {
+        "id": 1906744,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14v94.jpg"
+      },
+      {
+        "id": 1906745,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14v95.jpg"
+      },
+      {
+        "id": 1906749,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14v99.jpg"
+      },
+      {
+        "id": 1906747,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14v97.jpg"
+      },
+      {
+        "id": 1906748,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14v98.jpg"
+      },
+      {
         "id": 1626532,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyv1g.jpg"
       },
@@ -8507,10 +8309,6 @@
       {
         "id": 1626534,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyv1i.jpg"
-      },
-      {
-        "id": 1626535,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyv1j.jpg"
       },
       {
         "id": 1626536,
@@ -8539,43 +8337,43 @@
         }
       },
       {
-        "id": 861741,
-        "url": "https://play.google.com/store/apps/details?id\u003dcom.ggv.roworld.aos",
+        "id": 1101202,
+        "url": "https://play.google.com/store/apps/details?id\u003dcom.ggv.roworldsea.aos",
         "type": {
           "id": 12,
           "type": "Google Play"
         }
       },
       {
-        "id": 861744,
-        "url": "https://youtube.com/%40RagnarokWorld",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 861745,
-        "url": "https://discord.gg/GhKGR6cTBm",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 861742,
-        "url": "https://gevents.gnjoy.hk/mlktgayy/",
+        "id": 1101203,
+        "url": "https://auto-page.gnjoy.hk/roworldseapcgg/",
         "type": {
           "id": 1,
           "type": "Official Website"
         }
       },
       {
-        "id": 861743,
-        "url": "https://www.facebook.com/ROWorld.Gravity/",
+        "id": 1101204,
+        "url": "https://www.facebook.com/RagnarokTheNewWorld.Gravity",
         "type": {
           "id": 4,
           "type": "Facebook"
+        }
+      },
+      {
+        "id": 1101205,
+        "url": "https://www.youtube.com/@RagnarokTheNewWorld",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1101206,
+        "url": "https://discord.gg/ragnarokthenewworld",
+        "type": {
+          "id": 18,
+          "type": "Discord"
         }
       },
       {
@@ -12418,7 +12216,7 @@
         "name": "Adventure"
       }
     ],
-    "hypes": 7,
+    "hypes": 8,
     "involved_companies": [
       {
         "id": 405821,
@@ -20316,6 +20114,187 @@
     ]
   },
   {
+    "id": 370095,
+    "cover": {
+      "id": 492543,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coak1r.jpg"
+    },
+    "first_release_date": 1798675200,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 19,
+    "involved_companies": [
+      {
+        "id": 398809,
+        "company": {
+          "id": 15932,
+          "name": "miHoYo"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 349079,
+        "company": {
+          "id": 41907,
+          "name": "HoYoverse"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 349080,
+        "company": {
+          "id": 40242,
+          "name": "Cognosphere"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Petit Planet",
+    "platforms": [
+      {
+        "id": 34,
+        "name": "Android"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 39,
+        "name": "iOS"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 957194,
+        "date": 1798675200,
+        "platform": {
+          "id": 39,
+          "name": "iOS"
+        }
+      },
+      {
+        "id": 957195,
+        "date": 1798675200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 957196,
+        "date": 1798675200,
+        "platform": {
+          "id": 34,
+          "name": "Android"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1685702,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc104p2.jpg"
+      },
+      {
+        "id": 1685700,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc104p0.jpg"
+      },
+      {
+        "id": 1685703,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc104p3.jpg"
+      },
+      {
+        "id": 1685699,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc104oz.jpg"
+      },
+      {
+        "id": 1685701,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc104p1.jpg"
+      }
+    ],
+    "status": 3,
+    "summary": "Petit Planet is HoYoverse\u0027s brand-new cosmic life sim that\u0027s free-to-play and cross-platform. Here, you can build your home, live alongside fuzzy neighbors, and discover the infinite possibilities of life on this planet!",
+    "videos": [
+      {
+        "id": 167775,
+        "video_id": "t_Np2tScEj0"
+      },
+      {
+        "id": 163247,
+        "video_id": "7HyMwlxRcCg"
+      },
+      {
+        "id": 193966,
+        "video_id": "RTjd0hhFO74"
+      }
+    ],
+    "websites": [
+      {
+        "id": 879047,
+        "url": "https://planet.hoyoverse.com/en-us/home",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 879048,
+        "url": "https://x.com/PetitPlanetGame",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 879049,
+        "url": "https://www.facebook.com/PetitPlanetGame",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 879050,
+        "url": "https://www.instagram.com/petitplanetgame",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 879051,
+        "url": "https://www.youtube.com/@PetitPlanetGame",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 879052,
+        "url": "https://discord.gg/petitplanetofficial",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      }
+    ]
+  },
+  {
     "id": 372154,
     "cover": {
       "id": 496582,
@@ -23921,6 +23900,170 @@
         "type": {
           "id": 18,
           "type": "Discord"
+        }
+      }
+    ]
+  },
+  {
+    "id": 362894,
+    "cover": {
+      "id": 482268,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coac4c.jpg"
+    },
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 3,
+    "involved_companies": [
+      {
+        "id": 408134,
+        "company": {
+          "id": 80203,
+          "name": "Infinimelon"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Allumeria",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 843370,
+        "date": 1739059200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 953652,
+        "date": 1787875200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1906255,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14uvj.jpg"
+      },
+      {
+        "id": 1906256,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14uvk.jpg"
+      },
+      {
+        "id": 1906257,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14uvl.jpg"
+      },
+      {
+        "id": 1906252,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14uvg.jpg"
+      },
+      {
+        "id": 1906253,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14uvh.jpg"
+      },
+      {
+        "id": 1906254,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14uvi.jpg"
+      },
+      {
+        "id": 1906251,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14uvf.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Explore a vast and hazardous cave network and uncover mountains of loot. Build a town and trade with NPCs using advanced building and lighting tools. Fight bosses and raid dungeons to unlock abilities. Play with your friends, and build, fight, thrive, in the fully destructible world of Allumeria!",
+    "videos": [
+      {
+        "id": 170439,
+        "video_id": "2oiX7MXcfxE"
+      },
+      {
+        "id": 193792,
+        "video_id": "8v3ZUWfHB6E"
+      }
+    ],
+    "websites": [
+      {
+        "id": 857008,
+        "url": "https://allumeria.wiki.gg/",
+        "type": {
+          "id": 2,
+          "type": "Community Wiki"
+        }
+      },
+      {
+        "id": 857006,
+        "url": "https://store.steampowered.com/app/3516590/Allumeria/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 857007,
+        "url": "https://unobtainablemelon.itch.io/allumeria",
+        "type": {
+          "id": 15,
+          "type": "Itch"
+        }
+      },
+      {
+        "id": 857009,
+        "url": "https://discord.gg/Ddh3acCtVx",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 857010,
+        "url": "https://bsky.app/profile/allumeria.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 1097809,
+        "url": "https://allumeria.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1068588,
+        "url": "https://www.youtube.com/@UnobtainableMelon",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
         }
       }
     ]
