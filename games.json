@@ -1056,6 +1056,235 @@
     ]
   },
   {
+    "id": 325279,
+    "cover": {
+      "id": 426540,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co954c.jpg"
+    },
+    "first_release_date": 1752710400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 4,
+    "involved_companies": [
+      {
+        "id": 299145,
+        "company": {
+          "id": 18471,
+          "name": "Veewo Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Neon Abyss 2",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 730086,
+        "date": 1752710400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 957767,
+        "date": 1798675200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 957768,
+        "date": 1798675200,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      },
+      {
+        "id": 957769,
+        "date": 1798675200,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 957770,
+        "date": 1798675200,
+        "platform": {
+          "id": 130,
+          "name": "Nintendo Switch"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1434345,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuqqx.jpg"
+      },
+      {
+        "id": 1434346,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuqqy.jpg"
+      },
+      {
+        "id": 1434347,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuqqz.jpg"
+      },
+      {
+        "id": 1434348,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuqr0.jpg"
+      },
+      {
+        "id": 1434350,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuqr2.jpg"
+      },
+      {
+        "id": 1434343,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuqqv.jpg"
+      },
+      {
+        "id": 1434344,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuqqw.jpg"
+      },
+      {
+        "id": 1434353,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuqr5.jpg"
+      },
+      {
+        "id": 1434352,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuqr4.jpg"
+      },
+      {
+        "id": 1434349,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuqr1.jpg"
+      },
+      {
+        "id": 1434351,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuqr3.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Plunge into the chaotic cybermyth roguelike world of Neon Abyss 2! With diverse combat styles and unlimited item synergies, every run delivers a dramatic and action-packed experience you won\u0027t forget.",
+    "videos": [
+      {
+        "id": 135268,
+        "video_id": "A86PCFApasQ"
+      },
+      {
+        "id": 143743,
+        "video_id": "r1z9WMDcPAY"
+      },
+      {
+        "id": 146398,
+        "video_id": "b4eUIIguTsg"
+      },
+      {
+        "id": 156334,
+        "video_id": "S6DSN7-Pidk"
+      },
+      {
+        "id": 194132,
+        "video_id": "ZJTwdeDnAYc"
+      }
+    ],
+    "websites": [
+      {
+        "id": 728749,
+        "url": "https://youtube.com/@neonabyssgame",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 728748,
+        "url": "https://x.com/NeonAbyssGame",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 697511,
+        "url": "http://neonabyss.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 697512,
+        "url": "https://discord.gg/veewo",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 697510,
+        "url": "https://store.steampowered.com/app/2235200",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 697513,
+        "url": "https://www.twitch.tv/directory/category/neon-abyss-2",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      }
+    ]
+  },
+  {
     "id": 348187,
     "cover": {
       "id": 463848,
@@ -11389,6 +11618,195 @@
     ]
   },
   {
+    "id": 404693,
+    "cover": {
+      "id": 568460,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc6mk.jpg"
+    },
+    "first_release_date": 1787616000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 59,
+    "involved_companies": [
+      {
+        "id": 392280,
+        "company": {
+          "id": 5370,
+          "name": "Panache Digital Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "1666: Amsterdam",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 952005,
+        "date": 1787616000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1850306,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13npe.jpg"
+      },
+      {
+        "id": 1850307,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13npf.jpg"
+      },
+      {
+        "id": 1850308,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13npg.jpg"
+      },
+      {
+        "id": 1850309,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13nph.jpg"
+      },
+      {
+        "id": 1850310,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13npi.jpg"
+      },
+      {
+        "id": 1850311,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13npj.jpg"
+      },
+      {
+        "id": 1850312,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13npk.jpg"
+      },
+      {
+        "id": 1850313,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13npl.jpg"
+      },
+      {
+        "id": 1850314,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13npm.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Every 333 years, something stirs. 1666: Amsterdam is a 3rd person Dark, Story-Led, Action-Adventure where Noa, the Collector, wields witchcraft to uncover demonic entities hiding behind human faces. Investigate by day. Face your demons at night.",
+    "videos": [
+      {
+        "id": 192519,
+        "video_id": "bKKTY3O6TyU"
+      },
+      {
+        "id": 193917,
+        "video_id": "TjR1WXRPY8g"
+      },
+      {
+        "id": 193918,
+        "video_id": "-Ib9vbgIbks"
+      },
+      {
+        "id": 193919,
+        "video_id": "--KJtmVOf-g"
+      },
+      {
+        "id": 186482,
+        "video_id": "9Kb7TAByzO0"
+      },
+      {
+        "id": 186493,
+        "video_id": "6nUzNiiCi2Q"
+      },
+      {
+        "id": 186826,
+        "video_id": "_dZ0DshCqas"
+      },
+      {
+        "id": 193964,
+        "video_id": "LWqmoqbrzy4"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1065611,
+        "url": "https://store.steampowered.com/app/3949550",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1065612,
+        "url": "https://x.com/panachedgames",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1065613,
+        "url": "https://www.facebook.com/panachedigitalgames",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 1065614,
+        "url": "https://www.instagram.com/panachedigitalgames/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1065615,
+        "url": "https://www.youtube.com/@PanacheDigitalGames",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1065616,
+        "url": "https://discord.gg/invite/panache",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1065640,
+        "url": "https://store.epicgames.com/p/1666-amsterdam-c057d4",
+        "type": {
+          "id": 16,
+          "type": "Epic"
+        }
+      },
+      {
+        "id": 1065693,
+        "url": "https://panachedigitalgames.com/en/games/1666-amsterdam/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      }
+    ]
+  },
+  {
     "id": 315988,
     "cover": {
       "id": 409895,
@@ -12082,25 +12500,29 @@
     ],
     "screenshots": [
       {
-        "id": 1752189,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11jzx.jpg"
-      },
-      {
-        "id": 1793245,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12fod.jpg"
-      },
-      {
         "id": 1793246,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12foe.jpg"
       },
       {
         "id": 1793247,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12fof.jpg"
+      },
+      {
+        "id": 1793245,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12fod.jpg"
+      },
+      {
+        "id": 1752189,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11jzx.jpg"
       }
     ],
     "status": 3,
     "summary": "Grandpa\u0027s Bee Haven is a desktop-idler and a beekeeping sim that sits at the bottom of your screen letting you to do other things while managing your bee haven.",
     "videos": [
+      {
+        "id": 193996,
+        "video_id": "tab0MmRhoZA"
+      },
       {
         "id": 174944,
         "video_id": "HvpoK1If070"
@@ -13362,6 +13784,10 @@
       {
         "id": 180105,
         "video_id": "DQdl3EtZdJk"
+      },
+      {
+        "id": 193117,
+        "video_id": "5JuC9I0AVgg"
       }
     ],
     "websites": [
@@ -14954,6 +15380,10 @@
       {
         "id": 31,
         "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
       }
     ],
     "hypes": 6,
@@ -15008,12 +15438,12 @@
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/sch2ky.jpg"
       },
       {
-        "id": 796499,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sch2kz.jpg"
-      },
-      {
         "id": 796495,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/sch2kv.jpg"
+      },
+      {
+        "id": 796499,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sch2kz.jpg"
       }
     ],
     "status": 4,
@@ -16907,6 +17337,171 @@
         "type": {
           "id": 14,
           "type": "Subreddit"
+        }
+      }
+    ]
+  },
+  {
+    "id": 288339,
+    "cover": {
+      "id": 591357,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocoal.jpg"
+    },
+    "first_release_date": 1798675200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 6,
+        "name": "Battle Royale"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 271870,
+        "company": {
+          "id": 53200,
+          "name": "Genun Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Ascent: Rivals",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 952605,
+        "date": 1798675200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1720897,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10vup.jpg"
+      },
+      {
+        "id": 1720898,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10vuq.jpg"
+      },
+      {
+        "id": 1720899,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10vur.jpg"
+      },
+      {
+        "id": 1720900,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10vus.jpg"
+      },
+      {
+        "id": 1720901,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10vut.jpg"
+      },
+      {
+        "id": 1720902,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10vuu.jpg"
+      },
+      {
+        "id": 1720903,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10vuv.jpg"
+      }
+    ],
+    "status": 2,
+    "summary": "Ascent Rivals is a competitive, skill-based racing game that fuses high-speed precision driving with intense combat. Sitting between the mechanical mastery of Trackmania and the competitive energy of Rocket League, players earn ARC for placement finishes and kills to customize their ship throughout the race.\n\nCurrently in Alpha and available free on Steam, players can compete in multiplayer or chase top times on the global Time Trial leaderboards.",
+    "videos": [
+      {
+        "id": 107977,
+        "video_id": "G6OT1waKl_I"
+      },
+      {
+        "id": 160636,
+        "video_id": "w1oVaIKYOMk"
+      }
+    ],
+    "websites": [
+      {
+        "id": 617410,
+        "url": "https://store.steampowered.com/app/2748420/Ascent_Rivals/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 632896,
+        "url": "https://www.twitch.tv/directory/category/ascent-rivals",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 617412,
+        "url": "https://twitter.com/ascentrivals",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1052936,
+        "url": "https://www.youtube.com/@AscentRivals",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 950056,
+        "url": "https://www.ascentrivals.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 950058,
+        "url": "https://discord.com/invite/ascentrivals",
+        "type": {
+          "id": 18,
+          "type": "Discord"
         }
       }
     ]
@@ -20134,7 +20729,7 @@
         "name": "Adventure"
       }
     ],
-    "hypes": 19,
+    "hypes": 20,
     "involved_companies": [
       {
         "id": 398809,
@@ -20290,6 +20885,38 @@
         "type": {
           "id": 18,
           "type": "Discord"
+        }
+      },
+      {
+        "id": 1102184,
+        "url": "https://apps.apple.com/us/app/petit-planet/id6776621908?platform\u003dipad",
+        "type": {
+          "id": 11,
+          "type": "App Store (iPad)"
+        }
+      },
+      {
+        "id": 1102185,
+        "url": "https://play.google.com/store/apps/details?id\u003dcom.HoYoverse.Planet",
+        "type": {
+          "id": 12,
+          "type": "Google Play"
+        }
+      },
+      {
+        "id": 1102186,
+        "url": "https://apps.apple.com/us/app/petit-planet/id6776621908?ppid\u003dd590896b-d75c-4dbc-ad88-be2fda9cacc1",
+        "type": {
+          "id": 10,
+          "type": "App Store (iPhone)"
+        }
+      },
+      {
+        "id": 1102183,
+        "url": "https://store.epicgames.com/p/petit-planet-5f821d",
+        "type": {
+          "id": 16,
+          "type": "Epic"
         }
       }
     ]
@@ -22937,6 +23564,175 @@
         "type": {
           "id": 25,
           "type": "Meta"
+        }
+      }
+    ]
+  },
+  {
+    "id": 287671,
+    "cover": {
+      "id": 363541,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7sid.jpg"
+    },
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "hypes": 36,
+    "involved_companies": [
+      {
+        "id": 254654,
+        "company": {
+          "id": 53070,
+          "name": "Redemption Road Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 254653,
+        "company": {
+          "id": 5040,
+          "name": "tinyBuild"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Kingmakers",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 957648,
+        "date": 1791417600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1245538,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqp2a.jpg"
+      },
+      {
+        "id": 1245539,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqp2b.jpg"
+      },
+      {
+        "id": 1245536,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqp28.jpg"
+      },
+      {
+        "id": 1245537,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqp29.jpg"
+      },
+      {
+        "id": 1245540,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqp2c.jpg"
+      },
+      {
+        "id": 1245541,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqp2d.jpg"
+      },
+      {
+        "id": 1245533,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqp25.jpg"
+      },
+      {
+        "id": 1245535,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqp27.jpg"
+      },
+      {
+        "id": 1245534,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqp26.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Go back in time to a war-torn medieval era with a vast arsenal of modern weapons, change the course of history, and save the future in this epic action/strategy sandbox. Build your kingdom, grab a gun, and lead an army of thousands into massive, real-time simulated battles — solo or in co-op.",
+    "videos": [
+      {
+        "id": 107623,
+        "video_id": "OvezgDni8z4"
+      },
+      {
+        "id": 114152,
+        "video_id": "3pZ4nJSErrE"
+      },
+      {
+        "id": 134454,
+        "video_id": "ZXujvsd9C58"
+      },
+      {
+        "id": 143706,
+        "video_id": "Zm5I0BUL7LU"
+      },
+      {
+        "id": 151352,
+        "video_id": "52u8LIuzA-Y"
+      }
+    ],
+    "websites": [
+      {
+        "id": 833205,
+        "url": "https://discord.com/invite/NTSGZmbVjC",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 616131,
+        "url": "https://store.steampowered.com/app/2109770/Kingmakers/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 664529,
+        "url": "https://store.epicgames.com/en-US/p/kingmakers-a29f88",
+        "type": {
+          "id": 16,
+          "type": "Epic"
         }
       }
     ]
