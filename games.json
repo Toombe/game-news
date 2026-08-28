@@ -11807,6 +11807,286 @@
     ]
   },
   {
+    "id": 400492,
+    "cover": {
+      "id": 560755,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc0oj.jpg"
+    },
+    "first_release_date": 1787788800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      }
+    ],
+    "hypes": 3,
+    "involved_companies": [
+      {
+        "id": 384148,
+        "company": {
+          "id": 1956,
+          "name": "Idea Factory"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Hyperdimension Neptunia Unlimited",
+    "platforms": [
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 508,
+        "name": "Nintendo Switch 2"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 906591,
+        "date": 1787788800,
+        "platform": {
+          "id": 508,
+          "name": "Nintendo Switch 2"
+        }
+      },
+      {
+        "id": 906592,
+        "date": 1787788800,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 906685,
+        "date": 1787788800,
+        "platform": {
+          "id": 130,
+          "name": "Nintendo Switch"
+        }
+      },
+      {
+        "id": 906686,
+        "date": 1787788800,
+        "platform": {
+          "id": 48,
+          "name": "PlayStation 4"
+        }
+      },
+      {
+        "id": 906593,
+        "date": 1787788800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "status": 3,
+    "summary": "Hyperdimension Neptunia ∞ (Unlimited) is an upcoming entry in the series where the world faces an apocalyptic loop triggered by a mysterious “meteorite.” As reality repeatedly resets, Neptune awakens alone in a white void and gains the power to “retry” fate itself. Alongside new allies, she must endure countless defeats, uncover the truth behind the cycle, and challenge the ultimate ending to save the world by venturing into a new spacetime.",
+    "videos": [
+      {
+        "id": 182856,
+        "video_id": "-i8paCBE0zU"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1051369,
+        "url": "https://www.compileheart.com/neptune/unlimited/product/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      }
+    ]
+  },
+  {
+    "id": 362894,
+    "cover": {
+      "id": 482268,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coac4c.jpg"
+    },
+    "first_release_date": 1787875200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 3,
+    "involved_companies": [
+      {
+        "id": 408134,
+        "company": {
+          "id": 80203,
+          "name": "Infinimelon"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Allumeria",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 843370,
+        "date": 1739059200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 953652,
+        "date": 1787875200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1906255,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14uvj.jpg"
+      },
+      {
+        "id": 1906256,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14uvk.jpg"
+      },
+      {
+        "id": 1906257,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14uvl.jpg"
+      },
+      {
+        "id": 1906252,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14uvg.jpg"
+      },
+      {
+        "id": 1906253,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14uvh.jpg"
+      },
+      {
+        "id": 1906254,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14uvi.jpg"
+      },
+      {
+        "id": 1906251,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14uvf.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Explore a vast and hazardous cave network and uncover mountains of loot. Build a town and trade with NPCs using advanced building and lighting tools. Fight bosses and raid dungeons to unlock abilities. Play with your friends, and build, fight, thrive, in the fully destructible world of Allumeria!",
+    "videos": [
+      {
+        "id": 170439,
+        "video_id": "2oiX7MXcfxE"
+      },
+      {
+        "id": 193792,
+        "video_id": "8v3ZUWfHB6E"
+      }
+    ],
+    "websites": [
+      {
+        "id": 857008,
+        "url": "https://allumeria.wiki.gg/",
+        "type": {
+          "id": 2,
+          "type": "Community Wiki"
+        }
+      },
+      {
+        "id": 857006,
+        "url": "https://store.steampowered.com/app/3516590/Allumeria/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 857007,
+        "url": "https://unobtainablemelon.itch.io/allumeria",
+        "type": {
+          "id": 15,
+          "type": "Itch"
+        }
+      },
+      {
+        "id": 857009,
+        "url": "https://discord.gg/Ddh3acCtVx",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 857010,
+        "url": "https://bsky.app/profile/allumeria.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 1097809,
+        "url": "https://allumeria.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1068588,
+        "url": "https://www.youtube.com/@UnobtainableMelon",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      }
+    ]
+  },
+  {
     "id": 315988,
     "cover": {
       "id": 409895,
@@ -20729,7 +21009,7 @@
         "name": "Adventure"
       }
     ],
-    "hypes": 20,
+    "hypes": 21,
     "involved_companies": [
       {
         "id": 398809,
@@ -24696,170 +24976,6 @@
         "type": {
           "id": 18,
           "type": "Discord"
-        }
-      }
-    ]
-  },
-  {
-    "id": 362894,
-    "cover": {
-      "id": 482268,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coac4c.jpg"
-    },
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 31,
-        "name": "Adventure"
-      }
-    ],
-    "hypes": 3,
-    "involved_companies": [
-      {
-        "id": 408134,
-        "company": {
-          "id": 80203,
-          "name": "Infinimelon"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Allumeria",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 843370,
-        "date": 1739059200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 953652,
-        "date": 1787875200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1906255,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14uvj.jpg"
-      },
-      {
-        "id": 1906256,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14uvk.jpg"
-      },
-      {
-        "id": 1906257,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14uvl.jpg"
-      },
-      {
-        "id": 1906252,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14uvg.jpg"
-      },
-      {
-        "id": 1906253,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14uvh.jpg"
-      },
-      {
-        "id": 1906254,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14uvi.jpg"
-      },
-      {
-        "id": 1906251,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14uvf.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Explore a vast and hazardous cave network and uncover mountains of loot. Build a town and trade with NPCs using advanced building and lighting tools. Fight bosses and raid dungeons to unlock abilities. Play with your friends, and build, fight, thrive, in the fully destructible world of Allumeria!",
-    "videos": [
-      {
-        "id": 170439,
-        "video_id": "2oiX7MXcfxE"
-      },
-      {
-        "id": 193792,
-        "video_id": "8v3ZUWfHB6E"
-      }
-    ],
-    "websites": [
-      {
-        "id": 857008,
-        "url": "https://allumeria.wiki.gg/",
-        "type": {
-          "id": 2,
-          "type": "Community Wiki"
-        }
-      },
-      {
-        "id": 857006,
-        "url": "https://store.steampowered.com/app/3516590/Allumeria/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 857007,
-        "url": "https://unobtainablemelon.itch.io/allumeria",
-        "type": {
-          "id": 15,
-          "type": "Itch"
-        }
-      },
-      {
-        "id": 857009,
-        "url": "https://discord.gg/Ddh3acCtVx",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 857010,
-        "url": "https://bsky.app/profile/allumeria.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 1097809,
-        "url": "https://allumeria.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1068588,
-        "url": "https://www.youtube.com/@UnobtainableMelon",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
         }
       }
     ]
