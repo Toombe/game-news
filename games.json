@@ -3409,179 +3409,6 @@
     ]
   },
   {
-    "id": 397601,
-    "cover": {
-      "id": 554922,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobw6i.jpg"
-    },
-    "first_release_date": 1780272000,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 11,
-        "name": "Real Time Strategy (RTS)"
-      },
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 16,
-        "name": "Turn-based strategy (TBS)"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 380346,
-        "company": {
-          "id": 75639,
-          "name": "EXA Labs"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Exaverse",
-    "platforms": [
-      {
-        "id": 34,
-        "name": "Android"
-      },
-      {
-        "id": 39,
-        "name": "iOS"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 911547,
-        "date": 1780272000,
-        "platform": {
-          "id": 34,
-          "name": "Android"
-        }
-      },
-      {
-        "id": 911548,
-        "date": 1782864000,
-        "platform": {
-          "id": 34,
-          "name": "Android"
-        }
-      },
-      {
-        "id": 911549,
-        "date": 1780272000,
-        "platform": {
-          "id": 39,
-          "name": "iOS"
-        }
-      },
-      {
-        "id": 911550,
-        "date": 1782864000,
-        "platform": {
-          "id": 39,
-          "name": "iOS"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1813303,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12v5j.jpg"
-      },
-      {
-        "id": 1813304,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12v5k.jpg"
-      },
-      {
-        "id": 1813305,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12v5l.jpg"
-      },
-      {
-        "id": 1813306,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12v5m.jpg"
-      },
-      {
-        "id": 1813307,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12v5n.jpg"
-      },
-      {
-        "id": 1813308,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12v5o.jpg"
-      },
-      {
-        "id": 1813309,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12v5p.jpg"
-      },
-      {
-        "id": 1813310,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12v5q.jpg"
-      },
-      {
-        "id": 1813311,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12v5r.jpg"
-      }
-    ],
-    "status": 3,
-    "summary": "Extinction of the Exaverse is a mobile roguelike where evolved dinosaurs fight back against invading AI machines. Players progress through biome-based runs, choosing powerful upgrades and building unique combat styles each attempt.",
-    "videos": [
-      {
-        "id": 180632,
-        "video_id": "aMvisv1gA28"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1040527,
-        "url": "https://exaverse.gg/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1040529,
-        "url": "https://x.com/Exaverse_gg",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1040530,
-        "url": "https://instagram.com/Exaverse_gg",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 1040531,
-        "url": "https://youtube.com/@Exaverse_gg",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1040532,
-        "url": "https://discord.gg/snZQdjSR3P",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      }
-    ]
-  },
-  {
     "id": 338089,
     "cover": {
       "id": 559953,
@@ -3895,364 +3722,6 @@
         "type": {
           "id": 18,
           "type": "Discord"
-        }
-      }
-    ]
-  },
-  {
-    "id": 345455,
-    "cover": {
-      "id": 561582,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc1bi.jpg"
-    },
-    "first_release_date": 1782864000,
-    "game_modes": [
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      },
-      {
-        "id": 5,
-        "name": "Massively Multiplayer Online (MMO)"
-      }
-    ],
-    "genres": [
-      {
-        "id": 8,
-        "name": "Platform"
-      },
-      {
-        "id": 11,
-        "name": "Real Time Strategy (RTS)"
-      },
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 4,
-    "involved_companies": [
-      {
-        "id": 322757,
-        "company": {
-          "id": 64118,
-          "name": "Reboot Team"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Project Reboot",
-    "platforms": [
-      {
-        "id": 3,
-        "name": "Linux"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 918592,
-        "date": 1782864000,
-        "platform": {
-          "id": 3,
-          "name": "Linux"
-        }
-      },
-      {
-        "id": 918593,
-        "date": 1782864000,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 918861,
-        "date": 1767052800,
-        "platform": {
-          "id": 3,
-          "name": "Linux"
-        }
-      },
-      {
-        "id": 918862,
-        "date": 1767052800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1801380,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12lyc.jpg"
-      },
-      {
-        "id": 1801381,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12lyd.jpg"
-      },
-      {
-        "id": 1801382,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12lye.jpg"
-      },
-      {
-        "id": 1801383,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12lyf.jpg"
-      },
-      {
-        "id": 1801384,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12lyg.jpg"
-      },
-      {
-        "id": 1801385,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12lyh.jpg"
-      }
-    ],
-    "status": 3,
-    "summary": "Project Reboot is a fan-made remaster of Pixel Worlds brought to you by the community! Made for everyone by everyone.\n\nFully Free-To-Play with zero in-game transactions.",
-    "videos": [
-      {
-        "id": 151364,
-        "video_id": "HCBfMauRUv4"
-      },
-      {
-        "id": 151365,
-        "video_id": "elhSMZjTC-A"
-      },
-      {
-        "id": 151366,
-        "video_id": "jZNdp5ajv6g"
-      }
-    ],
-    "websites": [
-      {
-        "id": 799394,
-        "url": "https://instagram.com/projectrebootpw",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 799392,
-        "url": "https://pwreboot.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 799395,
-        "url": "https://youtube.com/@ProjectRebootPW",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1030392,
-        "url": "https://www.twitch.tv/projectrebootpw/",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 1030393,
-        "url": "https://projectreboot.fandom.com/",
-        "type": {
-          "id": 2,
-          "type": "Community Wiki"
-        }
-      },
-      {
-        "id": 1030394,
-        "url": "https://www.reddit.com/r/ProjectRebootPW",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 1060814,
-        "url": "https://discord.gg/project-reboot-1305327646934175765",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      }
-    ]
-  },
-  {
-    "id": 401278,
-    "cover": {
-      "id": 562300,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc1vg.jpg"
-    },
-    "first_release_date": 1782864000,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 385567,
-        "company": {
-          "id": 76797,
-          "name": "JWT Productions"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Acting Out",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 923691,
-        "date": 1782864000,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1832654,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13a32.jpg"
-      },
-      {
-        "id": 1832655,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13a33.jpg"
-      },
-      {
-        "id": 1832656,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13a34.jpg"
-      },
-      {
-        "id": 1832657,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13a35.jpg"
-      },
-      {
-        "id": 1832658,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13a36.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Don\u0027t be shy. Act with everything you\u0027ve got!\nThe online co-op game where you are actors in a movie, but filming is one-take, do-or-die! Your bloopers won\u0027t get cut, so don\u0027t screw it up.\nWhether you follow the script or ruin it with improv, you\u0027ll watch your masterpiece right away. Will be it great or will it be cringe? That\u0027s up to you!",
-    "videos": [
-      {
-        "id": 183316,
-        "video_id": "gofBDJFbPSc"
-      },
-      {
-        "id": 186745,
-        "video_id": "IYnf81WkHYY"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1054195,
-        "url": "https://store.steampowered.com/app/4267780/Acting_Out/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1054196,
-        "url": "https://jwtproductions.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1054197,
-        "url": "https://x.com/ActingOut_Game",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1054198,
-        "url": "https://www.instagram.com/actingoutgame/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 1054199,
-        "url": "https://www.youtube.com/@ActingOutGame",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1054200,
-        "url": "https://discord.gg/ZYdW3sZzJV",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 1054201,
-        "url": "https://bsky.app/profile/actingoutgame.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
         }
       }
     ]
@@ -10416,10 +9885,6 @@
       {
         "id": 191402,
         "video_id": "q_kjm-MPlps"
-      },
-      {
-        "id": 183137,
-        "video_id": "xUDcsyePN1o"
       }
     ],
     "websites": [
@@ -10493,6 +9958,180 @@
         "type": {
           "id": 9,
           "type": "YouTube"
+        }
+      }
+    ]
+  },
+  {
+    "id": 119625,
+    "cover": {
+      "id": 517777,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cob3ip.jpg"
+    },
+    "first_release_date": 1787184000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 5,
+    "involved_companies": [
+      {
+        "id": 90054,
+        "company": {
+          "id": 7038,
+          "name": "Stellar Jockeys"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 90055,
+        "company": {
+          "id": 23286,
+          "name": "Gausswerks"
+        },
+        "developer": false,
+        "publisher": false
+      }
+    ],
+    "name": "Brigador Killers",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 955439,
+        "date": 1787184000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1896836,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14nlw.jpg"
+      },
+      {
+        "id": 1896837,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14nlx.jpg"
+      },
+      {
+        "id": 1896838,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14nly.jpg"
+      },
+      {
+        "id": 1896839,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14nlz.jpg"
+      },
+      {
+        "id": 1896840,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14nm0.jpg"
+      },
+      {
+        "id": 1896841,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14nm1.jpg"
+      },
+      {
+        "id": 1896842,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14nm2.jpg"
+      },
+      {
+        "id": 1896843,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14nm3.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Isometric insurgent simulator. Fight on foot and in vehicles, build and steal a private arsenal and bring the war home to the businessmen who started it all in this continuation of the Brigador saga.",
+    "videos": [
+      {
+        "id": 190849,
+        "video_id": "t5XwpalxoKQ"
+      },
+      {
+        "id": 190850,
+        "video_id": "PKnTeqfOu9Y"
+      }
+    ],
+    "websites": [
+      {
+        "id": 943643,
+        "url": "https://discord.gg/QyCPHwm4T9",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 943644,
+        "url": "https://bsky.app/profile/stellarjockeys.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 111476,
+        "url": "https://store.steampowered.com/app/903930",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 111477,
+        "url": "http://stellarjockeys.com/games/brigadorkillers",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 389212,
+        "url": "https://www.twitch.tv/directory/game/Brigador%20Killers",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 704308,
+        "url": "https://www.youtube.com/@stellarjockeysofficial",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1046362,
+        "url": "https://www.facebook.com/brigadorgame",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 1057570,
+        "url": "https://www.gog.com/en/game/brigador_killers",
+        "type": {
+          "id": 17,
+          "type": "GOG"
         }
       }
     ]
@@ -19602,7 +19241,7 @@
         "name": "Adventure"
       }
     ],
-    "hypes": 7,
+    "hypes": 8,
     "name": "Compress(Space)",
     "platforms": [
       {
