@@ -10912,6 +10912,204 @@
     ]
   },
   {
+    "id": 252870,
+    "cover": {
+      "id": 308486,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6m12.jpg"
+    },
+    "first_release_date": 1788134400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "hypes": 15,
+    "involved_companies": [
+      {
+        "id": 219276,
+        "company": {
+          "id": 32151,
+          "name": "RedRuins Softworks"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 219277,
+        "company": {
+          "id": 10549,
+          "name": "HypeTrain Digital"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Breathedge 2",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 894677,
+        "date": 1798675200,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 894678,
+        "date": 1798675200,
+        "platform": {
+          "id": 49,
+          "name": "Xbox One"
+        }
+      },
+      {
+        "id": 894679,
+        "date": 1798675200,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      },
+      {
+        "id": 959488,
+        "date": 1788134400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1068821,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmwph.jpg"
+      },
+      {
+        "id": 1068822,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmwpi.jpg"
+      },
+      {
+        "id": 1068823,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmwpj.jpg"
+      },
+      {
+        "id": 1068824,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmwpk.jpg"
+      },
+      {
+        "id": 1068820,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmwpg.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Sent on a reckless mission, you find yourself in outer space filled with numerous dangers and things to explore. Build, craft, manage your crew, look after the chicken, and defeat the evil space corporation in this new breathtaking survival game.",
+    "videos": [
+      {
+        "id": 91704,
+        "video_id": "behQy6l5Eus"
+      },
+      {
+        "id": 149061,
+        "video_id": "gEzGN6MpVIo"
+      },
+      {
+        "id": 194532,
+        "video_id": "rkO-b-ZHaTY"
+      },
+      {
+        "id": 185662,
+        "video_id": "touTyxQK0hE"
+      }
+    ],
+    "websites": [
+      {
+        "id": 557490,
+        "url": "https://store.steampowered.com/app/2412960/Breathedge_2/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 896635,
+        "url": "https://discord.gg/uezQcU7",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 896636,
+        "url": "https://www.instagram.com/redruinssoftworks/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 896637,
+        "url": "https://www.youtube.com/@Breathedge",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 945739,
+        "url": "https://t.me/redruinssoftworks",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 557491,
+        "url": "https://twitter.com/Breathedge",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1111754,
+        "url": "https://www.twitch.tv/directory/category/breathedge-2",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      }
+    ]
+  },
+  {
     "id": 315988,
     "cover": {
       "id": 409895,
@@ -13036,22 +13234,6 @@
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw8cq.jpg"
       },
       {
-        "id": 1503819,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw8cr.jpg"
-      },
-      {
-        "id": 1503820,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw8cs.jpg"
-      },
-      {
-        "id": 1503821,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw8ct.jpg"
-      },
-      {
-        "id": 1503822,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw8cu.jpg"
-      },
-      {
         "id": 1503824,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw8cw.jpg"
       },
@@ -13076,6 +13258,22 @@
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz1w5.jpg"
       },
       {
+        "id": 1503820,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw8cs.jpg"
+      },
+      {
+        "id": 1503821,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw8ct.jpg"
+      },
+      {
+        "id": 1635416,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz1w8.jpg"
+      },
+      {
+        "id": 1503819,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw8cr.jpg"
+      },
+      {
         "id": 1635414,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz1w6.jpg"
       },
@@ -13084,8 +13282,8 @@
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz1w7.jpg"
       },
       {
-        "id": 1635416,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz1w8.jpg"
+        "id": 1503822,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw8cu.jpg"
       }
     ],
     "status": 2,
@@ -13106,14 +13304,6 @@
     ],
     "websites": [
       {
-        "id": 598893,
-        "url": "https://vanguard.eveonline.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
         "id": 646458,
         "url": "https://store.steampowered.com/app/1872800",
         "type": {
@@ -13122,51 +13312,67 @@
         }
       },
       {
-        "id": 598894,
-        "url": "https://www.twitch.tv/ccp",
+        "id": 1085531,
+        "url": "https://evevanguard.com/",
         "type": {
-          "id": 6,
-          "type": "Twitch"
+          "id": 1,
+          "type": "Official Website"
         }
       },
       {
-        "id": 598897,
-        "url": "https://twitter.com/EveOnline",
+        "id": 1085533,
+        "url": "https://x.com/PlayEVEVanguard",
         "type": {
           "id": 5,
           "type": "Twitter"
         }
       },
       {
-        "id": 598896,
-        "url": "https://www.facebook.com/eveonline/",
+        "id": 1085534,
+        "url": "https://www.facebook.com/PlayEVEVanguard",
         "type": {
           "id": 4,
           "type": "Facebook"
         }
       },
       {
-        "id": 598898,
-        "url": "https://discord.gg/eveonline",
+        "id": 1085535,
+        "url": "https://www.instagram.com/playevevanguard",
         "type": {
-          "id": 18,
-          "type": "Discord"
+          "id": 8,
+          "type": "Instagram"
         }
       },
       {
-        "id": 598895,
-        "url": "https://www.youtube.com/c/eveonline",
+        "id": 1085536,
+        "url": "https://www.youtube.com/@playevevanguard",
         "type": {
           "id": 9,
           "type": "YouTube"
         }
       },
       {
-        "id": 737424,
-        "url": "https://www.instagram.com/playevevanguard/",
+        "id": 1085538,
+        "url": "https://discord.gg/evevanguard",
         "type": {
-          "id": 8,
-          "type": "Instagram"
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1085537,
+        "url": "https://www.reddit.com/r/EveVanguard",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 1085928,
+        "url": "https://www.twitch.tv/directory/category/eve-vanguard",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
         }
       }
     ]
@@ -13915,7 +14121,7 @@
         "name": "Arcade"
       }
     ],
-    "hypes": 3,
+    "hypes": 4,
     "involved_companies": [
       {
         "id": 311352,
@@ -22269,7 +22475,7 @@
         "name": "Indie"
       }
     ],
-    "hypes": 8,
+    "hypes": 9,
     "involved_companies": [
       {
         "id": 235751,
