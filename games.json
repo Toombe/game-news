@@ -5909,6 +5909,10 @@
       {
         "id": 188830,
         "video_id": "9hXbDmMmwEk"
+      },
+      {
+        "id": 194785,
+        "video_id": "WOpAx_HqVf4"
       }
     ],
     "websites": [
@@ -12599,7 +12603,7 @@
       "id": 460934,
       "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9vnq.jpg"
     },
-    "first_release_date": 1790208000,
+    "first_release_date": 1790035200,
     "game_modes": [
       {
         "id": 1,
@@ -12641,8 +12645,8 @@
     ],
     "release_dates": [
       {
-        "id": 915810,
-        "date": 1790208000,
+        "id": 960455,
+        "date": 1790035200,
         "platform": {
           "id": 6,
           "name": "PC (Microsoft Windows)"
@@ -12653,14 +12657,6 @@
       {
         "id": 1352284,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/scszfg.jpg"
-      },
-      {
-        "id": 1352282,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scszfe.jpg"
-      },
-      {
-        "id": 1352283,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scszff.jpg"
       },
       {
         "id": 1352285,
@@ -12677,6 +12673,14 @@
       {
         "id": 1352287,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/scszfj.jpg"
+      },
+      {
+        "id": 1352283,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scszff.jpg"
+      },
+      {
+        "id": 1352282,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scszfe.jpg"
       },
       {
         "id": 1352289,
@@ -12983,175 +12987,6 @@
         "type": {
           "id": 9,
           "type": "YouTube"
-        }
-      }
-    ]
-  },
-  {
-    "id": 257932,
-    "cover": {
-      "id": 539198,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobk1q.jpg"
-    },
-    "first_release_date": 1790726400,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 408328,
-        "company": {
-          "id": 74116,
-          "name": "Eye Blink Twice"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Time To Wake Up",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 944379,
-        "date": 1790726400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1808805,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12rol.jpg"
-      },
-      {
-        "id": 1808804,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12rok.jpg"
-      },
-      {
-        "id": 1808800,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12rog.jpg"
-      },
-      {
-        "id": 1808799,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12rof.jpg"
-      },
-      {
-        "id": 1808801,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12roh.jpg"
-      },
-      {
-        "id": 1808802,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12roi.jpg"
-      },
-      {
-        "id": 1808803,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12roj.jpg"
-      }
-    ],
-    "status": 2,
-    "summary": "Time To Wake Up is an atmospheric psychological thriller where one night you find yourself stuck in a dream. No worries, though. You are not alone. You hear a voice, in need of your eyes and willing to help you out.",
-    "videos": [
-      {
-        "id": 161027,
-        "video_id": "39XlRd3Cv_k"
-      },
-      {
-        "id": 190800,
-        "video_id": "YDejUnf8yxk"
-      },
-      {
-        "id": 180105,
-        "video_id": "DQdl3EtZdJk"
-      },
-      {
-        "id": 193117,
-        "video_id": "5JuC9I0AVgg"
-      }
-    ],
-    "websites": [
-      {
-        "id": 567522,
-        "url": "https://store.steampowered.com/app/2509870",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 804459,
-        "url": "https://x.com/eyeblinktwice",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 804461,
-        "url": "https://discord.gg/2vQetpcpRy",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 1013533,
-        "url": "https://www.youtube.com/channel/UCx0EhUf8yI95-V4RmqHSV4g",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1013532,
-        "url": "https://eyeblinktwice.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1013534,
-        "url": "https://bsky.app/profile/eyeblinktwice.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 1097235,
-        "url": "https://store.playstation.com/en-us/concept/10019341/",
-        "type": {
-          "id": 23,
-          "type": "Playstation"
         }
       }
     ]
@@ -21656,6 +21491,203 @@
     ]
   },
   {
+    "id": 301031,
+    "cover": {
+      "id": 597436,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocszg.jpg"
+    },
+    "first_release_date": 1799884800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 6,
+    "involved_companies": [
+      {
+        "id": 281677,
+        "company": {
+          "id": 21202,
+          "name": "Mixed Realms Pte Ltd"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "13Z: The Zodiac Trials",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 944373,
+        "date": 1806451200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 959960,
+        "date": 1799884800,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1398290,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctyxe.jpg"
+      },
+      {
+        "id": 1398291,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctyxf.jpg"
+      },
+      {
+        "id": 1398292,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctyxg.jpg"
+      },
+      {
+        "id": 1398293,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctyxh.jpg"
+      },
+      {
+        "id": 1398288,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctyxc.jpg"
+      },
+      {
+        "id": 1398289,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctyxd.jpg"
+      }
+    ],
+    "status": 3,
+    "summary": "Go solo or team up with up to three friends in online co-op for this fast-paced, anime-inspired action roguelike. Master stylish hack and slash combat, craft overpowered builds, and conquer mythological trials to claim the title of the thirteenth Zodiac.",
+    "videos": [
+      {
+        "id": 153207,
+        "video_id": "b4AaJgbVKgI"
+      },
+      {
+        "id": 127119,
+        "video_id": "qGbr89YknL0"
+      },
+      {
+        "id": 127120,
+        "video_id": "MDt1v6LQcZI"
+      },
+      {
+        "id": 129165,
+        "video_id": "ghAcRUnlWZ0"
+      },
+      {
+        "id": 142384,
+        "video_id": "omCSzXmlU4s"
+      },
+      {
+        "id": 159769,
+        "video_id": "J25HxUqRcrM"
+      },
+      {
+        "id": 162631,
+        "video_id": "UF6Cs8IDQr8"
+      },
+      {
+        "id": 190782,
+        "video_id": "PYaLFmGs4yE"
+      },
+      {
+        "id": 185651,
+        "video_id": "qRfVUor1f8M"
+      },
+      {
+        "id": 186307,
+        "video_id": "jbjdqIl2aKM"
+      },
+      {
+        "id": 186683,
+        "video_id": "yhJpau5z_FU"
+      }
+    ],
+    "websites": [
+      {
+        "id": 727009,
+        "url": "https://www.reddit.com/r/13ZTheZodiacTrials/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 862672,
+        "url": "https://www.youtube.com/@MixedRealms/",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 636978,
+        "url": "https://store.steampowered.com/app/2348250",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 675627,
+        "url": "https://twitter.com/13z_game",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 675628,
+        "url": "https://discord.gg/invite/cY4eCzmMXA",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      }
+    ]
+  },
+  {
     "id": 127894,
     "cover": {
       "id": 566217,
@@ -24317,6 +24349,168 @@
         "type": {
           "id": 18,
           "type": "Discord"
+        }
+      }
+    ]
+  },
+  {
+    "id": 333095,
+    "cover": {
+      "id": 440919,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9g7r.jpg"
+    },
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 5,
+        "name": "Massively Multiplayer Online (MMO)"
+      },
+      {
+        "id": 6,
+        "name": "Battle Royale"
+      }
+    ],
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 9,
+    "name": "OpenFront",
+    "platforms": [
+      {
+        "id": 82,
+        "name": "Web browser"
+      },
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 960545,
+        "date": 1789603200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 960546,
+        "date": 1789603200,
+        "platform": {
+          "id": 3,
+          "name": "Linux"
+        }
+      },
+      {
+        "id": 960547,
+        "date": 1789603200,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      },
+      {
+        "id": 889190,
+        "date": 1773360000,
+        "platform": {
+          "id": 82,
+          "name": "Web browser"
+        }
+      },
+      {
+        "id": 890947,
+        "platform": {
+          "id": 82,
+          "name": "Web browser"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1551597,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx97x.jpg"
+      },
+      {
+        "id": 1551598,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx97y.jpg"
+      },
+      {
+        "id": 1551602,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx982.jpg"
+      },
+      {
+        "id": 1551600,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx980.jpg"
+      },
+      {
+        "id": 1551599,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx97z.jpg"
+      },
+      {
+        "id": 1551601,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx981.jpg"
+      }
+    ],
+    "status": 2,
+    "summary": "Free RTS Point and Click",
+    "websites": [
+      {
+        "id": 808243,
+        "url": "https://store.steampowered.com/app/3560670",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 808244,
+        "url": "https://discord.gg/bkHfxfwH",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 714032,
+        "url": "https://openfront.io/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1098331,
+        "url": "https://www.reddit.com/r/Openfront/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
         }
       }
     ]
