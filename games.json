@@ -1056,6 +1056,216 @@
     ]
   },
   {
+    "id": 342011,
+    "cover": {
+      "id": 454584,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9qrc.jpg"
+    },
+    "first_release_date": 1752105600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 7,
+    "involved_companies": [
+      {
+        "id": 318228,
+        "company": {
+          "id": 634,
+          "name": "Devolver Digital"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 318263,
+        "company": {
+          "id": 63409,
+          "name": "Pigeons at Play"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Mycopunk",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 768833,
+        "date": 1752105600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 960841,
+        "date": 1790812800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 960842,
+        "date": 1790812800,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1521427,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwlxv.jpg"
+      },
+      {
+        "id": 1521428,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwlxw.jpg"
+      },
+      {
+        "id": 1521429,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwlxx.jpg"
+      },
+      {
+        "id": 1521430,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwlxy.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "A ragtag squad of robot rejects is hired by the SAXON corporation and given one last shot at profitable glory (and avoiding the scrap heap). They are the New Atlas Hazard Crew, a ramshackle squad of exterminators sent to uncover the mysteries behind a planet-wide fungal catastrophe.",
+    "videos": [
+      {
+        "id": 153455,
+        "video_id": "1r1vMCuscdA"
+      },
+      {
+        "id": 148616,
+        "video_id": "nT4jTAMY7m8"
+      },
+      {
+        "id": 155674,
+        "video_id": "cR6nCcCi01g"
+      }
+    ],
+    "websites": [
+      {
+        "id": 830306,
+        "url": "https://www.twitch.tv/directory/category/mycopunk",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 738700,
+        "url": "https://www.mycopunkgame.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 738692,
+        "url": "https://store.steampowered.com/app/3247750",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 738703,
+        "url": "https://discord.gg/Qa4v9FYzY7",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 738704,
+        "url": "https://bsky.app/profile/pigeonsatplay.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 738702,
+        "url": "https://instagram.com/pigeonsatplay",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 738701,
+        "url": "https://x.com/pigeons_at_play",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1053604,
+        "url": "https://mycopunk.miraheze.org/wiki/Main_Page",
+        "type": {
+          "id": 2,
+          "type": "Community Wiki"
+        }
+      },
+      {
+        "id": 1053605,
+        "url": "https://www.youtube.com/@Pigeons_At_Play",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1053606,
+        "url": "https://www.reddit.com/r/MycopunkGame/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      }
+    ]
+  },
+  {
     "id": 325279,
     "cover": {
       "id": 426540,
@@ -7234,6 +7444,14 @@
     ],
     "websites": [
       {
+        "id": 1112831,
+        "url": "https://en.wikipedia.org/wiki/EverQuest_Legends",
+        "type": {
+          "id": 3,
+          "type": "Wikipedia"
+        }
+      },
+      {
         "id": 1033890,
         "url": "https://www.everquestlegends.com/",
         "type": {
@@ -8470,6 +8688,12 @@
     ],
     "status": 4,
     "summary": "Luminary is a solo or 3 player co-op Openworld Action RPG that creates a balanced, accessible experience for everyone. Using a unique world and character progression system, explore vast hand-crafted lands together, uncover hidden treasures, level up your town, and push back the darkness with light.",
+    "videos": [
+      {
+        "id": 194931,
+        "video_id": "ELDUlw47qlw"
+      }
+    ],
     "websites": [
       {
         "id": 875467,
@@ -11492,13 +11716,13 @@
     "hypes": 2,
     "involved_companies": [
       {
-        "id": 375096,
+        "id": 411712,
         "company": {
           "id": 15779,
           "name": "SquarePlay Games"
         },
         "developer": true,
-        "publisher": false
+        "publisher": true
       }
     ],
     "name": "Monk Took Book",
@@ -11586,8 +11810,8 @@
   {
     "id": 386933,
     "cover": {
-      "id": 560026,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc04a.jpg"
+      "id": 597968,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocte8.jpg"
     },
     "first_release_date": 1788480000,
     "game_modes": [
@@ -11634,6 +11858,10 @@
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11gav.jpg"
       },
       {
+        "id": 1747406,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11gb2.jpg"
+      },
+      {
         "id": 1747400,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11gaw.jpg"
       },
@@ -11656,10 +11884,6 @@
       {
         "id": 1747405,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11gb1.jpg"
-      },
-      {
-        "id": 1747406,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11gb2.jpg"
       }
     ],
     "status": 2,
@@ -13678,6 +13902,10 @@
     "status": 3,
     "summary": "Jimin dreams of finally having her first birthday party, but what begins as a childhood wish unravels into social pressure, fragile friendships, family expectations, and consequences that hit closer than you’d like. Join Jimin in this coming-of-age story where every choice carries weight.",
     "videos": [
+      {
+        "id": 195128,
+        "video_id": "1pR0ejx1I2Y"
+      },
       {
         "id": 185988,
         "video_id": "xvOPb6o_qDY"
@@ -16726,14 +16954,6 @@
     ],
     "screenshots": [
       {
-        "id": 1366323,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scta9f.jpg"
-      },
-      {
-        "id": 1366324,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scta9g.jpg"
-      },
-      {
         "id": 1366319,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/scta9b.jpg"
       },
@@ -16742,20 +16962,28 @@
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/scta9a.jpg"
       },
       {
-        "id": 1366320,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scta9c.jpg"
-      },
-      {
         "id": 1366321,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/scta9d.jpg"
       },
       {
-        "id": 1366322,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scta9e.jpg"
-      },
-      {
         "id": 1366325,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/scta9h.jpg"
+      },
+      {
+        "id": 1366323,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scta9f.jpg"
+      },
+      {
+        "id": 1366324,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scta9g.jpg"
+      },
+      {
+        "id": 1366320,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scta9c.jpg"
+      },
+      {
+        "id": 1366322,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scta9e.jpg"
       }
     ],
     "status": 4,
@@ -16772,6 +17000,10 @@
       {
         "id": 185798,
         "video_id": "f5hUozzQTEc"
+      },
+      {
+        "id": 195118,
+        "video_id": "jpS1ZRnbkBE"
       }
     ],
     "websites": [
@@ -20149,6 +20381,10 @@
       {
         "id": 164722,
         "video_id": "Fo6VvSqtaq8"
+      },
+      {
+        "id": 195052,
+        "video_id": "-fjS4LGIldA"
       }
     ],
     "websites": [
@@ -21642,6 +21878,10 @@
       {
         "id": 186683,
         "video_id": "yhJpau5z_FU"
+      },
+      {
+        "id": 195207,
+        "video_id": "oXua4EdSTCk"
       }
     ],
     "websites": [
