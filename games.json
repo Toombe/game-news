@@ -1,5 +1,302 @@
 [
   {
+    "id": 151467,
+    "cover": {
+      "id": 562394,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc1y2.jpg"
+    },
+    "first_release_date": 1702512000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 5,
+        "name": "Massively Multiplayer Online (MMO)"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 4,
+    "involved_companies": [
+      {
+        "id": 139668,
+        "company": {
+          "id": 34671,
+          "name": "Singularity 6"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Palia",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 508,
+        "name": "Nintendo Switch 2"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 728697,
+        "date": 1747094400,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 728698,
+        "date": 1747094400,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      },
+      {
+        "id": 563633,
+        "date": 1698105600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 542942,
+        "date": 1702512000,
+        "platform": {
+          "id": 130,
+          "name": "Nintendo Switch"
+        }
+      },
+      {
+        "id": 666118,
+        "date": 1711324800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 963395,
+        "date": 1796083200,
+        "platform": {
+          "id": 508,
+          "name": "Nintendo Switch 2"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 485947,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scaeyj.jpg"
+      },
+      {
+        "id": 485948,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scaeyk.jpg"
+      },
+      {
+        "id": 1846897,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13l2p.jpg"
+      },
+      {
+        "id": 1846894,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13l2m.jpg"
+      },
+      {
+        "id": 1846895,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13l2n.jpg"
+      },
+      {
+        "id": 1846883,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13l2b.jpg"
+      },
+      {
+        "id": 1846896,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13l2o.jpg"
+      }
+    ],
+    "status": 3,
+    "summary": "Palia is a free-to-play life simulation MMO where players take on the role of humans who have mysteriously appeared in a world primarily inhabited by a species called the Majiri. Gameplay centers on village life activities including fishing, foraging, hunting, mining, insect catching, cooking, furniture making, gardening, and ranching. Players work to become members of Kilima Village by gathering and crafting materials, with the adjacent Bahari Bay area offering higher-level resources and server-wide events.",
+    "videos": [
+      {
+        "id": 50175,
+        "video_id": "lP009fvbt8c"
+      },
+      {
+        "id": 92385,
+        "video_id": "CpVPLfARj00"
+      },
+      {
+        "id": 103079,
+        "video_id": "2nXlsDQ28mE"
+      },
+      {
+        "id": 103468,
+        "video_id": "czDRUvknuuU"
+      },
+      {
+        "id": 146139,
+        "video_id": "7e1ts2BHaSE"
+      }
+    ],
+    "websites": [
+      {
+        "id": 792698,
+        "url": "https://www.nintendo.com/store/products/palia-switch/",
+        "type": {
+          "id": 24,
+          "type": "Nintendo"
+        }
+      },
+      {
+        "id": 458852,
+        "url": "https://www.twitch.tv/directory/game/Palia",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 184737,
+        "url": "https://www.instagram.com/playpalia",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 792697,
+        "url": "https://store.playstation.com/en-us/concept/10010001",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
+        }
+      },
+      {
+        "id": 184734,
+        "url": "https://palia.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 184735,
+        "url": "https://www.facebook.com/Play-Palia-110922784524121",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 184738,
+        "url": "https://discord.gg/playpalia",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 614517,
+        "url": "https://en.wikipedia.org/wiki/Palia_(video_game)",
+        "type": {
+          "id": 3,
+          "type": "Wikipedia"
+        }
+      },
+      {
+        "id": 184736,
+        "url": "https://twitter.com/playPalia",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 586137,
+        "url": "https://palia.wiki.gg/",
+        "type": {
+          "id": 2,
+          "type": "Community Wiki"
+        }
+      },
+      {
+        "id": 590622,
+        "url": "https://www.reddit.com/r/Palia/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 602014,
+        "url": "https://store.steampowered.com/app/2707930",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 590620,
+        "url": "https://store.epicgames.com/en-US/p/palia-0d428e",
+        "type": {
+          "id": 16,
+          "type": "Epic"
+        }
+      },
+      {
+        "id": 590621,
+        "url": "https://www.youtube.com/@playPalia",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      }
+    ]
+  },
+  {
     "id": 279627,
     "cover": {
       "id": 348975,
@@ -7796,10 +8093,19 @@
         "publisher": true
       },
       {
-        "id": 345050,
+        "id": 412816,
         "company": {
           "id": 63202,
           "name": "GameDev.ist"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 412817,
+        "company": {
+          "id": 42648,
+          "name": "Gamersky Games"
         },
         "developer": false,
         "publisher": true
@@ -11750,8 +12056,8 @@
   {
     "id": 348047,
     "cover": {
-      "id": 597447,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocszr.jpg"
+      "id": 600012,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocuz0.jpg"
     },
     "first_release_date": 1788825600,
     "game_modes": [
@@ -11764,6 +12070,18 @@
       {
         "id": 12,
         "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
       }
     ],
     "hypes": 19,
@@ -11929,6 +12247,201 @@
         "type": {
           "id": 6,
           "type": "Twitch"
+        }
+      }
+    ]
+  },
+  {
+    "id": 259911,
+    "cover": {
+      "id": 600353,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocv8h.jpg"
+    },
+    "first_release_date": 1788912000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 271852,
+        "company": {
+          "id": 12419,
+          "name": "Assemble Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 314738,
+        "company": {
+          "id": 55514,
+          "name": "Soulpotion"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 314739,
+        "company": {
+          "id": 56964,
+          "name": "INSTINCT3"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Asgard\u0027s Fall: Viking Survivors",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 725512,
+        "date": 1744156800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 963131,
+        "date": 1788912000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1918212,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1543o.jpg"
+      },
+      {
+        "id": 1918217,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1543t.jpg"
+      },
+      {
+        "id": 1918219,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1543v.jpg"
+      },
+      {
+        "id": 1918220,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1543w.jpg"
+      },
+      {
+        "id": 1918213,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1543p.jpg"
+      },
+      {
+        "id": 1918216,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1543s.jpg"
+      },
+      {
+        "id": 1918218,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1543u.jpg"
+      },
+      {
+        "id": 1918214,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1543q.jpg"
+      },
+      {
+        "id": 1918215,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1543r.jpg"
+      },
+      {
+        "id": 1918221,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1543x.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Embark on an epic saga in Asgard\u0027s Fall, a norse Arena-Shooter-Roguelite. Fight your way through hordes of creatures and let the gods feel your relentless wrath. How will your saga unfold?",
+    "videos": [
+      {
+        "id": 97081,
+        "video_id": "K7wUCNRhEJs"
+      },
+      {
+        "id": 116038,
+        "video_id": "XBPt0qGqNvY"
+      }
+    ],
+    "websites": [
+      {
+        "id": 725568,
+        "url": "https://x.com/smaex_official",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 686346,
+        "url": "https://steampowered.com/app/2780710",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 570627,
+        "url": "https://smaex-games.itch.io/asgards-fall",
+        "type": {
+          "id": 15,
+          "type": "Itch"
+        }
+      },
+      {
+        "id": 728266,
+        "url": "https://asgardsfall.wiki.gg/",
+        "type": {
+          "id": 2,
+          "type": "Community Wiki"
+        }
+      },
+      {
+        "id": 862677,
+        "url": "https://www.youtube.com/@assembleteam",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 686303,
+        "url": "https://discord.gg/invite/adgqgNXvfw",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 632054,
+        "url": "https://www.soulpotion.games/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
         }
       }
     ]
@@ -24295,26 +24808,6 @@
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctzf8.jpg"
       },
       {
-        "id": 1398933,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctzf9.jpg"
-      },
-      {
-        "id": 1398934,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctzfa.jpg"
-      },
-      {
-        "id": 1398935,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctzfb.jpg"
-      },
-      {
-        "id": 1398936,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctzfc.jpg"
-      },
-      {
-        "id": 1398937,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctzfd.jpg"
-      },
-      {
         "id": 1398938,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctzfe.jpg"
       },
@@ -24333,6 +24826,26 @@
       {
         "id": 1398942,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctzfi.jpg"
+      },
+      {
+        "id": 1398933,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctzf9.jpg"
+      },
+      {
+        "id": 1398934,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctzfa.jpg"
+      },
+      {
+        "id": 1398936,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctzfc.jpg"
+      },
+      {
+        "id": 1398935,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctzfb.jpg"
+      },
+      {
+        "id": 1398937,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctzfd.jpg"
       }
     ],
     "status": 3,
@@ -24352,14 +24865,6 @@
       }
     ],
     "websites": [
-      {
-        "id": 676012,
-        "url": "https://www.twitch.tv/fatetriggerthenovitajp",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
       {
         "id": 832332,
         "url": "https://store.epicgames.com/en-US/p/fate-trigger-ccfd82",
@@ -24430,6 +24935,14 @@
         "type": {
           "id": 5,
           "type": "Twitter"
+        }
+      },
+      {
+        "id": 1088589,
+        "url": "https://www.twitch.tv/fatetrigger",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
         }
       },
       {
