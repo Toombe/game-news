@@ -1068,6 +1068,353 @@
     ]
   },
   {
+    "id": 288741,
+    "cover": {
+      "id": 481022,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coab5q.jpg"
+    },
+    "first_release_date": 1747958400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 35,
+        "name": "Card \u0026 Board Game"
+      }
+    ],
+    "hypes": 3,
+    "involved_companies": [
+      {
+        "id": 317623,
+        "company": {
+          "id": 51838,
+          "name": "Sad Socket"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 317624,
+        "company": {
+          "id": 35110,
+          "name": "Hooded Horse"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 317625,
+        "company": {
+          "id": 56964,
+          "name": "INSTINCT3"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "9 Kings",
+    "platforms": [
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 34,
+        "name": "Android"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 39,
+        "name": "iOS"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 740722,
+        "date": 1747958400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 740720,
+        "date": 1747958400,
+        "platform": {
+          "id": 3,
+          "name": "Linux"
+        }
+      },
+      {
+        "id": 740721,
+        "date": 1747958400,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      },
+      {
+        "id": 965755,
+        "date": 1791763200,
+        "platform": {
+          "id": 39,
+          "name": "iOS"
+        }
+      },
+      {
+        "id": 965756,
+        "date": 1791763200,
+        "platform": {
+          "id": 34,
+          "name": "Android"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1250788,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqt44.jpg"
+      },
+      {
+        "id": 1250790,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqt46.jpg"
+      },
+      {
+        "id": 1250801,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqt4h.jpg"
+      },
+      {
+        "id": 1532152,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwu7s.jpg"
+      },
+      {
+        "id": 1532154,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwu7u.jpg"
+      },
+      {
+        "id": 1532157,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwu7x.jpg"
+      },
+      {
+        "id": 1532156,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwu7w.jpg"
+      },
+      {
+        "id": 1532153,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwu7t.jpg"
+      },
+      {
+        "id": 1532155,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwu7v.jpg"
+      },
+      {
+        "id": 1532158,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwu7y.jpg"
+      },
+      {
+        "id": 1532159,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwu7z.jpg"
+      },
+      {
+        "id": 1250794,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqt4a.jpg"
+      },
+      {
+        "id": 1250797,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqt4d.jpg"
+      },
+      {
+        "id": 1532160,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwu80.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "A fast-paced roguelike kingdom builder. Grow your empire and fight massive battles against powerful rival kings. Break the game with thousands of insane builds to become the King of Kings.",
+    "videos": [
+      {
+        "id": 150495,
+        "video_id": "xqFV5t8qQYs"
+      },
+      {
+        "id": 150844,
+        "video_id": "k_lsnczriWc"
+      },
+      {
+        "id": 153120,
+        "video_id": "qpDVz0m9wy4"
+      },
+      {
+        "id": 147693,
+        "video_id": "ov9896CX9Xo"
+      },
+      {
+        "id": 196450,
+        "video_id": "bVd-TOiwVdA"
+      }
+    ],
+    "websites": [
+      {
+        "id": 618066,
+        "url": "https://store.steampowered.com/app/2784470",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 794056,
+        "url": "https://www.sadsocket.com/9-kings",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 875722,
+        "url": "https://www.xbox.com/en-US/games/store/9-kings-game-preview/9nnm7pkzn3jf",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
+      },
+      {
+        "id": 735704,
+        "url": "https://discord.gg/invite/EXEBmsnEAv",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 735703,
+        "url": "https://www.reddit.com/r/9Kings",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 735702,
+        "url": "https://www.youtube.com/@sadsocketgames",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 735701,
+        "url": "https://www.twitch.tv/directory/category/9-kings",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 729027,
+        "url": "https://x.com/SadSocketGames",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 730066,
+        "url": "https://bsky.app/profile/hoodedhorse.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 730067,
+        "url": "https://www.facebook.com/HoodedHorse",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 730068,
+        "url": "https://www.instagram.com/hoodedhorseinc",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1118471,
+        "url": "https://apps.apple.com/fr/app/9-kings/id6757860952",
+        "type": {
+          "id": 11,
+          "type": "App Store (iPad)"
+        }
+      },
+      {
+        "id": 1118472,
+        "url": "https://play.google.com/store/apps/details?id\u003dcom.playdigious.ninekings",
+        "type": {
+          "id": 12,
+          "type": "Google Play"
+        }
+      },
+      {
+        "id": 1118473,
+        "url": "https://apps.apple.com/fr/app/9-kings/id6757860952",
+        "type": {
+          "id": 10,
+          "type": "App Store (iPhone)"
+        }
+      },
+      {
+        "id": 1030294,
+        "url": "https://www.gog.com/game/9_kings",
+        "type": {
+          "id": 17,
+          "type": "GOG"
+        }
+      },
+      {
+        "id": 1030819,
+        "url": "https://store.epicgames.com/p/9-kings-bba504",
+        "type": {
+          "id": 16,
+          "type": "Epic"
+        }
+      },
+      {
+        "id": 1068336,
+        "url": "https://9kings.wiki.gg/",
+        "type": {
+          "id": 2,
+          "type": "Community Wiki"
+        }
+      }
+    ]
+  },
+  {
     "id": 342011,
     "cover": {
       "id": 454584,
@@ -6865,30 +7212,12 @@
     "hypes": 2,
     "involved_companies": [
       {
-        "id": 358708,
-        "company": {
-          "id": 71435,
-          "name": "Luigi Cinelli"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 358709,
-        "company": {
-          "id": 71436,
-          "name": "Andrea Koutifaris"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 358707,
+        "id": 413875,
         "company": {
           "id": 71434,
           "name": "Sirio Art Games"
         },
-        "developer": false,
+        "developer": true,
         "publisher": true
       }
     ],
@@ -6923,28 +7252,44 @@
     ],
     "screenshots": [
       {
-        "id": 1445816,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuzlk.jpg"
+        "id": 1920715,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15617.jpg"
       },
       {
-        "id": 1445817,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuzll.jpg"
+        "id": 1920722,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1561e.jpg"
       },
       {
-        "id": 1445818,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuzlm.jpg"
+        "id": 1920723,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1561f.jpg"
       },
       {
-        "id": 1445819,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuzln.jpg"
+        "id": 1920720,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1561c.jpg"
       },
       {
-        "id": 1445820,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuzlo.jpg"
+        "id": 1920717,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15619.jpg"
+      },
+      {
+        "id": 1920719,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1561b.jpg"
+      },
+      {
+        "id": 1920716,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15618.jpg"
+      },
+      {
+        "id": 1920718,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1561a.jpg"
+      },
+      {
+        "id": 1920721,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1561d.jpg"
       }
     ],
     "status": 4,
-    "summary": "Occulto is an indie adventure game with a focus on artistic hand-drawn visuals and a non verbal game play, set in a fantasy world. Guide Eliot through riddles, mysteries, puzzles, strange creatures, faraway places and help him find his master!",
+    "summary": "Occulto is a non-verbal, entirely hand-drawn point-and-click adventure inspired by Machinarium and its beautiful visual storytelling. Guide Eliot through an atmospheric fairy-tale world where mysteries are solved without a single word.",
     "videos": [
       {
         "id": 137340,
@@ -12583,6 +12928,14 @@
         "type": {
           "id": 8,
           "type": "Instagram"
+        }
+      },
+      {
+        "id": 1118221,
+        "url": "https://en.wikipedia.org/wiki/Active_Matter_(video_game)",
+        "type": {
+          "id": 3,
+          "type": "Wikipedia"
         }
       }
     ]
@@ -23388,6 +23741,143 @@
       {
         "id": 490192,
         "url": "https://www.twitch.tv/directory/game/Unreal%20Engine%20The%20Legend%20of%20Zelda:%20Ocarina%20of%20Time",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      }
+    ]
+  },
+  {
+    "id": 233978,
+    "cover": {
+      "id": 283109,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co62g5.jpg"
+    },
+    "game_modes": [
+      {
+        "id": 5,
+        "name": "Massively Multiplayer Online (MMO)"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 14,
+    "name": "Monsters \u0026 Memories",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 965790,
+        "date": 1790812800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 970646,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scksye.jpg"
+      },
+      {
+        "id": 970647,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scksyf.jpg"
+      },
+      {
+        "id": 970649,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scksyh.jpg"
+      },
+      {
+        "id": 970648,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scksyg.jpg"
+      },
+      {
+        "id": 970650,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scksyi.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Monsters and Memories is an independently created, niche Fantasy MMORPG that harkens back to the classic MMO era of the late \u002790s and early \u002700s.",
+    "videos": [
+      {
+        "id": 83024,
+        "video_id": "IJwf0XK9VGg"
+      }
+    ],
+    "websites": [
+      {
+        "id": 523379,
+        "url": "https://www.monstersandmemories.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 523381,
+        "url": "https://www.youtube.com/@MonstersMemories",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 523385,
+        "url": "https://discord.gg/invite/jvdKKc3CqW",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 523386,
+        "url": "https://www.reddit.com/r/MonstersAndMemories",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 523384,
+        "url": "https://www.instagram.com/monstersandmemories",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 523383,
+        "url": "https://twitter.com/MnM_MMO",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 523382,
+        "url": "https://www.facebook.com/MonstersAndMemories",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 662804,
+        "url": "https://www.twitch.tv/directory/category/monsters-and-memories",
         "type": {
           "id": 6,
           "type": "Twitch"
