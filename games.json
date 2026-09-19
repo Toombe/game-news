@@ -545,6 +545,204 @@
     ]
   },
   {
+    "id": 211347,
+    "cover": {
+      "id": 262052,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5m78.jpg"
+    },
+    "first_release_date": 1726099200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 10,
+    "involved_companies": [
+      {
+        "id": 263728,
+        "company": {
+          "id": 41013,
+          "name": "Fireshine Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 263727,
+        "company": {
+          "id": 47960,
+          "name": "Emberstorm Entertainment"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Reka",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 629921,
+        "date": 1726099200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 964759,
+        "date": 1792972800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 842831,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sci2bz.jpg"
+      },
+      {
+        "id": 842833,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sci2c1.jpg"
+      },
+      {
+        "id": 842837,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sci2c5.jpg"
+      },
+      {
+        "id": 842836,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sci2c4.jpg"
+      },
+      {
+        "id": 842835,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sci2c3.jpg"
+      },
+      {
+        "id": 842830,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sci2by.jpg"
+      },
+      {
+        "id": 842832,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sci2c0.jpg"
+      },
+      {
+        "id": 842834,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sci2c2.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Start your life as an apprentice witch to the legendary Baba Jaga and venture across a mysterious, natural landscape with your companion, chicken-legged cottage. Develop your magical powers, customise your home, craft potions, help or hinder villagers find your way in the world.",
+    "videos": [
+      {
+        "id": 91431,
+        "video_id": "X5CDteG81_A"
+      },
+      {
+        "id": 91455,
+        "video_id": "hhZiJ1AFfyw"
+      },
+      {
+        "id": 115766,
+        "video_id": "VGYF6cQXwzg"
+      },
+      {
+        "id": 115990,
+        "video_id": "89Gp9vhRRoU"
+      },
+      {
+        "id": 185649,
+        "video_id": "vx5PtGjGPqA"
+      }
+    ],
+    "websites": [
+      {
+        "id": 637892,
+        "url": "https://twitter.com/emberstorm_de",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 826761,
+        "url": "https://reka.wiki.gg/",
+        "type": {
+          "id": 2,
+          "type": "Community Wiki"
+        }
+      },
+      {
+        "id": 826762,
+        "url": "https://www.reddit.com/r/REKA/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 637891,
+        "url": "https://www.youtube.com/@emberstormentertainment",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 300497,
+        "url": "https://store.steampowered.com/app/1737870",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 633018,
+        "url": "https://discord.gg/invite/nZ4mx8sk4a",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 557280,
+        "url": "https://fireshinegames.co.uk/games/reka/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 671999,
+        "url": "https://www.twitch.tv/directory/category/reka",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      }
+    ]
+  },
+  {
     "id": 125642,
     "cover": {
       "id": 386712,
@@ -4291,171 +4489,6 @@
         "type": {
           "id": 18,
           "type": "Discord"
-        }
-      }
-    ]
-  },
-  {
-    "id": 244913,
-    "cover": {
-      "id": 560973,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc0ul.jpg"
-    },
-    "first_release_date": 1784592000,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 384308,
-        "company": {
-          "id": 76588,
-          "name": "Rustic Panda Games"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Colossus: Eternal Blight",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 944589,
-        "date": 1784592000,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1030096,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scm2ts.jpg"
-      },
-      {
-        "id": 1030089,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scm2tl.jpg"
-      },
-      {
-        "id": 1030092,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scm2to.jpg"
-      },
-      {
-        "id": 1030095,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scm2tr.jpg"
-      },
-      {
-        "id": 1030098,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scm2tu.jpg"
-      },
-      {
-        "id": 1030100,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scm2tw.jpg"
-      },
-      {
-        "id": 1030102,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scm2ty.jpg"
-      },
-      {
-        "id": 1030104,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scm2u0.jpg"
-      },
-      {
-        "id": 1030106,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scm2u2.jpg"
-      },
-      {
-        "id": 1030108,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scm2u4.jpg"
-      },
-      {
-        "id": 1030109,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scm2u5.jpg"
-      },
-      {
-        "id": 1030112,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scm2u8.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Colossus is a story-driven action RPG with precision combat, a hand-crafted pixel art world, and choices that leave real scars. The Blight will test you. How you answer is up to you.",
-    "videos": [
-      {
-        "id": 185226,
-        "video_id": "CaWIW_hWqmM"
-      }
-    ],
-    "websites": [
-      {
-        "id": 543649,
-        "url": "https://store.steampowered.com/app/1722800",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 802434,
-        "url": "https://x.com/Rustic_Panda",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 922661,
-        "url": "https://discord.com/invite/vJEkZ8RP",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 543650,
-        "url": "https://www.rusticpandagames.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1063708,
-        "url": "https://www.youtube.com/@rusticpandagames",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1063709,
-        "url": "https://www.instagram.com/rusticpandagames/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
         }
       }
     ]
@@ -15806,7 +15839,7 @@
         "name": "Indie"
       }
     ],
-    "hypes": 9,
+    "hypes": 10,
     "involved_companies": [
       {
         "id": 337534,
@@ -18996,7 +19029,7 @@
         "name": "Card \u0026 Board Game"
       }
     ],
-    "hypes": 4,
+    "hypes": 5,
     "involved_companies": [
       {
         "id": 335739,
