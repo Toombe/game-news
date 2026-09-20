@@ -1823,6 +1823,211 @@
     ]
   },
   {
+    "id": 144971,
+    "cover": {
+      "id": 134760,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2vzc.jpg"
+    },
+    "first_release_date": 1752624000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 8,
+    "involved_companies": [
+      {
+        "id": 122322,
+        "company": {
+          "id": 22632,
+          "name": "Chasing Rats Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Worship",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 754286,
+        "date": 1752624000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 965787,
+        "date": 1793750400,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1628298,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scywei.jpg"
+      },
+      {
+        "id": 1628300,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scywek.jpg"
+      },
+      {
+        "id": 1628302,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scywem.jpg"
+      },
+      {
+        "id": 1628299,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scywej.jpg"
+      },
+      {
+        "id": 1628301,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scywel.jpg"
+      },
+      {
+        "id": 427692,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc960c.jpg"
+      },
+      {
+        "id": 427693,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc960d.jpg"
+      },
+      {
+        "id": 427694,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc960e.jpg"
+      },
+      {
+        "id": 427695,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc960f.jpg"
+      },
+      {
+        "id": 427696,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc960g.jpg"
+      },
+      {
+        "id": 1628296,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyweg.jpg"
+      },
+      {
+        "id": 1628297,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyweh.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Blindly serve a dreadful god and lead its cult in a fresh take on the roguelike genre inspired by Pikmin. Put on the robe of a cultist and ready your ceremonial dagger to serve the old god of your choosing in the grim universe of Worship.",
+    "videos": [
+      {
+        "id": 46940,
+        "video_id": "I4C15TqYOs4"
+      },
+      {
+        "id": 116014,
+        "video_id": "j6zmPf18kss"
+      },
+      {
+        "id": 153437,
+        "video_id": "amCDP3ISTik"
+      },
+      {
+        "id": 156582,
+        "video_id": "p7RuG8jAvtk"
+      }
+    ],
+    "websites": [
+      {
+        "id": 810987,
+        "url": "https://x.com/Chasing_Rats",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 810986,
+        "url": "https://www.youtube.com/channel/UCq6VQlVONnNmDMir68WRGZg/",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 810985,
+        "url": "https://bsky.app/profile/chasingratsgames.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 810984,
+        "url": "https://chasingratsgames.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 174544,
+        "url": "https://discord.gg/invite/2eRFv5Y",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 174543,
+        "url": "https://store.steampowered.com/app/1548180",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 453446,
+        "url": "https://www.twitch.tv/directory/game/Worship",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      }
+    ]
+  },
+  {
     "id": 325279,
     "cover": {
       "id": 426540,
@@ -3734,6 +3939,204 @@
     ]
   },
   {
+    "id": 366709,
+    "cover": {
+      "id": 487238,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coafye.jpg"
+    },
+    "first_release_date": 1773100800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 4,
+    "involved_companies": [
+      {
+        "id": 345565,
+        "company": {
+          "id": 27331,
+          "name": "astragon Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 345566,
+        "company": {
+          "id": 68827,
+          "name": "To-Go Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Ranger’s Path: National Park Simulator",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 966346,
+        "date": 1794873600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 966347,
+        "date": 1794873600,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 966348,
+        "date": 1794873600,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      },
+      {
+        "id": 889791,
+        "date": 1773100800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1636755,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz2xf.jpg"
+      },
+      {
+        "id": 1636754,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz2xe.jpg"
+      },
+      {
+        "id": 1636756,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz2xg.jpg"
+      },
+      {
+        "id": 1636757,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz2xh.jpg"
+      },
+      {
+        "id": 1636753,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz2xd.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Begin your park ranger journey in Ranger’s Path: National Park Simulator. Maintain trails, assist visitors, check permits and respond to emergencies. Explore diverse biomes and observe varied animal behaviors across a wide range of species.",
+    "videos": [
+      {
+        "id": 161787,
+        "video_id": "yytJLrj86V4"
+      }
+    ],
+    "websites": [
+      {
+        "id": 887781,
+        "url": "https://discord.gg/astragon",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 887782,
+        "url": "https://www.youtube.com/astragon?sub_confirmation\u003d1",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 868479,
+        "url": "https://store.steampowered.com/app/2502780/Rangers_Path_National_Park_Simulator/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 868480,
+        "url": "https://rangerspathgame.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 887612,
+        "url": "https://store.epicgames.com/p/rangers-path-national-park-simulator-b7ea25",
+        "type": {
+          "id": 16,
+          "type": "Epic"
+        }
+      },
+      {
+        "id": 887613,
+        "url": "https://x.com/RangersPathGame",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 887614,
+        "url": "https://www.facebook.com/RangersPathGame",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 887615,
+        "url": "https://www.instagram.com/rangerspathgame",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1010017,
+        "url": "https://www.twitch.tv/directory/category/rangers-path-national-park-simulator",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      }
+    ]
+  },
+  {
     "id": 142304,
     "cover": {
       "id": 442391,
@@ -4489,614 +4892,6 @@
         "type": {
           "id": 18,
           "type": "Discord"
-        }
-      }
-    ]
-  },
-  {
-    "id": 296651,
-    "cover": {
-      "id": 425066,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co93ze.jpg"
-    },
-    "first_release_date": 1784678400,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 297997,
-        "company": {
-          "id": 12155,
-          "name": "Boxelware"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Aquapark Tycoon",
-    "platforms": [
-      {
-        "id": 3,
-        "name": "Linux"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 924790,
-        "date": 1784678400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1298490,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scrtx6.jpg"
-      },
-      {
-        "id": 1298491,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scrtx7.jpg"
-      },
-      {
-        "id": 1298492,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scrtx8.jpg"
-      },
-      {
-        "id": 1298493,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scrtx9.jpg"
-      },
-      {
-        "id": 1298494,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scrtxa.jpg"
-      },
-      {
-        "id": 1298495,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scrtxb.jpg"
-      },
-      {
-        "id": 1298496,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scrtxc.jpg"
-      },
-      {
-        "id": 1298497,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scrtxd.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Build the ultimate waterpark paradise in this cozy simulation game! Design \u0026 customize water slides, pools, and saunas to fulfill your guests\u0027 needs. Combine creativity, strategy, and management to make a splash in the world of water parks and become the ultimate Aquapark Tycoon!",
-    "videos": [
-      {
-        "id": 134405,
-        "video_id": "nTeYZMK3vFg"
-      },
-      {
-        "id": 187063,
-        "video_id": "98sC_GXywro"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1073336,
-        "url": "https://discord.gg/aDqz6dQRZ7",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 629386,
-        "url": "https://www.aquaparktycoon.com",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 629385,
-        "url": "https://store.steampowered.com/app/2819470",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1068594,
-        "url": "https://www.instagram.com/boxelware/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 1072901,
-        "url": "https://www.youtube.com/@boxelware",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1072898,
-        "url": "https://www.twitch.tv/directory/category/aquapark-tycoon",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 1072899,
-        "url": "https://x.com/boxelware",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1072900,
-        "url": "https://www.facebook.com/boxelware",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 1072902,
-        "url": "https://www.reddit.com/r/AquaparkTycoon/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      }
-    ]
-  },
-  {
-    "id": 305011,
-    "cover": {
-      "id": 388164,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8bic.jpg"
-    },
-    "first_release_date": 1784678400,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 19,
-    "involved_companies": [
-      {
-        "id": 282419,
-        "company": {
-          "id": 16137,
-          "name": "Paper Cult"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Tears of Metal",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 843160,
-        "date": 1744243200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 932813,
-        "date": 1784678400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 933760,
-        "date": 1784678400,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1337455,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnzj.jpg"
-      },
-      {
-        "id": 1337459,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnzn.jpg"
-      },
-      {
-        "id": 1337447,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnzb.jpg"
-      },
-      {
-        "id": 1337448,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnzc.jpg"
-      },
-      {
-        "id": 1337449,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnzd.jpg"
-      },
-      {
-        "id": 1337450,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnze.jpg"
-      },
-      {
-        "id": 1337452,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnzg.jpg"
-      },
-      {
-        "id": 1337453,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnzh.jpg"
-      },
-      {
-        "id": 1337457,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsnzl.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Tears of Metal is a medieval hack-and-slash co-op roguelike. Carve through hordes of enemies to reclaim your island with the help of your formidable Scottish battalion. As you advance deeper into the trenches, uncover more about the mysterious Dragon Meteor and the treacherous enemy invasion.",
-    "videos": [
-      {
-        "id": 115540,
-        "video_id": "n28LrKFLe1U"
-      },
-      {
-        "id": 151529,
-        "video_id": "XOnzHiqMhaY"
-      },
-      {
-        "id": 134666,
-        "video_id": "yMX5H6du9OU"
-      },
-      {
-        "id": 145665,
-        "video_id": "UmUYIDzMrjQ"
-      },
-      {
-        "id": 181958,
-        "video_id": "Lzdegjfm8b0"
-      },
-      {
-        "id": 191148,
-        "video_id": "knxVrf9jsuk"
-      },
-      {
-        "id": 188605,
-        "video_id": "kvv5TSWd5S4"
-      },
-      {
-        "id": 188830,
-        "video_id": "9hXbDmMmwEk"
-      },
-      {
-        "id": 194785,
-        "video_id": "WOpAx_HqVf4"
-      }
-    ],
-    "websites": [
-      {
-        "id": 667896,
-        "url": "https://www.instagram.com/paper.cult.games/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 667897,
-        "url": "https://discord.gg/invite/papercult",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 643842,
-        "url": "https://store.steampowered.com/app/1913120",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 643843,
-        "url": "https://www.papercultgames.com/?game\u003dtears_of_metal",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 667894,
-        "url": "https://www.facebook.com/PaperCultGames/",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 667893,
-        "url": "https://www.youtube.com/channel/UCYaLjiGdDIaCfOsE1pmWeKw",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 667892,
-        "url": "https://www.twitch.tv/directory/category/tears-of-metal",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 667895,
-        "url": "https://twitter.com/papercultgames",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      }
-    ]
-  },
-  {
-    "id": 334544,
-    "cover": {
-      "id": 569393,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc7ch.jpg"
-    },
-    "first_release_date": 1784678400,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 5,
-        "name": "Shooter"
-      },
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 3,
-    "involved_companies": [
-      {
-        "id": 310603,
-        "company": {
-          "id": 4824,
-          "name": "Defiant Development"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 310604,
-        "company": {
-          "id": 43583,
-          "name": "Spitfire Interactive"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Hand of Fate: Hordes",
-    "platforms": [
-      {
-        "id": 3,
-        "name": "Linux"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 945403,
-        "date": 1784678400,
-        "platform": {
-          "id": 3,
-          "name": "Linux"
-        }
-      },
-      {
-        "id": 945404,
-        "date": 1784678400,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 945405,
-        "date": 1784678400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1523415,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwnh3.jpg"
-      },
-      {
-        "id": 1523410,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwngy.jpg"
-      },
-      {
-        "id": 1523416,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwnh4.jpg"
-      },
-      {
-        "id": 1523411,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwngz.jpg"
-      },
-      {
-        "id": 1523412,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwnh0.jpg"
-      },
-      {
-        "id": 1523413,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwnh1.jpg"
-      },
-      {
-        "id": 1523414,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwnh2.jpg"
-      },
-      {
-        "id": 1523417,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwnh5.jpg"
-      },
-      {
-        "id": 1523418,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwnh6.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Hand of Fate: Hordes is a dark-fantasy bullet heaven auto-shooter powered by your strategic deckbuilding mastery. Survive the horde, forge your build, and unleash devastating attacks to escape a netherworld beyond the 13th Gate. Thrive in chaos!",
-    "videos": [
-      {
-        "id": 142357,
-        "video_id": "FqFMhr0E88o"
-      },
-      {
-        "id": 177237,
-        "video_id": "BJq2boGGjkA"
-      },
-      {
-        "id": 176578,
-        "video_id": "rsUBjY4cjP4"
-      }
-    ],
-    "websites": [
-      {
-        "id": 741982,
-        "url": "https://discord.gg/4xrFrP4ATq",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 741981,
-        "url": "https://www.spitfireinteractive.com.au/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 741983,
-        "url": "https://x.com/Spitfire_IA",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 876589,
-        "url": "https://store.epicgames.com/en-US/p/hordes-of-fate-a-hand-of-fate-adventure-8a7a86",
-        "type": {
-          "id": 16,
-          "type": "Epic"
-        }
-      },
-      {
-        "id": 717166,
-        "url": "https://store.steampowered.com/app/3075410/Hordes_of_Fate__A_Hand_of_Fate_Adventure/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1016047,
-        "url": "https://www.instagram.com/hordesoffateofficial/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
         }
       }
     ]
@@ -12972,230 +12767,6 @@
         "type": {
           "id": 18,
           "type": "Discord"
-        }
-      }
-    ]
-  },
-  {
-    "id": 365465,
-    "cover": {
-      "id": 571946,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc9be.jpg"
-    },
-    "first_release_date": 1789948800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 11,
-    "involved_companies": [
-      {
-        "id": 403663,
-        "company": {
-          "id": 2603,
-          "name": "Free Lives Games"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 405516,
-        "company": {
-          "id": 25018,
-          "name": "raithza"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 405517,
-        "company": {
-          "id": 27568,
-          "name": "elyaradine"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 411642,
-        "company": {
-          "id": 80840,
-          "name": "Sarandipity"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Dressmaker",
-    "platforms": [
-      {
-        "id": 3,
-        "name": "Linux"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 797853,
-        "date": 1753747200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 816293,
-        "date": 1753747200,
-        "platform": {
-          "id": 3,
-          "name": "Linux"
-        }
-      },
-      {
-        "id": 816453,
-        "date": 1753747200,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 947185,
-        "date": 1789948800,
-        "platform": {
-          "id": 3,
-          "name": "Linux"
-        }
-      },
-      {
-        "id": 947186,
-        "date": 1789948800,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 947187,
-        "date": 1789948800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1630365,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyxzx.jpg"
-      },
-      {
-        "id": 1630366,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyxzy.jpg"
-      },
-      {
-        "id": 1630367,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyxzz.jpg"
-      },
-      {
-        "id": 1630368,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyy00.jpg"
-      },
-      {
-        "id": 1630369,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyy01.jpg"
-      },
-      {
-        "id": 1630371,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyy03.jpg"
-      },
-      {
-        "id": 1630370,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyy02.jpg"
-      }
-    ],
-    "status": 2,
-    "summary": "Dressmaker is a cozy game inspired by real dressmaking.\n\nBecome a dressmaker, choose dress designs, cut out fabric and sew them all together to satisfy (or sabotage!) customers.",
-    "videos": [
-      {
-        "id": 186697,
-        "video_id": "ODvmwag-EW4"
-      }
-    ],
-    "websites": [
-      {
-        "id": 888086,
-        "url": "https://store.steampowered.com/app/4019220/Dressmaker/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 888087,
-        "url": "https://discord.gg/nJY2TsCKm9",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 865446,
-        "url": "https://www.twitch.tv/directory/category/dressmaker-1/videos/all",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 863852,
-        "url": "https://elyaradine.itch.io/dressmaker",
-        "type": {
-          "id": 15,
-          "type": "Itch"
-        }
-      },
-      {
-        "id": 863853,
-        "url": "https://www.instagram.com/elyaradine/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 940422,
-        "url": "https://www.freelives.net",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1084423,
-        "url": "https://www.reddit.com/r/Dressmaker/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
         }
       }
     ]
