@@ -1818,239 +1818,6 @@
     ]
   },
   {
-    "id": 325279,
-    "cover": {
-      "id": 426540,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co954c.jpg"
-    },
-    "first_release_date": 1752710400,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 4,
-    "involved_companies": [
-      {
-        "id": 299145,
-        "company": {
-          "id": 18471,
-          "name": "Veewo Games"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Neon Abyss 2",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      },
-      {
-        "id": 130,
-        "name": "Nintendo Switch"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 730086,
-        "date": 1752710400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 967494,
-        "date": 1791417600,
-        "platform": {
-          "id": 130,
-          "name": "Nintendo Switch"
-        }
-      },
-      {
-        "id": 967495,
-        "date": 1791417600,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 967496,
-        "date": 1791417600,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 967497,
-        "date": 1791417600,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1434345,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuqqx.jpg"
-      },
-      {
-        "id": 1434346,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuqqy.jpg"
-      },
-      {
-        "id": 1434347,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuqqz.jpg"
-      },
-      {
-        "id": 1434348,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuqr0.jpg"
-      },
-      {
-        "id": 1434350,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuqr2.jpg"
-      },
-      {
-        "id": 1434343,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuqqv.jpg"
-      },
-      {
-        "id": 1434344,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuqqw.jpg"
-      },
-      {
-        "id": 1434353,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuqr5.jpg"
-      },
-      {
-        "id": 1434352,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuqr4.jpg"
-      },
-      {
-        "id": 1434349,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuqr1.jpg"
-      },
-      {
-        "id": 1434351,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scuqr3.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Plunge into the chaotic cybermyth roguelike world of Neon Abyss 2! With diverse combat styles and unlimited item synergies, every run delivers a dramatic and action-packed experience you won\u0027t forget.",
-    "videos": [
-      {
-        "id": 135268,
-        "video_id": "A86PCFApasQ"
-      },
-      {
-        "id": 143743,
-        "video_id": "r1z9WMDcPAY"
-      },
-      {
-        "id": 146398,
-        "video_id": "b4eUIIguTsg"
-      },
-      {
-        "id": 156334,
-        "video_id": "S6DSN7-Pidk"
-      },
-      {
-        "id": 194132,
-        "video_id": "ZJTwdeDnAYc"
-      },
-      {
-        "id": 197012,
-        "video_id": "Ss9920Jn8Eg"
-      }
-    ],
-    "websites": [
-      {
-        "id": 728749,
-        "url": "https://youtube.com/@neonabyssgame",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 728748,
-        "url": "https://x.com/NeonAbyssGame",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 697511,
-        "url": "http://neonabyss.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 697512,
-        "url": "https://discord.gg/veewo",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 697510,
-        "url": "https://store.steampowered.com/app/2235200",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 697513,
-        "url": "https://www.twitch.tv/directory/category/neon-abyss-2",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      }
-    ]
-  },
-  {
     "id": 348187,
     "cover": {
       "id": 463848,
@@ -4686,171 +4453,6 @@
         "type": {
           "id": 18,
           "type": "Discord"
-        }
-      }
-    ]
-  },
-  {
-    "id": 406030,
-    "cover": {
-      "id": 571517,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc8zh.jpg"
-    },
-    "first_release_date": 1784851200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      },
-      {
-        "id": 6,
-        "name": "Battle Royale"
-      }
-    ],
-    "genres": [
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 35,
-        "name": "Card \u0026 Board Game"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 394606,
-        "company": {
-          "id": 77952,
-          "name": "Glacir Studios Inc."
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Norectus: Theatre of War",
-    "platforms": [
-      {
-        "id": 82,
-        "name": "Web browser"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 945804,
-        "date": 1784851200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 945805,
-        "date": 1784851200,
-        "platform": {
-          "id": 82,
-          "name": "Web browser"
-        }
-      },
-      {
-        "id": 928910,
-        "date": 1781222400,
-        "platform": {
-          "id": 82,
-          "name": "Web browser"
-        }
-      },
-      {
-        "id": 929135,
-        "date": 1781222400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1857396,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13t6c.jpg"
-      },
-      {
-        "id": 1859302,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13una.jpg"
-      },
-      {
-        "id": 1860524,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13vl8.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Norectus: Rebellion is a digital collectible card game set in a gritty world of five nations locked in a decades-long war.\n\nCollect from 400+ cards across five nations and a Neutral faction, each built around six elements (Flame, Frost, Nature, Spirit, Ki, Neutral) and more than 35 keyword mechanics. Build nation-aligned decks and take them into a deep roster of modes:\n\nRanked \u0026 Casual PvP: 1v1 ladder, 2v2, and free-for-all\nCooperative: team up to take down Raid Bosses and a persistent server-wide World Boss\nThe Gauntlet: a 100-floor roguelike climb with stacking boons and mini-bosses, solo or in a co-op party\nThrone: defend your seat against an endless challenger queue\nStory Campaign: 45 chapters of nation lore with NPC dialogue and branching paths\nGrind your way up the level track, master your chosen nation, and climb the ELO rankings. Earn cosmetics, season-pass rewards, and nation essence along the way, then relive your best matches with full replay scrubbing.\n\nPick your nation and win the war.",
-    "videos": [
-      {
-        "id": 188320,
-        "video_id": "Z4qOHdqGlg4"
-      },
-      {
-        "id": 188321,
-        "video_id": "I_vqwhdGJUI"
-      },
-      {
-        "id": 190202,
-        "video_id": "sTMXviIQyQg"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1081351,
-        "url": "https://store.steampowered.com/app/4899470",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1081352,
-        "url": "https://discord.gg/norectus",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 1081353,
-        "url": "https://www.instagram.com/glacir.studios",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 1069480,
-        "url": "https://play.norectus.net/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1086632,
-        "url": "https://www.twitch.tv/directory/category/norectus-theatre-of-war/videos/all",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
         }
       }
     ]
@@ -10206,8 +9808,8 @@
   {
     "id": 348047,
     "cover": {
-      "id": 600012,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocuz0.jpg"
+      "id": 604373,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocyc5.jpg"
     },
     "first_release_date": 1788825600,
     "game_modes": [
@@ -12229,136 +11831,6 @@
         "type": {
           "id": 14,
           "type": "Subreddit"
-        }
-      }
-    ]
-  },
-  {
-    "id": 407158,
-    "cover": {
-      "id": 572739,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc9xf.jpg"
-    },
-    "first_release_date": 1789603200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      },
-      {
-        "id": 33,
-        "name": "Arcade"
-      }
-    ],
-    "hypes": 3,
-    "involved_companies": [
-      {
-        "id": 395777,
-        "company": {
-          "id": 78258,
-          "name": "Pangolin Interactive"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 409680,
-        "company": {
-          "id": 42648,
-          "name": "Gamersky Games"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Pop! Pachinko",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 955023,
-        "date": 1789603200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1864082,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13yc2.jpg"
-      },
-      {
-        "id": 1864084,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13yc4.jpg"
-      },
-      {
-        "id": 1864083,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13yc3.jpg"
-      },
-      {
-        "id": 1864085,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13yc5.jpg"
-      },
-      {
-        "id": 1864077,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13ybx.jpg"
-      },
-      {
-        "id": 1864078,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13yby.jpg"
-      },
-      {
-        "id": 1864079,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13ybz.jpg"
-      },
-      {
-        "id": 1864080,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13yc0.jpg"
-      },
-      {
-        "id": 1864081,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13yc1.jpg"
-      }
-    ],
-    "status": 3,
-    "summary": "Pop! Pachinko is a pachinko roguelite with city pop vibes. Build up your collection of enchanted balls to fire into the machine. Collect charms to build up powerful synergies between your balls. Listen to some pop music as you expand your Chibi Pop collection!",
-    "videos": [
-      {
-        "id": 188284,
-        "video_id": "tWmJmw9NhvU"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1073988,
-        "url": "https://store.steampowered.com/app/4437370",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1100312,
-        "url": "https://discord.gg/qqsDUbaVP",
-        "type": {
-          "id": 18,
-          "type": "Discord"
         }
       }
     ]
@@ -24362,6 +23834,195 @@
         "type": {
           "id": 18,
           "type": "Discord"
+        }
+      }
+    ]
+  },
+  {
+    "id": 356724,
+    "cover": {
+      "id": 595071,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocr5r.jpg"
+    },
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 348382,
+        "company": {
+          "id": 65702,
+          "name": "Loot Donkey"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 409713,
+        "company": {
+          "id": 645,
+          "name": "Firefly Studios"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Fool King",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 967476,
+        "date": 1794787200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1889783,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14i5z.jpg"
+      },
+      {
+        "id": 1889787,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14i63.jpg"
+      },
+      {
+        "id": 1889784,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14i60.jpg"
+      },
+      {
+        "id": 1889789,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14i65.jpg"
+      },
+      {
+        "id": 1889785,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14i61.jpg"
+      },
+      {
+        "id": 1889788,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14i64.jpg"
+      },
+      {
+        "id": 1889786,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14i62.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Dethrone the Fool King in this tactical autobattler with asynchronous PvP! Amass your troops, apply powerful upgrades and set your battle formations. Watch your plans come together or fall apart in frantic simulated combat.",
+    "videos": [
+      {
+        "id": 156926,
+        "video_id": "NpV9r04Q5c4"
+      },
+      {
+        "id": 193683,
+        "video_id": "5ZxMnBV09-Q"
+      },
+      {
+        "id": 179701,
+        "video_id": "sl4O6DLsH8s"
+      },
+      {
+        "id": 193682,
+        "video_id": "E5r5bKE5CWY"
+      },
+      {
+        "id": 197003,
+        "video_id": "p6J9jvnvDmU"
+      }
+    ],
+    "websites": [
+      {
+        "id": 837860,
+        "url": "https://twitter.com/lootdonkey",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 877075,
+        "url": "https://www.twitch.tv/directory/category/fool-king",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 837862,
+        "url": "https://www.youtube.com/@Loot-Donkey",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 837861,
+        "url": "https://www.instagram.com/lootdonkey",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 837859,
+        "url": "https://lootdonkey.itch.io/fool-king",
+        "type": {
+          "id": 15,
+          "type": "Itch"
+        }
+      },
+      {
+        "id": 837863,
+        "url": "https://discord.gg/GngG8PfNw4",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 837864,
+        "url": "https://bsky.app/profile/lootdonkey.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 1091359,
+        "url": "https://store.steampowered.com/app/4380860",
+        "type": {
+          "id": 13,
+          "type": "Steam"
         }
       }
     ]
