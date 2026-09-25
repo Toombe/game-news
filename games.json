@@ -4379,588 +4379,6 @@
     ]
   },
   {
-    "id": 228043,
-    "cover": {
-      "id": 566406,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc51i.jpg"
-    },
-    "first_release_date": 1785110400,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      }
-    ],
-    "genres": [
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 16,
-        "name": "Turn-based strategy (TBS)"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      },
-      {
-        "id": 35,
-        "name": "Card \u0026 Board Game"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 195216,
-        "company": {
-          "id": 44503,
-          "name": "Fatus Games"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Ariokan",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 946357,
-        "date": 1785110400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1844594,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13jaq.jpg"
-      },
-      {
-        "id": 1844595,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13jar.jpg"
-      },
-      {
-        "id": 1844596,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13jas.jpg"
-      },
-      {
-        "id": 1844597,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13jat.jpg"
-      }
-    ],
-    "status": 3,
-    "summary": "Ariokan is the online collectible card game where you can create new (and balanced) official cards to invent new combos and break the \"Meta\". No floodgates, no 10-minutes turns, no pay-to-win. Generated cards can be unlocked by other players, contributing to an ever-growing library of cards!",
-    "videos": [
-      {
-        "id": 79150,
-        "video_id": "1pbEVRH97x4"
-      },
-      {
-        "id": 185451,
-        "video_id": "sB2hJigFnSE"
-      }
-    ],
-    "websites": [
-      {
-        "id": 624616,
-        "url": "https://www.reddit.com/r/ariokan/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 876616,
-        "url": "https://store.epicgames.com/en-US/p/ariokan-536e54",
-        "type": {
-          "id": 16,
-          "type": "Epic"
-        }
-      },
-      {
-        "id": 892921,
-        "url": "https://store.steampowered.com/app/3833620",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 329228,
-        "url": "https://www.playariokan.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 516446,
-        "url": "https://discord.gg/wRyrpXvAdc",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 511075,
-        "url": "https://www.twitch.tv/directory/game/Ariokan",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 1009928,
-        "url": "https://x.com/fatumgamessl",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1061824,
-        "url": "https://www.youtube.com/@ariokan",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      }
-    ]
-  },
-  {
-    "id": 301494,
-    "cover": {
-      "id": 431875,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co998j.jpg"
-    },
-    "first_release_date": 1785110400,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 16,
-        "name": "Turn-based strategy (TBS)"
-      },
-      {
-        "id": 24,
-        "name": "Tactical"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 267031,
-        "company": {
-          "id": 54740,
-          "name": "QUICKFIREGAMES"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Prelude Dark Pain",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 940567,
-        "date": 1785110400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1503881,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw8eh.jpg"
-      },
-      {
-        "id": 1503882,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw8ei.jpg"
-      },
-      {
-        "id": 1503883,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw8ej.jpg"
-      },
-      {
-        "id": 1503884,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw8ek.jpg"
-      },
-      {
-        "id": 1503885,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw8el.jpg"
-      },
-      {
-        "id": 1503880,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw8eg.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Prelude Dark Pain is a Tactical RPG set in a dark fantasy world. Assume the role of a local blacksmith named Soren, lead an uprising against the Order of the Ash Crusade and save a world ravaged by war.",
-    "videos": [
-      {
-        "id": 178299,
-        "video_id": "iWoP0IPjHhU"
-      },
-      {
-        "id": 182006,
-        "video_id": "9v8Qo_wJMG8"
-      },
-      {
-        "id": 182007,
-        "video_id": "_HI0nERb4P8"
-      },
-      {
-        "id": 194632,
-        "video_id": "p6_6V_fBArM"
-      },
-      {
-        "id": 189998,
-        "video_id": "ALLWJ9lAUGA"
-      }
-    ],
-    "websites": [
-      {
-        "id": 726233,
-        "url": "https://bsky.app/profile/preludethegame.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 919271,
-        "url": "https://discord.gg/vsxD6n8P8J",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 637830,
-        "url": "https://store.steampowered.com/app/2479090/Prelude_Dark_Pain/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 703472,
-        "url": "https://www.instagram.com/preludethegame/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 703471,
-        "url": "https://twitter.com/preludethegame",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 703469,
-        "url": "https://quickfiregames.es/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 703470,
-        "url": "https://www.youtube.com/@preludethegame",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 703473,
-        "url": "https://www.reddit.com/user/preludethegame/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      }
-    ]
-  },
-  {
-    "id": 364821,
-    "cover": {
-      "id": 595352,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocrdk.jpg"
-    },
-    "first_release_date": 1785110400,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      },
-      {
-        "id": 5,
-        "name": "Massively Multiplayer Online (MMO)"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      }
-    ],
-    "hypes": 6,
-    "involved_companies": [
-      {
-        "id": 342317,
-        "company": {
-          "id": 363,
-          "name": "Gravity"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Ragnarok: The New World",
-    "platforms": [
-      {
-        "id": 34,
-        "name": "Android"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 39,
-        "name": "iOS"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 947006,
-        "date": 1785110400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 795137,
-        "date": 1756339200,
-        "platform": {
-          "id": 34,
-          "name": "Android"
-        }
-      },
-      {
-        "id": 795138,
-        "date": 1756339200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 795382,
-        "platform": {
-          "id": 39,
-          "name": "iOS"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1626531,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyv1f.jpg"
-      },
-      {
-        "id": 1626535,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyv1j.jpg"
-      },
-      {
-        "id": 1906746,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14v96.jpg"
-      },
-      {
-        "id": 1906740,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14v90.jpg"
-      },
-      {
-        "id": 1906741,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14v91.jpg"
-      },
-      {
-        "id": 1906742,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14v92.jpg"
-      },
-      {
-        "id": 1906743,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14v93.jpg"
-      },
-      {
-        "id": 1906744,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14v94.jpg"
-      },
-      {
-        "id": 1906745,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14v95.jpg"
-      },
-      {
-        "id": 1906749,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14v99.jpg"
-      },
-      {
-        "id": 1906747,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14v97.jpg"
-      },
-      {
-        "id": 1906748,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14v98.jpg"
-      },
-      {
-        "id": 1626532,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyv1g.jpg"
-      },
-      {
-        "id": 1626533,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyv1h.jpg"
-      },
-      {
-        "id": 1626534,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyv1i.jpg"
-      },
-      {
-        "id": 1626536,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyv1k.jpg"
-      },
-      {
-        "id": 1626537,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyv1l.jpg"
-      }
-    ],
-    "status": 3,
-    "summary": "Ragnarok: The New World is a massive online role-playing adventure set in the legendary world of Midgard. Explore vast fields, bustling cities, and mysterious dungeons where every journey holds new challenges and stories.\n\nCreate your own character and choose from classic jobs such as Swordsman, Mage, Archer, and Merchant. Customize your appearance with a wide variety of outfits, raise pets, ride mounts, and truly express yourself in a vibrant open world.\n\nBeyond combat, build and decorate your own home—design a personal sanctuary to relax, gather with friends, and show off your creativity.\n\nJoin forces with allies to defeat powerful bosses, tackle dangerous raids, and grow together in guilds and communities. Or simply wander freely, trade, and enjoy the world at your own pace. With nostalgia and freedom at its core, Ragnarok: The New World invites you to relive the spirit of Ragnarok while writing your own legend in an ever-evolving online world.",
-    "videos": [
-      {
-        "id": 167745,
-        "video_id": "KVHa83JkUV0"
-      }
-    ],
-    "websites": [
-      {
-        "id": 867233,
-        "url": "https://www.twitch.tv/directory/category/ragnarok-the-new-world/videos/all",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 1101202,
-        "url": "https://play.google.com/store/apps/details?id\u003dcom.ggv.roworldsea.aos",
-        "type": {
-          "id": 12,
-          "type": "Google Play"
-        }
-      },
-      {
-        "id": 1101203,
-        "url": "https://auto-page.gnjoy.hk/roworldseapcgg/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1101204,
-        "url": "https://www.facebook.com/RagnarokTheNewWorld.Gravity",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 1101205,
-        "url": "https://www.youtube.com/@RagnarokTheNewWorld",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1101206,
-        "url": "https://discord.gg/ragnarokthenewworld",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 1043673,
-        "url": "https://store.steampowered.com/app/4212480",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      }
-    ]
-  },
-  {
     "id": 395827,
     "cover": {
       "id": 557733,
@@ -13604,6 +13022,184 @@
     ]
   },
   {
+    "id": 405677,
+    "cover": {
+      "id": 602292,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocwqc.jpg"
+    },
+    "first_release_date": 1793059200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 414018,
+        "company": {
+          "id": 55057,
+          "name": "indie.io"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 414019,
+        "company": {
+          "id": 81290,
+          "name": "Corecrew Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Coal Duty",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 959532,
+        "date": 1793059200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1922977,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc157s1.jpg"
+      },
+      {
+        "id": 1922981,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc157s5.jpg"
+      },
+      {
+        "id": 1922972,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc157rw.jpg"
+      },
+      {
+        "id": 1922976,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc157s0.jpg"
+      },
+      {
+        "id": 1922975,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc157rz.jpg"
+      },
+      {
+        "id": 1922979,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc157s3.jpg"
+      },
+      {
+        "id": 1922978,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc157s2.jpg"
+      },
+      {
+        "id": 1922974,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc157ry.jpg"
+      },
+      {
+        "id": 1922980,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc157s4.jpg"
+      },
+      {
+        "id": 1922982,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc157s6.jpg"
+      },
+      {
+        "id": 1922973,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc157rx.jpg"
+      }
+    ],
+    "status": 3,
+    "summary": "Coal Duty is a 1-5 player co-op extraction horror-comedy. Meet the state coal quota in procedurally generated mines, coordinating over proximity voice chat while something in the dark listens in. Spend your tickets, plan your escape. Some miners get out. The state does not confirm this.",
+    "videos": [
+      {
+        "id": 187343,
+        "video_id": "Wn7FEG7OEtw"
+      },
+      {
+        "id": 187344,
+        "video_id": "Z5QIkqP3CJE"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1068569,
+        "url": "https://x.com/corecrewgames/",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1068570,
+        "url": "https://www.instagram.com/corecrewgames/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1068571,
+        "url": "https://www.youtube.com/@CorecrewGames",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1068572,
+        "url": "https://discord.com/invite/4hrWcSeYqc",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1068567,
+        "url": "https://store.steampowered.com/app/4272370/Coal_Duty/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1068568,
+        "url": "https://corecrewgames.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      }
+    ]
+  },
+  {
     "id": 404091,
     "cover": {
       "id": 567398,
@@ -14756,7 +14352,7 @@
         "name": "Indie"
       }
     ],
-    "hypes": 7,
+    "hypes": 8,
     "involved_companies": [
       {
         "id": 372059,
@@ -22862,7 +22458,7 @@
         "name": "Indie"
       }
     ],
-    "hypes": 10,
+    "hypes": 11,
     "involved_companies": [
       {
         "id": 337534,
@@ -23631,6 +23227,118 @@
         "type": {
           "id": 17,
           "type": "GOG"
+        }
+      }
+    ]
+  },
+  {
+    "id": 275846,
+    "cover": {
+      "id": 597866,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coctbe.jpg"
+    },
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 272762,
+        "company": {
+          "id": 55665,
+          "name": "ammoburger"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Milo",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 960739,
+        "date": 1793232000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1186470,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scpfhi.jpg"
+      },
+      {
+        "id": 1186471,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scpfhj.jpg"
+      },
+      {
+        "id": 1186469,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scpfhh.jpg"
+      },
+      {
+        "id": 1186466,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scpfhe.jpg"
+      },
+      {
+        "id": 1186468,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scpfhg.jpg"
+      },
+      {
+        "id": 1186467,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scpfhf.jpg"
+      }
+    ],
+    "status": 2,
+    "summary": "Fight alone or beside others trapped in the same nightmare. Survive waves of deranged cultists and grow your mischief of rats. The longer you stay, the more you can save, and the more you risk losing before reaching Traang, Milo’s Arcade.",
+    "videos": [
+      {
+        "id": 117427,
+        "video_id": "I93DGE7XWXs"
+      }
+    ],
+    "websites": [
+      {
+        "id": 796646,
+        "url": "https://discord.gg/53FnxrPWU2",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 595260,
+        "url": "https://store.steampowered.com/app/2665020",
+        "type": {
+          "id": 13,
+          "type": "Steam"
         }
       }
     ]
