@@ -4379,184 +4379,6 @@
     ]
   },
   {
-    "id": 395827,
-    "cover": {
-      "id": 557733,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobycl.jpg"
-    },
-    "first_release_date": 1785196800,
-    "game_modes": [
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 5,
-        "name": "Massively Multiplayer Online (MMO)"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      }
-    ],
-    "hypes": 13,
-    "involved_companies": [
-      {
-        "id": 378200,
-        "company": {
-          "id": 6997,
-          "name": "Daybreak Game Company"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 389932,
-        "company": {
-          "id": 75224,
-          "name": "Game Jawn"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "EverQuest Legends",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 916761,
-        "date": 1776988800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 930106,
-        "date": 1785196800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1805264,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12oy8.jpg"
-      },
-      {
-        "id": 1805265,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12oy9.jpg"
-      },
-      {
-        "id": 1805266,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12oya.jpg"
-      },
-      {
-        "id": 1805267,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12oyb.jpg"
-      }
-    ],
-    "status": 3,
-    "summary": "Step back into Norrath in EverQuest Legends, a reimagined take on the original 1999 EverQuest experience. Designed for solo and casual players, EQL features powerful multiclass characters, iconic races, classic zones, nostalgic visuals, and modern quality-of-life improvements. Legends begin here!",
-    "videos": [
-      {
-        "id": 179557,
-        "video_id": "DsswWPXweW8"
-      },
-      {
-        "id": 188141,
-        "video_id": "wUcJvnOdtiY"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1112831,
-        "url": "https://en.wikipedia.org/wiki/EverQuest_Legends",
-        "type": {
-          "id": 3,
-          "type": "Wikipedia"
-        }
-      },
-      {
-        "id": 1033890,
-        "url": "https://www.everquestlegends.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1035387,
-        "url": "https://twitter.com/EQ_Legends",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1035388,
-        "url": "https://www.facebook.com/everquestlegends",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 1035389,
-        "url": "https://www.youtube.com/@EverQuestLegends",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1035390,
-        "url": "https://discord.gg/XYBGT9fPTN",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 1045796,
-        "url": "https://www.instagram.com/everquestlegends/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 1045797,
-        "url": "https://bsky.app/profile/everquestlegends.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 1046245,
-        "url": "https://www.twitch.tv/directory/category/everquest-legends",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      }
-    ]
-  },
-  {
     "id": 142498,
     "cover": {
       "id": 274550,
@@ -12807,6 +12629,192 @@
     ]
   },
   {
+    "id": 375229,
+    "cover": {
+      "id": 571056,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc8mo.jpg"
+    },
+    "first_release_date": 1792108800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 394144,
+        "company": {
+          "id": 53344,
+          "name": "Gilded Rune Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 394145,
+        "company": {
+          "id": 47516,
+          "name": "Yogscast Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Dupery: A Game of Solo Deduction",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 961869,
+        "date": 1792108800,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      },
+      {
+        "id": 961870,
+        "date": 1792108800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1682350,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1023y.jpg"
+      },
+      {
+        "id": 1682351,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1023z.jpg"
+      },
+      {
+        "id": 1682355,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10243.jpg"
+      },
+      {
+        "id": 1682353,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10241.jpg"
+      },
+      {
+        "id": 1682352,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10240.jpg"
+      },
+      {
+        "id": 1682354,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10242.jpg"
+      }
+    ],
+    "status": 3,
+    "summary": "A terrible syndicate has infiltrated society, explore cases, listen to what the citizens have to say, and use that information to route out the good from the evil in this roguelike \u0027clock-like\u0027 deduction game. Can you uncover the head of the syndicate? Or will you be duped like the rest?",
+    "videos": [
+      {
+        "id": 166152,
+        "video_id": "bQ-nHQ8Mgdg"
+      },
+      {
+        "id": 190865,
+        "video_id": "hNgR1hUsDuo"
+      },
+      {
+        "id": 188786,
+        "video_id": "ZdT6MrkYLuU"
+      }
+    ],
+    "websites": [
+      {
+        "id": 902799,
+        "url": "https://gildedrunegames.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 902801,
+        "url": "https://x.com/GildedRune",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 902862,
+        "url": "https://bsky.app/profile/gildedrunegames.com",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 902863,
+        "url": "https://youtube.com/@gildedrunegames?si\u003dUWVxZX95VhcaQ4rQ",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 902864,
+        "url": "https://www.instagram.com/GildedRuneGames/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 902860,
+        "url": "https://store.steampowered.com/app/3845070",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 902861,
+        "url": "https://discord.gg/WyTMhHTcrs",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1070494,
+        "url": "https://www.twitch.tv/directory/category/dupery",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      }
+    ]
+  },
+  {
     "id": 400252,
     "cover": {
       "id": 560212,
@@ -20574,6 +20582,10 @@
         "name": "Single player"
       },
       {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
         "id": 3,
         "name": "Co-operative"
       }
@@ -20892,6 +20904,219 @@
       {
         "id": 1091475,
         "url": "https://store.steampowered.com/app/4756050",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      }
+    ]
+  },
+  {
+    "id": 212175,
+    "cover": {
+      "id": 257480,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5io8.jpg"
+    },
+    "first_release_date": 1798761600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 3,
+    "involved_companies": [
+      {
+        "id": 353575,
+        "company": {
+          "id": 70419,
+          "name": "Zeitgeist Studio"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Name of the Will",
+    "platforms": [
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 969802,
+        "date": 1798761600,
+        "platform": {
+          "id": 3,
+          "name": "Linux"
+        }
+      },
+      {
+        "id": 969803,
+        "date": 1798761600,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      },
+      {
+        "id": 969804,
+        "date": 1798761600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1674008,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczvo8.jpg"
+      },
+      {
+        "id": 1674009,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczvo9.jpg"
+      },
+      {
+        "id": 1674010,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczvoa.jpg"
+      },
+      {
+        "id": 1674013,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczvod.jpg"
+      },
+      {
+        "id": 1674016,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczvog.jpg"
+      },
+      {
+        "id": 1674012,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczvoc.jpg"
+      },
+      {
+        "id": 1674019,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczvoj.jpg"
+      },
+      {
+        "id": 1674014,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczvoe.jpg"
+      },
+      {
+        "id": 1674011,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczvob.jpg"
+      },
+      {
+        "id": 1674017,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczvoh.jpg"
+      },
+      {
+        "id": 1674018,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczvoi.jpg"
+      },
+      {
+        "id": 1674020,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczvok.jpg"
+      },
+      {
+        "id": 1674015,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczvof.jpg"
+      }
+    ],
+    "status": 2,
+    "summary": "You are informed to be a resident of Hope, a suspiciously harmonious community. Dodge the secretive governors, establish a rapport with your neighbors who monitor you, and solve puzzles to find out how you got here. Are you willing to sacrifice for the truth? Or, are you choosing a life of oblivion?",
+    "videos": [
+      {
+        "id": 165439,
+        "video_id": "JWhFArKITMI"
+      },
+      {
+        "id": 181405,
+        "video_id": "bWv7IA3okSs"
+      },
+      {
+        "id": 185803,
+        "video_id": "tu5iRALEsM4"
+      }
+    ],
+    "websites": [
+      {
+        "id": 499589,
+        "url": "https://www.twitch.tv/directory/game/Name%20of%20the%20Will",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 753018,
+        "url": "https://www.instagram.com/nameofthewill/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 896272,
+        "url": "https://zeitgeiststudio.net/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 753020,
+        "url": "https://www.youtube.com/channel/UCuFYlV1cQW0nPNoDoTMMc7g/",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 753017,
+        "url": "https://discord.gg/4Zegfa5bS6",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 753016,
+        "url": "https://bsky.app/profile/zeitgeiststudio.net",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 753019,
+        "url": "https://x.com/NameofTheWill",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 301651,
+        "url": "https://store.steampowered.com/app/2079920",
         "type": {
           "id": 13,
           "type": "Steam"
@@ -22905,7 +23130,7 @@
         "name": "Role-playing (RPG)"
       }
     ],
-    "hypes": 2,
+    "hypes": 3,
     "involved_companies": [
       {
         "id": 300613,
@@ -23339,6 +23564,14 @@
         "type": {
           "id": 13,
           "type": "Steam"
+        }
+      },
+      {
+        "id": 1122612,
+        "url": "https://milothegame.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
         }
       }
     ]
