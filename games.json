@@ -4387,414 +4387,6 @@
     ]
   },
   {
-    "id": 142498,
-    "cover": {
-      "id": 274550,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5vue.jpg"
-    },
-    "first_release_date": 1785369600,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 8,
-    "involved_companies": [
-      {
-        "id": 403506,
-        "company": {
-          "id": 39166,
-          "name": "RedPilzStudio"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 403507,
-        "company": {
-          "id": 41519,
-          "name": "Trophy Games"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "The Ranchers",
-    "platforms": [
-      {
-        "id": 3,
-        "name": "Linux"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 927650,
-        "date": 1785369600,
-        "platform": {
-          "id": 3,
-          "name": "Linux"
-        }
-      },
-      {
-        "id": 927651,
-        "date": 1785369600,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 927652,
-        "date": 1785369600,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 688810,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scerhm.jpg"
-      },
-      {
-        "id": 688808,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scerhk.jpg"
-      },
-      {
-        "id": 688809,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scerhl.jpg"
-      },
-      {
-        "id": 688807,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scerhj.jpg"
-      },
-      {
-        "id": 688811,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scerhn.jpg"
-      },
-      {
-        "id": 688812,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scerho.jpg"
-      },
-      {
-        "id": 688813,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scerhp.jpg"
-      },
-      {
-        "id": 688814,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scerhq.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "The Ranchers is an open world country-life sim for 1-4 players. Raise animals, grow crops, craft machines, build your dream house and explore the gigantic open world where mines and dangerous monsters abound. Earn the villagers\u0027 respect and esteem. And who knows, maybe find love and start a family.",
-    "videos": [
-      {
-        "id": 59776,
-        "video_id": "GxYxirLhRqE"
-      },
-      {
-        "id": 90134,
-        "video_id": "YIacTvb28po"
-      }
-    ],
-    "websites": [
-      {
-        "id": 505658,
-        "url": "https://www.twitch.tv/directory/game/The%20Ranchers",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 340791,
-        "url": "https://www.facebook.com/RanchersGame",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 166285,
-        "url": "https://store.steampowered.com/app/1501310",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 246110,
-        "url": "https://www.ranchers.game/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 246111,
-        "url": "https://www.youtube.com/channel/UCCm6oFWJZ1y0VzfJfSezXOg",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 340792,
-        "url": "https://discord.gg/invite/qrEzSJUb4E",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 246112,
-        "url": "https://twitter.com/RanchersGame",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      }
-    ]
-  },
-  {
-    "id": 366242,
-    "cover": {
-      "id": 486580,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coafg4.jpg"
-    },
-    "first_release_date": 1785369600,
-    "game_modes": [
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      }
-    ],
-    "genres": [
-      {
-        "id": 5,
-        "name": "Shooter"
-      }
-    ],
-    "hypes": 4,
-    "involved_companies": [
-      {
-        "id": 344786,
-        "company": {
-          "id": 40528,
-          "name": "Nexon Games"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 344787,
-        "company": {
-          "id": 8431,
-          "name": "Nexon"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Sudden Attack Zero Point",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 947655,
-        "date": 1785369600,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1657033,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczikp.jpg"
-      },
-      {
-        "id": 1657034,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczikq.jpg"
-      },
-      {
-        "id": 1657032,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scziko.jpg"
-      },
-      {
-        "id": 1634634,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz1ai.jpg"
-      },
-      {
-        "id": 1634635,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz1aj.jpg"
-      },
-      {
-        "id": 1634637,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz1al.jpg"
-      },
-      {
-        "id": 1634638,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz1am.jpg"
-      },
-      {
-        "id": 1634642,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz1aq.jpg"
-      },
-      {
-        "id": 1634636,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz1ak.jpg"
-      },
-      {
-        "id": 1634639,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz1an.jpg"
-      },
-      {
-        "id": 1634641,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz1ap.jpg"
-      },
-      {
-        "id": 1634633,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz1ah.jpg"
-      },
-      {
-        "id": 1634640,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz1ao.jpg"
-      },
-      {
-        "id": 1634643,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz1ar.jpg"
-      },
-      {
-        "id": 1634644,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz1as.jpg"
-      },
-      {
-        "id": 1880076,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14aoc.jpg"
-      },
-      {
-        "id": 1880077,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14aod.jpg"
-      },
-      {
-        "id": 1880078,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14aoe.jpg"
-      },
-      {
-        "id": 1880079,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14aof.jpg"
-      },
-      {
-        "id": 1880080,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14aog.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Sudden Attack has been cherished for 20 years. Now, an endless journey begins. With its signature fast-paced combat and strategic gameplay rooted in classic bomb defusal, we\u0027ve upgraded the graphics and introduced a gun customization system. Dive into action and discover a new level of excitement!",
-    "videos": [
-      {
-        "id": 190337,
-        "video_id": "DZSRBOylwsY"
-      },
-      {
-        "id": 164265,
-        "video_id": "jAkKw8uy3uI"
-      },
-      {
-        "id": 161601,
-        "video_id": "1fme7MmXZJU"
-      },
-      {
-        "id": 161602,
-        "video_id": "zW_614FreK0"
-      }
-    ],
-    "websites": [
-      {
-        "id": 866873,
-        "url": "https://store.steampowered.com/app/3576070",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 866874,
-        "url": "https://saz.nexon.com/en",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 866875,
-        "url": "https://www.facebook.com/suddenattackofficial",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 866876,
-        "url": "https://www.instagram.com/playsuddenattack/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 866877,
-        "url": "https://www.youtube.com/@Sudden_Attack_Zero_Point",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      }
-    ]
-  },
-  {
     "id": 192948,
     "cover": {
       "id": 431406,
@@ -8373,8 +7965,8 @@
         }
       },
       {
-        "id": 1094248,
-        "url": "https://github.com/kumapauz/project-reignition",
+        "id": 1124358,
+        "url": "https://gamejolt.com/games/project_reignition/1082591",
         "type": {
           "id": 1,
           "type": "Official Website"
@@ -10352,291 +9944,6 @@
     ]
   },
   {
-    "id": 337712,
-    "cover": {
-      "id": 574035,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocaxf.jpg"
-    },
-    "first_release_date": 1789430400,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      }
-    ],
-    "hypes": 4,
-    "involved_companies": [
-      {
-        "id": 313702,
-        "company": {
-          "id": 16404,
-          "name": "Jagex"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "RuneScape: Dragonwilds",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 508,
-        "name": "Nintendo Switch 2"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 728818,
-        "date": 1744675200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 922893,
-        "date": 1789430400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 922894,
-        "date": 1789430400,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 922938,
-        "date": 1789430400,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      },
-      {
-        "id": 925800,
-        "date": 1789430400,
-        "platform": {
-          "id": 508,
-          "name": "Nintendo Switch 2"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1494763,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw1d7.jpg"
-      },
-      {
-        "id": 1494764,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw1d8.jpg"
-      },
-      {
-        "id": 1494765,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw1d9.jpg"
-      },
-      {
-        "id": 1494766,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw1da.jpg"
-      },
-      {
-        "id": 1494767,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw1db.jpg"
-      },
-      {
-        "id": 1494768,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw1dc.jpg"
-      },
-      {
-        "id": 1494769,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw1dd.jpg"
-      },
-      {
-        "id": 1494770,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw1de.jpg"
-      },
-      {
-        "id": 1494771,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw1df.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "On RuneScape’s forgotten continent of Ashenfall, dragons have awoken. Gather, build, skill and craft to survive in this co-operative (1-4) survival crafting game. Only by mastering survival and uncovering ancient secrets can they hope to slay the Dragon Queen—alone or with allies.",
-    "videos": [
-      {
-        "id": 144831,
-        "video_id": "30mkN1Hw83Q"
-      },
-      {
-        "id": 146145,
-        "video_id": "NnPPTCHNqzw"
-      },
-      {
-        "id": 146146,
-        "video_id": "8IqyKEHPF_s"
-      },
-      {
-        "id": 146147,
-        "video_id": "vRUmeSIBo8Q"
-      },
-      {
-        "id": 186479,
-        "video_id": "U91dq_zpKTY"
-      },
-      {
-        "id": 186511,
-        "video_id": "a46MLlfMt2Y"
-      },
-      {
-        "id": 187266,
-        "video_id": "i-nO9FZKEM8"
-      },
-      {
-        "id": 193324,
-        "video_id": "dwuZB-3FGyg"
-      }
-    ],
-    "websites": [
-      {
-        "id": 723336,
-        "url": "https://discord.gg/TAVpSY27Kf",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 723337,
-        "url": "https://bsky.app/profile/rsdragonwilds.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 723322,
-        "url": "https://store.steampowered.com/app/1374490",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 746324,
-        "url": "https://dragonwilds.runescape.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 723333,
-        "url": "https://www.facebook.com/RuneScapeDragonwilds",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 723331,
-        "url": "https://www.twitch.tv/directory/category/runescape-dragonwilds",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 723334,
-        "url": "https://www.instagram.com/rsdragonwilds/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 723332,
-        "url": "https://x.com/RSDragonwilds",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 723335,
-        "url": "https://www.youtube.com/@RSDragonwilds",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1063485,
-        "url": "https://store.playstation.com/en-us/concept/10017405",
-        "type": {
-          "id": 23,
-          "type": "Playstation"
-        }
-      },
-      {
-        "id": 1065793,
-        "url": "https://store.epicgames.com/p/runescape-dragonwilds-3a24c7",
-        "type": {
-          "id": 16,
-          "type": "Epic"
-        }
-      },
-      {
-        "id": 1065794,
-        "url": "https://www.xbox.com/en-US/games/store/runescape-dragonwilds/9p402rwr63h4",
-        "type": {
-          "id": 22,
-          "type": "Xbox"
-        }
-      },
-      {
-        "id": 1068345,
-        "url": "https://dragonwilds.runescape.wiki/w/RuneScape:_Dragonwilds",
-        "type": {
-          "id": 2,
-          "type": "Community Wiki"
-        }
-      }
-    ]
-  },
-  {
     "id": 333095,
     "cover": {
       "id": 440919,
@@ -11405,7 +10712,7 @@
     "hypes": 4,
     "involved_companies": [
       {
-        "id": 116608,
+        "id": 415981,
         "company": {
           "id": 31004,
           "name": "CMD Studios"
@@ -11414,7 +10721,7 @@
         "publisher": true
       },
       {
-        "id": 373477,
+        "id": 416035,
         "company": {
           "id": 31003,
           "name": "Winter Crew"
@@ -11426,8 +10733,8 @@
     "name": "Fallen Tear: The Ascension",
     "platforms": [
       {
-        "id": 48,
-        "name": "PlayStation 4"
+        "id": 169,
+        "name": "Xbox Series X|S"
       },
       {
         "id": 6,
@@ -11438,43 +10745,11 @@
         "name": "PlayStation 5"
       },
       {
-        "id": 49,
-        "name": "Xbox One"
-      },
-      {
         "id": 130,
         "name": "Nintendo Switch"
       }
     ],
     "release_dates": [
-      {
-        "id": 852047,
-        "platform": {
-          "id": 130,
-          "name": "Nintendo Switch"
-        }
-      },
-      {
-        "id": 852045,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 852044,
-        "platform": {
-          "id": 48,
-          "name": "PlayStation 4"
-        }
-      },
-      {
-        "id": 852046,
-        "platform": {
-          "id": 49,
-          "name": "Xbox One"
-        }
-      },
       {
         "id": 964396,
         "date": 1790121600,
@@ -11489,6 +10764,30 @@
         "platform": {
           "id": 6,
           "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 969103,
+        "date": 1830211200,
+        "platform": {
+          "id": 130,
+          "name": "Nintendo Switch"
+        }
+      },
+      {
+        "id": 969104,
+        "date": 1830211200,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 969105,
+        "date": 1830211200,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
         }
       }
     ],
@@ -11544,6 +10843,10 @@
       {
         "id": 178232,
         "video_id": "wUv9ikhQZ_U"
+      },
+      {
+        "id": 197343,
+        "video_id": "8SyPmtYxU90"
       }
     ],
     "websites": [
@@ -12057,6 +11360,121 @@
       {
         "id": 835156,
         "url": "https://www.instagram.com/soulworksinteractive/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      }
+    ]
+  },
+  {
+    "id": 368055,
+    "cover": {
+      "id": 490725,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coain9.jpg"
+    },
+    "first_release_date": 1790640000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 347522,
+        "company": {
+          "id": 69164,
+          "name": "frutigerdev"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Frutiger Home",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 959890,
+        "date": 1790640000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1644990,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz9a6.jpg"
+      },
+      {
+        "id": 1644994,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz9aa.jpg"
+      },
+      {
+        "id": 1644995,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz9ab.jpg"
+      },
+      {
+        "id": 1641900,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz6wc.jpg"
+      },
+      {
+        "id": 1644993,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz9a9.jpg"
+      },
+      {
+        "id": 1641899,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz6wb.jpg"
+      }
+    ],
+    "status": 2,
+    "summary": "Decorate your dream frutiger home in this cozy co-op frutiger house decorating game. Pick a home layout, add from a wide range of frutiger-themed decor and hang out with your friends!",
+    "websites": [
+      {
+        "id": 875205,
+        "url": "https://store.steampowered.com/app/3935530",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1021969,
+        "url": "https://discord.gg/tmSep8WsK8",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1062128,
+        "url": "https://instagram.com/frutigerdev",
         "type": {
           "id": 8,
           "type": "Instagram"
@@ -12640,6 +12058,208 @@
         "type": {
           "id": 9,
           "type": "YouTube"
+        }
+      }
+    ]
+  },
+  {
+    "id": 341980,
+    "cover": {
+      "id": 557109,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobxv9.jpg"
+    },
+    "first_release_date": 1790812800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 35,
+        "name": "Card \u0026 Board Game"
+      }
+    ],
+    "hypes": 7,
+    "involved_companies": [
+      {
+        "id": 381807,
+        "company": {
+          "id": 68166,
+          "name": "UmiArt"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 381808,
+        "company": {
+          "id": 58557,
+          "name": "offbrand games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Demon Bluff",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 970316,
+        "date": 1790812800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1818807,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12zef.jpg"
+      },
+      {
+        "id": 1818809,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12zeh.jpg"
+      },
+      {
+        "id": 1818811,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12zej.jpg"
+      },
+      {
+        "id": 1818804,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12zec.jpg"
+      },
+      {
+        "id": 1818806,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12zee.jpg"
+      },
+      {
+        "id": 1818805,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12zed.jpg"
+      },
+      {
+        "id": 1818808,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12zeg.jpg"
+      },
+      {
+        "id": 1818810,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12zei.jpg"
+      }
+    ],
+    "status": 3,
+    "summary": "The cards lie! In this single-player social deduction game, demons have infiltrated your village and disguised themselves as allies. Every card you turn over is either a friend or a foe. Can you see through their bluff?",
+    "videos": [
+      {
+        "id": 190540,
+        "video_id": "qw3uyq22VMU"
+      },
+      {
+        "id": 156584,
+        "video_id": "xHF5IZXS6Z8"
+      },
+      {
+        "id": 181485,
+        "video_id": "A9ta1lvocxI"
+      }
+    ],
+    "websites": [
+      {
+        "id": 738425,
+        "url": "https://store.steampowered.com/app/3522600",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 739434,
+        "url": "https://www.twitch.tv/directory/category/demon-bluff",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 862691,
+        "url": "https://demonbluff.wiki.gg/",
+        "type": {
+          "id": 2,
+          "type": "Community Wiki"
+        }
+      },
+      {
+        "id": 862690,
+        "url": "https://uzabiart.itch.io/demon-bluff",
+        "type": {
+          "id": 15,
+          "type": "Itch"
+        }
+      },
+      {
+        "id": 1044120,
+        "url": "https://bsky.app/profile/demonbluff.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 1044121,
+        "url": "https://www.youtube.com/user/Uzabi",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1044122,
+        "url": "https://www.instagram.com/uzabiart/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1044719,
+        "url": "https://x.com/DemonBluff",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1044721,
+        "url": "https://discord.gg/AkDNWCVg",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1044720,
+        "url": "https://www.reddit.com/r/DemonBluff/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
         }
       }
     ]
@@ -18056,208 +17676,6 @@
         "type": {
           "id": 13,
           "type": "Steam"
-        }
-      }
-    ]
-  },
-  {
-    "id": 341980,
-    "cover": {
-      "id": 557109,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobxv9.jpg"
-    },
-    "first_release_date": 1798675200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 9,
-        "name": "Puzzle"
-      },
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      },
-      {
-        "id": 35,
-        "name": "Card \u0026 Board Game"
-      }
-    ],
-    "hypes": 7,
-    "involved_companies": [
-      {
-        "id": 381807,
-        "company": {
-          "id": 68166,
-          "name": "UmiArt"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 381808,
-        "company": {
-          "id": 58557,
-          "name": "offbrand games"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Demon Bluff",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 880674,
-        "date": 1798675200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1818804,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12zec.jpg"
-      },
-      {
-        "id": 1818806,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12zee.jpg"
-      },
-      {
-        "id": 1818807,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12zef.jpg"
-      },
-      {
-        "id": 1818809,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12zeh.jpg"
-      },
-      {
-        "id": 1818805,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12zed.jpg"
-      },
-      {
-        "id": 1818808,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12zeg.jpg"
-      },
-      {
-        "id": 1818810,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12zei.jpg"
-      },
-      {
-        "id": 1818811,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12zej.jpg"
-      }
-    ],
-    "status": 3,
-    "summary": "The cards lie! In this single-player social deduction game, demons have infiltrated your village and disguised themselves as allies. Every card you turn over is either a friend or a foe. Can you see through their bluff?",
-    "videos": [
-      {
-        "id": 190540,
-        "video_id": "qw3uyq22VMU"
-      },
-      {
-        "id": 156584,
-        "video_id": "xHF5IZXS6Z8"
-      },
-      {
-        "id": 181485,
-        "video_id": "A9ta1lvocxI"
-      }
-    ],
-    "websites": [
-      {
-        "id": 738425,
-        "url": "https://store.steampowered.com/app/3522600",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 739434,
-        "url": "https://www.twitch.tv/directory/category/demon-bluff",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 862691,
-        "url": "https://demonbluff.wiki.gg/",
-        "type": {
-          "id": 2,
-          "type": "Community Wiki"
-        }
-      },
-      {
-        "id": 862690,
-        "url": "https://uzabiart.itch.io/demon-bluff",
-        "type": {
-          "id": 15,
-          "type": "Itch"
-        }
-      },
-      {
-        "id": 1044120,
-        "url": "https://bsky.app/profile/demonbluff.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 1044121,
-        "url": "https://www.youtube.com/user/Uzabi",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1044122,
-        "url": "https://www.instagram.com/uzabiart/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 1044719,
-        "url": "https://x.com/DemonBluff",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1044721,
-        "url": "https://discord.gg/AkDNWCVg",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 1044720,
-        "url": "https://www.reddit.com/r/DemonBluff/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
         }
       }
     ]
