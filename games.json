@@ -4387,187 +4387,6 @@
     ]
   },
   {
-    "id": 192948,
-    "cover": {
-      "id": 431406,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co98vi.jpg"
-    },
-    "first_release_date": 1785456000,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 2,
-        "name": "Point-and-click"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 413875,
-        "company": {
-          "id": 71434,
-          "name": "Sirio Art Games"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Occulto",
-    "platforms": [
-      {
-        "id": 3,
-        "name": "Linux"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 939775,
-        "date": 1785456000,
-        "platform": {
-          "id": 3,
-          "name": "Linux"
-        }
-      },
-      {
-        "id": 939776,
-        "date": 1785456000,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1920715,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15617.jpg"
-      },
-      {
-        "id": 1920722,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1561e.jpg"
-      },
-      {
-        "id": 1920723,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1561f.jpg"
-      },
-      {
-        "id": 1920720,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1561c.jpg"
-      },
-      {
-        "id": 1920717,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15619.jpg"
-      },
-      {
-        "id": 1920719,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1561b.jpg"
-      },
-      {
-        "id": 1920716,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15618.jpg"
-      },
-      {
-        "id": 1920718,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1561a.jpg"
-      },
-      {
-        "id": 1920721,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1561d.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Occulto is a non-verbal, entirely hand-drawn point-and-click adventure inspired by Machinarium and its beautiful visual storytelling. Guide Eliot through an atmospheric fairy-tale world where mysteries are solved without a single word.",
-    "videos": [
-      {
-        "id": 137340,
-        "video_id": "3Z_gRZBsXn8"
-      }
-    ],
-    "websites": [
-      {
-        "id": 267778,
-        "url": "https://store.steampowered.com/app/1892630",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 267779,
-        "url": "https://www.sirioartgames.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 485504,
-        "url": "https://www.twitch.tv/directory/game/Occulto",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 702930,
-        "url": "https://www.reddit.com/r/SirioArtGames/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 702928,
-        "url": "https://twitter.com/SirioArtGames",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 702929,
-        "url": "https://www.instagram.com/sirioartgames/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 702927,
-        "url": "https://www.youtube.com/@siriogamessirioartgames5539",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 702926,
-        "url": "https://play.google.com/store/apps/details?id\u003dcom.SirioArtGames.OccultoDemo",
-        "type": {
-          "id": 12,
-          "type": "Google Play"
-        }
-      }
-    ]
-  },
-  {
     "id": 320975,
     "cover": {
       "id": 599628,
@@ -11455,6 +11274,12 @@
     ],
     "status": 2,
     "summary": "Decorate your dream frutiger home in this cozy co-op frutiger house decorating game. Pick a home layout, add from a wide range of frutiger-themed decor and hang out with your friends!",
+    "videos": [
+      {
+        "id": 197871,
+        "video_id": "g0e7vrE8Wnw"
+      }
+    ],
     "websites": [
       {
         "id": 875205,
@@ -12553,119 +12378,6 @@
     ]
   },
   {
-    "id": 403093,
-    "cover": {
-      "id": 598828,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocu24.jpg"
-    },
-    "first_release_date": 1793059200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 13,
-        "name": "Simulator"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 405492,
-        "company": {
-          "id": 79780,
-          "name": "Done by Pan"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Archivist: Tidy Up \u0026 Sort",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 949193,
-        "date": 1793059200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1842109,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13hdp.jpg"
-      },
-      {
-        "id": 1844587,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13jaj.jpg"
-      },
-      {
-        "id": 1842110,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13hdq.jpg"
-      },
-      {
-        "id": 1842111,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13hdr.jpg"
-      },
-      {
-        "id": 1842112,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13hds.jpg"
-      }
-    ],
-    "status": 2,
-    "summary": "Cozy Archivist Simulator is a first-person organizing simulation game set in an archive. The player works with piles of document folders, reads filing instructions, and places files on shelves according to archive rules.\n\nThe gameplay focuses on sorting and arranging documents by parameters such as category, subcategory, date, number, and other filing criteria. Tasks include processing incoming boxes, finding requested files, checking records, cleaning up workspaces, correcting misplaced documents, and restoring order to archive rooms.\n\nThe game features Sandbox Mode with selectable levels and archive tasks, and Campaign Mode structured around a series of working days with different assignments.",
-    "videos": [
-      {
-        "id": 185450,
-        "video_id": "5DqEUUbQZus"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1112600,
-        "url": "https://store.steampowered.com/app/4454280",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1091151,
-        "url": "https://x.com/donebypan",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1091152,
-        "url": "https://www.tumblr.com/donebypan",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1091153,
-        "url": "https://www.youtube.com/@donebypan",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      }
-    ]
-  },
-  {
     "id": 405677,
     "cover": {
       "id": 602292,
@@ -13016,6 +12728,179 @@
         "type": {
           "id": 18,
           "type": "Discord"
+        }
+      }
+    ]
+  },
+  {
+    "id": 378896,
+    "cover": {
+      "id": 517528,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cob3bs.jpg"
+    },
+    "first_release_date": 1793750400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 7,
+    "involved_companies": [
+      {
+        "id": 406003,
+        "company": {
+          "id": 79889,
+          "name": "Gest.LT"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Lost Host",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 970685,
+        "date": 1793750400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1703588,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ihw.jpg"
+      },
+      {
+        "id": 1703590,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ihy.jpg"
+      },
+      {
+        "id": 1703591,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ihz.jpg"
+      },
+      {
+        "id": 1703587,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ihv.jpg"
+      },
+      {
+        "id": 1703585,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10iht.jpg"
+      },
+      {
+        "id": 1703586,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ihu.jpg"
+      },
+      {
+        "id": 1703592,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ii0.jpg"
+      },
+      {
+        "id": 1703589,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ihx.jpg"
+      }
+    ],
+    "status": 3,
+    "summary": "Lost Host is a story-driven adventure puzzle game about a small toy car searching for its missing owner.\nWhen the boy mysteriously disappears, the toy car begins a journey through the house and beyond, exploring dark rooms, hallways, foggy streets, and abandoned places while following clues to uncover what happened.\n\nPlayers control the toy car as it navigates dangerous environments, solves physics-based puzzles, and interacts with objects to progress. The world is full of hazards for a tiny toy car - heights, fire, water - as well as enemies such as dogs, robotic vacuums, and hostile toy creatures.\n\nThe game combines atmospheric exploration, light horror elements, and emotional storytelling, creating a family-friendly adventure centered on mystery, discovery, and survival in a large, human-sized world.",
+    "videos": [
+      {
+        "id": 169288,
+        "video_id": "yzPZGDb9ZSc"
+      },
+      {
+        "id": 172704,
+        "video_id": "thtniwVuDkw"
+      }
+    ],
+    "websites": [
+      {
+        "id": 921927,
+        "url": "https://store.steampowered.com/app/3273260/Lost_Host/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 921930,
+        "url": "https://x.com/gestLTstudio",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 921931,
+        "url": "https://www.facebook.com/gestLT3D",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 921932,
+        "url": "https://www.instagram.com/gest.lt/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 921933,
+        "url": "https://www.youtube.com/@Gestlt",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 921934,
+        "url": "https://discord.gg/Cd3zzMQPuA",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 921935,
+        "url": "https://bsky.app/profile/gestlt.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 953060,
+        "url": "https://gest.lt/projects/JvElVz",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 979789,
+        "url": "https://www.twitch.tv/directory/category/lost-host",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
         }
       }
     ]
@@ -24746,199 +24631,6 @@
         "type": {
           "id": 8,
           "type": "Instagram"
-        }
-      }
-    ]
-  },
-  {
-    "id": 396808,
-    "cover": {
-      "id": 553592,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobv5k.jpg"
-    },
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 8,
-    "involved_companies": [
-      {
-        "id": 379053,
-        "company": {
-          "id": 45422,
-          "name": "Ludogram"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 379054,
-        "company": {
-          "id": 45898,
-          "name": "Twin Sails Interactive"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Ascenders: Beyond the Peak",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 895864,
-        "date": 1790726400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1810028,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12smk.jpg"
-      },
-      {
-        "id": 1810019,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12smb.jpg"
-      },
-      {
-        "id": 1810020,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12smc.jpg"
-      },
-      {
-        "id": 1810021,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12smd.jpg"
-      },
-      {
-        "id": 1810022,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12sme.jpg"
-      },
-      {
-        "id": 1810030,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12smm.jpg"
-      },
-      {
-        "id": 1810023,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12smf.jpg"
-      },
-      {
-        "id": 1810024,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12smg.jpg"
-      },
-      {
-        "id": 1810025,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12smh.jpg"
-      },
-      {
-        "id": 1810027,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12smj.jpg"
-      },
-      {
-        "id": 1867107,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc140o3.jpg"
-      },
-      {
-        "id": 1867108,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc140o4.jpg"
-      },
-      {
-        "id": 1867109,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc140o5.jpg"
-      },
-      {
-        "id": 1867110,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc140o6.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Ascenders: Beyond the Peak is a turn-based exploration roguelite where survival is vertical. Lead a team of alpinists to recover ancient artifacts from cursed peaks, prepare your expedition, evolve your climbers, master rope mechanics, and face H.P. Lovecraft-inspired horrors within the mountain.",
-    "videos": [
-      {
-        "id": 180267,
-        "video_id": "PqWHj46uim0"
-      },
-      {
-        "id": 187024,
-        "video_id": "iDbXjMzZ84s"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1037735,
-        "url": "https://store.steampowered.com/app/4267860",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1037736,
-        "url": "https://x.com/ascenderspeak",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1037737,
-        "url": "https://www.instagram.com/AscendersPeak",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 1037738,
-        "url": "https://www.youtube.com/@TwinSailsInteractive",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1037739,
-        "url": "https://www.reddit.com/r/AscendersPeak",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 1037740,
-        "url": "https://discord.gg/CAbS9JS5eP",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 1037752,
-        "url": "https://www.twitch.tv/directory/category/ascenders-beyond-the-peak",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
         }
       }
     ]
