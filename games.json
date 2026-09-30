@@ -3458,219 +3458,6 @@
     ]
   },
   {
-    "id": 289983,
-    "cover": {
-      "id": 469948,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coa2m4.jpg"
-    },
-    "first_release_date": 1769644800,
-    "game_modes": [
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 5,
-        "name": "Shooter"
-      },
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 25,
-        "name": "Hack and slash/Beat \u0027em up"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 14,
-    "involved_companies": [
-      {
-        "id": 352731,
-        "company": {
-          "id": 64063,
-          "name": "Oneway Ticket Studio"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "The Midnight Walkers",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 818136,
-        "date": 1790726400,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 818137,
-        "date": 1790726400,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      },
-      {
-        "id": 818135,
-        "date": 1790726400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 836411,
-        "date": 1769644800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1664131,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczo1v.jpg"
-      },
-      {
-        "id": 1664132,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczo1w.jpg"
-      },
-      {
-        "id": 1664133,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczo1x.jpg"
-      },
-      {
-        "id": 1664134,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczo1y.jpg"
-      },
-      {
-        "id": 1664130,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczo1u.jpg"
-      },
-      {
-        "id": 1664265,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczo5l.jpg"
-      },
-      {
-        "id": 1664266,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczo5m.jpg"
-      },
-      {
-        "id": 1664264,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczo5k.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Fight, Scavenge, and Extract in The Midnight Walkers, a hardcore FPS game with deadly zombies, dangerous players, and valuable loot. Craft weapons, armor, and consumables; trade items; and maintain your hideout. Escape Liberty Grand Center mega complex, and thrive...or die and lose everything.",
-    "videos": [
-      {
-        "id": 164916,
-        "video_id": "EHkAKLQpJZk"
-      },
-      {
-        "id": 150917,
-        "video_id": "5KOGgkem7dU"
-      },
-      {
-        "id": 155006,
-        "video_id": "1gp1Vn7IU0c"
-      }
-    ],
-    "websites": [
-      {
-        "id": 826455,
-        "url": "https://www.twitch.tv/directory/category/the-midnight-walkers",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 822248,
-        "url": "https://www.instagram.com/themidnightwalkers",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 798485,
-        "url": "https://www.youtube.com/@TheMidnightWalkersDev",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 798484,
-        "url": "https://x.com/owt_official_x",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 798482,
-        "url": "https://onewayticketstudio.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 798486,
-        "url": "https://www.reddit.com/r/themidnightwalkers/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 798487,
-        "url": "https://discord.gg/themidnightwalkers",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 619934,
-        "url": "https://store.steampowered.com/app/2795540",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      }
-    ]
-  },
-  {
     "id": 366709,
     "cover": {
       "id": 487238,
@@ -11187,6 +10974,195 @@
     ]
   },
   {
+    "id": 397601,
+    "cover": {
+      "id": 554922,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobw6i.jpg"
+    },
+    "first_release_date": 1790553600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 380346,
+        "company": {
+          "id": 75639,
+          "name": "EXA Labs"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Exaverse",
+    "platforms": [
+      {
+        "id": 34,
+        "name": "Android"
+      },
+      {
+        "id": 39,
+        "name": "iOS"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 970697,
+        "date": 1796083200,
+        "platform": {
+          "id": 34,
+          "name": "Android"
+        }
+      },
+      {
+        "id": 970698,
+        "date": 1796083200,
+        "platform": {
+          "id": 39,
+          "name": "iOS"
+        }
+      },
+      {
+        "id": 970699,
+        "date": 1790553600,
+        "platform": {
+          "id": 39,
+          "name": "iOS"
+        }
+      },
+      {
+        "id": 970700,
+        "date": 1790640000,
+        "platform": {
+          "id": 34,
+          "name": "Android"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1934189,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15gfh.jpg"
+      },
+      {
+        "id": 1934187,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15gff.jpg"
+      },
+      {
+        "id": 1934186,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15gfe.jpg"
+      },
+      {
+        "id": 1934188,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15gfg.jpg"
+      },
+      {
+        "id": 1934191,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15gfj.jpg"
+      },
+      {
+        "id": 1934192,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15gfk.jpg"
+      },
+      {
+        "id": 1934193,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15gfl.jpg"
+      },
+      {
+        "id": 1934190,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15gfi.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Extinction of the Exaverse is a mobile roguelike where evolved dinosaurs fight back against invading AI machines. Players progress through biome-based runs, choosing powerful upgrades and building unique combat styles each attempt.",
+    "videos": [
+      {
+        "id": 180632,
+        "video_id": "aMvisv1gA28"
+      },
+      {
+        "id": 197852,
+        "video_id": "cV_zgYYNyWc"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1124866,
+        "url": "https://reddit.com/r/ExaverseGame",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 1125316,
+        "url": "https://www.twitch.tv/directory/category/exaverse",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 1040527,
+        "url": "https://exaverse.gg/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1040529,
+        "url": "https://x.com/Exaverse_gg",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1040530,
+        "url": "https://instagram.com/Exaverse_gg",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1040531,
+        "url": "https://youtube.com/@Exaverse_gg",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1040532,
+        "url": "https://discord.gg/snZQdjSR3P",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      }
+    ]
+  },
+  {
     "id": 368055,
     "cover": {
       "id": 490725,
@@ -11741,6 +11717,219 @@
         "type": {
           "id": 6,
           "type": "Twitch"
+        }
+      }
+    ]
+  },
+  {
+    "id": 289983,
+    "cover": {
+      "id": 469948,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coa2m4.jpg"
+    },
+    "first_release_date": 1790726400,
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 14,
+    "involved_companies": [
+      {
+        "id": 352731,
+        "company": {
+          "id": 64063,
+          "name": "Oneway Ticket Studio"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "The Midnight Walkers",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 818136,
+        "date": 1790726400,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 818137,
+        "date": 1790726400,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      },
+      {
+        "id": 818135,
+        "date": 1790726400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 836411,
+        "date": 1769644800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1664131,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczo1v.jpg"
+      },
+      {
+        "id": 1664132,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczo1w.jpg"
+      },
+      {
+        "id": 1664133,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczo1x.jpg"
+      },
+      {
+        "id": 1664134,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczo1y.jpg"
+      },
+      {
+        "id": 1664130,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczo1u.jpg"
+      },
+      {
+        "id": 1664265,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczo5l.jpg"
+      },
+      {
+        "id": 1664266,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczo5m.jpg"
+      },
+      {
+        "id": 1664264,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczo5k.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Fight, Scavenge, and Extract in The Midnight Walkers, a hardcore FPS game with deadly zombies, dangerous players, and valuable loot. Craft weapons, armor, and consumables; trade items; and maintain your hideout. Escape Liberty Grand Center mega complex, and thrive...or die and lose everything.",
+    "videos": [
+      {
+        "id": 164916,
+        "video_id": "EHkAKLQpJZk"
+      },
+      {
+        "id": 150917,
+        "video_id": "5KOGgkem7dU"
+      },
+      {
+        "id": 155006,
+        "video_id": "1gp1Vn7IU0c"
+      }
+    ],
+    "websites": [
+      {
+        "id": 826455,
+        "url": "https://www.twitch.tv/directory/category/the-midnight-walkers",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 822248,
+        "url": "https://www.instagram.com/themidnightwalkers",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 798485,
+        "url": "https://www.youtube.com/@TheMidnightWalkersDev",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 798484,
+        "url": "https://x.com/owt_official_x",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 798482,
+        "url": "https://onewayticketstudio.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 798486,
+        "url": "https://www.reddit.com/r/themidnightwalkers/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 798487,
+        "url": "https://discord.gg/themidnightwalkers",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 619934,
+        "url": "https://store.steampowered.com/app/2795540",
+        "type": {
+          "id": 13,
+          "type": "Steam"
         }
       }
     ]
