@@ -11171,10 +11171,6 @@
     "summary": "Extinction of the Exaverse is a mobile roguelike where evolved dinosaurs fight back against invading AI machines. Players progress through biome-based runs, choosing powerful upgrades and building unique combat styles each attempt.",
     "videos": [
       {
-        "id": 180632,
-        "video_id": "aMvisv1gA28"
-      },
-      {
         "id": 197852,
         "video_id": "cV_zgYYNyWc"
       }
@@ -18655,160 +18651,6 @@
     ]
   },
   {
-    "id": 364175,
-    "cover": {
-      "id": 492080,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coajow.jpg"
-    },
-    "first_release_date": 1798675200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      }
-    ],
-    "hypes": 10,
-    "involved_companies": [
-      {
-        "id": 349141,
-        "company": {
-          "id": 24564,
-          "name": "Netmarble"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 354944,
-        "company": {
-          "id": 70722,
-          "name": "Netmarble Monster"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Project Evilbane",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 810609,
-        "date": 1830211200,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      },
-      {
-        "id": 810610,
-        "date": 1798675200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1650076,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczd7g.jpg"
-      },
-      {
-        "id": 1650078,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczd7i.jpg"
-      },
-      {
-        "id": 1650080,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczd7k.jpg"
-      },
-      {
-        "id": 1650081,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczd7l.jpg"
-      },
-      {
-        "id": 1650077,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczd7h.jpg"
-      },
-      {
-        "id": 1650079,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczd7j.jpg"
-      },
-      {
-        "id": 1650082,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczd7m.jpg"
-      }
-    ],
-    "status": 2,
-    "summary": "Project Evilbane is a dynamic and action-packed strategy-based experience that you can tackle solo or with friends. Switch freely between ranged and melee weapons, and customize your skills for every situation to create your own unique warrior. Your choices and teamwork will determine your victory!",
-    "videos": [
-      {
-        "id": 160617,
-        "video_id": "9Gq8_KdkkSw"
-      },
-      {
-        "id": 163282,
-        "video_id": "pnecjLoyuKw"
-      }
-    ],
-    "websites": [
-      {
-        "id": 879231,
-        "url": "https://store.steampowered.com/app/3718160",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 879232,
-        "url": "https://www.twitch.tv/directory/category/project-evilbane",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 860037,
-        "url": "https://evilbane.netmarble.com/en",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 860038,
-        "url": "https://discord.gg/RfYK4YvJ",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      }
-    ]
-  },
-  {
     "id": 370095,
     "cover": {
       "id": 492543,
@@ -22331,6 +22173,130 @@
         "type": {
           "id": 16,
           "type": "Epic"
+        }
+      }
+    ]
+  },
+  {
+    "id": 415859,
+    "cover": {
+      "id": 597453,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocszx.jpg"
+    },
+    "first_release_date": 1806451200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "name": "Find The Needle",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 960655,
+        "date": 1806451200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1913834,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc150q2.jpg"
+      },
+      {
+        "id": 1913835,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc150q3.jpg"
+      },
+      {
+        "id": 1913836,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc150q4.jpg"
+      },
+      {
+        "id": 1913837,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc150q5.jpg"
+      },
+      {
+        "id": 1913838,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc150q6.jpg"
+      }
+    ],
+    "status": 3,
+    "summary": "Your a pleasant farmer that dropped a bag of needles into a haystack, now your goal is to find the needle. Incremental game where you build multiple Satisfactory style structures and create real production lines to construct the biggest hay processing and needle finding factory possible.",
+    "websites": [
+      {
+        "id": 1112183,
+        "url": "https://store.steampowered.com/app/5160800/Find_The_Needle/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1112184,
+        "url": "https://findtheneedle.itch.io/find-the-needle",
+        "type": {
+          "id": 15,
+          "type": "Itch"
+        }
+      },
+      {
+        "id": 1112185,
+        "url": "https://discord.gg/ttV3yTtpn",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1116140,
+        "url": "https://x.com/haydeveloper",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1116141,
+        "url": "https://www.instagram.com/findtheneedledev/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1116142,
+        "url": "https://www.youtube.com/@FindTheNeedleDev",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1116143,
+        "url": "https://www.reddit.com/r/FindTheNeedle/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
         }
       }
     ]
