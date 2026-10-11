@@ -17291,6 +17291,212 @@
     ]
   },
   {
+    "id": 332935,
+    "cover": {
+      "id": 440655,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9g0f.jpg"
+    },
+    "first_release_date": 1743552000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 419620,
+        "company": {
+          "id": 11421,
+          "name": "Redlock Studio"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 419621,
+        "company": {
+          "id": 72975,
+          "name": "Enclave"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 419622,
+        "company": {
+          "id": 1460,
+          "name": "Plug In Digital"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Blackshard",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 723508,
+        "date": 1743552000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 974625,
+        "date": 1790035200,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      },
+      {
+        "id": 974626,
+        "date": 1790035200,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1469691,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvi0r.jpg"
+      },
+      {
+        "id": 1469722,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvi1m.jpg"
+      }
+    ],
+    "summary": "Blackshard is a first-person exploration game. Wander through a strange megastructure, the Labyrinth, to unravel its mysteries... Your behavior within the Labyrinth will define the outcome of your journey. What path will you choose to take?",
+    "videos": [
+      {
+        "id": 188464,
+        "video_id": "iW5BRBgs-ko"
+      },
+      {
+        "id": 188465,
+        "video_id": "ALUmEL7hWYE"
+      }
+    ],
+    "websites": [
+      {
+        "id": 713708,
+        "url": "https://discord.gg/redlockstudio",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1075419,
+        "url": "https://www.youtube.com/@redlock_studio",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 804471,
+        "url": "https://x.com/RedlockStudio/",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 804536,
+        "url": "https://bsky.app/profile/redlockstudio.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 800041,
+        "url": "https://store.epicgames.com/en-US/p/blackshard-dbd0e5",
+        "type": {
+          "id": 16,
+          "type": "Epic"
+        }
+      },
+      {
+        "id": 714031,
+        "url": "https://store.steampowered.com/app/3223390/BLACKSHARD/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 713705,
+        "url": "https://www.blackshard-game.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 713707,
+        "url": "https://www.instagram.com/redlockstudio/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1077719,
+        "url": "https://www.gog.com/game/blackshard",
+        "type": {
+          "id": 17,
+          "type": "GOG"
+        }
+      },
+      {
+        "id": 1118544,
+        "url": "https://store.playstation.com/en-us/concept/10019373",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
+        }
+      },
+      {
+        "id": 1128032,
+        "url": "https://www.xbox.com/en-us/games/store/-/9PN2Z0N9FPHQ",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
+      }
+    ]
+  },
+  {
     "id": 165392,
     "cover": {
       "id": 172567,
@@ -23591,6 +23797,14 @@
         "type": {
           "id": 18,
           "type": "Discord"
+        }
+      },
+      {
+        "id": 1131609,
+        "url": "https://www.xbox.com/en-us/games/store/-/9NQ6XPGTPX86",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
         }
       },
       {
@@ -31145,6 +31359,14 @@
         "type": {
           "id": 24,
           "type": "Nintendo"
+        }
+      },
+      {
+        "id": 1131608,
+        "url": "https://www.xbox.com/en-us/games/store/-/9P72PP1P22GJ",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
         }
       },
       {
@@ -40755,199 +40977,6 @@
     ]
   },
   {
-    "id": 388771,
-    "cover": {
-      "id": 576852,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocd3o.jpg"
-    },
-    "first_release_date": 1784246400,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 3,
-    "involved_companies": [
-      {
-        "id": 405314,
-        "company": {
-          "id": 28883,
-          "name": "Nautlander Studio"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 405313,
-        "company": {
-          "id": 27828,
-          "name": "Future Friends Games"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Greedy Greedy Gnomes",
-    "platforms": [
-      {
-        "id": 82,
-        "name": "Web browser"
-      },
-      {
-        "id": 3,
-        "name": "Linux"
-      },
-      {
-        "id": 34,
-        "name": "Android"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 872052,
-        "date": 1770249600,
-        "platform": {
-          "id": 82,
-          "name": "Web browser"
-        }
-      },
-      {
-        "id": 948689,
-        "date": 1786492800,
-        "platform": {
-          "id": 3,
-          "name": "Linux"
-        }
-      },
-      {
-        "id": 948687,
-        "date": 1786492800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 959772,
-        "date": 1784246400,
-        "platform": {
-          "id": 34,
-          "name": "Android"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1756858,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11nlm.jpg"
-      },
-      {
-        "id": 1756855,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11nlj.jpg"
-      },
-      {
-        "id": 1756857,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11nll.jpg"
-      },
-      {
-        "id": 1756859,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11nln.jpg"
-      },
-      {
-        "id": 1756861,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11nlp.jpg"
-      },
-      {
-        "id": 1756856,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11nlk.jpg"
-      },
-      {
-        "id": 1756860,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11nlo.jpg"
-      }
-    ],
-    "summary": "A short incremental game set in a sleepy RPG town. Smash pots, recruit gnomes, raid mines, unlock upgrades, and optimize everything until you’re FILTHY STINKING RICH!",
-    "videos": [
-      {
-        "id": 175660,
-        "video_id": "M6UsYJEQ_oU"
-      },
-      {
-        "id": 185668,
-        "video_id": "O1f0-UGSNsU"
-      },
-      {
-        "id": 189830,
-        "video_id": "uRMf5FxezUo"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1002271,
-        "url": "https://nautlander.itch.io/eldoridle-demo",
-        "type": {
-          "id": 15,
-          "type": "Itch"
-        }
-      },
-      {
-        "id": 1082367,
-        "url": "https://www.tiktok.com/@greedygreedygnomes",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1082368,
-        "url": "https://x.com/greedygnomes",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1082369,
-        "url": "https://instagram.com/greedygreedygnomes",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 1082370,
-        "url": "https://bsky.app/profile/greedygreedygnomes.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 1082421,
-        "url": "https://store.steampowered.com/app/4356400/Greedy_Greedy_Gnomes/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      }
-    ]
-  },
-  {
     "id": 347887,
     "cover": {
       "id": 546203,
@@ -43199,170 +43228,6 @@
     ]
   },
   {
-    "id": 344206,
-    "cover": {
-      "id": 458597,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9tut.jpg"
-    },
-    "first_release_date": 1786492800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 8,
-        "name": "Platform"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 350559,
-        "company": {
-          "id": 55180,
-          "name": "Ovsko"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "The Cave Diver",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 933197,
-        "date": 1786492800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1533120,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwuyo.jpg"
-      },
-      {
-        "id": 1533121,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwuyp.jpg"
-      },
-      {
-        "id": 1533122,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwuyq.jpg"
-      },
-      {
-        "id": 1533123,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwuyr.jpg"
-      },
-      {
-        "id": 1533124,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwuys.jpg"
-      },
-      {
-        "id": 1533125,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwuyt.jpg"
-      },
-      {
-        "id": 1533126,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwuyu.jpg"
-      },
-      {
-        "id": 1533127,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwuyv.jpg"
-      },
-      {
-        "id": 1533128,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwuyw.jpg"
-      }
-    ],
-    "summary": "Crawl down a suffocating cave system using only your arms in this punishing physics-horror adventure. What morbid force is calling you deeper into the heart of the caves?",
-    "videos": [
-      {
-        "id": 190501,
-        "video_id": "Wg4PvPcJKN0"
-      },
-      {
-        "id": 150406,
-        "video_id": "jaBbkBkT1Kg"
-      },
-      {
-        "id": 152022,
-        "video_id": "WHQazOR5SR4"
-      },
-      {
-        "id": 164036,
-        "video_id": "1Q_AxAH0NtM"
-      },
-      {
-        "id": 185773,
-        "video_id": "HNYM2svKink"
-      }
-    ],
-    "websites": [
-      {
-        "id": 793755,
-        "url": "https://www.youtube.com/@OvskoDev",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 793756,
-        "url": "https://bsky.app/profile/ovsko.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 796335,
-        "url": "https://x.com/ovsko",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 793754,
-        "url": "https://twitter.com/ovsko",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 793753,
-        "url": "https://store.steampowered.com/app/3004390",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 848876,
-        "url": "https://discord.gg/7E8GyrqMkg",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      }
-    ]
-  },
-  {
     "id": 356188,
     "cover": {
       "id": 473525,
@@ -43572,170 +43437,6 @@
         "type": {
           "id": 22,
           "type": "Xbox"
-        }
-      }
-    ]
-  },
-  {
-    "id": 386228,
-    "cover": {
-      "id": 570728,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc8dk.jpg"
-    },
-    "first_release_date": 1786492800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 2,
-        "name": "Point-and-click"
-      },
-      {
-        "id": 9,
-        "name": "Puzzle"
-      },
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 393962,
-        "company": {
-          "id": 7945,
-          "name": "Alawar"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Security 51",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 946312,
-        "date": 1786492800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 948667,
-        "date": 1786492800,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1743929,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11dmh.jpg"
-      },
-      {
-        "id": 1743930,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11dmi.jpg"
-      },
-      {
-        "id": 1743931,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11dmj.jpg"
-      },
-      {
-        "id": 1743932,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11dmk.jpg"
-      },
-      {
-        "id": 1743933,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11dml.jpg"
-      },
-      {
-        "id": 1743934,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11dmm.jpg"
-      },
-      {
-        "id": 1743935,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11dmn.jpg"
-      }
-    ],
-    "summary": "You\u0027re a security officer deep within Area 51. Scan the staff, verify clearances, and decide who can enter the elevator and who absolutely mustn\u0027t leave. The deeper you go, the less certain you are that anyone standing before you is still human.",
-    "videos": [
-      {
-        "id": 187587,
-        "video_id": "eXgMshF4k3g"
-      }
-    ],
-    "websites": [
-      {
-        "id": 992580,
-        "url": "https://alawar.com/games/security-51",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 988968,
-        "url": "https://store.steampowered.com/app/4246860",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1055464,
-        "url": "https://www.gog.com/en/game/security_51",
-        "type": {
-          "id": 17,
-          "type": "GOG"
-        }
-      },
-      {
-        "id": 1062198,
-        "url": "https://discord.gg/alawar",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 1062199,
-        "url": "https://x.com/alawarteam",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1062200,
-        "url": "https://www.youtube.com/@alawar",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
         }
       }
     ]
@@ -54394,6 +54095,14 @@
         "type": {
           "id": 3,
           "type": "Wikipedia"
+        }
+      },
+      {
+        "id": 1131697,
+        "url": "https://www.xbox.com/en-us/games/store/-/9MTP6NRFJBGR",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
         }
       },
       {
@@ -78350,6 +78059,14 @@
           "id": 5,
           "type": "Twitter"
         }
+      },
+      {
+        "id": 1131517,
+        "url": "https://en.wikipedia.org/wiki/NASCAR_26",
+        "type": {
+          "id": 3,
+          "type": "Wikipedia"
+        }
       }
     ]
   },
@@ -87302,7 +87019,7 @@
     "hypes": 3,
     "involved_companies": [
       {
-        "id": 411388,
+        "id": 419540,
         "company": {
           "id": 12527,
           "name": "Studio Chahut"
@@ -88266,238 +87983,6 @@
     ]
   },
   {
-    "id": 215773,
-    "cover": {
-      "id": 383144,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co87mw.jpg"
-    },
-    "first_release_date": 1790726400,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 8,
-        "name": "Platform"
-      },
-      {
-        "id": 9,
-        "name": "Puzzle"
-      },
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 9,
-    "involved_companies": [
-      {
-        "id": 365279,
-        "company": {
-          "id": 37730,
-          "name": "Apogee Entertainment"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 365280,
-        "company": {
-          "id": 46459,
-          "name": "The Matte Black Studio"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Lucid",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 48,
-        "name": "PlayStation 4"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      },
-      {
-        "id": 49,
-        "name": "Xbox One"
-      },
-      {
-        "id": 130,
-        "name": "Nintendo Switch"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 891217,
-        "platform": {
-          "id": 130,
-          "name": "Nintendo Switch"
-        }
-      },
-      {
-        "id": 891219,
-        "platform": {
-          "id": 48,
-          "name": "PlayStation 4"
-        }
-      },
-      {
-        "id": 891220,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 891221,
-        "platform": {
-          "id": 49,
-          "name": "Xbox One"
-        }
-      },
-      {
-        "id": 891222,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      },
-      {
-        "id": 903059,
-        "date": 1790726400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 869752,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scin3s.jpg"
-      },
-      {
-        "id": 869753,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scin3t.jpg"
-      },
-      {
-        "id": 869747,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scin3n.jpg"
-      },
-      {
-        "id": 869748,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scin3o.jpg"
-      },
-      {
-        "id": 869749,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scin3p.jpg"
-      },
-      {
-        "id": 869750,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scin3q.jpg"
-      },
-      {
-        "id": 869751,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scin3r.jpg"
-      }
-    ],
-    "summary": "Discover your own legend in Lucid. Platform through a crystalline world torn apart by calamity, absorb powerful abilities that expand movement and enhance combat against a diverse cast of enemies and bosses, all in gorgeous pixel art inspired by the golden age of 2D sidescrollers.",
-    "videos": [
-      {
-        "id": 74334,
-        "video_id": "9Pfghtv8gNQ"
-      },
-      {
-        "id": 74335,
-        "video_id": "t4jpf49x0l0"
-      },
-      {
-        "id": 74336,
-        "video_id": "xfHIxccRua4"
-      },
-      {
-        "id": 162588,
-        "video_id": "XOluhBmooFk"
-      },
-      {
-        "id": 185619,
-        "video_id": "amevV5b20Fc"
-      }
-    ],
-    "websites": [
-      {
-        "id": 308255,
-        "url": "https://www.youtube.com/channel/UC-iHrYyiTGO05UvZxFBhJOQ",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 797869,
-        "url": "https://www.twitch.tv/directory/category/lucid-2024",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 541794,
-        "url": "https://discord.gg/PQYTsAZQZu",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 308256,
-        "url": "https://twitter.com/_theMatteBlack",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 541793,
-        "url": "https://store.steampowered.com/app/1717730",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 591056,
-        "url": "https://www.reddit.com/r/Lucid_Game/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      }
-    ]
-  },
-  {
     "id": 249036,
     "cover": {
       "id": 337746,
@@ -89127,6 +88612,10 @@
     },
     "first_release_date": 1790726400,
     "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
       {
         "id": 2,
         "name": "Multiplayer"
@@ -91274,10 +90763,10 @@
     ]
   },
   {
-    "id": 289433,
+    "id": 316943,
     "cover": {
-      "id": 568855,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc6xj.jpg"
+      "id": 411730,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8toy.jpg"
     },
     "first_release_date": 1790812800,
     "game_modes": [
@@ -91288,172 +90777,191 @@
     ],
     "genres": [
       {
-        "id": 7,
-        "name": "Music"
+        "id": 2,
+        "name": "Point-and-click"
       },
       {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
+        "id": 13,
+        "name": "Simulator"
       }
     ],
-    "hypes": 8,
+    "hypes": 5,
     "involved_companies": [
       {
-        "id": 355700,
+        "id": 408725,
         "company": {
-          "id": 70858,
-          "name": "Digital Pajamas"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 355699,
-        "company": {
-          "id": 70857,
-          "name": "Scary Kid Studios"
+          "id": 80308,
+          "name": "Floralia Games"
         },
         "developer": true,
-        "publisher": false
+        "publisher": true
       }
     ],
-    "name": "Don\u0027t Fret",
+    "name": "BloomTale",
     "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
       {
         "id": 6,
         "name": "PC (Microsoft Windows)"
       },
       {
-        "id": 167,
-        "name": "PlayStation 5"
+        "id": 14,
+        "name": "Mac"
       }
     ],
     "release_dates": [
       {
-        "id": 923530,
+        "id": 976096,
+        "date": 1790812800,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      },
+      {
+        "id": 976097,
         "date": 1790812800,
         "platform": {
           "id": 6,
           "name": "PC (Microsoft Windows)"
         }
-      },
-      {
-        "id": 923536,
-        "date": 1790812800,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 923537,
-        "date": 1790812800,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
       }
     ],
     "screenshots": [
       {
-        "id": 1255121,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqwgh.jpg"
+        "id": 1396403,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctxgz.jpg"
       },
       {
-        "id": 1255122,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqwgi.jpg"
+        "id": 1396404,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctxh0.jpg"
       },
       {
-        "id": 1255117,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqwgd.jpg"
+        "id": 1396405,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctxh1.jpg"
       },
       {
-        "id": 1255119,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqwgf.jpg"
+        "id": 1396400,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctxgw.jpg"
+      },
+      {
+        "id": 1901233,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14r01.jpg"
+      },
+      {
+        "id": 1901234,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14r02.jpg"
+      },
+      {
+        "id": 1901231,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14qzz.jpg"
+      },
+      {
+        "id": 1901232,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14r00.jpg"
+      },
+      {
+        "id": 1901237,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14r05.jpg"
+      },
+      {
+        "id": 1901238,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14r06.jpg"
+      },
+      {
+        "id": 1901239,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14r07.jpg"
+      },
+      {
+        "id": 1901236,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14r04.jpg"
+      },
+      {
+        "id": 1901240,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14r08.jpg"
+      },
+      {
+        "id": 1901241,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14r09.jpg"
+      },
+      {
+        "id": 1901242,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14r0a.jpg"
+      },
+      {
+        "id": 1901243,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14r0b.jpg"
+      },
+      {
+        "id": 1396401,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctxgx.jpg"
+      },
+      {
+        "id": 1901235,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14r03.jpg"
+      },
+      {
+        "id": 1901244,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14r0c.jpg"
+      },
+      {
+        "id": 1396402,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctxgy.jpg"
       }
     ],
-    "summary": "Don\u0027t! Fret is stylized first-person psychological mascot-horror game set in a musically themed world. Play as a guitar named Fret to solve puzzles, escape from foes, and uncover the mystery behind Harmonic Heights.",
+    "summary": "BloomTale is a cozy flower shop simulation game where creativity meets management. Arrange beautiful flower compositions that speak the language of flowers, manage your shop, and satisfy your customers in a world of blooming possibilities.",
     "videos": [
       {
-        "id": 130194,
-        "video_id": "KJ1zRWHP78A"
-      },
-      {
-        "id": 166502,
-        "video_id": "YEHcO3rpyT4"
-      },
-      {
-        "id": 185804,
-        "video_id": "NiZYLa4pl0E"
-      },
-      {
-        "id": 186694,
-        "video_id": "bodsFo5y-Ao"
+        "id": 193227,
+        "video_id": "pV2zAXQAm4o"
       }
     ],
     "websites": [
       {
-        "id": 684822,
-        "url": "https://twitter.com/DontFretGame",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 684820,
-        "url": "https://dontfretgame.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 684821,
-        "url": "https://www.youtube.com/@SCARYKIDSTUDIOS",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 684824,
-        "url": "https://discord.gg/vHkv6HQztB",
+        "id": 753866,
+        "url": "https://discord.gg/FJxGZnrr8A",
         "type": {
           "id": 18,
           "type": "Discord"
         }
       },
       {
-        "id": 684823,
-        "url": "https://www.instagram.com/scary_kid_studios/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 619229,
-        "url": "https://store.steampowered.com/app/2716830",
+        "id": 674435,
+        "url": "https://store.steampowered.com/app/3168520",
         "type": {
           "id": 13,
           "type": "Steam"
         }
       },
       {
-        "id": 1080576,
-        "url": "https://www.xbox.com/en-US/games/store/-/9N6H2HHKDVNK",
+        "id": 1097807,
+        "url": "https://www.instagram.com/floralia_games",
         "type": {
-          "id": 22,
-          "type": "Xbox"
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1097805,
+        "url": "https://www.floraliagames.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1097806,
+        "url": "https://www.twitch.tv/directory/category/bloomtale",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 1097808,
+        "url": "https://www.youtube.com/@floralia_games",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
         }
       }
     ]
@@ -93311,6 +92819,14 @@
       }
     ],
     "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
       {
         "id": 35,
         "name": "Card \u0026 Board Game"
@@ -98812,7 +98328,7 @@
         "name": "Adventure"
       }
     ],
-    "hypes": 85,
+    "hypes": 86,
     "involved_companies": [
       {
         "id": 337794,
@@ -106257,6 +105773,490 @@
       {
         "id": 198843,
         "video_id": "io-h2IYu-iA"
+      }
+    ]
+  },
+  {
+    "id": 405451,
+    "cover": {
+      "id": 569747,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc7mb.jpg"
+    },
+    "first_release_date": 1792627200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 14,
+        "name": "Sport"
+      }
+    ],
+    "hypes": 16,
+    "involved_companies": [
+      {
+        "id": 393341,
+        "company": {
+          "id": 70,
+          "name": "Nintendo"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Nintendo Switch Sports Resort",
+    "platforms": [
+      {
+        "id": 508,
+        "name": "Nintendo Switch 2"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 925715,
+        "date": 1792627200,
+        "platform": {
+          "id": 508,
+          "name": "Nintendo Switch 2"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1854702,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13r3i.jpg"
+      },
+      {
+        "id": 1854705,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13r3l.jpg"
+      },
+      {
+        "id": 1854703,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13r3j.jpg"
+      },
+      {
+        "id": 1854700,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13r3g.jpg"
+      },
+      {
+        "id": 1854701,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13r3h.jpg"
+      },
+      {
+        "id": 1854704,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13r3k.jpg"
+      }
+    ],
+    "summary": "Get up and move in 12 motion-control sports! Gently swing your racket, pull back and aim like an archer, and more in 12 sports with intuitive motion controls. Move together in sports like Bowling and Basketball, duke it out in Boxing, and even battle with one thumb in Thumb Wrestling - there are lots of ways to compete and have fun together!",
+    "videos": [
+      {
+        "id": 187247,
+        "video_id": "XNcXNZJV6IE"
+      },
+      {
+        "id": 195750,
+        "video_id": "FZmCtpTSI4E"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1068059,
+        "url": "https://www.nintendo.com/us/store/products/nintendo-switch-sports-resort-switch-2/",
+        "type": {
+          "id": 24,
+          "type": "Nintendo"
+        }
+      }
+    ]
+  },
+  {
+    "id": 405454,
+    "cover": {
+      "id": 569884,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc7q4.jpg"
+    },
+    "first_release_date": 1792627200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 30,
+    "involved_companies": [
+      {
+        "id": 393472,
+        "company": {
+          "id": 7727,
+          "name": "Lancarse"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 393498,
+        "company": {
+          "id": 26,
+          "name": "Square Enix"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 393499,
+        "company": {
+          "id": 66148,
+          "name": "Square Enix Creative Studio 5"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Final Fantasy Resonance",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 508,
+        "name": "Nintendo Switch 2"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 925510,
+        "date": 1792627200,
+        "platform": {
+          "id": 130,
+          "name": "Nintendo Switch"
+        }
+      },
+      {
+        "id": 925511,
+        "date": 1792627200,
+        "platform": {
+          "id": 508,
+          "name": "Nintendo Switch 2"
+        }
+      },
+      {
+        "id": 925512,
+        "date": 1792627200,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 925513,
+        "date": 1792627200,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      },
+      {
+        "id": 925514,
+        "date": 1792627200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1854138,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13qnu.jpg"
+      },
+      {
+        "id": 1854139,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13qnv.jpg"
+      },
+      {
+        "id": 1854140,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13qnw.jpg"
+      },
+      {
+        "id": 1854141,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13qnx.jpg"
+      },
+      {
+        "id": 1854142,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13qny.jpg"
+      },
+      {
+        "id": 1854143,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13qnz.jpg"
+      },
+      {
+        "id": 1854144,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13qo0.jpg"
+      },
+      {
+        "id": 1854145,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13qo1.jpg"
+      },
+      {
+        "id": 1854146,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13qo2.jpg"
+      },
+      {
+        "id": 1854147,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13qo3.jpg"
+      },
+      {
+        "id": 1854148,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13qo4.jpg"
+      }
+    ],
+    "summary": "Return to the pixelart world of FINAL FANTASY, evolved from its classic roots. Travel with companions bound by fate and call on Visions to aid you in battle to uncover the truth behind a force that threatens to bring everything to ruin.",
+    "videos": [
+      {
+        "id": 190453,
+        "video_id": "ftCvnEE6rfI"
+      },
+      {
+        "id": 194984,
+        "video_id": "IZvZYwQdXN8"
+      },
+      {
+        "id": 196642,
+        "video_id": "mkmhfUQPQss"
+      },
+      {
+        "id": 187222,
+        "video_id": "C3OtFE5mZe4"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1085624,
+        "url": "https://www.nintendo.com/us/store/products/final-fantasy-resonance-switch/",
+        "type": {
+          "id": 24,
+          "type": "Nintendo"
+        }
+      },
+      {
+        "id": 1067969,
+        "url": "https://store.steampowered.com/app/3259780",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1067970,
+        "url": "https://www.twitch.tv/directory/category/final-fantasy-resonance",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 1067971,
+        "url": "https://x.com/FinalFantasy",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1067972,
+        "url": "https://www.facebook.com/SquareEnix",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 1067973,
+        "url": "https://www.youtube.com/SquareEnixNA",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1068009,
+        "url": "https://www.square-enix.com/finalfantasyresonance",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1068023,
+        "url": "https://www.xbox.com/en-us/games/store/final-fantasy-resonance/9nncprh9vwg4",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
+      },
+      {
+        "id": 1068024,
+        "url": "https://store.playstation.com/en-us/product/JP0082-PPSA31544_00-FFRSSTDWW0000000",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
+        }
+      }
+    ]
+  },
+  {
+    "id": 346933,
+    "cover": {
+      "id": 462354,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9wr6.jpg"
+    },
+    "first_release_date": 1792713600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 4,
+    "involved_companies": [
+      {
+        "id": 323739,
+        "company": {
+          "id": 64294,
+          "name": "Dream Wire"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Aspis",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 971935,
+        "date": 1792713600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1548144,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx6k0.jpg"
+      },
+      {
+        "id": 1548145,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx6k1.jpg"
+      },
+      {
+        "id": 1548143,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx6jz.jpg"
+      },
+      {
+        "id": 1548146,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx6k2.jpg"
+      }
+    ],
+    "summary": "ASPIS is an atmospheric mystical thriller set in an alternative USSR of the late 80s. You play as a scientist who has lost his family and is involved in a dangerous experiment to create a reality simulation. Explore the cybernetics institute, travel between worlds and encounter a distorted reality",
+    "websites": [
+      {
+        "id": 805440,
+        "url": "https://discord.gg/zSjy7sNz",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 805439,
+        "url": "https://x.com/DreamWireStudio",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 805438,
+        "url": "https://store.steampowered.com/app/3129420/ASPIS/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 935443,
+        "url": "https://t.me/dreamwiregames",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 806153,
+        "url": "https://www.youtube.com/@DreamWireGames",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 997385,
+        "url": "https://www.twitch.tv/directory/category/aspis",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
       }
     ]
   }
