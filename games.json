@@ -615,6 +615,357 @@
     ]
   },
   {
+    "id": 11492,
+    "cover": {
+      "id": 122601,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co2mll.jpg"
+    },
+    "first_release_date": 1475798400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 45,
+    "involved_companies": [
+      {
+        "id": 98105,
+        "company": {
+          "id": 139,
+          "name": "Take-Two Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 52014,
+        "company": {
+          "id": 73,
+          "name": "Aspyr Media"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 419106,
+        "company": {
+          "id": 6079,
+          "name": "Hangar 13"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 419107,
+        "company": {
+          "id": 8,
+          "name": "2K Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Mafia III",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 93166,
+        "date": 1475798400,
+        "platform": {
+          "id": 48,
+          "name": "PlayStation 4"
+        }
+      },
+      {
+        "id": 93164,
+        "date": 1475798400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 107901,
+        "date": 1475798400,
+        "platform": {
+          "id": 48,
+          "name": "PlayStation 4"
+        }
+      },
+      {
+        "id": 136129,
+        "date": 1475798400,
+        "platform": {
+          "id": 49,
+          "name": "Xbox One"
+        }
+      },
+      {
+        "id": 93167,
+        "date": 1494460800,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      },
+      {
+        "id": 120511,
+        "date": 1475798400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 93165,
+        "date": 1475798400,
+        "platform": {
+          "id": 49,
+          "name": "Xbox One"
+        }
+      },
+      {
+        "id": 107902,
+        "date": 1475798400,
+        "platform": {
+          "id": 48,
+          "name": "PlayStation 4"
+        }
+      },
+      {
+        "id": 975385,
+        "date": 1791417600,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 975386,
+        "date": 1791417600,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 11444,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/semeg3zbq6antqxzkeay.jpg"
+      },
+      {
+        "id": 11442,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lytbmnurmyzljj0oepjp.jpg"
+      },
+      {
+        "id": 1379526,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctkg6.jpg"
+      },
+      {
+        "id": 11443,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/bwsznhghg8gfm72qlcwe.jpg"
+      },
+      {
+        "id": 11441,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/unxdmbdf46mezzxpeaqs.jpg"
+      },
+      {
+        "id": 11445,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/il9r5yucwxymuw49030n.jpg"
+      },
+      {
+        "id": 1379525,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctkg5.jpg"
+      }
+    ],
+    "summary": "Mafia III is an open-world action-adventure game played from a third-person perspective and the third entry in the Mafia series. Players control Lincoln Clay across a large recreation of the fictional city of New Bordeaux, modeled on New Orleans, tackling missions with a mix of gunplay, melee combat, stealth, and a cover system. Objectives can be approached in different ways, and players seize territory from rival criminal outfits and hand districts to their lieutenants. Period cars can be driven across the city, and the setting and licensed soundtrack draw heavily on the late 1960s American South.",
+    "videos": [
+      {
+        "id": 9535,
+        "video_id": "yeiyWVgDZfY"
+      },
+      {
+        "id": 9534,
+        "video_id": "S7v9hMNwIbA"
+      },
+      {
+        "id": 8716,
+        "video_id": "Q1tGeuHL1Ew"
+      },
+      {
+        "id": 8650,
+        "video_id": "dZRuFoPBfkQ"
+      },
+      {
+        "id": 9531,
+        "video_id": "w85ktqkMrjM"
+      },
+      {
+        "id": 9536,
+        "video_id": "FuKRWx0Kax4"
+      },
+      {
+        "id": 9537,
+        "video_id": "ma4EvNUsRGk"
+      },
+      {
+        "id": 4819,
+        "video_id": "6alMwTZu2TA"
+      },
+      {
+        "id": 9530,
+        "video_id": "RHmqvih2YwM"
+      },
+      {
+        "id": 9532,
+        "video_id": "3L_YA_wtjrs"
+      },
+      {
+        "id": 9533,
+        "video_id": "wnVXbp7QQww"
+      },
+      {
+        "id": 7812,
+        "video_id": "A_GoHn8NQo0"
+      },
+      {
+        "id": 199097,
+        "video_id": "Rpys78hUE5E"
+      }
+    ],
+    "websites": [
+      {
+        "id": 15615,
+        "url": "https://en.wikipedia.org/wiki/Mafia_III",
+        "type": {
+          "id": 3,
+          "type": "Wikipedia"
+        }
+      },
+      {
+        "id": 51808,
+        "url": "http://mafiagame.wikia.com/wiki/Mafia_III",
+        "type": {
+          "id": 2,
+          "type": "Community Wiki"
+        }
+      },
+      {
+        "id": 752575,
+        "url": "https://www.youtube.com/mafiagame",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 752576,
+        "url": "https://www.instagram.com/mafiagame",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 120754,
+        "url": "https://www.gog.com/game/mafia_iii",
+        "type": {
+          "id": 17,
+          "type": "GOG"
+        }
+      },
+      {
+        "id": 15617,
+        "url": "https://twitter.com/mafiagame",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 66309,
+        "url": "https://www.mafiagame.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 191390,
+        "url": "https://store.steampowered.com/app/360430",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 334894,
+        "url": "https://www.twitch.tv/directory/game/Mafia%20III",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 15616,
+        "url": "https://www.facebook.com/mafiagame",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 1103208,
+        "url": "https://www.xbox.com/en-us/games/store/mafia-iii/BVV8LHVGPBS3",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
+      }
+    ]
+  },
+  {
     "id": 14159,
     "cover": {
       "id": 574204,
@@ -16576,6 +16927,234 @@
     ]
   },
   {
+    "id": 279051,
+    "cover": {
+      "id": 406202,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8pfe.jpg"
+    },
+    "first_release_date": 1743120000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 311,
+    "involved_companies": [
+      {
+        "id": 283464,
+        "company": {
+          "id": 41542,
+          "name": "Krafton"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Inzoi",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 669397,
+        "date": 1743120000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 783279,
+        "date": 1755648000,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      },
+      {
+        "id": 977413,
+        "date": 1806451200,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 919144,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1203408,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scpsk0.jpg"
+      },
+      {
+        "id": 1203407,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scpsjz.jpg"
+      },
+      {
+        "id": 1203406,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scpsjy.jpg"
+      },
+      {
+        "id": 1203409,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scpsk1.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "InZOI is a life simulation game in which the player takes on the role of an intern at a virtual reality company, managing a neighborhood of simulated characters called \"Zoi.\" Gameplay takes place across open world environments including a dense metropolis inspired by Seoul and a coastal city inspired by Santa Monica. Players direct their characters through careers, relationships, education, and daily needs, while also customizing homes and editing the broader city environment. The game features AI-driven character behaviors, generative AI tools for creating patterns and objects, mod support, and a community content-sharing platform called Canvas.",
+    "videos": [
+      {
+        "id": 104092,
+        "video_id": "hSjW_-ZI-Yw"
+      },
+      {
+        "id": 123452,
+        "video_id": "wfn_U1UHiQ8"
+      },
+      {
+        "id": 126427,
+        "video_id": "Igakmd3kwLs"
+      },
+      {
+        "id": 126428,
+        "video_id": "-kpt-55kUY0"
+      }
+    ],
+    "websites": [
+      {
+        "id": 642155,
+        "url": "https://inzoiresource.com/",
+        "type": {
+          "id": 2,
+          "type": "Community Wiki"
+        }
+      },
+      {
+        "id": 722173,
+        "url": "https://en.wikipedia.org/wiki/InZOI",
+        "type": {
+          "id": 3,
+          "type": "Wikipedia"
+        }
+      },
+      {
+        "id": 642152,
+        "url": "https://www.facebook.com/PlayinZOI",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 722174,
+        "url": "https://www.reddit.com/r/inZOI/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 722172,
+        "url": "https://www.instagram.com/playinzoi",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 746214,
+        "url": "https://www.youtube.com/@playinzoi/",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 746215,
+        "url": "https://x.com/PlayinZOI",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 746212,
+        "url": "https://playinzoi.com",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 746211,
+        "url": "https://store.steampowered.com/app/2456740",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 665826,
+        "url": "https://www.twitch.tv/directory/category/inzoi",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 642154,
+        "url": "https://discord.gg/inzoi",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1120875,
+        "url": "https://store.playstation.com/en-us/concept/10013711",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
+        }
+      }
+    ]
+  },
+  {
     "id": 332935,
     "cover": {
       "id": 440655,
@@ -17755,6 +18334,10 @@
       }
     ],
     "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
       {
         "id": 13,
         "name": "Simulator"
@@ -20040,6 +20623,219 @@
         "type": {
           "id": 6,
           "type": "Twitch"
+        }
+      }
+    ]
+  },
+  {
+    "id": 243924,
+    "cover": {
+      "id": 475417,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coa6u1.jpg"
+    },
+    "first_release_date": 1753660800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 6,
+    "involved_companies": [
+      {
+        "id": 333339,
+        "company": {
+          "id": 46677,
+          "name": "SeethingSwarm"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 333340,
+        "company": {
+          "id": 57868,
+          "name": "Pretty Soon"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Primal Planet",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 777418,
+        "date": 1753660800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 976281,
+        "date": 1793145600,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      },
+      {
+        "id": 883578,
+        "date": 1774483200,
+        "platform": {
+          "id": 130,
+          "name": "Nintendo Switch"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1023033,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sclxdl.jpg"
+      },
+      {
+        "id": 1023032,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sclxdk.jpg"
+      },
+      {
+        "id": 1023035,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sclxdn.jpg"
+      },
+      {
+        "id": 1023037,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sclxdp.jpg"
+      },
+      {
+        "id": 1023034,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sclxdm.jpg"
+      },
+      {
+        "id": 1023036,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sclxdo.jpg"
+      },
+      {
+        "id": 1023038,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sclxdq.jpg"
+      }
+    ],
+    "summary": "Unveil a heartfelt story of family, dinosaurs, and UFOs! Craft, upgrade, and survive in a realm of primeval predators, savage tribes and... ancient aliens. Rise from a humble cave dweller to the planet’s last hope — alone or in local co-op. Welcome to the dinovania!",
+    "videos": [
+      {
+        "id": 154974,
+        "video_id": "n418LLl20u4"
+      },
+      {
+        "id": 157472,
+        "video_id": "Inv2vJzku6U"
+      },
+      {
+        "id": 157473,
+        "video_id": "A8wujnWxQ5c"
+      }
+    ],
+    "websites": [
+      {
+        "id": 842582,
+        "url": "https://prettysoon.games/game/primal-planet/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 813305,
+        "url": "https://x.com/ThePrimalPlanet",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 542172,
+        "url": "https://discord.gg/kcJ8Vddcjt",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 826011,
+        "url": "https://www.gog.com/en/game/primal_planet",
+        "type": {
+          "id": 17,
+          "type": "GOG"
+        }
+      },
+      {
+        "id": 826012,
+        "url": "https://www.twitch.tv/directory/category/primal-planet",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 542170,
+        "url": "https://store.steampowered.com/app/2350270",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1021822,
+        "url": "https://www.nintendo.com/us/store/products/primal-planet-switch/",
+        "type": {
+          "id": 24,
+          "type": "Nintendo"
+        }
+      },
+      {
+        "id": 1131507,
+        "url": "https://www.xbox.com/en-us/games/store/-/9NQ63XHLG0S1",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
         }
       }
     ]
@@ -23184,8 +23980,8 @@
         }
       },
       {
-        "id": 972322,
-        "date": 1793059200,
+        "id": 975953,
+        "date": 1791417600,
         "platform": {
           "id": 508,
           "name": "Nintendo Switch 2"
@@ -23718,6 +24514,10 @@
       {
         "id": 32,
         "name": "Indie"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
       }
     ],
     "hypes": 2,
@@ -26767,6 +27567,464 @@
     ]
   },
   {
+    "id": 305156,
+    "cover": {
+      "id": 492312,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coajvc.jpg"
+    },
+    "first_release_date": 1762905600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 19,
+    "involved_companies": [
+      {
+        "id": 269934,
+        "company": {
+          "id": 4697,
+          "name": "Noodlecake Studios"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 269933,
+        "company": {
+          "id": 55211,
+          "name": "Pine Creek Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Winter Burrow",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 39,
+        "name": "iOS"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 810611,
+        "date": 1762905600,
+        "platform": {
+          "id": 130,
+          "name": "Nintendo Switch"
+        }
+      },
+      {
+        "id": 810612,
+        "date": 1762905600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 810613,
+        "date": 1762905600,
+        "platform": {
+          "id": 49,
+          "name": "Xbox One"
+        }
+      },
+      {
+        "id": 810614,
+        "date": 1762905600,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      },
+      {
+        "id": 975608,
+        "date": 1790640000,
+        "platform": {
+          "id": 39,
+          "name": "iOS"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1337973,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsodx.jpg"
+      },
+      {
+        "id": 1337976,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsoe0.jpg"
+      },
+      {
+        "id": 1337970,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsodu.jpg"
+      },
+      {
+        "id": 1337989,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsoed.jpg"
+      },
+      {
+        "id": 1337981,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsoe5.jpg"
+      },
+      {
+        "id": 1337985,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsoe9.jpg"
+      },
+      {
+        "id": 1337987,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsoeb.jpg"
+      },
+      {
+        "id": 1337979,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsoe3.jpg"
+      },
+      {
+        "id": 1337972,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsodw.jpg"
+      }
+    ],
+    "summary": "Winter Burrow is a cozy woodland survival game about a mouse returning home to restore their childhood burrow. Explore, gather resources, craft, knit warm sweaters, bake pies and meet the locals.",
+    "videos": [
+      {
+        "id": 115729,
+        "video_id": "ngvzOKaj8tY"
+      },
+      {
+        "id": 133683,
+        "video_id": "rrFaMi3XFag"
+      },
+      {
+        "id": 135127,
+        "video_id": "fwiQH69n5gs"
+      },
+      {
+        "id": 152925,
+        "video_id": "OCjr0w-pMNc"
+      },
+      {
+        "id": 158353,
+        "video_id": "NB4_-wuuj-o"
+      },
+      {
+        "id": 159402,
+        "video_id": "Zj8b_LSIlmw"
+      },
+      {
+        "id": 163277,
+        "video_id": "PmefCn7kb2s"
+      },
+      {
+        "id": 163718,
+        "video_id": "q5Z-CFxWMqc"
+      },
+      {
+        "id": 168089,
+        "video_id": "pg1_2UHzyuQ"
+      }
+    ],
+    "websites": [
+      {
+        "id": 694303,
+        "url": "https://www.facebook.com/pinecreekgames/",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 807238,
+        "url": "https://bsky.app/profile/did:plc:auqrocvmd3bllz6bbflteqse",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 879223,
+        "url": "https://www.xbox.com/en-us/games/store/winter-burrow/9nd3httq0gkb",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
+      },
+      {
+        "id": 917281,
+        "url": "https://www.nintendo.com/us/store/products/winter-burrow-switch/",
+        "type": {
+          "id": 24,
+          "type": "Nintendo"
+        }
+      },
+      {
+        "id": 694300,
+        "url": "https://www.pinecreekgames.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 644101,
+        "url": "https://store.steampowered.com/app/3008740",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 694304,
+        "url": "https://twitter.com/pinecreekgames",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 694306,
+        "url": "https://discord.gg/invite/pinecreekgames",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 694305,
+        "url": "https://www.instagram.com/pinecreekgames",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 694301,
+        "url": "https://www.twitch.tv/directory/category/winter-burrow",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 694302,
+        "url": "https://www.youtube.com/@pinecreekgames",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      }
+    ]
+  },
+  {
+    "id": 347820,
+    "cover": {
+      "id": 463493,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9xmt.jpg"
+    },
+    "first_release_date": 1763337600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 5,
+    "involved_companies": [
+      {
+        "id": 419360,
+        "company": {
+          "id": 82390,
+          "name": "LifT Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 419359,
+        "company": {
+          "id": 48742,
+          "name": "Forklift Interactive"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Leaf Blower Co.",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 833300,
+        "date": 1763337600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 975862,
+        "date": 1794528000,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1552852,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxa6s.jpg"
+      },
+      {
+        "id": 1552853,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxa6t.jpg"
+      },
+      {
+        "id": 1552854,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxa6u.jpg"
+      },
+      {
+        "id": 1552855,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxa6v.jpg"
+      },
+      {
+        "id": 1552856,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxa6w.jpg"
+      },
+      {
+        "id": 1552857,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxa6x.jpg"
+      },
+      {
+        "id": 1552848,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxa6o.jpg"
+      },
+      {
+        "id": 1552849,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxa6p.jpg"
+      },
+      {
+        "id": 1552850,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxa6q.jpg"
+      },
+      {
+        "id": 1552851,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxa6r.jpg"
+      }
+    ],
+    "summary": "Blow your leaves and your cares away in this chilled out work sim. Build up your business, buy new tools, and unlock upgrades - all while watching the leaves fly. After all, one man’s trash is another man’s cash.",
+    "videos": [
+      {
+        "id": 152908,
+        "video_id": "B6b9ARfNu7U"
+      },
+      {
+        "id": 167969,
+        "video_id": "Vi18WpKxhBU"
+      }
+    ],
+    "websites": [
+      {
+        "id": 809264,
+        "url": "https://x.com/leafblowerco",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 809261,
+        "url": "https://store.steampowered.com/app/3571710/Leaf_Blower_Co/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 809263,
+        "url": "https://discord.gg/xZt4fPVafZ",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 809265,
+        "url": "https://www.youtube.com/@forkliftgames",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 809262,
+        "url": "https://www.forklift.gg/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1130983,
+        "url": "https://www.xbox.com/en-us/games/store/-/9PDM08ZGT9HD",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
+      }
+    ]
+  },
+  {
     "id": 117297,
     "cover": {
       "id": 607568,
@@ -27888,6 +29146,256 @@
     ]
   },
   {
+    "id": 319650,
+    "cover": {
+      "id": 456428,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9s6k.jpg"
+    },
+    "first_release_date": 1764288000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 8,
+        "name": "Platform"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 8,
+    "involved_companies": [
+      {
+        "id": 303833,
+        "company": {
+          "id": 60628,
+          "name": "Aya Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Ayasa: Shadows of Silence",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 793823,
+        "platform": {
+          "id": 130,
+          "name": "Nintendo Switch"
+        }
+      },
+      {
+        "id": 793825,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 840256,
+        "date": 1764288000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 975459,
+        "date": 1792972800,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1407093,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu5px.jpg"
+      },
+      {
+        "id": 1407091,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu5pv.jpg"
+      },
+      {
+        "id": 1407092,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu5pw.jpg"
+      },
+      {
+        "id": 1407085,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu5pp.jpg"
+      },
+      {
+        "id": 1407086,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu5pq.jpg"
+      },
+      {
+        "id": 1407087,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu5pr.jpg"
+      },
+      {
+        "id": 1407088,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu5ps.jpg"
+      },
+      {
+        "id": 1407089,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu5pt.jpg"
+      },
+      {
+        "id": 1407090,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu5pu.jpg"
+      }
+    ],
+    "summary": "Dive into Ayasa, a dark and mysterious platformer where light and shadow hold the key to survival. Journey through six haunting lands, solve challenging puzzles and restore balance to a world on the brink of collapse.",
+    "videos": [
+      {
+        "id": 136321,
+        "video_id": "1Upsz0cjoNY"
+      },
+      {
+        "id": 153490,
+        "video_id": "M1pGpz6Rrno"
+      },
+      {
+        "id": 161966,
+        "video_id": "byujsIeWMQo"
+      },
+      {
+        "id": 194603,
+        "video_id": "uRxU9sgJYM8"
+      }
+    ],
+    "websites": [
+      {
+        "id": 683160,
+        "url": "https://twitter.com/_ayagames_",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 683158,
+        "url": "https://www.youtube.com/@AyaGamesOfficial",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 730112,
+        "url": "https://bsky.app/profile/ayagames.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 752633,
+        "url": "https://store.epicgames.com/en-US/p/ayasa-shadows-of-silence-19235d",
+        "type": {
+          "id": 16,
+          "type": "Epic"
+        }
+      },
+      {
+        "id": 730111,
+        "url": "https://ayagames.us/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 683157,
+        "url": "https://store.steampowered.com/app/3146120/Ayasa_Shadows_of_Silence/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 683159,
+        "url": "https://www.facebook.com/ayasagame",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 683161,
+        "url": "https://www.instagram.com/_ayagames_",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 683162,
+        "url": "https://discord.gg/YKgh5shCYJ",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 700693,
+        "url": "https://www.twitch.tv/directory/category/ayasa-shadows-of-silence",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 705234,
+        "url": "https://www.reddit.com/r/AyasaShadowsofSilence/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 1130335,
+        "url": "https://www.xbox.com/en-us/games/store/-/9NDVD0TSD1VL",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
+      }
+    ]
+  },
+  {
     "id": 117531,
     "cover": {
       "id": 604603,
@@ -28870,6 +30378,10 @@
       }
     ],
     "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
       {
         "id": 31,
         "name": "Adventure"
@@ -31642,6 +33154,217 @@
       {
         "id": 1127499,
         "url": "https://www.xbox.com/en-us/games/store/-/9NF2BSCRCPFT",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
+      }
+    ]
+  },
+  {
+    "id": 356955,
+    "cover": {
+      "id": 509512,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coax54.jpg"
+    },
+    "first_release_date": 1773273600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 3,
+    "involved_companies": [
+      {
+        "id": 332114,
+        "company": {
+          "id": 21383,
+          "name": "Live Motion Games"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 419283,
+        "company": {
+          "id": 24337,
+          "name": "Console Labs S.A."
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 419281,
+        "company": {
+          "id": 9005,
+          "name": "PlayWay S.A."
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 419282,
+        "company": {
+          "id": 21383,
+          "name": "Live Motion Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Corner Shop: NightShift",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 975709,
+        "date": 1793318400,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      },
+      {
+        "id": 884078,
+        "date": 1773273600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1592127,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scy4hr.jpg"
+      },
+      {
+        "id": 1592130,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scy4hu.jpg"
+      },
+      {
+        "id": 1592128,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scy4hs.jpg"
+      },
+      {
+        "id": 1592129,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scy4ht.jpg"
+      },
+      {
+        "id": 1592132,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scy4hw.jpg"
+      },
+      {
+        "id": 1592131,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scy4hv.jpg"
+      },
+      {
+        "id": 1592124,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scy4ho.jpg"
+      },
+      {
+        "id": 1592125,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scy4hp.jpg"
+      },
+      {
+        "id": 1592126,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scy4hq.jpg"
+      }
+    ],
+    "summary": "Take a night shift job in a place that runs on habit, not purpose. Restock shelves, take deliveries, clean the mess, and try to make it till morning. Not everything feels right and you’re never quite alone. Something waits in the dark.",
+    "videos": [
+      {
+        "id": 157483,
+        "video_id": "QUt4-f-Iheo"
+      },
+      {
+        "id": 157484,
+        "video_id": "Dbi_RPhYWnc"
+      }
+    ],
+    "websites": [
+      {
+        "id": 838790,
+        "url": "https://www.instagram.com/livemotiongames/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 838791,
+        "url": "https://discord.gg/6H7Rn5B4",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 842590,
+        "url": "https://www.twitch.tv/directory/category/corner-shop-nightshift",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 838787,
+        "url": "https://store.steampowered.com/app/3306990",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 838789,
+        "url": "https://www.youtube.com/@LiveMotionGames",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 838788,
+        "url": "https://livemotiongames.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 838792,
+        "url": "https://x.com/livemotiongames",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1130701,
+        "url": "https://www.xbox.com/en-us/games/store/-/9NVN2T9D87FF",
         "type": {
           "id": 22,
           "type": "Xbox"
@@ -36419,22 +38142,22 @@
     "hypes": 2,
     "involved_companies": [
       {
-        "id": 368233,
-        "company": {
-          "id": 1432,
-          "name": "Playground Games"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 368234,
+        "id": 419082,
         "company": {
           "id": 17966,
           "name": "Xbox Game Studios"
         },
         "developer": false,
         "publisher": true
+      },
+      {
+        "id": 419081,
+        "company": {
+          "id": 1432,
+          "name": "Playground Games"
+        },
+        "developer": true,
+        "publisher": false
       }
     ],
     "name": "Forza Horizon 6: Deluxe Edition",
@@ -36470,8 +38193,8 @@
         }
       },
       {
-        "id": 932560,
-        "date": 1798675200,
+        "id": 975329,
+        "date": 1800921600,
         "platform": {
           "id": 167,
           "name": "PlayStation 5"
@@ -36640,6 +38363,14 @@
         "type": {
           "id": 4,
           "type": "Facebook"
+        }
+      },
+      {
+        "id": 1130260,
+        "url": "https://store.playstation.com/en-us/product/UP6312-PPSA32152_00-0915536134724905",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
         }
       }
     ]
@@ -52007,29 +53738,37 @@
     "hypes": 4,
     "involved_companies": [
       {
-        "id": 231663,
-        "company": {
-          "id": 28936,
-          "name": "Bark Bark Games"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 231664,
+        "id": 419132,
         "company": {
           "id": 26764,
           "name": "Glowstick Entertainment"
         },
         "developer": false,
         "publisher": true
+      },
+      {
+        "id": 419131,
+        "company": {
+          "id": 28936,
+          "name": "Bark Bark Games"
+        },
+        "developer": true,
+        "publisher": false
       }
     ],
     "name": "House 2",
     "platforms": [
       {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
         "id": 6,
         "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
       }
     ],
     "release_dates": [
@@ -52039,6 +53778,22 @@
         "platform": {
           "id": 6,
           "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 975457,
+        "date": 1792713600,
+        "platform": {
+          "id": 49,
+          "name": "Xbox One"
+        }
+      },
+      {
+        "id": 975458,
+        "date": 1792713600,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
         }
       }
     ],
@@ -55781,6 +57536,10 @@
     "name": "Bombanana!",
     "platforms": [
       {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
         "id": 34,
         "name": "Android"
       },
@@ -55799,9 +57558,27 @@
       {
         "id": 14,
         "name": "Mac"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
       }
     ],
     "release_dates": [
+      {
+        "id": 975694,
+        "platform": {
+          "id": 49,
+          "name": "Xbox One"
+        }
+      },
+      {
+        "id": 975695,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      },
       {
         "id": 952676,
         "date": 1788307200,
@@ -81958,6 +83735,10 @@
       {
         "id": 197958,
         "video_id": "nHW7oH_kZd4"
+      },
+      {
+        "id": 199235,
+        "video_id": "3ND7Vf2Aeco"
       }
     ],
     "websites": [
@@ -82142,16 +83923,16 @@
     ],
     "screenshots": [
       {
+        "id": 1944512,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15oe8.jpg"
+      },
+      {
+        "id": 1944511,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15oe7.jpg"
+      },
+      {
         "id": 1817350,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12y9y.jpg"
-      },
-      {
-        "id": 1817351,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12y9z.jpg"
-      },
-      {
-        "id": 1817346,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12y9u.jpg"
       },
       {
         "id": 1817348,
@@ -82160,10 +83941,6 @@
       {
         "id": 1817349,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12y9x.jpg"
-      },
-      {
-        "id": 1817347,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12y9v.jpg"
       }
     ],
     "summary": "A tactical roguelite where you help an AutoDog escape a dystopian mecha-city and get back to their exiled humans. Teach the dog custom tricks to tackle strategic challenges through devastating chain reactions. Break the Machine in your path to freedom!",
@@ -82175,6 +83952,10 @@
       {
         "id": 181192,
         "video_id": "oRh6PcWb-Lc"
+      },
+      {
+        "id": 199279,
+        "video_id": "fvX40XPnKUk"
       }
     ],
     "websites": [
@@ -82184,6 +83965,38 @@
         "type": {
           "id": 13,
           "type": "Steam"
+        }
+      },
+      {
+        "id": 1131329,
+        "url": "https://x.com/StudioChahut",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1131330,
+        "url": "https://www.youtube.com/@StudioChahut",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1131331,
+        "url": "https://bsky.app/profile/studiochahut.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 1131332,
+        "url": "https://discord.gg/h6JWcGGGk4",
+        "type": {
+          "id": 18,
+          "type": "Discord"
         }
       },
       {
@@ -85394,6 +87207,14 @@
           "id": 9,
           "type": "YouTube"
         }
+      },
+      {
+        "id": 1133900,
+        "url": "https://discord.gg/gvc9FjnFzV",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
       }
     ]
   },
@@ -86775,6 +88596,18 @@
       {
         "id": 194994,
         "video_id": "Nlchabfwy_w"
+      },
+      {
+        "id": 199147,
+        "video_id": "d48IWwIRg98"
+      },
+      {
+        "id": 199148,
+        "video_id": "cEOzBU6Rq1g"
+      },
+      {
+        "id": 199149,
+        "video_id": "XCgM7T6uJlU"
       }
     ],
     "websites": [
@@ -91745,6 +93578,10 @@
       {
         "id": 189313,
         "video_id": "Ob9pYAlIHZM"
+      },
+      {
+        "id": 199143,
+        "video_id": "lzLIb6UCYfo"
       }
     ],
     "websites": [
@@ -93608,6 +95445,10 @@
       {
         "id": 194607,
         "video_id": "glqeM_iSRNY"
+      },
+      {
+        "id": 199667,
+        "video_id": "NU3Dqa_XBUw"
       }
     ],
     "websites": [
@@ -93649,6 +95490,302 @@
         "type": {
           "id": 22,
           "type": "Xbox"
+        }
+      }
+    ]
+  },
+  {
+    "id": 315343,
+    "cover": {
+      "id": 419363,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8zkz.jpg"
+    },
+    "first_release_date": 1791849600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 35,
+        "name": "Card \u0026 Board Game"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 363384,
+        "company": {
+          "id": 57794,
+          "name": "Clumsy Bear Studio"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Hungry Horrors",
+    "platforms": [
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 849823,
+        "date": 1768780800,
+        "platform": {
+          "id": 3,
+          "name": "Linux"
+        }
+      },
+      {
+        "id": 849824,
+        "date": 1768780800,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      },
+      {
+        "id": 849825,
+        "date": 1768780800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 977504,
+        "date": 1791849600,
+        "platform": {
+          "id": 3,
+          "name": "Linux"
+        }
+      },
+      {
+        "id": 977505,
+        "date": 1791849600,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      },
+      {
+        "id": 977506,
+        "date": 1791849600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1390035,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctsk3.jpg"
+      },
+      {
+        "id": 1390036,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctsk4.jpg"
+      },
+      {
+        "id": 1388778,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctrl6.jpg"
+      },
+      {
+        "id": 1388777,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctrl5.jpg"
+      },
+      {
+        "id": 1388776,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctrl4.jpg"
+      },
+      {
+        "id": 1388781,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctrl9.jpg"
+      },
+      {
+        "id": 1388779,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctrl7.jpg"
+      },
+      {
+        "id": 1388780,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctrl8.jpg"
+      },
+      {
+        "id": 1388782,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctrla.jpg"
+      },
+      {
+        "id": 1388783,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctrlb.jpg"
+      },
+      {
+        "id": 1388784,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctrlc.jpg"
+      },
+      {
+        "id": 1390030,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctsjy.jpg"
+      },
+      {
+        "id": 1390031,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctsjz.jpg"
+      },
+      {
+        "id": 1390032,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctsk0.jpg"
+      },
+      {
+        "id": 1390033,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctsk1.jpg"
+      },
+      {
+        "id": 1390034,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctsk2.jpg"
+      },
+      {
+        "id": 1390037,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctsk5.jpg"
+      },
+      {
+        "id": 1390038,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctsk6.jpg"
+      },
+      {
+        "id": 1396925,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctxvh.jpg"
+      }
+    ],
+    "summary": "Face legendary creatures from British and Irish folklore in this roguelite deck builder where cooking replaces combat. As a princess, you must prepare dishes to feed these monsters or risk becoming their next meal.",
+    "videos": [
+      {
+        "id": 131267,
+        "video_id": "jOV7f-G-pic"
+      },
+      {
+        "id": 131268,
+        "video_id": "IXAxVYFUPyI"
+      },
+      {
+        "id": 144777,
+        "video_id": "ZkDSWMvGif8"
+      },
+      {
+        "id": 155133,
+        "video_id": "pHAZS4HMzyg"
+      },
+      {
+        "id": 171776,
+        "video_id": "s0D9rhAFbBE"
+      },
+      {
+        "id": 174909,
+        "video_id": "w14rGjLoEAQ"
+      },
+      {
+        "id": 199628,
+        "video_id": "GNSwc7O7AFI"
+      }
+    ],
+    "websites": [
+      {
+        "id": 669870,
+        "url": "https://twitter.com/clumsybeargames",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 674822,
+        "url": "https://www.facebook.com/gaming/clumsybearstudio",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 669869,
+        "url": "https://www.youtube.com/@ClumsyBearStudio",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 674823,
+        "url": "https://www.instagram.com/hungry.horrors.game/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 790120,
+        "url": "https://bsky.app/profile/clumsybearstudio.com",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 732498,
+        "url": "https://discord.gg/Y6hyjk9XaK",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 669867,
+        "url": "https://store.steampowered.com/app/3048840",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 669868,
+        "url": "https://hungryhorrorsgame.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1133881,
+        "url": "https://www.twitch.tv/directory/category/hungry-horrors",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
         }
       }
     ]
@@ -93741,6 +95878,10 @@
       {
         "id": 170399,
         "video_id": "F38-iSrKoZQ"
+      },
+      {
+        "id": 199662,
+        "video_id": "v9Qd2Hoqthk"
       }
     ],
     "websites": [
@@ -93943,6 +96084,10 @@
       {
         "id": 186965,
         "video_id": "Wu4O5uIMYKw"
+      },
+      {
+        "id": 199176,
+        "video_id": "h8nsWuJmNxg"
       }
     ],
     "websites": [
@@ -94412,6 +96557,14 @@
     ],
     "websites": [
       {
+        "id": 1133962,
+        "url": "https://discord.gg/frontierunlocked",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
         "id": 1059812,
         "url": "https://www.planetzoogame.com/",
         "type": {
@@ -94793,6 +96946,10 @@
     ],
     "genres": [
       {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
         "id": 31,
         "name": "Adventure"
       }
@@ -94939,7 +97096,7 @@
         "name": "Indie"
       }
     ],
-    "hypes": 8,
+    "hypes": 7,
     "involved_companies": [
       {
         "id": 372059,
@@ -95996,6 +98153,206 @@
         "type": {
           "id": 6,
           "type": "Twitch"
+        }
+      }
+    ]
+  },
+  {
+    "id": 345447,
+    "cover": {
+      "id": 460377,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9v89.jpg"
+    },
+    "first_release_date": 1791936000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 4,
+    "involved_companies": [
+      {
+        "id": 396635,
+        "company": {
+          "id": 21777,
+          "name": "ChillyRoom"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "No Such Place",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 969305,
+        "date": 1791936000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1929172,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15ck4.jpg"
+      },
+      {
+        "id": 1929170,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15ck2.jpg"
+      },
+      {
+        "id": 1929166,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15cjy.jpg"
+      },
+      {
+        "id": 1929167,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15cjz.jpg"
+      },
+      {
+        "id": 1929168,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15ck0.jpg"
+      },
+      {
+        "id": 1929169,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15ck1.jpg"
+      },
+      {
+        "id": 1929171,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15ck3.jpg"
+      },
+      {
+        "id": 1539343,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwzrj.jpg"
+      },
+      {
+        "id": 1539349,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwzrp.jpg"
+      },
+      {
+        "id": 1539346,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwzrm.jpg"
+      },
+      {
+        "id": 1539350,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwzrq.jpg"
+      },
+      {
+        "id": 1539347,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwzrn.jpg"
+      },
+      {
+        "id": 1539352,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwzrs.jpg"
+      },
+      {
+        "id": 1539351,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwzrr.jpg"
+      },
+      {
+        "id": 1539345,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwzrl.jpg"
+      },
+      {
+        "id": 1539342,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwzri.jpg"
+      }
+    ],
+    "summary": "Welcome to the Unknown Research Consortium (U.R.C.), where you’re tasked with conducting reconnaissance missions, terminating unknown threats, gathering crucial information, and reaching the evacuation point in this treacherous top-down extraction shooter.",
+    "videos": [
+      {
+        "id": 174908,
+        "video_id": "ir0l_bPoozE"
+      },
+      {
+        "id": 178233,
+        "video_id": "Y9OwQ8FB5uk"
+      },
+      {
+        "id": 188577,
+        "video_id": "-t1S1TYxet8"
+      },
+      {
+        "id": 197421,
+        "video_id": "EeZtXZt-ebk"
+      }
+    ],
+    "websites": [
+      {
+        "id": 799315,
+        "url": "https://discord.gg/KwbWtZpqPa",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 799311,
+        "url": "https://store.steampowered.com/app/3299050",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 799314,
+        "url": "https://www.youtube.com/@ChillyRoom",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1075981,
+        "url": "https://x.com/cr_nosuchplace",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1075980,
+        "url": "https://www.twitch.tv/directory/category/no-such-place",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 1075982,
+        "url": "https://nsp.chillyroom.com/en",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
         }
       }
     ]
@@ -97320,7 +99677,7 @@
         "name": "Adventure"
       }
     ],
-    "hypes": 78,
+    "hypes": 80,
     "involved_companies": [
       {
         "id": 372026,
@@ -102827,6 +105184,10 @@
         "name": "PlayStation 5"
       },
       {
+        "id": 49,
+        "name": "Xbox One"
+      },
+      {
         "id": 130,
         "name": "Nintendo Switch"
       }
@@ -102841,11 +105202,11 @@
         }
       },
       {
-        "id": 970213,
+        "id": 977201,
         "date": 1792972800,
         "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
+          "id": 49,
+          "name": "Xbox One"
         }
       },
       {
@@ -104250,1619 +106611,6 @@
         "type": {
           "id": 23,
           "type": "Playstation"
-        }
-      }
-    ]
-  },
-  {
-    "id": 404491,
-    "cover": {
-      "id": 568217,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc6ft.jpg"
-    },
-    "first_release_date": 1793059200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "name": "Tiny Capsule Collector",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 972173,
-        "date": 1793059200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1849440,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13n1c.jpg"
-      },
-      {
-        "id": 1849441,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13n1d.jpg"
-      },
-      {
-        "id": 1849442,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13n1e.jpg"
-      },
-      {
-        "id": 1849443,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13n1f.jpg"
-      },
-      {
-        "id": 1849444,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13n1g.jpg"
-      }
-    ],
-    "summary": "Run a cozy capsule shop at the bottom of your screen. Attract cute animal customers, collect charming capsule toys, and build a relaxing, ambient world in this idle sim bringing you small moments of joy while you work. Make your desktop a place you’d rather be.",
-    "videos": [
-      {
-        "id": 193722,
-        "video_id": "Bbh7hTOW0yw"
-      },
-      {
-        "id": 186342,
-        "video_id": "CCZHfZpVh64"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1065025,
-        "url": "https://store.steampowered.com/app/4438600/Tiny_Capsule_Collector/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1065270,
-        "url": "https://www.instagram.com/playing_mantis.io/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 1065271,
-        "url": "https://bsky.app/profile/playing-mantis-io.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      }
-    ]
-  },
-  {
-    "id": 405677,
-    "cover": {
-      "id": 602292,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocwqc.jpg"
-    },
-    "first_release_date": 1793059200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 414018,
-        "company": {
-          "id": 55057,
-          "name": "indie.io"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 414019,
-        "company": {
-          "id": 81290,
-          "name": "Corecrew Games"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Coal Duty",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 959532,
-        "date": 1793059200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1922977,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc157s1.jpg"
-      },
-      {
-        "id": 1922981,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc157s5.jpg"
-      },
-      {
-        "id": 1922972,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc157rw.jpg"
-      },
-      {
-        "id": 1922976,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc157s0.jpg"
-      },
-      {
-        "id": 1922975,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc157rz.jpg"
-      },
-      {
-        "id": 1922979,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc157s3.jpg"
-      },
-      {
-        "id": 1922978,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc157s2.jpg"
-      },
-      {
-        "id": 1922974,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc157ry.jpg"
-      },
-      {
-        "id": 1922980,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc157s4.jpg"
-      },
-      {
-        "id": 1922982,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc157s6.jpg"
-      },
-      {
-        "id": 1922973,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc157rx.jpg"
-      }
-    ],
-    "status": 3,
-    "summary": "Coal Duty is a 1-5 player co-op extraction horror-comedy. Meet the state coal quota in procedurally generated mines, coordinating over proximity voice chat while something in the dark listens in. Spend your tickets, plan your escape. Some miners get out. The state does not confirm this.",
-    "videos": [
-      {
-        "id": 187343,
-        "video_id": "Wn7FEG7OEtw"
-      },
-      {
-        "id": 187344,
-        "video_id": "Z5QIkqP3CJE"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1068569,
-        "url": "https://x.com/corecrewgames/",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1068570,
-        "url": "https://www.instagram.com/corecrewgames/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 1068571,
-        "url": "https://www.youtube.com/@CorecrewGames",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1068572,
-        "url": "https://discord.com/invite/4hrWcSeYqc",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 1068567,
-        "url": "https://store.steampowered.com/app/4272370/Coal_Duty/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1068568,
-        "url": "https://corecrewgames.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      }
-    ]
-  },
-  {
-    "id": 414126,
-    "cover": {
-      "id": 597335,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocswn.jpg"
-    },
-    "first_release_date": 1793059200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 5,
-        "name": "Shooter"
-      }
-    ],
-    "hypes": 3,
-    "involved_companies": [
-      {
-        "id": 410913,
-        "company": {
-          "id": 56938,
-          "name": "ZOOM Platform"
-        },
-        "developer": false,
-        "publisher": false
-      },
-      {
-        "id": 408821,
-        "company": {
-          "id": 12247,
-          "name": "Digital Spray Studios"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 408822,
-        "company": {
-          "id": 13271,
-          "name": "Mandel ArtPlains"
-        },
-        "developer": false,
-        "publisher": false
-      }
-    ],
-    "name": "You Are Empty: Absolute Edition",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 954693,
-        "date": 1793059200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1901750,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14ree.jpg"
-      },
-      {
-        "id": 1901755,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14rej.jpg"
-      },
-      {
-        "id": 1901749,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14red.jpg"
-      },
-      {
-        "id": 1901740,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14re4.jpg"
-      },
-      {
-        "id": 1901741,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14re5.jpg"
-      },
-      {
-        "id": 1901742,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14re6.jpg"
-      },
-      {
-        "id": 1901743,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14re7.jpg"
-      },
-      {
-        "id": 1901744,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14re8.jpg"
-      },
-      {
-        "id": 1901745,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14re9.jpg"
-      },
-      {
-        "id": 1901746,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14rea.jpg"
-      },
-      {
-        "id": 1901747,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14reb.jpg"
-      },
-      {
-        "id": 1901756,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14rek.jpg"
-      },
-      {
-        "id": 1901757,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14rel.jpg"
-      },
-      {
-        "id": 1901758,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14rem.jpg"
-      },
-      {
-        "id": 1901759,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14ren.jpg"
-      },
-      {
-        "id": 1901748,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14rec.jpg"
-      },
-      {
-        "id": 1901751,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14ref.jpg"
-      },
-      {
-        "id": 1901752,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14reg.jpg"
-      },
-      {
-        "id": 1901753,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14reh.jpg"
-      },
-      {
-        "id": 1901754,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14rei.jpg"
-      }
-    ],
-    "summary": "Just in time for the 20th anniversary, You Are Empty has been revitalized for modern systems, with fixes, new features, and QoL additions, including all the official localizations. Our team carefully went through the entire game whilst faithfully preserving the intent of the original release.",
-    "videos": [
-      {
-        "id": 193257,
-        "video_id": "9aVrCzT0dPA"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1098182,
-        "url": "https://store.steampowered.com/app/4760480/You_Are_Empty_Absolute_Edition/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      }
-    ]
-  },
-  {
-    "id": 123765,
-    "cover": {
-      "id": 555228,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobwf0.jpg"
-    },
-    "first_release_date": 1793145600,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 4,
-    "involved_companies": [
-      {
-        "id": 359983,
-        "company": {
-          "id": 13245,
-          "name": "Drago Entertainment"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Airport Contraband",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 971929,
-        "date": 1793145600,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1814001,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12vox.jpg"
-      },
-      {
-        "id": 1814008,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12vp4.jpg"
-      },
-      {
-        "id": 1814009,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12vp5.jpg"
-      },
-      {
-        "id": 1814002,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12voy.jpg"
-      },
-      {
-        "id": 1814003,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12voz.jpg"
-      },
-      {
-        "id": 1814010,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12vp6.jpg"
-      },
-      {
-        "id": 1814004,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12vp0.jpg"
-      },
-      {
-        "id": 1813998,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12vou.jpg"
-      },
-      {
-        "id": 1814005,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12vp1.jpg"
-      },
-      {
-        "id": 1813999,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12vov.jpg"
-      },
-      {
-        "id": 1814006,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12vp2.jpg"
-      },
-      {
-        "id": 1814000,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12vow.jpg"
-      },
-      {
-        "id": 1814007,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12vp3.jpg"
-      }
-    ],
-    "summary": "Take over the duties of a customs officer in this roguelike-simulation game where every suitcase could be a risk. Inspect documents, question passengers, scan luggage, and seize illegal goods as you try to maintain control at Caldora Airport. Will you uphold the law or profit from contraband?",
-    "videos": [
-      {
-        "id": 168915,
-        "video_id": "MeK3hw1DXoM"
-      },
-      {
-        "id": 180712,
-        "video_id": "fURmhRAftXw"
-      }
-    ],
-    "websites": [
-      {
-        "id": 427338,
-        "url": "https://www.twitch.tv/directory/game/Airport%20Contraband",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 919692,
-        "url": "https://www.facebook.com/dragoentertainment/",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 919693,
-        "url": "https://www.youtube.com/channel/UC7UsZRZre1lxPh7H6DGzkdQ/",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 919694,
-        "url": "https://x.com/DragoEnt",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 919695,
-        "url": "https://discord.gg/dragoent",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 124336,
-        "url": "https://store.steampowered.com/app/1167820",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1045423,
-        "url": "https://www.gog.com/game/airport_contraband",
-        "type": {
-          "id": 17,
-          "type": "GOG"
-        }
-      }
-    ]
-  },
-  {
-    "id": 402530,
-    "cover": {
-      "id": 564459,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc3jf.jpg"
-    },
-    "first_release_date": 1793145600,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 5,
-        "name": "Shooter"
-      },
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      }
-    ],
-    "hypes": 4,
-    "involved_companies": [
-      {
-        "id": 419521,
-        "company": {
-          "id": 2909,
-          "name": "FuRyu"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Anomalith",
-    "platforms": [
-      {
-        "id": 508,
-        "name": "Nintendo Switch 2"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 960308,
-        "date": 1793145600,
-        "platform": {
-          "id": 508,
-          "name": "Nintendo Switch 2"
-        }
-      },
-      {
-        "id": 960309,
-        "date": 1793145600,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 960310,
-        "date": 1793145600,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1839197,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13f4t.jpg"
-      },
-      {
-        "id": 1839208,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13f54.jpg"
-      },
-      {
-        "id": 1839207,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13f53.jpg"
-      },
-      {
-        "id": 1839209,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13f55.jpg"
-      },
-      {
-        "id": 1839211,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13f57.jpg"
-      },
-      {
-        "id": 1839201,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13f4x.jpg"
-      },
-      {
-        "id": 1839210,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13f56.jpg"
-      },
-      {
-        "id": 1839195,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13f4r.jpg"
-      },
-      {
-        "id": 1839199,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13f4v.jpg"
-      },
-      {
-        "id": 1839205,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13f51.jpg"
-      }
-    ],
-    "summary": "“ANOMALITH” is a survival third-person shooter set in Japan, steeped in the atmosphere of liminal spaces and Showa-era retro aesthetics. To search for her missing friend, a girl steps into a world writhing with anomalies.",
-    "videos": [
-      {
-        "id": 184398,
-        "video_id": "1hrRMm5horM"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1058550,
-        "url": "https://store.steampowered.com/app/4017880",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1058551,
-        "url": "https://x.com/AnomalyZCO",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1058552,
-        "url": "https://www.youtube.com/@FuryuGameChannel",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1058553,
-        "url": "https://bsky.app/profile/furyu-games-en.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 1058554,
-        "url": "https://www.instagram.com/furyugamesen/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 1058555,
-        "url": "https://www.facebook.com/people/FURYU-GAMES/61567998088334/",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 1062308,
-        "url": "https://www.nintendo.com/us/store/products/anomalith-switch-2/",
-        "type": {
-          "id": 24,
-          "type": "Nintendo"
-        }
-      },
-      {
-        "id": 1067832,
-        "url": "https://store.playstation.com/en-us/concept/10012984",
-        "type": {
-          "id": 23,
-          "type": "Playstation"
-        }
-      }
-    ]
-  },
-  {
-    "id": 410704,
-    "cover": {
-      "id": 585694,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocjxa.jpg"
-    },
-    "first_release_date": 1793145600,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "name": "Channel13: Rest Stop",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 972019,
-        "date": 1793145600,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1884531,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14e43.jpg"
-      },
-      {
-        "id": 1884524,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14e3w.jpg"
-      },
-      {
-        "id": 1884525,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14e3x.jpg"
-      },
-      {
-        "id": 1884526,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14e3y.jpg"
-      },
-      {
-        "id": 1883240,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14d48.jpg"
-      },
-      {
-        "id": 1883241,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14d49.jpg"
-      },
-      {
-        "id": 1883242,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14d4a.jpg"
-      },
-      {
-        "id": 1884527,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14e3z.jpg"
-      },
-      {
-        "id": 1884528,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14e40.jpg"
-      },
-      {
-        "id": 1884529,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14e41.jpg"
-      },
-      {
-        "id": 1884530,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14e42.jpg"
-      }
-    ],
-    "summary": "CH13: Rest Stop is a psychological horror game set in early 2000s Poland. What begins as a calm drive through the woods turns into something you weren\u0027t prepared for... Will you find out what awaits at the end of the road?",
-    "videos": [
-      {
-        "id": 190757,
-        "video_id": "5aaIIOwUBiA"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1087813,
-        "url": "https://www.youtube.com/@yell0w_sm1le",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1087814,
-        "url": "https://x.com/Yell0wSmile",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1087815,
-        "url": "https://www.instagram.com/yell0w_sm1le/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 1087811,
-        "url": "https://store.steampowered.com/app/3927170",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      }
-    ]
-  },
-  {
-    "id": 250618,
-    "cover": {
-      "id": 591422,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cococe.jpg"
-    },
-    "first_release_date": 1793232000,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 25,
-        "name": "Hack and slash/Beat \u0027em up"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      }
-    ],
-    "hypes": 216,
-    "involved_companies": [
-      {
-        "id": 217373,
-        "company": {
-          "id": 16409,
-          "name": "S-Game"
-        },
-        "developer": true,
-        "publisher": true
-      },
-      {
-        "id": 217374,
-        "company": {
-          "id": 47692,
-          "name": "Cruelman Studio"
-        },
-        "developer": false,
-        "publisher": false
-      }
-    ],
-    "name": "Phantom Blade Zero",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 920986,
-        "date": 1793232000,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 920987,
-        "date": 1793232000,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1056842,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmngq.jpg"
-      },
-      {
-        "id": 1056841,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmngp.jpg"
-      },
-      {
-        "id": 1056845,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmngt.jpg"
-      },
-      {
-        "id": 1056843,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmngr.jpg"
-      },
-      {
-        "id": 1056844,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmngs.jpg"
-      },
-      {
-        "id": 1827542,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13652.jpg"
-      }
-    ],
-    "summary": "Framed for the death of his master and left with a ruined heart, Soul has sixty-six days to live. Alone and hunted by his former comrades, he moves through a world of shifting loyalties and silent blades — determined to unravel the conspiracy that has condemned him.\n\nRain mixes with blood, mercy entangles with vengeance. Soul\u0027s journey is one of love, hate, and the fragile search for what it means to have a heart.",
-    "videos": [
-      {
-        "id": 131183,
-        "video_id": "pueXBkFMK7Q"
-      },
-      {
-        "id": 131184,
-        "video_id": "cgBmIjaZraE"
-      },
-      {
-        "id": 159816,
-        "video_id": "mpPmmXxffiQ"
-      },
-      {
-        "id": 170994,
-        "video_id": "ayGk_auu5tk"
-      },
-      {
-        "id": 192748,
-        "video_id": "aOU7KOPGVYU"
-      },
-      {
-        "id": 185945,
-        "video_id": "ZX8mHo0aSbc"
-      },
-      {
-        "id": 193630,
-        "video_id": "JxMAdNpb8xo"
-      },
-      {
-        "id": 193631,
-        "video_id": "blh1v1dGJ2s"
-      }
-    ],
-    "websites": [
-      {
-        "id": 554261,
-        "url": "https://www.youtube.com/@PhantomBladeZero",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 554265,
-        "url": "https://old.reddit.com/r/PhantomBladeZero/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 554264,
-        "url": "https://discord.gg/invite/AN2B4puBdt",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 554262,
-        "url": "https://www.facebook.com/phantombladezero",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 554263,
-        "url": "https://twitter.com/pbzero_official",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 941680,
-        "url": "https://store.steampowered.com/app/4115450",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 941681,
-        "url": "https://www.instagram.com/phantomblade.zero/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 941702,
-        "url": "https://store.playstation.com/en-us/concept/10017620",
-        "type": {
-          "id": 23,
-          "type": "Playstation"
-        }
-      },
-      {
-        "id": 941741,
-        "url": "https://epicgames.com/p/phantom-blade-zero-e78a35",
-        "type": {
-          "id": 16,
-          "type": "Epic"
-        }
-      },
-      {
-        "id": 979846,
-        "url": "https://phantom-blade.fandom.com/wiki/Phantom_Blade_Zero",
-        "type": {
-          "id": 2,
-          "type": "Community Wiki"
-        }
-      },
-      {
-        "id": 979847,
-        "url": "https://en.wikipedia.org/wiki/Phantom_Blade_Zero",
-        "type": {
-          "id": 3,
-          "type": "Wikipedia"
-        }
-      },
-      {
-        "id": 667062,
-        "url": "https://www.twitch.tv/directory/category/phantom-blade-0",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 1121199,
-        "url": "https://pbz.s-game.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      }
-    ]
-  },
-  {
-    "id": 265267,
-    "cover": {
-      "id": 388194,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8bj6.jpg"
-    },
-    "first_release_date": 1793232000,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      },
-      {
-        "id": 34,
-        "name": "Visual Novel"
-      }
-    ],
-    "hypes": 11,
-    "involved_companies": [
-      {
-        "id": 270735,
-        "company": {
-          "id": 54846,
-          "name": "Oopsie Daisies Studio"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Tom the Postgirl",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      },
-      {
-        "id": 130,
-        "name": "Nintendo Switch"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 969523,
-        "date": 1793232000,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 969524,
-        "date": 1793232000,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 977178,
-        "date": 1793232000,
-        "platform": {
-          "id": 130,
-          "name": "Nintendo Switch"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1136786,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scod5e.jpg"
-      },
-      {
-        "id": 1136791,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scod5j.jpg"
-      },
-      {
-        "id": 1136781,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scod59.jpg"
-      },
-      {
-        "id": 1136783,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scod5b.jpg"
-      },
-      {
-        "id": 1136796,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scod5o.jpg"
-      },
-      {
-        "id": 1136799,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scod5r.jpg"
-      }
-    ],
-    "summary": "Take a ride with Tom through her village and discover a great deal—perhaps too much—about the locals. Her approach, although controversial, is highly effective: intense and obsessive stalking.",
-    "videos": [
-      {
-        "id": 116494,
-        "video_id": "QRDh-t6uQnk"
-      },
-      {
-        "id": 116495,
-        "video_id": "ZIHqVXebUZc"
-      },
-      {
-        "id": 130714,
-        "video_id": "M2b4EhCt1-8"
-      },
-      {
-        "id": 199541,
-        "video_id": "2upRHiQtAzI"
-      }
-    ],
-    "websites": [
-      {
-        "id": 579696,
-        "url": "https://store.steampowered.com/app/2257440",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 639658,
-        "url": "https://twitter.com/oopsiedaisiesCH",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 644592,
-        "url": "https://www.twitch.tv/directory/category/tom-the-postgirl",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 639659,
-        "url": "https://www.instagram.com/o.opsiedaisies/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 639657,
-        "url": "https://www.youtube.com/@OopsieDaisiesStudio",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 644591,
-        "url": "https://oopsiedaisiesstudio.com/tom",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1089353,
-        "url": "https://discord.gg/b8C8ebn?proof\u003dc8c823b148c8b19a",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      }
-    ]
-  },
-  {
-    "id": 296564,
-    "cover": {
-      "id": 544998,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coboiu.jpg"
-    },
-    "first_release_date": 1793232000,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 12,
-    "involved_companies": [
-      {
-        "id": 419631,
-        "company": {
-          "id": 70858,
-          "name": "Digital Pajamas"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 419630,
-        "company": {
-          "id": 1260,
-          "name": "Behaviour Interactive"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 419628,
-        "company": {
-          "id": 74509,
-          "name": "WDR Studios"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Terrible Lizards",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 959851,
-        "date": 1793232000,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 957623,
-        "date": 1793232000,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 957624,
-        "date": 1793232000,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1793572,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12fxg.jpg"
-      },
-      {
-        "id": 1793571,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12fxf.jpg"
-      },
-      {
-        "id": 1793573,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12fxh.jpg"
-      },
-      {
-        "id": 1793575,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12fxj.jpg"
-      },
-      {
-        "id": 1793570,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12fxe.jpg"
-      },
-      {
-        "id": 1793574,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12fxi.jpg"
-      },
-      {
-        "id": 1793577,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12fxl.jpg"
-      },
-      {
-        "id": 1793576,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12fxk.jpg"
-      }
-    ],
-    "summary": "Terrible Lizards is a horror parkour game set against the backdrop of an old Route 66 attraction… with something dark and sinister lurking below. To escape, you’ll need to move fast, navigate challenging terrain, and uncover what Dalton’s Dinos is really hiding. You’d better start running.",
-    "videos": [
-      {
-        "id": 177453,
-        "video_id": "iUY6bFjivWU"
-      },
-      {
-        "id": 177454,
-        "video_id": "jepVk81vyKA"
-      },
-      {
-        "id": 178304,
-        "video_id": "lGk89_89I0Y"
-      },
-      {
-        "id": 194050,
-        "video_id": "z7pKOrhJ8to"
-      }
-    ],
-    "websites": [
-      {
-        "id": 629262,
-        "url": "https://store.steampowered.com/app/2920220",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 629263,
-        "url": "https://www.terriblelizardsgame.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1112073,
-        "url": "https://store.playstation.com/en-us/concept/10019203/",
-        "type": {
-          "id": 23,
-          "type": "Playstation"
-        }
-      },
-      {
-        "id": 1022680,
-        "url": "https://www.twitch.tv/directory/category/terrible-lizards",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 1022681,
-        "url": "https://x.com/TerribleLzrds",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1022682,
-        "url": "https://www.instagram.com/wdrstudiosllc",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 1022683,
-        "url": "https://www.youtube.com/@WDRStudios",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1022684,
-        "url": "https://www.reddit.com/r/TerribleLizards",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 1022685,
-        "url": "https://discordapp.com/invite/WK9TNNDCPP",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 1022686,
-        "url": "https://bsky.app/profile/did:plc:bry4ac4hpmzb4astdddyqwbr",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 1127866,
-        "url": "https://www.xbox.com/en-us/games/store/-/9PKFL1XJT73S",
-        "type": {
-          "id": 22,
-          "type": "Xbox"
         }
       }
     ]
