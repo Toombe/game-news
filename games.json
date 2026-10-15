@@ -10159,6 +10159,214 @@
     ]
   },
   {
+    "id": 287886,
+    "cover": {
+      "id": 453901,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9q8d.jpg"
+    },
+    "first_release_date": 1713657600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 271737,
+        "company": {
+          "id": 1095,
+          "name": "Genius Sonority"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "The New Denpa Men",
+    "platforms": [
+      {
+        "id": 508,
+        "name": "Nintendo Switch 2"
+      },
+      {
+        "id": 34,
+        "name": "Android"
+      },
+      {
+        "id": 39,
+        "name": "iOS"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 606647,
+        "date": 1721606400,
+        "platform": {
+          "id": 130,
+          "name": "Nintendo Switch"
+        }
+      },
+      {
+        "id": 607024,
+        "date": 1713657600,
+        "platform": {
+          "id": 130,
+          "name": "Nintendo Switch"
+        }
+      },
+      {
+        "id": 973773,
+        "date": 1775347200,
+        "platform": {
+          "id": 508,
+          "name": "Nintendo Switch 2"
+        }
+      },
+      {
+        "id": 973772,
+        "date": 1796515200,
+        "platform": {
+          "id": 130,
+          "name": "Nintendo Switch"
+        }
+      },
+      {
+        "id": 973774,
+        "date": 1796515200,
+        "platform": {
+          "id": 508,
+          "name": "Nintendo Switch 2"
+        }
+      },
+      {
+        "id": 973775,
+        "date": 1741564800,
+        "platform": {
+          "id": 39,
+          "name": "iOS"
+        }
+      },
+      {
+        "id": 973776,
+        "date": 1796515200,
+        "platform": {
+          "id": 39,
+          "name": "iOS"
+        }
+      },
+      {
+        "id": 973777,
+        "date": 1741564800,
+        "platform": {
+          "id": 34,
+          "name": "Android"
+        }
+      },
+      {
+        "id": 973778,
+        "date": 1796515200,
+        "platform": {
+          "id": 34,
+          "name": "Android"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1346345,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsuuh.jpg"
+      },
+      {
+        "id": 1346341,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsuud.jpg"
+      },
+      {
+        "id": 1346343,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsuuf.jpg"
+      },
+      {
+        "id": 1346344,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsuug.jpg"
+      },
+      {
+        "id": 1346342,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsuue.jpg"
+      }
+    ],
+    "summary": "Scour radio waves for the Denpa Men: small creatures that call these invisible signals their home.\n\nThe New Denpa Men is a free-to-play RPG where you can collect these Denpa Men for your party and adventure with them as your companions. In addition to the main adventure, you can decorate your island, fish, participate in limited-time events, and play against other players.",
+    "videos": [
+      {
+        "id": 107668,
+        "video_id": "n7tuAqPLbUo"
+      },
+      {
+        "id": 116654,
+        "video_id": "aPnSuCi0NDE"
+      }
+    ],
+    "websites": [
+      {
+        "id": 779932,
+        "url": "https://www.nintendo.com/us/store/products/the-new-denpa-men-switch/",
+        "type": {
+          "id": 24,
+          "type": "Nintendo"
+        }
+      },
+      {
+        "id": 1127816,
+        "url": "https://newdenpafree.ap-gs.com/en/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1127817,
+        "url": "https://play.google.com/store/apps/details?id\u003djp.geniussonority.newdenpafree",
+        "type": {
+          "id": 12,
+          "type": "Google Play"
+        }
+      },
+      {
+        "id": 1127818,
+        "url": "https://apps.apple.com/us/app/the-new-denpa-men/id6466145265",
+        "type": {
+          "id": 10,
+          "type": "App Store (iPhone)"
+        }
+      },
+      {
+        "id": 1127819,
+        "url": "https://x.com/DenpaMen",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      }
+    ]
+  },
+  {
     "id": 200903,
     "cover": {
       "id": 309448,
@@ -15754,6 +15962,266 @@
     ]
   },
   {
+    "id": 107429,
+    "cover": {
+      "id": 456512,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9s8w.jpg"
+    },
+    "first_release_date": 1738108800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 420606,
+        "company": {
+          "id": 75905,
+          "name": "The End of the Sun Forge"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "The End of the Sun",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 696534,
+        "date": 1738108800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 696532,
+        "date": 1738108800,
+        "platform": {
+          "id": 3,
+          "name": "Linux"
+        }
+      },
+      {
+        "id": 696533,
+        "date": 1738108800,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      },
+      {
+        "id": 900366,
+        "date": 1776729600,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 977848,
+        "date": 1793750400,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 247550,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/s1d9cgnyyhj2yhlz8bow.jpg"
+      },
+      {
+        "id": 247547,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/hpsrhdj9srcfgqoadkst.jpg"
+      },
+      {
+        "id": 247546,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jee8yup1tbrndjh8goxz.jpg"
+      },
+      {
+        "id": 247552,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/dds1jwhfk8g9ldxkfrus.jpg"
+      },
+      {
+        "id": 247545,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/tiio5nq11sz66ggez6vf.jpg"
+      },
+      {
+        "id": 247548,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/xg8f963tp1f8czr7stz8.jpg"
+      },
+      {
+        "id": 247543,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/aewnkldfrxf8sfshgsxh.jpg"
+      },
+      {
+        "id": 247544,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/th3b05wdoxr36tp3mzld.jpg"
+      },
+      {
+        "id": 247549,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/luewhr9fuqhxxapxb4qe.jpg"
+      },
+      {
+        "id": 247551,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ijrwdoluggd4h7zhetx2.jpg"
+      }
+    ],
+    "summary": "The End of the Sun is a first-person exploration and adventure story-based game, embedded in the Slavic world. This is a series of mysterious events that ordinary people dealt with, as they were living in a small village where the line between myth and reality became to fade perilously.",
+    "videos": [
+      {
+        "id": 137620,
+        "video_id": "SzawswL4w5k"
+      },
+      {
+        "id": 181165,
+        "video_id": "bpJz2NzzSoU"
+      }
+    ],
+    "websites": [
+      {
+        "id": 728278,
+        "url": "https://www.youtube.com/channel/UCFoSXpa4XVRZECdn4KCw7UA/",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 745177,
+        "url": "https://discord.com/invite/JMQTBQKR9E",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 728275,
+        "url": "https://www.facebook.com/EndOfTheSunGame/",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 728279,
+        "url": "https://www.instagram.com/endofsungame/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 728277,
+        "url": "https://x.com/endofthesungame",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 89054,
+        "url": "http://www.endofsun.com",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 89053,
+        "url": "https://store.steampowered.com/app/912840",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 537319,
+        "url": "https://www.gog.com/en/game/the_end_of_the_sun",
+        "type": {
+          "id": 17,
+          "type": "GOG"
+        }
+      },
+      {
+        "id": 1134521,
+        "url": "https://www.xbox.com/en-us/games/store/-/9P0Q2XX2D358",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
+      },
+      {
+        "id": 1037333,
+        "url": "https://www.twitch.tv/directory/category/the-end-of-the-sun",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 1037332,
+        "url": "https://store.playstation.com/en-us/concept/10017998",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
+        }
+      },
+      {
+        "id": 1126889,
+        "url": "https://store.epicgames.com/p/the-end-of-the-sun-1f25f4",
+        "type": {
+          "id": 16,
+          "type": "Epic"
+        }
+      }
+    ]
+  },
+  {
     "id": 310904,
     "cover": {
       "id": 417994,
@@ -21324,216 +21792,6 @@
     ]
   },
   {
-    "id": 336152,
-    "cover": {
-      "id": 445872,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9k1c.jpg"
-    },
-    "first_release_date": 1753920000,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 15,
-        "name": "Strategy"
-      }
-    ],
-    "hypes": 4,
-    "involved_companies": [
-      {
-        "id": 312297,
-        "company": {
-          "id": 7025,
-          "name": "Snapshot Games"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 312298,
-        "company": {
-          "id": 31303,
-          "name": "Arc Games"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Frosthaven",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 771444,
-        "date": 1753920000,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 935758,
-        "date": 1792022400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1483469,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsnh.jpg"
-      },
-      {
-        "id": 1483474,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsnm.jpg"
-      },
-      {
-        "id": 1483464,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsnc.jpg"
-      },
-      {
-        "id": 1483470,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsni.jpg"
-      },
-      {
-        "id": 1483465,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsnd.jpg"
-      },
-      {
-        "id": 1483471,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsnj.jpg"
-      },
-      {
-        "id": 1483468,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsng.jpg"
-      },
-      {
-        "id": 1483473,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsnl.jpg"
-      },
-      {
-        "id": 1483463,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsnb.jpg"
-      },
-      {
-        "id": 1483466,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsne.jpg"
-      },
-      {
-        "id": 1483467,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsnf.jpg"
-      },
-      {
-        "id": 1483472,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsnk.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "From the creative mind of Isaac Childres, the highly acclaimed board game moves to the digital realm in the video game adaptation of FROSTHAVEN! The dark fantasy tactical RPG features deep mechanics and challenging yet satisfying gameplay both in Single Player and Co-Op Online Multiplayer.",
-    "videos": [
-      {
-        "id": 143701,
-        "video_id": "efZp5hajvbA"
-      },
-      {
-        "id": 157673,
-        "video_id": "8O39JBrj27Q"
-      },
-      {
-        "id": 189289,
-        "video_id": "zdyNst1LUgA"
-      }
-    ],
-    "websites": [
-      {
-        "id": 720387,
-        "url": "http://playfrosthaven.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 843525,
-        "url": "https://epicgames.com/p/frosthaven-0aa6b6",
-        "type": {
-          "id": 16,
-          "type": "Epic"
-        }
-      },
-      {
-        "id": 720386,
-        "url": "https://store.steampowered.com/app/2347080",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 720391,
-        "url": "https://discord.gg/invite/FUNmzWVfz2",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 720389,
-        "url": "https://www.facebook.com/FrosthavenGame",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 720392,
-        "url": "https://www.twitch.tv/directory/category/frosthaven",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 720388,
-        "url": "https://www.youtube.com/@PlayFrosthaven",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 720390,
-        "url": "https://twitter.com/PlayFrosthaven",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      }
-    ]
-  },
-  {
     "id": 261146,
     "cover": {
       "id": 323059,
@@ -25274,231 +25532,6 @@
     ]
   },
   {
-    "id": 259339,
-    "cover": {
-      "id": 515913,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cob22x.jpg"
-    },
-    "first_release_date": 1758153600,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 7,
-        "name": "Music"
-      },
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 18,
-    "involved_companies": [
-      {
-        "id": 224431,
-        "company": {
-          "id": 48763,
-          "name": "Ratata Arts"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 337121,
-        "company": {
-          "id": 63772,
-          "name": "Game Source Entertainment"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Ratatan",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 508,
-        "name": "Nintendo Switch 2"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 786474,
-        "date": 1758153600,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 941356,
-        "date": 1792022400,
-        "platform": {
-          "id": 508,
-          "name": "Nintendo Switch 2"
-        }
-      },
-      {
-        "id": 941357,
-        "date": 1792022400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 941359,
-        "date": 1792022400,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 941361,
-        "date": 1792022400,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1104390,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scno5i.jpg"
-      }
-    ],
-    "summary": "Ratatan is a rhythm roguelike action game that combines rhythm games and side-scrolling action, with online co-op gameplay supporting up to 4 players. An intense battle unfolds with over 100 characters fighting in a massive melee. Let\u0027s defeat the enemies together!",
-    "videos": [
-      {
-        "id": 94626,
-        "video_id": "okG0R8r_G8Q"
-      },
-      {
-        "id": 133087,
-        "video_id": "HR9r-LXLGnI"
-      },
-      {
-        "id": 141262,
-        "video_id": "63RmA6SOS-M"
-      },
-      {
-        "id": 153294,
-        "video_id": "tjKqAH9P4SQ"
-      },
-      {
-        "id": 162552,
-        "video_id": "ANtXCPQ7eD0"
-      },
-      {
-        "id": 177593,
-        "video_id": "JgJkMEZ4dCk"
-      }
-    ],
-    "websites": [
-      {
-        "id": 794279,
-        "url": "https://discord.gg/ratatan",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 693305,
-        "url": "https://store.steampowered.com/app/2949320",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 569537,
-        "url": "https://www.ratatangame.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 569538,
-        "url": "https://www.youtube.com/@Ratatan-game",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 569539,
-        "url": "https://twitter.com/ratatan_game",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 569540,
-        "url": "https://www.instagram.com/ratatangame/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 1117344,
-        "url": "https://www.nintendo.com/us/store/products/ratatan-switch-2/",
-        "type": {
-          "id": 24,
-          "type": "Nintendo"
-        }
-      },
-      {
-        "id": 1118976,
-        "url": "https://store.playstation.com/en-us/concept/10017810/",
-        "type": {
-          "id": 23,
-          "type": "Playstation"
-        }
-      }
-    ]
-  },
-  {
     "id": 314090,
     "cover": {
       "id": 491147,
@@ -26624,6 +26657,203 @@
       {
         "id": 1112962,
         "url": "https://store.playstation.com/en-us/concept/10020501",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
+        }
+      }
+    ]
+  },
+  {
+    "id": 235996,
+    "cover": {
+      "id": 395447,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8h4n.jpg"
+    },
+    "first_release_date": 1761004800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 3,
+    "involved_companies": [
+      {
+        "id": 420398,
+        "company": {
+          "id": 11551,
+          "name": "Dolores Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 388981,
+        "company": {
+          "id": 9150,
+          "name": "MicroProse Software, Inc."
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Darkenstein 3D",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 800900,
+        "date": 1761004800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 977475,
+        "date": 1792713600,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 977476,
+        "date": 1792713600,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 982680,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scl28o.jpg"
+      },
+      {
+        "id": 982683,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scl28r.jpg"
+      },
+      {
+        "id": 982707,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scl29f.jpg"
+      },
+      {
+        "id": 982709,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scl29h.jpg"
+      },
+      {
+        "id": 982689,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scl28x.jpg"
+      },
+      {
+        "id": 982691,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scl28z.jpg"
+      },
+      {
+        "id": 982696,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scl294.jpg"
+      },
+      {
+        "id": 982704,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scl29c.jpg"
+      },
+      {
+        "id": 982702,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scl29a.jpg"
+      },
+      {
+        "id": 982700,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scl298.jpg"
+      }
+    ],
+    "summary": "A retro shooter inspired by the older Wolfenstein and Doom games. A tribute of sorts, if you like, where I aspire emulate the games I love the most and that requires a certain amount of skill to complete, while adding a few personal and more current-day touches.",
+    "videos": [
+      {
+        "id": 119065,
+        "video_id": "zIZpueXybPU"
+      },
+      {
+        "id": 132831,
+        "video_id": "SfKafT4SyE8"
+      },
+      {
+        "id": 165827,
+        "video_id": "j0DYROVej84"
+      },
+      {
+        "id": 199618,
+        "video_id": "oHC7KVMs_l4"
+      }
+    ],
+    "websites": [
+      {
+        "id": 790298,
+        "url": "http://darkenstein3d.com",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 790299,
+        "url": "https://x.com/roger_creus_art",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 790300,
+        "url": "https://www.youtube.com/@digitalrowye/",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 527876,
+        "url": "https://store.steampowered.com/app/2195910",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1133795,
+        "url": "https://www.xbox.com/en-us/games/store/-/9N0XQ9ZTDST5",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
+      },
+      {
+        "id": 1133796,
+        "url": "https://store.playstation.com/en-us/concept/10020880",
         "type": {
           "id": 23,
           "type": "Playstation"
@@ -62919,6 +63149,14 @@
         }
       },
       {
+        "id": 1134659,
+        "url": "https://halloween-thegame.wiki/",
+        "type": {
+          "id": 2,
+          "type": "Community Wiki"
+        }
+      },
+      {
         "id": 1116359,
         "url": "https://en.wikipedia.org/wiki/Halloween:_The_Game",
         "type": {
@@ -97890,8 +98128,8 @@
   {
     "id": 344669,
     "cover": {
-      "id": 459166,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9uam.jpg"
+      "id": 613284,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cod57o.jpg"
     },
     "first_release_date": 1791936000,
     "game_modes": [
@@ -97983,48 +98221,36 @@
     ],
     "screenshots": [
       {
-        "id": 1681610,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc101je.jpg"
+        "id": 1952014,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15u6m.jpg"
       },
       {
-        "id": 1681611,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc101jf.jpg"
+        "id": 1952013,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15u6l.jpg"
       },
       {
-        "id": 1681619,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc101jn.jpg"
+        "id": 1952012,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15u6k.jpg"
       },
       {
-        "id": 1833841,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13b01.jpg"
+        "id": 1952010,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15u6i.jpg"
       },
       {
-        "id": 1833842,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13b02.jpg"
+        "id": 1952011,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15u6j.jpg"
       },
       {
-        "id": 1833843,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13b03.jpg"
+        "id": 1952015,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15u6n.jpg"
       },
       {
-        "id": 1833844,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13b04.jpg"
+        "id": 1952016,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15u6o.jpg"
       },
       {
-        "id": 1833845,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13b05.jpg"
-      },
-      {
-        "id": 1833846,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13b06.jpg"
-      },
-      {
-        "id": 1833847,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13b07.jpg"
-      },
-      {
-        "id": 1833848,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13b08.jpg"
+        "id": 1952017,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15u6p.jpg"
       }
     ],
     "summary": "Obliterate heretics in the name of the Emperor in Warhammer 40,000: Boltgun 2! Play as Ultramarine Malum Caedo or Sister of Battle Nyra Veyrath in this sequel to retro FPS Warhammer 40,000: Boltgun with more enemies, more weapons, and new ways to purge!",
@@ -98056,6 +98282,10 @@
       {
         "id": 184377,
         "video_id": "ydDcJzaNwJI"
+      },
+      {
+        "id": 199803,
+        "video_id": "R5MXHdMwUcY"
       }
     ],
     "websites": [
@@ -98287,6 +98517,7 @@
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwzri.jpg"
       }
     ],
+    "status": 4,
     "summary": "Welcome to the Unknown Research Consortium (U.R.C.), where you’re tasked with conducting reconnaissance missions, terminating unknown threats, gathering crucial information, and reaching the evacuation point in this treacherous top-down extraction shooter.",
     "videos": [
       {
@@ -98304,6 +98535,10 @@
       {
         "id": 197421,
         "video_id": "EeZtXZt-ebk"
+      },
+      {
+        "id": 199731,
+        "video_id": "RNrYE64lCu4"
       }
     ],
     "websites": [
@@ -98321,14 +98556,6 @@
         "type": {
           "id": 13,
           "type": "Steam"
-        }
-      },
-      {
-        "id": 799314,
-        "url": "https://www.youtube.com/@ChillyRoom",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
         }
       },
       {
@@ -98353,6 +98580,14 @@
         "type": {
           "id": 1,
           "type": "Official Website"
+        }
+      },
+      {
+        "id": 1134568,
+        "url": "https://www.youtube.com/@NoSuchPlace_game",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
         }
       }
     ]
@@ -98498,6 +98733,14 @@
         "type": {
           "id": 14,
           "type": "Subreddit"
+        }
+      },
+      {
+        "id": 1134822,
+        "url": "https://www.facebook.com/PangeaGameStudios",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
         }
       },
       {
@@ -98904,6 +99147,424 @@
     ]
   },
   {
+    "id": 259339,
+    "cover": {
+      "id": 515913,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cob22x.jpg"
+    },
+    "first_release_date": 1792022400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 7,
+        "name": "Music"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 18,
+    "involved_companies": [
+      {
+        "id": 224431,
+        "company": {
+          "id": 48763,
+          "name": "Ratata Arts"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 337121,
+        "company": {
+          "id": 63772,
+          "name": "Game Source Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Ratatan",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 508,
+        "name": "Nintendo Switch 2"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 786474,
+        "date": 1758153600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 941356,
+        "date": 1792022400,
+        "platform": {
+          "id": 508,
+          "name": "Nintendo Switch 2"
+        }
+      },
+      {
+        "id": 941357,
+        "date": 1792022400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 941359,
+        "date": 1792022400,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 941361,
+        "date": 1792022400,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1104390,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scno5i.jpg"
+      }
+    ],
+    "summary": "Ratatan is a rhythm roguelike action game that combines rhythm games and side-scrolling action, with online co-op gameplay supporting up to 4 players. An intense battle unfolds with over 100 characters fighting in a massive melee. Let\u0027s defeat the enemies together!",
+    "videos": [
+      {
+        "id": 94626,
+        "video_id": "okG0R8r_G8Q"
+      },
+      {
+        "id": 133087,
+        "video_id": "HR9r-LXLGnI"
+      },
+      {
+        "id": 141262,
+        "video_id": "63RmA6SOS-M"
+      },
+      {
+        "id": 153294,
+        "video_id": "tjKqAH9P4SQ"
+      },
+      {
+        "id": 162552,
+        "video_id": "ANtXCPQ7eD0"
+      },
+      {
+        "id": 177593,
+        "video_id": "JgJkMEZ4dCk"
+      }
+    ],
+    "websites": [
+      {
+        "id": 794279,
+        "url": "https://discord.gg/ratatan",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 693305,
+        "url": "https://store.steampowered.com/app/2949320",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 569537,
+        "url": "https://www.ratatangame.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 569538,
+        "url": "https://www.youtube.com/@Ratatan-game",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 569539,
+        "url": "https://twitter.com/ratatan_game",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 569540,
+        "url": "https://www.instagram.com/ratatangame/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1117344,
+        "url": "https://www.nintendo.com/us/store/products/ratatan-switch-2/",
+        "type": {
+          "id": 24,
+          "type": "Nintendo"
+        }
+      },
+      {
+        "id": 1118976,
+        "url": "https://store.playstation.com/en-us/concept/10017810/",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
+        }
+      },
+      {
+        "id": 1135010,
+        "url": "https://www.xbox.com/en-US/games/store/-/9N325V9CL7CV",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
+      }
+    ]
+  },
+  {
+    "id": 263778,
+    "cover": {
+      "id": 406455,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8pmf.jpg"
+    },
+    "first_release_date": 1792022400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "hypes": 4,
+    "involved_companies": [
+      {
+        "id": 416222,
+        "company": {
+          "id": 10535,
+          "name": "Acclaim"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 416223,
+        "company": {
+          "id": 46202,
+          "name": "Valadria"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Pixel Washer",
+    "platforms": [
+      {
+        "id": 508,
+        "name": "Nintendo Switch 2"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 969354,
+        "date": 1792022400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 969355,
+        "date": 1830211200,
+        "platform": {
+          "id": 130,
+          "name": "Nintendo Switch"
+        }
+      },
+      {
+        "id": 969356,
+        "date": 1830211200,
+        "platform": {
+          "id": 508,
+          "name": "Nintendo Switch 2"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1127758,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sco66m.jpg"
+      },
+      {
+        "id": 1127757,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sco66l.jpg"
+      },
+      {
+        "id": 1127754,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sco66i.jpg"
+      },
+      {
+        "id": 1127755,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sco66j.jpg"
+      },
+      {
+        "id": 1127756,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sco66k.jpg"
+      }
+    ],
+    "summary": "Pixel Washer is a cozy, zen-like game where you play as a cute piggy power washing beautiful pixelated worlds. Wash sprites, upgrade your power washer, and find hidden secrets.",
+    "videos": [
+      {
+        "id": 123627,
+        "video_id": "8EXXzhxARiM"
+      },
+      {
+        "id": 161724,
+        "video_id": "vHk6rCKKkEY"
+      },
+      {
+        "id": 190792,
+        "video_id": "xrafGaiuEKA"
+      },
+      {
+        "id": 197441,
+        "video_id": "Opd1dNK9O7w"
+      },
+      {
+        "id": 185669,
+        "video_id": "qw9uDareI6o"
+      }
+    ],
+    "websites": [
+      {
+        "id": 666337,
+        "url": "https://valadria.itch.io/pixel-washer",
+        "type": {
+          "id": 15,
+          "type": "Itch"
+        }
+      },
+      {
+        "id": 741475,
+        "url": "https://bsky.app/profile/richtaur.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 577497,
+        "url": "https://store.steampowered.com/app/2572060",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 577498,
+        "url": "http://www.pixelwasher.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 666339,
+        "url": "https://twitter.com/richtaur",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 666340,
+        "url": "https://discord.gg/ZmSNkuPDfu",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 666338,
+        "url": "https://www.youtube.com/@Valadria",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      }
+    ]
+  },
+  {
     "id": 278965,
     "cover": {
       "id": 607053,
@@ -99092,6 +99753,216 @@
         "type": {
           "id": 15,
           "type": "Itch"
+        }
+      }
+    ]
+  },
+  {
+    "id": 336152,
+    "cover": {
+      "id": 445872,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9k1c.jpg"
+    },
+    "first_release_date": 1792022400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      }
+    ],
+    "hypes": 4,
+    "involved_companies": [
+      {
+        "id": 312297,
+        "company": {
+          "id": 7025,
+          "name": "Snapshot Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 312298,
+        "company": {
+          "id": 31303,
+          "name": "Arc Games"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Frosthaven",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 771444,
+        "date": 1753920000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 935758,
+        "date": 1792022400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1483469,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsnh.jpg"
+      },
+      {
+        "id": 1483474,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsnm.jpg"
+      },
+      {
+        "id": 1483464,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsnc.jpg"
+      },
+      {
+        "id": 1483470,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsni.jpg"
+      },
+      {
+        "id": 1483465,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsnd.jpg"
+      },
+      {
+        "id": 1483471,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsnj.jpg"
+      },
+      {
+        "id": 1483468,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsng.jpg"
+      },
+      {
+        "id": 1483473,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsnl.jpg"
+      },
+      {
+        "id": 1483463,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsnb.jpg"
+      },
+      {
+        "id": 1483466,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsne.jpg"
+      },
+      {
+        "id": 1483467,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsnf.jpg"
+      },
+      {
+        "id": 1483472,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsnk.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "From the creative mind of Isaac Childres, the highly acclaimed board game moves to the digital realm in the video game adaptation of FROSTHAVEN! The dark fantasy tactical RPG features deep mechanics and challenging yet satisfying gameplay both in Single Player and Co-Op Online Multiplayer.",
+    "videos": [
+      {
+        "id": 143701,
+        "video_id": "efZp5hajvbA"
+      },
+      {
+        "id": 157673,
+        "video_id": "8O39JBrj27Q"
+      },
+      {
+        "id": 189289,
+        "video_id": "zdyNst1LUgA"
+      }
+    ],
+    "websites": [
+      {
+        "id": 720387,
+        "url": "http://playfrosthaven.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 843525,
+        "url": "https://epicgames.com/p/frosthaven-0aa6b6",
+        "type": {
+          "id": 16,
+          "type": "Epic"
+        }
+      },
+      {
+        "id": 720386,
+        "url": "https://store.steampowered.com/app/2347080",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 720391,
+        "url": "https://discord.gg/invite/FUNmzWVfz2",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 720389,
+        "url": "https://www.facebook.com/FrosthavenGame",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 720392,
+        "url": "https://www.twitch.tv/directory/category/frosthaven",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 720388,
+        "url": "https://www.youtube.com/@PlayFrosthaven",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 720390,
+        "url": "https://twitter.com/PlayFrosthaven",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
         }
       }
     ]
@@ -99677,7 +100548,7 @@
         "name": "Adventure"
       }
     ],
-    "hypes": 80,
+    "hypes": 81,
     "involved_companies": [
       {
         "id": 372026,
@@ -103902,7 +104773,7 @@
         "name": "Adventure"
       }
     ],
-    "hypes": 30,
+    "hypes": 31,
     "involved_companies": [
       {
         "id": 393472,
@@ -106012,605 +106883,6 @@
         "type": {
           "id": 6,
           "type": "Twitch"
-        }
-      }
-    ]
-  },
-  {
-    "id": 400252,
-    "cover": {
-      "id": 560212,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc09g.jpg"
-    },
-    "first_release_date": 1792972800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 9,
-        "name": "Puzzle"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "name": "Last Floor",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 943746,
-        "date": 1792972800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1827223,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc135w7.jpg"
-      },
-      {
-        "id": 1827224,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc135w8.jpg"
-      },
-      {
-        "id": 1827225,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc135w9.jpg"
-      },
-      {
-        "id": 1827226,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc135wa.jpg"
-      },
-      {
-        "id": 1827227,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc135wb.jpg"
-      }
-    ],
-    "status": 3,
-    "summary": "Last Floor is a first-person psychological horror game focused on observation and anomaly detection. The player navigates a looping hospital corridor and must identify subtle changes in the environment.\n\nEach run begins in an elevator and progresses through an identical hallway. The player must determine whether an anomaly is present during the loop and choose the correct elevator direction to continue. Incorrect decisions reset progression.",
-    "videos": [
-      {
-        "id": 190655,
-        "video_id": "E1zVDIFC5jA"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1050550,
-        "url": "https://store.steampowered.com/app/4644850/Last_Floor/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1050551,
-        "url": "https://discord.com/invite/DhjQapVerf",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 1050552,
-        "url": "https://x.com/BytaleGames",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      }
-    ]
-  },
-  {
-    "id": 416105,
-    "cover": {
-      "id": 598231,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coctlj.jpg"
-    },
-    "first_release_date": 1792972800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 31,
-        "name": "Adventure"
-      }
-    ],
-    "hypes": 5,
-    "involved_companies": [
-      {
-        "id": 411731,
-        "company": {
-          "id": 80856,
-          "name": "Twin Swans"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Hunter\u0027s Moon",
-    "platforms": [
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 960839,
-        "date": 1792972800,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      }
-    ],
-    "summary": "Hunter’s Moon is a first-person historical narrative folk-horror set over the course of one fateful night. Meet mummers dressed in folk costumes, evade capture by the witch hunters, and eavesdrop on a characterful cast of regular folk worn down by war and misfortune. Discover the secrets of this dysfunctional village on the brink as you embody an accused “witch” on the run for her life.",
-    "videos": [
-      {
-        "id": 194989,
-        "video_id": "bKMaeHoJY2A"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1112984,
-        "url": "https://store.playstation.com/en-us/concept/10013468/",
-        "type": {
-          "id": 23,
-          "type": "Playstation"
-        }
-      }
-    ]
-  },
-  {
-    "id": 381077,
-    "cover": {
-      "id": 513230,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cob00e.jpg"
-    },
-    "first_release_date": 1793059200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 31,
-        "name": "Adventure"
-      }
-    ],
-    "hypes": 9,
-    "involved_companies": [
-      {
-        "id": 362341,
-        "company": {
-          "id": 634,
-          "name": "Devolver Digital"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 362342,
-        "company": {
-          "id": 43097,
-          "name": "Selkie Harbour"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 362340,
-        "company": {
-          "id": 3122,
-          "name": "Deconstructeam"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Virtue and a Sledgehammer",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 967507,
-        "date": 1793059200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1716462,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10sfi.jpg"
-      },
-      {
-        "id": 1716464,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10sfk.jpg"
-      },
-      {
-        "id": 1716465,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10sfl.jpg"
-      },
-      {
-        "id": 1716466,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10sfm.jpg"
-      },
-      {
-        "id": 1716467,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10sfn.jpg"
-      },
-      {
-        "id": 1716460,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10sfg.jpg"
-      },
-      {
-        "id": 1716461,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10sfh.jpg"
-      },
-      {
-        "id": 1716463,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10sfj.jpg"
-      }
-    ],
-    "summary": "Go back to your hometown and tear it down with a sledgehammer in this narrative exploration game. Confront your past in a devastating story about feeling like you no longer belong in the place you grew up.",
-    "videos": [
-      {
-        "id": 170732,
-        "video_id": "jLlbCrwmcfY"
-      },
-      {
-        "id": 197037,
-        "video_id": "UqnwUdfvwv8"
-      },
-      {
-        "id": 186999,
-        "video_id": "b7XA1_Pca7U"
-      }
-    ],
-    "websites": [
-      {
-        "id": 939879,
-        "url": "https://store.steampowered.com/app/3743260",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 939880,
-        "url": "https://x.com/Deconstructeam",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 939882,
-        "url": "https://discordapp.com/invite/Deconstructeam",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 939883,
-        "url": "https://bsky.app/profile/deconstructeam.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 939881,
-        "url": "https://www.instagram.com/deconstructeam/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      }
-    ]
-  },
-  {
-    "id": 394670,
-    "cover": {
-      "id": 548631,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobrbr.jpg"
-    },
-    "first_release_date": 1793059200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 9,
-        "name": "Puzzle"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      }
-    ],
-    "hypes": 17,
-    "involved_companies": [
-      {
-        "id": 376215,
-        "company": {
-          "id": 12684,
-          "name": "Stormind Games"
-        },
-        "developer": true,
-        "publisher": true
-      },
-      {
-        "id": 376216,
-        "company": {
-          "id": 37942,
-          "name": "Soft Source"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Remothered: Red Nun\u0027s Legacy",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 508,
-        "name": "Nintendo Switch 2"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 954501,
-        "date": 1793059200,
-        "platform": {
-          "id": 508,
-          "name": "Nintendo Switch 2"
-        }
-      },
-      {
-        "id": 954502,
-        "date": 1793059200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 954503,
-        "date": 1793059200,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 954504,
-        "date": 1793059200,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1799541,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12kj9.jpg"
-      },
-      {
-        "id": 1799542,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12kja.jpg"
-      },
-      {
-        "id": 1799544,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12kjc.jpg"
-      },
-      {
-        "id": 1799547,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12kjf.jpg"
-      },
-      {
-        "id": 1799546,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12kje.jpg"
-      },
-      {
-        "id": 1799548,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12kjg.jpg"
-      },
-      {
-        "id": 1799549,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12kjh.jpg"
-      },
-      {
-        "id": 1799545,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12kjd.jpg"
-      },
-      {
-        "id": 1799543,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12kjb.jpg"
-      },
-      {
-        "id": 1853601,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13q8x.jpg"
-      },
-      {
-        "id": 1853602,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13q8y.jpg"
-      },
-      {
-        "id": 1853603,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13q8z.jpg"
-      }
-    ],
-    "summary": "A kidnapping, a desperate mother, and a shadow from the past. The final chapter of the trilogy reveals every secret behind the series most unsettling icon: the Red Nun.",
-    "videos": [
-      {
-        "id": 193225,
-        "video_id": "npCgE3YjmEk"
-      },
-      {
-        "id": 178626,
-        "video_id": "83CellUju_Q"
-      },
-      {
-        "id": 183760,
-        "video_id": "0RPVKxr6VmE"
-      },
-      {
-        "id": 185771,
-        "video_id": "FmIv1Y5R6ak"
-      },
-      {
-        "id": 187051,
-        "video_id": "YO8_xMQjLqI"
-      },
-      {
-        "id": 198939,
-        "video_id": "hQH42xt9u-U"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1076536,
-        "url": "https://www.reddit.com/r/Remotheredgame/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 1125055,
-        "url": "https://www.nintendo.com/us/store/products/remothered-red-nuns-legacy-switch-2/",
-        "type": {
-          "id": 24,
-          "type": "Nintendo"
-        }
-      },
-      {
-        "id": 1028591,
-        "url": "https://store.steampowered.com/app/3335310",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1028592,
-        "url": "https://store.epicgames.com/p/remothered-red-nuns-legacy-65d7b9",
-        "type": {
-          "id": 16,
-          "type": "Epic"
-        }
-      },
-      {
-        "id": 1028593,
-        "url": "https://www.remothered.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1028594,
-        "url": "https://www.facebook.com/remothered",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 1028595,
-        "url": "https://www.instagram.com/remothered/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 1028596,
-        "url": "https://www.youtube.com/@remothered6046",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1028651,
-        "url": "https://x.com/remotheredgame",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1030290,
-        "url": "https://www.gog.com/game/remothered_red_nuns_legacy",
-        "type": {
-          "id": 17,
-          "type": "GOG"
-        }
-      },
-      {
-        "id": 1126641,
-        "url": "https://www.xbox.com/en-US/games/store/remothered-red-nuns-legacy/9p5dqt7bkr2k",
-        "type": {
-          "id": 22,
-          "type": "Xbox"
-        }
-      },
-      {
-        "id": 1099787,
-        "url": "https://store.playstation.com/en-us/concept/10018448",
-        "type": {
-          "id": 23,
-          "type": "Playstation"
         }
       }
     ]
