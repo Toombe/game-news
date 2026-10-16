@@ -4519,6 +4519,308 @@
     ]
   },
   {
+    "id": 10032,
+    "cover": {
+      "id": 82232,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co1rg8.jpg"
+    },
+    "first_release_date": 1566864000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 15,
+    "involved_companies": [
+      {
+        "id": 419180,
+        "company": {
+          "id": 64808,
+          "name": "Fictions"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 79907,
+        "company": {
+          "id": 14035,
+          "name": "Private Division"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 23644,
+        "company": {
+          "id": 5370,
+          "name": "Panache Digital Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Ancestors: The Humankind Odyssey",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 508,
+        "name": "Nintendo Switch 2"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 688454,
+        "date": 1566864000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 978561,
+        "date": 1575590400,
+        "platform": {
+          "id": 48,
+          "name": "PlayStation 4"
+        }
+      },
+      {
+        "id": 978562,
+        "date": 1575590400,
+        "platform": {
+          "id": 49,
+          "name": "Xbox One"
+        }
+      },
+      {
+        "id": 978563,
+        "date": 1796688000,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 978564,
+        "date": 1796688000,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      },
+      {
+        "id": 978565,
+        "date": 1796688000,
+        "platform": {
+          "id": 508,
+          "name": "Nintendo Switch 2"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 270638,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5stq.jpg"
+      },
+      {
+        "id": 307883,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc6lkb.jpg"
+      },
+      {
+        "id": 270637,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5stp.jpg"
+      },
+      {
+        "id": 270639,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5str.jpg"
+      },
+      {
+        "id": 270635,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5stn.jpg"
+      },
+      {
+        "id": 270636,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc5sto.jpg"
+      }
+    ],
+    "summary": "Ancestors: The Humankind Odyssey is a single-player survival game played from a third-person view and set in an open world. Players control a member of a hominid clan and manage its needs by eating, drinking, and sleeping while facing predators and other dangers in the wild. Exploring new places and being hunted can trigger a state of fear, which is offset by rewarding actions such as crafting tools and making discoveries. As the clan learns and grows, players unlock new skills through a neural development system and can switch between clan members, passing acquired abilities to future generations. The game has no structured narrative campaign and instead lets players shape their own experience.",
+    "videos": [
+      {
+        "id": 4583,
+        "video_id": "ucyi2WT7XwQ"
+      },
+      {
+        "id": 28068,
+        "video_id": "UwipY6QtM9U"
+      },
+      {
+        "id": 28067,
+        "video_id": "4E1jVWUMQiA"
+      },
+      {
+        "id": 28069,
+        "video_id": "gPvoghEm9Ow"
+      },
+      {
+        "id": 29748,
+        "video_id": "MgombKx56fc"
+      },
+      {
+        "id": 199959,
+        "video_id": "66hYICACR3g"
+      }
+    ],
+    "websites": [
+      {
+        "id": 163792,
+        "url": "https://www.gog.com/game/ancestors_the_humankind_odyssey",
+        "type": {
+          "id": 17,
+          "type": "GOG"
+        }
+      },
+      {
+        "id": 297112,
+        "url": "https://ancestors.fandom.com/wiki/Ancestors:_The_Humankind_Odyssey_Wiki",
+        "type": {
+          "id": 2,
+          "type": "Community Wiki"
+        }
+      },
+      {
+        "id": 108400,
+        "url": "https://twitter.com/AncestorsGame",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 108398,
+        "url": "https://en.wikipedia.org/wiki/Ancestors:_The_Humankind_Odyssey",
+        "type": {
+          "id": 3,
+          "type": "Wikipedia"
+        }
+      },
+      {
+        "id": 108403,
+        "url": "https://www.youtube.com/c/AncestorsGame",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 108397,
+        "url": "https://ancestorsgame.com/en/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 108404,
+        "url": "https://store.steampowered.com/app/536270/Ancestors_The_Humankind_Odyssey/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 757444,
+        "url": "https://store.playstation.com/en-us/concept/232664",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
+        }
+      },
+      {
+        "id": 108399,
+        "url": "https://www.facebook.com/AncestorsGame",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 108402,
+        "url": "https://www.instagram.com/ancestorsgame",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 120082,
+        "url": "https://www.epicgames.com/store/en-US/product/ancestors/home",
+        "type": {
+          "id": 16,
+          "type": "Epic"
+        }
+      },
+      {
+        "id": 180135,
+        "url": "https://www.reddit.com/r/ancestors",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 398155,
+        "url": "https://www.twitch.tv/directory/game/Ancestors%3A%20The%20Humankind%20Odyssey",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 1103162,
+        "url": "https://www.xbox.com/en-us/games/store/ancestors-the-humankind-odyssey/BTT48FGF6SWM",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
+      }
+    ]
+  },
+  {
     "id": 21344,
     "cover": {
       "id": 81291,
@@ -16471,309 +16773,6 @@
     ]
   },
   {
-    "id": 245754,
-    "cover": {
-      "id": 425792,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co94jk.jpg"
-    },
-    "first_release_date": 1739404800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 9,
-        "name": "Puzzle"
-      },
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 16,
-        "name": "Turn-based strategy (TBS)"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 3,
-    "involved_companies": [
-      {
-        "id": 409399,
-        "company": {
-          "id": 29019,
-          "name": "Darenn Keller"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 409400,
-        "company": {
-          "id": 52495,
-          "name": "Short Circuit Studio"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 409401,
-        "company": {
-          "id": 60170,
-          "name": "Astra Logical"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 409403,
-        "company": {
-          "id": 1005,
-          "name": "Klei Entertainment"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Dawnfolk",
-    "platforms": [
-      {
-        "id": 3,
-        "name": "Linux"
-      },
-      {
-        "id": 34,
-        "name": "Android"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 39,
-        "name": "iOS"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      },
-      {
-        "id": 130,
-        "name": "Nintendo Switch"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 813143,
-        "date": 1759795200,
-        "platform": {
-          "id": 130,
-          "name": "Nintendo Switch"
-        }
-      },
-      {
-        "id": 703632,
-        "date": 1739404800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 703633,
-        "date": 1739404800,
-        "platform": {
-          "id": 3,
-          "name": "Linux"
-        }
-      },
-      {
-        "id": 703634,
-        "date": 1739404800,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 955584,
-        "date": 1786924800,
-        "platform": {
-          "id": 39,
-          "name": "iOS"
-        }
-      },
-      {
-        "id": 955585,
-        "date": 1786924800,
-        "platform": {
-          "id": 34,
-          "name": "Android"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1332646,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsk9y.jpg"
-      },
-      {
-        "id": 1032097,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scm4dd.jpg"
-      },
-      {
-        "id": 1032098,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scm4de.jpg"
-      },
-      {
-        "id": 1032100,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scm4dg.jpg"
-      },
-      {
-        "id": 1032094,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scm4da.jpg"
-      },
-      {
-        "id": 1032096,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scm4dc.jpg"
-      }
-    ],
-    "summary": "Minimalist and relaxing survival builder perfect for short gaming sessions. Rebuild and manage your realm, collect resources and decide the fate of your people. Explore the darkness and unveil the secrets of the black monoliths to bring back light to the world.",
-    "videos": [
-      {
-        "id": 89017,
-        "video_id": "aaclbiv7d6Y"
-      },
-      {
-        "id": 89018,
-        "video_id": "xCB-JrcixkM"
-      },
-      {
-        "id": 115456,
-        "video_id": "rJS3GzVEB8E"
-      },
-      {
-        "id": 140288,
-        "video_id": "BlDl5QQq2sA"
-      },
-      {
-        "id": 192691,
-        "video_id": "IkM8Sfuf0ME"
-      }
-    ],
-    "websites": [
-      {
-        "id": 883126,
-        "url": "https://www.nintendo.com/us/store/products/dawnfolk-switch/",
-        "type": {
-          "id": 24,
-          "type": "Nintendo"
-        }
-      },
-      {
-        "id": 642516,
-        "url": "https://store.steampowered.com/app/2308630/Dawnfolk/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 549059,
-        "url": "https://discord.gg/QcMuWa6nKa",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 549057,
-        "url": "https://www.youtube.com/@darenn-gamedev",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 549058,
-        "url": "https://twitter.com/DarennKeller",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 649415,
-        "url": "https://www.twitch.tv/directory/category/lueur-and-the-dim-settlers",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 711372,
-        "url": "https://bsky.app/profile/darenn.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 711371,
-        "url": "https://www.instagram.com/darennkeller/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 711370,
-        "url": "https://dawnfolk.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1099276,
-        "url": "https://apps.apple.com/us/app/dawnfolk/id6759442443",
-        "type": {
-          "id": 11,
-          "type": "App Store (iPad)"
-        }
-      },
-      {
-        "id": 1099277,
-        "url": "https://play.google.com/store/apps/details?id\u003dcom.shortcircuitstudio.dawnfolk",
-        "type": {
-          "id": 12,
-          "type": "Google Play"
-        }
-      },
-      {
-        "id": 1099278,
-        "url": "https://apps.apple.com/us/app/dawnfolk/id6759442443",
-        "type": {
-          "id": 10,
-          "type": "App Store (iPhone)"
-        }
-      }
-    ]
-  },
-  {
     "id": 279661,
     "cover": {
       "id": 420072,
@@ -17521,6 +17520,10 @@
       {
         "id": 126428,
         "video_id": "-kpt-55kUY0"
+      },
+      {
+        "id": 199924,
+        "video_id": "JCVMCLpbMMc"
       }
     ],
     "websites": [
@@ -23002,356 +23005,6 @@
         "type": {
           "id": 23,
           "type": "Playstation"
-        }
-      }
-    ]
-  },
-  {
-    "id": 239800,
-    "cover": {
-      "id": 464770,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9yma.jpg"
-    },
-    "first_release_date": 1755734400,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 9,
-    "involved_companies": [
-      {
-        "id": 269789,
-        "company": {
-          "id": 55183,
-          "name": "Crinkle Cut Games"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 269790,
-        "company": {
-          "id": 4091,
-          "name": "PQube"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 408814,
-        "company": {
-          "id": 17984,
-          "name": "Snapbreak"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Discounty",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 48,
-        "name": "PlayStation 4"
-      },
-      {
-        "id": 34,
-        "name": "Android"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 39,
-        "name": "iOS"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      },
-      {
-        "id": 49,
-        "name": "Xbox One"
-      },
-      {
-        "id": 130,
-        "name": "Nintendo Switch"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 753279,
-        "date": 1755734400,
-        "platform": {
-          "id": 130,
-          "name": "Nintendo Switch"
-        }
-      },
-      {
-        "id": 753280,
-        "date": 1755734400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 753281,
-        "date": 1755734400,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 753283,
-        "date": 1755734400,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      },
-      {
-        "id": 753282,
-        "date": 1755734400,
-        "platform": {
-          "id": 48,
-          "name": "PlayStation 4"
-        }
-      },
-      {
-        "id": 753284,
-        "date": 1755734400,
-        "platform": {
-          "id": 49,
-          "name": "Xbox One"
-        }
-      },
-      {
-        "id": 954681,
-        "date": 1786924800,
-        "platform": {
-          "id": 34,
-          "name": "Android"
-        }
-      },
-      {
-        "id": 954682,
-        "date": 1786924800,
-        "platform": {
-          "id": 39,
-          "name": "iOS"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1555957,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxcl1.jpg"
-      },
-      {
-        "id": 1555955,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxckz.jpg"
-      },
-      {
-        "id": 1555959,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxcl3.jpg"
-      },
-      {
-        "id": 1555961,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxcl5.jpg"
-      },
-      {
-        "id": 1555962,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxcl6.jpg"
-      },
-      {
-        "id": 1555963,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxcl7.jpg"
-      },
-      {
-        "id": 1555956,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxcl0.jpg"
-      },
-      {
-        "id": 1555954,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxcky.jpg"
-      },
-      {
-        "id": 1555958,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxcl2.jpg"
-      },
-      {
-        "id": 1555964,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxcl8.jpg"
-      },
-      {
-        "id": 1555960,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxcl4.jpg"
-      }
-    ],
-    "summary": "Manage your own discount supermarket! Get caught up in small-town drama, organize and plan your shop\u0027s layout, and strike lucrative trade deals as you expand your secretive aunt\u0027s business empire. Selling more frozen fries will surely heal this broken community...right?",
-    "videos": [
-      {
-        "id": 115778,
-        "video_id": "xFp1qw5e5wk"
-      },
-      {
-        "id": 153007,
-        "video_id": "tKidjxJ_ZgM"
-      },
-      {
-        "id": 159786,
-        "video_id": "4_fLEZTuaPg"
-      }
-    ],
-    "websites": [
-      {
-        "id": 793283,
-        "url": "https://bsky.app/profile/discountygame.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 793284,
-        "url": "https://x.com/DiscountyGame",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 793285,
-        "url": "https://www.instagram.com/discountygame/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 793286,
-        "url": "https://www.youtube.com/@crinklecutgames/",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 793282,
-        "url": "https://pqube.co.uk/games/discounty/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 812773,
-        "url": "https://www.xbox.com/en-us/games/store/discounty/9mx2jr436qfw",
-        "type": {
-          "id": 22,
-          "type": "Xbox"
-        }
-      },
-      {
-        "id": 812774,
-        "url": "https://store.playstation.com/en-us/concept/10009623",
-        "type": {
-          "id": 23,
-          "type": "Playstation"
-        }
-      },
-      {
-        "id": 849539,
-        "url": "https://epicgames.com/p/discounty-9a1cfd",
-        "type": {
-          "id": 16,
-          "type": "Epic"
-        }
-      },
-      {
-        "id": 849540,
-        "url": "https://www.nintendo.com/us/store/products/discounty-switch/",
-        "type": {
-          "id": 24,
-          "type": "Nintendo"
-        }
-      },
-      {
-        "id": 804497,
-        "url": "https://discord.gg/7T8hCmKDsw",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 999968,
-        "url": "https://www.twitch.tv/directory/category/discounty",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 533918,
-        "url": "https://store.steampowered.com/app/2274620",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1098152,
-        "url": "https://apps.apple.com/us/app/discounty-supermarket-manager/id6753793150",
-        "type": {
-          "id": 11,
-          "type": "App Store (iPad)"
-        }
-      },
-      {
-        "id": 1098153,
-        "url": "https://play.google.com/store/apps/details?id\u003dcom.snapbreak.discounty\u0026pcampaignid\u003dweb_share",
-        "type": {
-          "id": 12,
-          "type": "Google Play"
-        }
-      },
-      {
-        "id": 1098154,
-        "url": "https://apps.apple.com/us/app/discounty-supermarket-manager/id6753793150",
-        "type": {
-          "id": 10,
-          "type": "App Store (iPhone)"
-        }
-      },
-      {
-        "id": 1059780,
-        "url": "https://www.gog.com/en/game/discounty",
-        "type": {
-          "id": 17,
-          "type": "GOG"
         }
       }
     ]
@@ -33822,6 +33475,14 @@
         }
       },
       {
+        "id": 1135819,
+        "url": "https://www.xbox.com/en-us/games/store/-/9N1305CBLFT8",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
+      },
+      {
         "id": 1044853,
         "url": "https://www.reddit.com/r/Hozy",
         "type": {
@@ -38106,14 +37767,6 @@
     ],
     "release_dates": [
       {
-        "id": 862150,
-        "date": 1798675200,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
         "id": 862151,
         "date": 1779148800,
         "platform": {
@@ -38130,6 +37783,14 @@
         }
       },
       {
+        "id": 974752,
+        "date": 1800921600,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
         "id": 900822,
         "date": 1778803200,
         "platform": {
@@ -38143,6 +37804,14 @@
         "platform": {
           "id": 6,
           "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 975324,
+        "date": 1800489600,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
         }
       }
     ],
@@ -38213,6 +37882,10 @@
       {
         "id": 183112,
         "video_id": "oYhaW-Vr4wg"
+      },
+      {
+        "id": 199055,
+        "video_id": "QKo9Rnh8bkA"
       }
     ],
     "websites": [
@@ -38884,6 +38557,10 @@
     "name": "Zero Parades: For Dead Spies",
     "platforms": [
       {
+        "id": 508,
+        "name": "Nintendo Switch 2"
+      },
+      {
         "id": 6,
         "name": "PC (Microsoft Windows)"
       },
@@ -38893,6 +38570,13 @@
       }
     ],
     "release_dates": [
+      {
+        "id": 978585,
+        "platform": {
+          "id": 508,
+          "name": "Nintendo Switch 2"
+        }
+      },
       {
         "id": 895131,
         "date": 1779321600,
@@ -41792,6 +41476,14 @@
         }
       },
       {
+        "id": 1135626,
+        "url": "https://www.xbox.com/en-us/games/store/dodo-duckie/9p7s9f02293j",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
+      },
+      {
         "id": 1050687,
         "url": "https://www.youtube.com/@dododuckie",
         "type": {
@@ -42215,6 +41907,14 @@
           "id": 13,
           "type": "Steam"
         }
+      },
+      {
+        "id": 1135660,
+        "url": "https://www.xbox.com/en-us/games/store/go-north/9pcfv2t74wmt",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
       }
     ]
   },
@@ -42355,6 +42055,14 @@
         "type": {
           "id": 24,
           "type": "Nintendo"
+        }
+      },
+      {
+        "id": 1135799,
+        "url": "https://www.xbox.com/en-us/games/store/truck-kun-is-supporting-me-from-another-world/9n34tkm8zshd",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
         }
       },
       {
@@ -43797,626 +43505,6 @@
         "type": {
           "id": 22,
           "type": "Xbox"
-        }
-      }
-    ]
-  },
-  {
-    "id": 141273,
-    "cover": {
-      "id": 474777,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coa6c9.jpg"
-    },
-    "first_release_date": 1786924800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 2,
-        "name": "Point-and-click"
-      },
-      {
-        "id": 8,
-        "name": "Platform"
-      },
-      {
-        "id": 9,
-        "name": "Puzzle"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 5,
-    "involved_companies": [
-      {
-        "id": 332399,
-        "company": {
-          "id": 30208,
-          "name": "Oksana Bula"
-        },
-        "developer": false,
-        "publisher": false
-      },
-      {
-        "id": 332400,
-        "company": {
-          "id": 56743,
-          "name": "Dream Operator"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Tukoni: Forest Keepers",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 938032,
-        "date": 1786924800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1593447,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scy5if.jpg"
-      },
-      {
-        "id": 1593448,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scy5ig.jpg"
-      },
-      {
-        "id": 1593450,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scy5ii.jpg"
-      },
-      {
-        "id": 1593446,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scy5ie.jpg"
-      },
-      {
-        "id": 1593451,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scy5ij.jpg"
-      },
-      {
-        "id": 1593449,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scy5ih.jpg"
-      }
-    ],
-    "summary": "Tukoni: Forest Keepers is a cute and cozy puzzle adventure, based on a series of award-winning books by the Ukrainian artist Oksana Bula. Play as the forest spirit Tukoni as you meet unique characters, solve captivating puzzles, brew fragrant tea and explore a magical world filled with kindness.",
-    "videos": [
-      {
-        "id": 72438,
-        "video_id": "9EoytHy0uyg"
-      },
-      {
-        "id": 115810,
-        "video_id": "Xt-BR3J8hRg"
-      },
-      {
-        "id": 191213,
-        "video_id": "QyTZjdBG3jo"
-      }
-    ],
-    "websites": [
-      {
-        "id": 549409,
-        "url": "https://www.facebook.com/TukoniTribe",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 839642,
-        "url": "https://x.com/dreamoperator",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 549411,
-        "url": "https://www.instagram.com/tukoni_tribe/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 644206,
-        "url": "https://store.steampowered.com/app/2933200/Tukoni_Forest_Keepers/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 730137,
-        "url": "https://bsky.app/profile/dream-operator.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 237816,
-        "url": "https://tukoni.itch.io/tukoni",
-        "type": {
-          "id": 15,
-          "type": "Itch"
-        }
-      },
-      {
-        "id": 890434,
-        "url": "https://store.epicgames.com/en-US/p/tukoni-forest-keepers-7ef952",
-        "type": {
-          "id": 16,
-          "type": "Epic"
-        }
-      },
-      {
-        "id": 829788,
-        "url": "https://discord.gg/Vrh2wBvGhx",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 839643,
-        "url": "https://www.youtube.com/@Dream.Operator",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 504930,
-        "url": "https://www.twitch.tv/directory/game/Tukoni",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 665259,
-        "url": "https://tukoni.world/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 549412,
-        "url": "https://uk.wikipedia.org/wiki/Tukoni",
-        "type": {
-          "id": 3,
-          "type": "Wikipedia"
-        }
-      },
-      {
-        "id": 1058104,
-        "url": "https://www.gog.com/en/game/tukoni_forest_keepers",
-        "type": {
-          "id": 17,
-          "type": "GOG"
-        }
-      }
-    ]
-  },
-  {
-    "id": 258173,
-    "cover": {
-      "id": 484937,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coae6h.jpg"
-    },
-    "first_release_date": 1786924800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 25,
-        "name": "Hack and slash/Beat \u0027em up"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 399272,
-        "company": {
-          "id": 78791,
-          "name": "Megasploot"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Nimbit Frontier",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 936696,
-        "date": 1786924800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1096595,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scni4z.jpg"
-      },
-      {
-        "id": 1096577,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scni4h.jpg"
-      },
-      {
-        "id": 1096588,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scni4s.jpg"
-      },
-      {
-        "id": 1096593,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scni4x.jpg"
-      },
-      {
-        "id": 1096594,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scni4y.jpg"
-      },
-      {
-        "id": 1096572,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scni4c.jpg"
-      },
-      {
-        "id": 1096582,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scni4m.jpg"
-      },
-      {
-        "id": 1096592,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scni4w.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Embark on daring adventures into wild biomes to uncover fragments of long-lost creatures. Bring them back to life by hatching their young. Build them habitats, and release them into the wild. Become the star Nimbiteer you dream of surrounded by lovely folks in a small cozy town.",
-    "videos": [
-      {
-        "id": 189411,
-        "video_id": "f4kNElJnZU0"
-      },
-      {
-        "id": 189412,
-        "video_id": "aggf6uDNKX0"
-      }
-    ],
-    "websites": [
-      {
-        "id": 820477,
-        "url": "https://nimbitfrontier.com",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 820478,
-        "url": "https://discord.gg/uYGbktRnna",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 567842,
-        "url": "https://store.steampowered.com/app/2477710",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1018643,
-        "url": "https://www.youtube.com/@Megasploot",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1095439,
-        "url": "https://www.reddit.com/r/NimbitFrontier/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      }
-    ]
-  },
-  {
-    "id": 258977,
-    "cover": {
-      "id": 464018,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9y1e.jpg"
-    },
-    "first_release_date": 1786924800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 408714,
-        "company": {
-          "id": 78490,
-          "name": "Spaghetti Cat LLC"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 408715,
-        "company": {
-          "id": 80307,
-          "name": "Tara Kan"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Provoron",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 954491,
-        "date": 1786924800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1102401,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scnmm9.jpg"
-      },
-      {
-        "id": 1102403,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scnmmb.jpg"
-      },
-      {
-        "id": 1102411,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scnmmj.jpg"
-      },
-      {
-        "id": 1102418,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scnmmq.jpg"
-      },
-      {
-        "id": 1102421,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scnmmt.jpg"
-      },
-      {
-        "id": 1102415,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scnmmn.jpg"
-      }
-    ],
-    "summary": "It\u0027s an adventure game about black\u0026white crows.",
-    "videos": [
-      {
-        "id": 153106,
-        "video_id": "RagnsycChHw"
-      },
-      {
-        "id": 169971,
-        "video_id": "zrSnQX_evks"
-      }
-    ],
-    "websites": [
-      {
-        "id": 568949,
-        "url": "https://store.steampowered.com/app/2495730",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      }
-    ]
-  },
-  {
-    "id": 403808,
-    "cover": {
-      "id": 566852,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc5dw.jpg"
-    },
-    "first_release_date": 1786924800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "name": "Feed It",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 958526,
-        "date": 1786924800,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 938013,
-        "date": 1786924800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1845689,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13k55.jpg"
-      },
-      {
-        "id": 1845691,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13k57.jpg"
-      },
-      {
-        "id": 1845692,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13k58.jpg"
-      },
-      {
-        "id": 1845694,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13k5a.jpg"
-      },
-      {
-        "id": 1845695,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13k5b.jpg"
-      },
-      {
-        "id": 1845696,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13k5c.jpg"
-      },
-      {
-        "id": 1845690,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13k56.jpg"
-      },
-      {
-        "id": 1845693,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13k59.jpg"
-      },
-      {
-        "id": 1845686,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13k52.jpg"
-      },
-      {
-        "id": 1845687,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13k53.jpg"
-      },
-      {
-        "id": 1845688,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13k54.jpg"
-      }
-    ],
-    "summary": "A first-person, PSX-style horror game about living with a monster. Do as you\u0027re told... or don\u0027t. Just be ready for the consequences.",
-    "videos": [
-      {
-        "id": 185660,
-        "video_id": "PfGFnh98EVg"
-      },
-      {
-        "id": 185794,
-        "video_id": "fWgvPIcKDIk"
-      },
-      {
-        "id": 188780,
-        "video_id": "Q_vfQaf2EKU"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1062502,
-        "url": "https://discord.gg/MrsHUr63wT",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 1062503,
-        "url": "https://www.instagram.com/feeditgame",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 1062500,
-        "url": "https://store.steampowered.com/app/4370990",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1062501,
-        "url": "https://gamesonachair.dev/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
         }
       }
     ]
@@ -51338,6 +50426,10 @@
       {
         "id": 193964,
         "video_id": "LWqmoqbrzy4"
+      },
+      {
+        "id": 199958,
+        "video_id": "NG2t_sN65BU"
       }
     ],
     "websites": [
@@ -52302,6 +51394,220 @@
       {
         "id": 1073257,
         "url": "https://www.xbox.com/en-GB/games/store/lous-lagoon/9NDPVFFZF6SK",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
+      }
+    ]
+  },
+  {
+    "id": 215036,
+    "cover": {
+      "id": 240379,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co55h7.jpg"
+    },
+    "first_release_date": 1787788800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 11,
+        "name": "Real Time Strategy (RTS)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 3,
+    "involved_companies": [
+      {
+        "id": 262205,
+        "company": {
+          "id": 18476,
+          "name": "Games Operators"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 262204,
+        "company": {
+          "id": 10634,
+          "name": "Jutsu Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Infection Free Zone",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 583574,
+        "date": 1712793600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 976513,
+        "date": 1787788800,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      },
+      {
+        "id": 974608,
+        "date": 1787788800,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 866241,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scike9.jpg"
+      },
+      {
+        "id": 866242,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scikea.jpg"
+      },
+      {
+        "id": 866246,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scikee.jpg"
+      },
+      {
+        "id": 866244,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scikec.jpg"
+      },
+      {
+        "id": 866243,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scikeb.jpg"
+      },
+      {
+        "id": 866245,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sciked.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Take charge of a group of survivors from your city. Choose your base of operations, then rebuild and readapt the buildings around you to create a self-sustaining settlement. And when the night falls - Defend the zone from the infected! Play on any city in the world, using real geographical data!",
+    "videos": [
+      {
+        "id": 74135,
+        "video_id": "BWyIpyAYP3M"
+      },
+      {
+        "id": 74136,
+        "video_id": "SmgGurtXDPw"
+      },
+      {
+        "id": 74137,
+        "video_id": "9iuSOgENPi8"
+      },
+      {
+        "id": 111299,
+        "video_id": "PAB3k7dgep0"
+      }
+    ],
+    "websites": [
+      {
+        "id": 794929,
+        "url": "https://discord.gg/TZxRW2WYGX",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 794930,
+        "url": "https://x.com/GamesOperators",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 307174,
+        "url": "https://store.steampowered.com/app/1465460/Infection_Free_Zone",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 795657,
+        "url": "https://store.epicgames.com/en-US/p/infection-free-zone-f9c219",
+        "type": {
+          "id": 16,
+          "type": "Epic"
+        }
+      },
+      {
+        "id": 823019,
+        "url": "https://store.playstation.com/en-us/concept/10010589/",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
+        }
+      },
+      {
+        "id": 307175,
+        "url": "http://infection-free-zone.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 687705,
+        "url": "https://www.twitch.tv/directory/category/infection-free-zone",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 307176,
+        "url": "https://www.youtube.com/channel/UCjG7CF2rhNRpB1CURzORtow",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1131872,
+        "url": "https://www.xbox.com/en-us/games/store/-/9PLS38PR0FKJ",
         "type": {
           "id": 22,
           "type": "Xbox"
@@ -60109,6 +59415,10 @@
     "name": "Order Automatica",
     "platforms": [
       {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
         "id": 34,
         "name": "Android"
       },
@@ -60119,6 +59429,10 @@
       {
         "id": 39,
         "name": "iOS"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
       },
       {
         "id": 130,
@@ -60132,6 +59446,22 @@
         "platform": {
           "id": 6,
           "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 974502,
+        "date": 1788480000,
+        "platform": {
+          "id": 49,
+          "name": "Xbox One"
+        }
+      },
+      {
+        "id": 974503,
+        "date": 1788480000,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
         }
       },
       {
@@ -62946,6 +62276,12 @@
       {
         "id": 3,
         "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
       }
     ],
     "hypes": 34,
@@ -70196,6 +69532,10 @@
       {
         "id": 193920,
         "video_id": "4Rw7K1ENOfM"
+      },
+      {
+        "id": 199968,
+        "video_id": "6lY7CsAJSO0"
       }
     ],
     "websites": [
@@ -72687,6 +72027,14 @@
         "type": {
           "id": 9,
           "type": "YouTube"
+        }
+      },
+      {
+        "id": 1135643,
+        "url": "https://www.xbox.com/en-us/games/store/endless-legend-2/9nqnrzg07h94",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
         }
       },
       {
@@ -84546,7 +83894,7 @@
         "name": "Indie"
       }
     ],
-    "hypes": 8,
+    "hypes": 9,
     "involved_companies": [
       {
         "id": 299372,
@@ -86580,81 +85928,6 @@
         "type": {
           "id": 23,
           "type": "Playstation"
-        }
-      }
-    ]
-  },
-  {
-    "id": 367951,
-    "cover": {
-      "id": 610670,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cod372.jpg"
-    },
-    "first_release_date": 1790726400,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 32,
-        "name": "Indie"
-      },
-      {
-        "id": 34,
-        "name": "Visual Novel"
-      }
-    ],
-    "hypes": 2,
-    "name": "Appa",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 804505,
-        "date": 1790726400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1641466,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz6ka.jpg"
-      },
-      {
-        "id": 1641464,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz6k8.jpg"
-      },
-      {
-        "id": 1641465,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz6k9.jpg"
-      },
-      {
-        "id": 1641467,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz6kb.jpg"
-      },
-      {
-        "id": 1641468,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz6kc.jpg"
-      }
-    ],
-    "summary": "Appa is a narrative driven simultaneous card game about two siblings dealing with the death of their father. You play as Varun witnessing surreal nightmares and manifestations of his deceased father and playing a card game with him.",
-    "websites": [
-      {
-        "id": 872388,
-        "url": "https://store.steampowered.com/app/3503500",
-        "type": {
-          "id": 13,
-          "type": "Steam"
         }
       }
     ]
@@ -88868,131 +88141,6 @@
     ]
   },
   {
-    "id": 418295,
-    "cover": {
-      "id": 606098,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coczo2.jpg"
-    },
-    "first_release_date": 1790812800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 3,
-    "involved_companies": [
-      {
-        "id": 416824,
-        "company": {
-          "id": 81649,
-          "name": "Jatater Worldwide"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Scam With Your Friends",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 970306,
-        "date": 1790812800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1923727,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc158cv.jpg"
-      },
-      {
-        "id": 1923725,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc158ct.jpg"
-      },
-      {
-        "id": 1923724,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc158cs.jpg"
-      },
-      {
-        "id": 1923723,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc158cr.jpg"
-      },
-      {
-        "id": 1923726,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc158cu.jpg"
-      }
-    ],
-    "status": 3,
-    "summary": "Run a scam call center with your friends. Use increasingly ridiculous schemes to trick AI callers out of their life savings. Hit your daily quota, cause chaos around the office, and survive a brutal performance review from your rageaholic boss.",
-    "videos": [
-      {
-        "id": 196451,
-        "video_id": "e4BhBUryVFY"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1123400,
-        "url": "https://jataterworldwide.com/scam-with-your-friends/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1124220,
-        "url": "https://store.steampowered.com/app/4954910",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1118475,
-        "url": "https://www.youtube.com/@JataterWorldwide",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1118476,
-        "url": "https://discord.gg/invite/jataterww",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      }
-    ]
-  },
-  {
     "id": 381247,
     "cover": {
       "id": 513829,
@@ -90478,6 +89626,14 @@
         }
       },
       {
+        "id": 1135480,
+        "url": "https://en.wikipedia.org/wiki/Forever_Ago",
+        "type": {
+          "id": 3,
+          "type": "Wikipedia"
+        }
+      },
+      {
         "id": 1053978,
         "url": "https://bsky.app/profile/thirdshift.studio",
         "type": {
@@ -91490,6 +90646,10 @@
       {
         "id": 198936,
         "video_id": "0gHpvHsC7is"
+      },
+      {
+        "id": 199951,
+        "video_id": "JpdHrNVtZZ0"
       }
     ],
     "websites": [
@@ -92747,8 +91907,8 @@
   {
     "id": 302147,
     "cover": {
-      "id": 452923,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9ph7.jpg"
+      "id": 613260,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cod570.jpg"
     },
     "first_release_date": 1791504000,
     "game_modes": [
@@ -94024,6 +93184,10 @@
       {
         "id": 196439,
         "video_id": "Wym7_if70nQ"
+      },
+      {
+        "id": 199860,
+        "video_id": "Nvdkj9GDp30"
       }
     ],
     "websites": [
@@ -94803,6 +93967,14 @@
         }
       },
       {
+        "id": 1135481,
+        "url": "https://en.wikipedia.org/wiki/Hubert_(video_game)",
+        "type": {
+          "id": 3,
+          "type": "Wikipedia"
+        }
+      },
+      {
         "id": 1095872,
         "url": "https://store.playstation.com/en-us/concept/10015249/",
         "type": {
@@ -95045,6 +94217,14 @@
         "type": {
           "id": 13,
           "type": "Steam"
+        }
+      },
+      {
+        "id": 1135939,
+        "url": "https://store.playstation.com/en-us/product/UP5223-PPSA34644_00-COLORBOUND4PS5WW",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
         }
       },
       {
@@ -95687,6 +94867,10 @@
       {
         "id": 199667,
         "video_id": "NU3Dqa_XBUw"
+      },
+      {
+        "id": 199965,
+        "video_id": "GYVi_w_DFh0"
       }
     ],
     "websites": [
@@ -99884,7 +99068,6 @@
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvsnk.jpg"
       }
     ],
-    "status": 4,
     "summary": "From the creative mind of Isaac Childres, the highly acclaimed board game moves to the digital realm in the video game adaptation of FROSTHAVEN! The dark fantasy tactical RPG features deep mechanics and challenging yet satisfying gameplay both in Single Player and Co-Op Online Multiplayer.",
     "videos": [
       {
@@ -99898,6 +99081,14 @@
       {
         "id": 189289,
         "video_id": "zdyNst1LUgA"
+      },
+      {
+        "id": 199904,
+        "video_id": "A-mgA2Y1l6U"
+      },
+      {
+        "id": 199943,
+        "video_id": "915kMH8MAsk"
       }
     ],
     "websites": [
@@ -100480,6 +99671,10 @@
       {
         "id": 194129,
         "video_id": "u8h223XjYLU"
+      },
+      {
+        "id": 199922,
+        "video_id": "wWBqzT-j_wI"
       }
     ],
     "websites": [
@@ -100520,8 +99715,8 @@
   {
     "id": 389434,
     "cover": {
-      "id": 595618,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocrky.jpg"
+      "id": 613568,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cod5fk.jpg"
     },
     "first_release_date": 1792022400,
     "game_modes": [
@@ -100694,6 +99889,10 @@
       {
         "id": 195031,
         "video_id": "BLmoxceW5dI"
+      },
+      {
+        "id": 199971,
+        "video_id": "SzxtSMIzdOI"
       }
     ],
     "websites": [
@@ -101899,6 +101098,139 @@
         "type": {
           "id": 18,
           "type": "Discord"
+        }
+      }
+    ]
+  },
+  {
+    "id": 418295,
+    "cover": {
+      "id": 606098,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coczo2.jpg"
+    },
+    "first_release_date": 1792022400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 3,
+    "involved_companies": [
+      {
+        "id": 416824,
+        "company": {
+          "id": 81649,
+          "name": "Jatater Worldwide"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Scam With Your Friends",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 978338,
+        "date": 1792022400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1923727,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc158cv.jpg"
+      },
+      {
+        "id": 1923725,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc158ct.jpg"
+      },
+      {
+        "id": 1923724,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc158cs.jpg"
+      },
+      {
+        "id": 1923723,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc158cr.jpg"
+      },
+      {
+        "id": 1923726,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc158cu.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Run a scam call center with your friends. Use increasingly ridiculous schemes to trick AI callers out of their life savings. Hit your daily quota, cause chaos around the office, and survive a brutal performance review from your rageaholic boss.",
+    "videos": [
+      {
+        "id": 196451,
+        "video_id": "e4BhBUryVFY"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1123400,
+        "url": "https://jataterworldwide.com/scam-with-your-friends/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1124220,
+        "url": "https://store.steampowered.com/app/4954910",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1118475,
+        "url": "https://www.youtube.com/@JataterWorldwide",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1118476,
+        "url": "https://discord.gg/invite/jataterww",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1135903,
+        "url": "https://www.twitch.tv/directory/category/scam-with-your-friends",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
         }
       }
     ]
@@ -106883,6 +106215,685 @@
         "type": {
           "id": 6,
           "type": "Twitch"
+        }
+      }
+    ]
+  },
+  {
+    "id": 400252,
+    "cover": {
+      "id": 560212,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc09g.jpg"
+    },
+    "first_release_date": 1792972800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "name": "Last Floor",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 943746,
+        "date": 1792972800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1827223,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc135w7.jpg"
+      },
+      {
+        "id": 1827224,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc135w8.jpg"
+      },
+      {
+        "id": 1827225,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc135w9.jpg"
+      },
+      {
+        "id": 1827226,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc135wa.jpg"
+      },
+      {
+        "id": 1827227,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc135wb.jpg"
+      }
+    ],
+    "status": 3,
+    "summary": "Last Floor is a first-person psychological horror game focused on observation and anomaly detection. The player navigates a looping hospital corridor and must identify subtle changes in the environment.\n\nEach run begins in an elevator and progresses through an identical hallway. The player must determine whether an anomaly is present during the loop and choose the correct elevator direction to continue. Incorrect decisions reset progression.",
+    "videos": [
+      {
+        "id": 190655,
+        "video_id": "E1zVDIFC5jA"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1050550,
+        "url": "https://store.steampowered.com/app/4644850/Last_Floor/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1050551,
+        "url": "https://discord.com/invite/DhjQapVerf",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1050552,
+        "url": "https://x.com/BytaleGames",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      }
+    ]
+  },
+  {
+    "id": 416105,
+    "cover": {
+      "id": 598231,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coctlj.jpg"
+    },
+    "first_release_date": 1792972800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 5,
+    "involved_companies": [
+      {
+        "id": 411731,
+        "company": {
+          "id": 80856,
+          "name": "Twin Swans"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Hunter\u0027s Moon",
+    "platforms": [
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 960839,
+        "date": 1792972800,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      }
+    ],
+    "summary": "Hunter’s Moon is a first-person historical narrative folk-horror set over the course of one fateful night. Meet mummers dressed in folk costumes, evade capture by the witch hunters, and eavesdrop on a characterful cast of regular folk worn down by war and misfortune. Discover the secrets of this dysfunctional village on the brink as you embody an accused “witch” on the run for her life.",
+    "videos": [
+      {
+        "id": 194989,
+        "video_id": "bKMaeHoJY2A"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1112984,
+        "url": "https://store.playstation.com/en-us/concept/10013468/",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
+        }
+      }
+    ]
+  },
+  {
+    "id": 334698,
+    "cover": {
+      "id": 443600,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9ia8.jpg"
+    },
+    "first_release_date": 1793059200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "hypes": 6,
+    "name": "Lacey\u0027s Flash Games",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 975822,
+        "date": 1793059200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1477578,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvo3u.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "These are the REAL girls’ games. In the mid 2000s, Charlie (Charchar887), discovers the Laceys\u0027s Flash Games and their disturbing secrets. Step into the virtual world to uncover the whereabouts of the missing website creator, Rocio Yani, and explore all the games and activities with Lacey!",
+    "websites": [
+      {
+        "id": 717446,
+        "url": "https://store.steampowered.com/app/3459340/Laceys_Flash_Games/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1093796,
+        "url": "http://laceygames.com.br/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1134421,
+        "url": "https://www.instagram.com/laceygamesoffcial/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      }
+    ]
+  },
+  {
+    "id": 381077,
+    "cover": {
+      "id": 513230,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cob00e.jpg"
+    },
+    "first_release_date": 1793059200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 9,
+    "involved_companies": [
+      {
+        "id": 362341,
+        "company": {
+          "id": 634,
+          "name": "Devolver Digital"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 362342,
+        "company": {
+          "id": 43097,
+          "name": "Selkie Harbour"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 362340,
+        "company": {
+          "id": 3122,
+          "name": "Deconstructeam"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Virtue and a Sledgehammer",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 967507,
+        "date": 1793059200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1716462,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10sfi.jpg"
+      },
+      {
+        "id": 1716464,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10sfk.jpg"
+      },
+      {
+        "id": 1716465,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10sfl.jpg"
+      },
+      {
+        "id": 1716466,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10sfm.jpg"
+      },
+      {
+        "id": 1716467,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10sfn.jpg"
+      },
+      {
+        "id": 1716460,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10sfg.jpg"
+      },
+      {
+        "id": 1716461,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10sfh.jpg"
+      },
+      {
+        "id": 1716463,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10sfj.jpg"
+      }
+    ],
+    "summary": "Go back to your hometown and tear it down with a sledgehammer in this narrative exploration game. Confront your past in a devastating story about feeling like you no longer belong in the place you grew up.",
+    "videos": [
+      {
+        "id": 170732,
+        "video_id": "jLlbCrwmcfY"
+      },
+      {
+        "id": 197037,
+        "video_id": "UqnwUdfvwv8"
+      },
+      {
+        "id": 186999,
+        "video_id": "b7XA1_Pca7U"
+      }
+    ],
+    "websites": [
+      {
+        "id": 939879,
+        "url": "https://store.steampowered.com/app/3743260",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 939880,
+        "url": "https://x.com/Deconstructeam",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 939882,
+        "url": "https://discordapp.com/invite/Deconstructeam",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 939883,
+        "url": "https://bsky.app/profile/deconstructeam.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 939881,
+        "url": "https://www.instagram.com/deconstructeam/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      }
+    ]
+  },
+  {
+    "id": 394670,
+    "cover": {
+      "id": 548631,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobrbr.jpg"
+    },
+    "first_release_date": 1793059200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 17,
+    "involved_companies": [
+      {
+        "id": 376215,
+        "company": {
+          "id": 12684,
+          "name": "Stormind Games"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 376216,
+        "company": {
+          "id": 37942,
+          "name": "Soft Source"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Remothered: Red Nun\u0027s Legacy",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 508,
+        "name": "Nintendo Switch 2"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 954501,
+        "date": 1793059200,
+        "platform": {
+          "id": 508,
+          "name": "Nintendo Switch 2"
+        }
+      },
+      {
+        "id": 954502,
+        "date": 1793059200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 954503,
+        "date": 1793059200,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 954504,
+        "date": 1793059200,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1799541,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12kj9.jpg"
+      },
+      {
+        "id": 1799542,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12kja.jpg"
+      },
+      {
+        "id": 1799544,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12kjc.jpg"
+      },
+      {
+        "id": 1799547,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12kjf.jpg"
+      },
+      {
+        "id": 1799546,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12kje.jpg"
+      },
+      {
+        "id": 1799548,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12kjg.jpg"
+      },
+      {
+        "id": 1799549,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12kjh.jpg"
+      },
+      {
+        "id": 1799545,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12kjd.jpg"
+      },
+      {
+        "id": 1799543,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12kjb.jpg"
+      },
+      {
+        "id": 1853601,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13q8x.jpg"
+      },
+      {
+        "id": 1853602,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13q8y.jpg"
+      },
+      {
+        "id": 1853603,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13q8z.jpg"
+      }
+    ],
+    "summary": "A kidnapping, a desperate mother, and a shadow from the past. The final chapter of the trilogy reveals every secret behind the series most unsettling icon: the Red Nun.",
+    "videos": [
+      {
+        "id": 193225,
+        "video_id": "npCgE3YjmEk"
+      },
+      {
+        "id": 178626,
+        "video_id": "83CellUju_Q"
+      },
+      {
+        "id": 183760,
+        "video_id": "0RPVKxr6VmE"
+      },
+      {
+        "id": 185771,
+        "video_id": "FmIv1Y5R6ak"
+      },
+      {
+        "id": 187051,
+        "video_id": "YO8_xMQjLqI"
+      },
+      {
+        "id": 198939,
+        "video_id": "hQH42xt9u-U"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1076536,
+        "url": "https://www.reddit.com/r/Remotheredgame/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 1125055,
+        "url": "https://www.nintendo.com/us/store/products/remothered-red-nuns-legacy-switch-2/",
+        "type": {
+          "id": 24,
+          "type": "Nintendo"
+        }
+      },
+      {
+        "id": 1028591,
+        "url": "https://store.steampowered.com/app/3335310",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1028592,
+        "url": "https://store.epicgames.com/p/remothered-red-nuns-legacy-65d7b9",
+        "type": {
+          "id": 16,
+          "type": "Epic"
+        }
+      },
+      {
+        "id": 1028593,
+        "url": "https://www.remothered.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1028594,
+        "url": "https://www.facebook.com/remothered",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 1028595,
+        "url": "https://www.instagram.com/remothered/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1028596,
+        "url": "https://www.youtube.com/@remothered6046",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1028651,
+        "url": "https://x.com/remotheredgame",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1030290,
+        "url": "https://www.gog.com/game/remothered_red_nuns_legacy",
+        "type": {
+          "id": 17,
+          "type": "GOG"
+        }
+      },
+      {
+        "id": 1126641,
+        "url": "https://www.xbox.com/en-US/games/store/remothered-red-nuns-legacy/9p5dqt7bkr2k",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
+      },
+      {
+        "id": 1099787,
+        "url": "https://store.playstation.com/en-us/concept/10018448",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
         }
       }
     ]
