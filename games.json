@@ -14699,6 +14699,260 @@
     ]
   },
   {
+    "id": 264410,
+    "cover": {
+      "id": 327474,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co70oi.jpg"
+    },
+    "first_release_date": 1727308800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 295625,
+        "company": {
+          "id": 34920,
+          "name": "Critical Reflex"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 308444,
+        "company": {
+          "id": 50463,
+          "name": "Wrong Organ"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 308445,
+        "company": {
+          "id": 5440,
+          "name": "Fangamer"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Mouthwashing",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 633999,
+        "date": 1727308800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 980653,
+        "date": 1793232000,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      },
+      {
+        "id": 980674,
+        "date": 1793232000,
+        "platform": {
+          "id": 130,
+          "name": "Nintendo Switch"
+        }
+      },
+      {
+        "id": 980675,
+        "date": 1793232000,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 980676,
+        "date": 1793232000,
+        "platform": {
+          "id": 48,
+          "name": "PlayStation 4"
+        }
+      },
+      {
+        "id": 980687,
+        "date": 1793232000,
+        "platform": {
+          "id": 49,
+          "name": "Xbox One"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1400708,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu0sk.jpg"
+      },
+      {
+        "id": 1400709,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu0sl.jpg"
+      },
+      {
+        "id": 1400710,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu0sm.jpg"
+      },
+      {
+        "id": 1400711,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu0sn.jpg"
+      },
+      {
+        "id": 1400712,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu0so.jpg"
+      },
+      {
+        "id": 1400714,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu0sq.jpg"
+      },
+      {
+        "id": 1400713,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu0sp.jpg"
+      }
+    ],
+    "summary": "The five crew members of The Tulpar are stranded in the empty reaches of space, shrouded in perpetual sunset. God is not watching.",
+    "videos": [
+      {
+        "id": 100129,
+        "video_id": "zUXapDkoLss"
+      },
+      {
+        "id": 129620,
+        "video_id": "HnNBx2NPifg"
+      },
+      {
+        "id": 132935,
+        "video_id": "5SXP8JjlsBY"
+      },
+      {
+        "id": 200521,
+        "video_id": "btV9FSnLOlk"
+      }
+    ],
+    "websites": [
+      {
+        "id": 691254,
+        "url": "https://www.wrongorgan.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 691255,
+        "url": "https://twitter.com/Wrong_Organ",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 691257,
+        "url": "https://en.wikipedia.org/wiki/Mouthwashing_(video_game)",
+        "type": {
+          "id": 3,
+          "type": "Wikipedia"
+        }
+      },
+      {
+        "id": 691256,
+        "url": "https://www.instagram.com/wrong_organ/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 578535,
+        "url": "https://store.steampowered.com/app/2475490/Mouthwashing/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 590796,
+        "url": "https://discord.gg/invite/GK3XrXCwzb",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 620271,
+        "url": "https://www.twitch.tv/directory/category/mouthwashing",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 677088,
+        "url": "https://kasuraga.itch.io/mouthwashing",
+        "type": {
+          "id": 15,
+          "type": "Itch"
+        }
+      },
+      {
+        "id": 1139238,
+        "url": "https://www.xbox.com/en-us/games/store/mouthwashing/9mvncsj14754",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
+      }
+    ]
+  },
+  {
     "id": 26602,
     "cover": {
       "id": 390449,
@@ -23427,7 +23681,6 @@
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/scw8g4.jpg"
       }
     ],
-    "status": 4,
     "summary": "VOID/BREAKER is an Adrenaline-Fueled Roguelite FPS. Fight relentless machines driven by a hostile AI. Escape an endless cycle. Craft infinite weapon variants with deep gun modding. Forge deadly synergies. Carve your way out through environmental destruction/BREAK THE SYSTEM /BREAK THE SEQUENCE /BREAK FREE",
     "videos": [
       {
@@ -30419,6 +30672,16 @@
       }
     ],
     "summary": "Kingdom of Night is an 80s-inspired isometric action RPG where coming-of-age drama meets cosmic horror.\n\nWhen a satanic cult unleashes the ancient evil Baphomet on the small town of Miami, Arizona, high school student John must fight through a night of demonic chaos to rescue his friends before the town is lost forever.\n\nChoose from five distinct classes—Barbarian, Knight, Rogue, Necromancer, or Sorcerer—and customize your build with expansive skill trees, powerful loot, and unique equipment. Explore the town freely, battle terrifying Demon Generals in any order, uncover the stories of Miami\u0027s residents, and descend into massive demon lairs.\n\nFace the apocalypse alone or team up with a friend in local co-op to save Miami before the night ends.",
+    "videos": [
+      {
+        "id": 200478,
+        "video_id": "NYSdk2oFdIY"
+      },
+      {
+        "id": 200479,
+        "video_id": "_NAiR_cIowI"
+      }
+    ],
     "websites": [
       {
         "id": 868128,
@@ -32561,179 +32824,6 @@
         "type": {
           "id": 23,
           "type": "Playstation"
-        }
-      }
-    ]
-  },
-  {
-    "id": 362114,
-    "cover": {
-      "id": 481149,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coab99.jpg"
-    },
-    "first_release_date": 1771372800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      },
-      {
-        "id": 35,
-        "name": "Card \u0026 Board Game"
-      }
-    ],
-    "hypes": 4,
-    "involved_companies": [
-      {
-        "id": 372810,
-        "company": {
-          "id": 9064,
-          "name": "Question"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "The Killing Stone",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 977997,
-        "date": 1792540800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 977998,
-        "date": 1792540800,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 977999,
-        "date": 1792540800,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      },
-      {
-        "id": 877582,
-        "date": 1771372800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1616350,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyn6m.jpg"
-      },
-      {
-        "id": 1616351,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyn6n.jpg"
-      },
-      {
-        "id": 1616347,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyn6j.jpg"
-      },
-      {
-        "id": 1616348,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyn6k.jpg"
-      },
-      {
-        "id": 1616349,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyn6l.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Beat the Devil at his own game. The Killing Stone is a deckbuilding card battler wrapped in a 17th century folk horror narrative. Clean the sins of a cursed family by bargaining against a series of demons - and outwitting the Devil himself.",
-    "videos": [
-      {
-        "id": 159811,
-        "video_id": "T9jhMvdht9c"
-      },
-      {
-        "id": 199781,
-        "video_id": "sgReLTbcFxY"
-      }
-    ],
-    "websites": [
-      {
-        "id": 854810,
-        "url": "https://store.steampowered.com/app/2781470",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 885286,
-        "url": "https://discord.gg/TyzEjb9ZnD",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 885283,
-        "url": "https://www.thekillingstone.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 885284,
-        "url": "https://bsky.app/profile/thekillingstone.com",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 885285,
-        "url": "https://x.com/question_games",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 854811,
-        "url": "https://www.twitch.tv/directory/category/the-killing-stone",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
         }
       }
     ]
@@ -38052,6 +38142,13 @@
       }
     ],
     "release_dates": [
+      {
+        "id": 979388,
+        "platform": {
+          "id": 49,
+          "name": "Xbox One"
+        }
+      },
       {
         "id": 902159,
         "date": 1778716800,
@@ -52478,27 +52575,9 @@
       {
         "id": 14,
         "name": "Mac"
-      },
-      {
-        "id": 49,
-        "name": "Xbox One"
       }
     ],
     "release_dates": [
-      {
-        "id": 975694,
-        "platform": {
-          "id": 49,
-          "name": "Xbox One"
-        }
-      },
-      {
-        "id": 975695,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      },
       {
         "id": 952676,
         "date": 1788307200,
@@ -52516,6 +52595,22 @@
         }
       },
       {
+        "id": 980352,
+        "date": 1794528000,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 980354,
+        "date": 1794528000,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      },
+      {
         "id": 975350,
         "platform": {
           "id": 39,
@@ -52527,13 +52622,6 @@
         "platform": {
           "id": 34,
           "name": "Android"
-        }
-      },
-      {
-        "id": 975352,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
         }
       }
     ],
@@ -80341,7 +80429,7 @@
         "name": "Indie"
       }
     ],
-    "hypes": 6,
+    "hypes": 7,
     "name": "Nomad Drive",
     "platforms": [
       {
@@ -87693,6 +87781,14 @@
           "id": 23,
           "type": "Playstation"
         }
+      },
+      {
+        "id": 1138926,
+        "url": "https://www.xbox.com/en-us/games/store/-/9PBTVBX0ZJNF",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
       }
     ]
   },
@@ -88482,10 +88578,6 @@
         "name": "Xbox Series X|S"
       },
       {
-        "id": 48,
-        "name": "PlayStation 4"
-      },
-      {
         "id": 508,
         "name": "Nintendo Switch 2"
       },
@@ -88498,31 +88590,11 @@
         "name": "PlayStation 5"
       },
       {
-        "id": 49,
-        "name": "Xbox One"
-      },
-      {
         "id": 130,
         "name": "Nintendo Switch"
       }
     ],
     "release_dates": [
-      {
-        "id": 966022,
-        "date": 1791763200,
-        "platform": {
-          "id": 48,
-          "name": "PlayStation 4"
-        }
-      },
-      {
-        "id": 966023,
-        "date": 1791763200,
-        "platform": {
-          "id": 49,
-          "name": "Xbox One"
-        }
-      },
       {
         "id": 964197,
         "date": 1791763200,
@@ -90884,6 +90956,16 @@
       }
     ],
     "summary": "Team up with your raccoon squad in this physics-based co-op adventure. Scavenge trash, fill your stolen shopping cart, and work together to get back home. Live your best raccoon life.",
+    "videos": [
+      {
+        "id": 200575,
+        "video_id": "VxRlYXYnBpA"
+      },
+      {
+        "id": 200576,
+        "video_id": "KeReD4OFy3E"
+      }
+    ],
     "websites": [
       {
         "id": 1071175,
@@ -90939,6 +91021,95 @@
         "type": {
           "id": 9,
           "type": "YouTube"
+        }
+      }
+    ]
+  },
+  {
+    "id": 421960,
+    "cover": {
+      "id": 609825,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cod2jl.jpg"
+    },
+    "first_release_date": 1791849600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      }
+    ],
+    "hypes": 3,
+    "involved_companies": [
+      {
+        "id": 418679,
+        "company": {
+          "id": 27224,
+          "name": "Netflix"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 418687,
+        "company": {
+          "id": 4895,
+          "name": "Supermassive Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "The Conjuring: Unspoken",
+    "platforms": [
+      {
+        "id": 82,
+        "name": "Web browser"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 977935,
+        "date": 1791849600,
+        "platform": {
+          "id": 82,
+          "name": "Web browser"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1959880,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16094.jpg"
+      },
+      {
+        "id": 1959878,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16092.jpg"
+      },
+      {
+        "id": 1959879,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16093.jpg"
+      }
+    ],
+    "summary": "The Conjuring: Unspoken, a new Netflix game, is coming October 13.\n\nSet in a decaying English pub where a family is haunted by an ancient evil, use your phone as a paranormal investigation tool and make life-or-death choices that shape your story.\n\nDeveloped by Supermassive Games.",
+    "videos": [
+      {
+        "id": 198705,
+        "video_id": "uSN_LlaJAXU"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1128991,
+        "url": "https://netflix.com/theconjuringunspoken",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
         }
       }
     ]
@@ -91503,6 +91674,14 @@
         "type": {
           "id": 4,
           "type": "Facebook"
+        }
+      },
+      {
+        "id": 1139211,
+        "url": "https://bsky.app/profile/midnightforge.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
         }
       }
     ]
@@ -92557,6 +92736,14 @@
         "type": {
           "id": 9,
           "type": "YouTube"
+        }
+      },
+      {
+        "id": 1138512,
+        "url": "https://store.epicgames.com/p/thank-you-bus-driver-2e64a6",
+        "type": {
+          "id": 16,
+          "type": "Epic"
         }
       }
     ]
@@ -94843,6 +95030,10 @@
       {
         "id": 185982,
         "video_id": "Kgp9iOHxrFw"
+      },
+      {
+        "id": 200020,
+        "video_id": "b-latRMRi7I"
       }
     ],
     "websites": [
@@ -94976,11 +95167,23 @@
         "name": "PlayStation 5"
       },
       {
+        "id": 49,
+        "name": "Xbox One"
+      },
+      {
         "id": 130,
         "name": "Nintendo Switch"
       }
     ],
     "release_dates": [
+      {
+        "id": 978794,
+        "date": 1792022400,
+        "platform": {
+          "id": 49,
+          "name": "Xbox One"
+        }
+      },
       {
         "id": 920733,
         "date": 1792022400,
@@ -95057,6 +95260,10 @@
       {
         "id": 185924,
         "video_id": "Kgp9iOHxrFw"
+      },
+      {
+        "id": 200019,
+        "video_id": "b-latRMRi7I"
       }
     ],
     "websites": [
@@ -95279,6 +95486,10 @@
       {
         "id": 186016,
         "video_id": "Kgp9iOHxrFw"
+      },
+      {
+        "id": 200018,
+        "video_id": "b-latRMRi7I"
       }
     ],
     "websites": [
@@ -95816,6 +96027,15 @@
     "hypes": 28,
     "involved_companies": [
       {
+        "id": 421298,
+        "company": {
+          "id": 49515,
+          "name": "Andrés Borghi"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
         "id": 421297,
         "company": {
           "id": 49514,
@@ -95841,15 +96061,6 @@
         },
         "developer": false,
         "publisher": true
-      },
-      {
-        "id": 421298,
-        "company": {
-          "id": 49515,
-          "name": "Andrés Borghi"
-        },
-        "developer": true,
-        "publisher": false
       }
     ],
     "name": "Tenebris Somnia",
@@ -97477,6 +97688,12 @@
       }
     ],
     "summary": "Explore a charmingly beautiful, hand-crafted pixel art world and help Violet on her journey searching for her sister. Uncover its mysteries, face its threatening foes, and run \u0027n gun your way through this challenging action-metroidvania - which will put your true platforming skills to the test.",
+    "videos": [
+      {
+        "id": 200573,
+        "video_id": "2lwreL3uyEo"
+      }
+    ],
     "websites": [
       {
         "id": 891800,
@@ -97821,6 +98038,126 @@
     ]
   },
   {
+    "id": 341891,
+    "cover": {
+      "id": 544995,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coboir.jpg"
+    },
+    "first_release_date": 1792454400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 3,
+    "involved_companies": [
+      {
+        "id": 318030,
+        "company": {
+          "id": 63363,
+          "name": "Filthy Eden"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Cucina Stellata: Starred Cuisine",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 980668,
+        "date": 1792454400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 884704,
+        "date": 1743984000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1520860,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwli4.jpg"
+      },
+      {
+        "id": 1520861,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwli5.jpg"
+      },
+      {
+        "id": 1520862,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwli6.jpg"
+      },
+      {
+        "id": 1520863,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwli7.jpg"
+      }
+    ],
+    "summary": "Gastronomy meets horror in an unsettling narrative experience set in 19th-century Romagna, Italy.\n\nStep into the shoes of a solitary writer and gourmet, inspired by the historical figure of Pellegrino Artusi, as a midnight snack spirals into the unexpected.\n\nCucina Stellata ✦ Starred Cuisine isn\u0027t your typical horror game: no frantic chases or cheap jump scares, but rather a thick atmosphere of tension, disturbing themes, and chilling twists that will linger in your mind long after the credits roll.",
+    "videos": [
+      {
+        "id": 177455,
+        "video_id": "kxMRlNWUBbY"
+      },
+      {
+        "id": 200543,
+        "video_id": "VnX-9dh3RmY"
+      }
+    ],
+    "websites": [
+      {
+        "id": 738388,
+        "url": "https://www.twitch.tv/directory/category/cucina-stellata-starred-cuisine",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 882526,
+        "url": "https://store.steampowered.com/app/3976340",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 882527,
+        "url": "https://discord.gg/TTgcgGuyud",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 738014,
+        "url": "https://filthy-eden.itch.io/cucinastellata",
+        "type": {
+          "id": 15,
+          "type": "Itch"
+        }
+      }
+    ]
+  },
+  {
     "id": 342011,
     "cover": {
       "id": 454584,
@@ -98005,6 +98342,14 @@
         "type": {
           "id": 5,
           "type": "Twitter"
+        }
+      },
+      {
+        "id": 1139207,
+        "url": "https://store.playstation.com/en-us/concept/10018765/",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
         }
       },
       {
@@ -98481,6 +98826,14 @@
     "summary": "A port of Dino Crisis 2 originally released on the PlayStation, enhanced with up-rendering, rewind, quick save, and custom video filters.",
     "websites": [
       {
+        "id": 1139168,
+        "url": "https://store.playstation.com/en-us/product/UP0102-PPSA38465_00-CLASSICDINO20001",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
+        }
+      },
+      {
         "id": 1112833,
         "url": "https://en.wikipedia.org/wiki/Dino_Crisis_2",
         "type": {
@@ -98659,6 +99012,398 @@
     ]
   },
   {
+    "id": 362114,
+    "cover": {
+      "id": 481149,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coab99.jpg"
+    },
+    "first_release_date": 1792540800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 35,
+        "name": "Card \u0026 Board Game"
+      }
+    ],
+    "hypes": 4,
+    "involved_companies": [
+      {
+        "id": 372810,
+        "company": {
+          "id": 9064,
+          "name": "Question"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "The Killing Stone",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 977997,
+        "date": 1792540800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 977998,
+        "date": 1792540800,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 977999,
+        "date": 1792540800,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      },
+      {
+        "id": 877582,
+        "date": 1771372800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1616350,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyn6m.jpg"
+      },
+      {
+        "id": 1616351,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyn6n.jpg"
+      },
+      {
+        "id": 1616347,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyn6j.jpg"
+      },
+      {
+        "id": 1616348,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyn6k.jpg"
+      },
+      {
+        "id": 1616349,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyn6l.jpg"
+      }
+    ],
+    "summary": "Beat the Devil at his own game. The Killing Stone is a deckbuilding card battler wrapped in a 17th century folk horror narrative. Clean the sins of a cursed family by bargaining against a series of demons - and outwitting the Devil himself.",
+    "videos": [
+      {
+        "id": 159811,
+        "video_id": "T9jhMvdht9c"
+      },
+      {
+        "id": 199781,
+        "video_id": "sgReLTbcFxY"
+      }
+    ],
+    "websites": [
+      {
+        "id": 854810,
+        "url": "https://store.steampowered.com/app/2781470",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 885286,
+        "url": "https://discord.gg/TyzEjb9ZnD",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 885283,
+        "url": "https://www.thekillingstone.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 885284,
+        "url": "https://bsky.app/profile/thekillingstone.com",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 885285,
+        "url": "https://x.com/question_games",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 854811,
+        "url": "https://www.twitch.tv/directory/category/the-killing-stone",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 1138966,
+        "url": "https://www.xbox.com/en-us/games/store/the-killing-stone/9nclqthj5f94",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
+      },
+      {
+        "id": 1138967,
+        "url": "https://store.playstation.com/en-us/concept/10019905",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
+        }
+      }
+    ]
+  },
+  {
+    "id": 366620,
+    "cover": {
+      "id": 487108,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coafus.jpg"
+    },
+    "first_release_date": 1792540800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 3,
+    "involved_companies": [
+      {
+        "id": 345368,
+        "company": {
+          "id": 11755,
+          "name": "DevilishGames"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Cutout Village",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 970714,
+        "date": 1792540800,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      },
+      {
+        "id": 970715,
+        "date": 1792540800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 915792,
+        "date": 1798675200,
+        "platform": {
+          "id": 130,
+          "name": "Nintendo Switch"
+        }
+      },
+      {
+        "id": 915794,
+        "date": 1798675200,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 915795,
+        "date": 1798675200,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1636366,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz2mm.jpg"
+      },
+      {
+        "id": 1636367,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz2mn.jpg"
+      },
+      {
+        "id": 1636369,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz2mp.jpg"
+      },
+      {
+        "id": 1636370,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz2mq.jpg"
+      },
+      {
+        "id": 1636371,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz2mr.jpg"
+      },
+      {
+        "id": 1636368,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz2mo.jpg"
+      },
+      {
+        "id": 1636372,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz2ms.jpg"
+      }
+    ],
+    "summary": "Cutout Village is a narrative, cozy, city-builder game in which you will have to build villages using simple and unique mechanics: cutting, folding and gluing. Restore the family home, revive your village and create spaces filled with fruit trees and histories to live!",
+    "videos": [
+      {
+        "id": 178131,
+        "video_id": "aR2Lawc9Uok"
+      },
+      {
+        "id": 184453,
+        "video_id": "BGjsxW0YeC0"
+      },
+      {
+        "id": 198034,
+        "video_id": "VhgmXJ8qyLk"
+      }
+    ],
+    "websites": [
+      {
+        "id": 868030,
+        "url": "https://store.steampowered.com/app/3907910",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 868031,
+        "url": "https://www.devilishgames.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 868032,
+        "url": "https://www.instagram.com/devilish_games",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 868033,
+        "url": "https://x.com/DevilishGames",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 868034,
+        "url": "https://bsky.app/profile/devilishgames.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 868035,
+        "url": "https://www.youtube.com/c/devilishgames",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 868036,
+        "url": "https://www.facebook.com/devilishgames",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      }
+    ]
+  },
+  {
     "id": 381212,
     "cover": {
       "id": 570663,
@@ -98681,7 +99426,7 @@
         "name": "Adventure"
       }
     ],
-    "hypes": 25,
+    "hypes": 24,
     "involved_companies": [
       {
         "id": 411709,
@@ -98806,6 +99551,131 @@
         "type": {
           "id": 23,
           "type": "Playstation"
+        }
+      }
+    ]
+  },
+  {
+    "id": 382518,
+    "cover": {
+      "id": 517839,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cob3kf.jpg"
+    },
+    "first_release_date": 1792540800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 14,
+        "name": "Sport"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "name": "Bruisers 2D Boxing",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 971942,
+        "date": 1792540800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1724500,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10yms.jpg"
+      },
+      {
+        "id": 1724501,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ymt.jpg"
+      },
+      {
+        "id": 1724502,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ymu.jpg"
+      },
+      {
+        "id": 1724503,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ymv.jpg"
+      },
+      {
+        "id": 1724504,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ymw.jpg"
+      },
+      {
+        "id": 1724505,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ymx.jpg"
+      }
+    ],
+    "summary": "Step into the ring and fight your way to the top in Bruisers 2D Boxing — a gritty, retro-styled boxing RPG where every punch counts and every decision shapes your career.\n\nWelcome to the unforgiving world of professional boxing. Build your legacy from the ground up — train hard, fight smart, and manage the life of an up-and-coming fighter chasing glory. With in-depth 2D boxing action and a rich career mode, Bruisers 2D Boxing captures the raw intensity of the sport like never before.",
+    "videos": [
+      {
+        "id": 171736,
+        "video_id": "rZx2SVZbNQI"
+      }
+    ],
+    "websites": [
+      {
+        "id": 960071,
+        "url": "https://discord.com/invite/Esp85RetKk",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 960025,
+        "url": "https://store.steampowered.com/app/3740090/Bruisers_2D_Boxing/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 960026,
+        "url": "https://x.com/TheJevDev",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 960027,
+        "url": "https://www.youtube.com/@TheJevonjames",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
         }
       }
     ]
@@ -99917,7 +100787,7 @@
         "name": "Shooter"
       }
     ],
-    "hypes": 55,
+    "hypes": 58,
     "involved_companies": [
       {
         "id": 390299,
@@ -101636,6 +102506,199 @@
         "type": {
           "id": 6,
           "type": "Twitch"
+        }
+      }
+    ]
+  },
+  {
+    "id": 380980,
+    "cover": {
+      "id": 585184,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocjj4.jpg"
+    },
+    "first_release_date": 1792972800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      },
+      {
+        "id": 5,
+        "name": "Massively Multiplayer Online (MMO)"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 361820,
+        "company": {
+          "id": 6557,
+          "name": "Funktronic Labs"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Scramble Knights Online",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 980703,
+        "date": 1792972800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 980704,
+        "date": 1792972800,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1883243,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14d4b.jpg"
+      },
+      {
+        "id": 1883244,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14d4c.jpg"
+      }
+    ],
+    "status": 3,
+    "summary": "Welcome to Scramble Knights Online! Embark together with friends on bite-sized, Zelda-inspired quests in the shared online kingdom of Terracotta! Venture across an archipelago filled with dangerous enemies, quaint towns, puzzling dungeons, and challenges suited for a knight-in-training.",
+    "videos": [
+      {
+        "id": 190758,
+        "video_id": "ULIu_82xIgA"
+      },
+      {
+        "id": 170619,
+        "video_id": "_k_2_7RM1s4"
+      },
+      {
+        "id": 170739,
+        "video_id": "oMWryL7--F0"
+      },
+      {
+        "id": 178321,
+        "video_id": "wCBwV81Uv2o"
+      },
+      {
+        "id": 181370,
+        "video_id": "t2AgEwYp7oA"
+      },
+      {
+        "id": 200546,
+        "video_id": "d5P181mDcfs"
+      }
+    ],
+    "websites": [
+      {
+        "id": 937948,
+        "url": "https://scrambleknights.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 937950,
+        "url": "https://facebook.com/funklabs",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 937953,
+        "url": "https://discord.gg/funktroniclabs",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 937954,
+        "url": "https://bsky.app/profile/funktronic.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 937949,
+        "url": "https://x.com/scrambleroyale",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 937951,
+        "url": "https://www.youtube.com/funktroniclabs",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 937952,
+        "url": "https://www.reddit.com/r/scrambleknights/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 938033,
+        "url": "https://www.instagram.com/funktroniclabs",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1086874,
+        "url": "https://store.steampowered.com/app/2379350/Scramble_Knights_Online/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
         }
       }
     ]
@@ -105001,6 +106064,10 @@
         "name": "Point-and-click"
       },
       {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
         "id": 31,
         "name": "Adventure"
       }
@@ -105112,6 +106179,10 @@
       {
         "id": 198209,
         "video_id": "L2dVIamBuvI"
+      },
+      {
+        "id": 200524,
+        "video_id": "2dhaUEt3dCY"
       }
     ],
     "websites": [
@@ -106371,1180 +107442,6 @@
         "type": {
           "id": 9,
           "type": "YouTube"
-        }
-      }
-    ]
-  },
-  {
-    "id": 332314,
-    "cover": {
-      "id": 439997,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9fi5.jpg"
-    },
-    "first_release_date": 1793404800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 4,
-    "involved_companies": [
-      {
-        "id": 421547,
-        "company": {
-          "id": 36158,
-          "name": "Firenut Games"
-        },
-        "developer": true,
-        "publisher": true
-      },
-      {
-        "id": 421546,
-        "company": {
-          "id": 10375,
-          "name": "Digital Dreams"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Baptiste",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 508,
-        "name": "Nintendo Switch 2"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      },
-      {
-        "id": 49,
-        "name": "Xbox One"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 979492,
-        "date": 1793404800,
-        "platform": {
-          "id": 49,
-          "name": "Xbox One"
-        }
-      },
-      {
-        "id": 975444,
-        "date": 1793404800,
-        "platform": {
-          "id": 508,
-          "name": "Nintendo Switch 2"
-        }
-      },
-      {
-        "id": 975445,
-        "date": 1793404800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 975446,
-        "date": 1793404800,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 975447,
-        "date": 1793404800,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1467714,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvghu.jpg"
-      },
-      {
-        "id": 1467712,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvghs.jpg"
-      },
-      {
-        "id": 1467711,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvghr.jpg"
-      },
-      {
-        "id": 1467713,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvght.jpg"
-      },
-      {
-        "id": 1467715,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvghv.jpg"
-      }
-    ],
-    "summary": "Submerge yourself in a first-hand experience that will make you feel each chill as if it were real. The line between the game and reality blurs further with each step you take.\n\nExplore a mansion where horror awaits in every shadow. The masterful dubbing and sound track will drag you to the depths of a nightmare. Darkness will become your most feared enemy, putting your bravery to the test in each corner.\n\nPlay as Tom, a young man still suffering from the tragedy. After the loss of his father, he accompanies his mother Sara on what ought to be a new beginning. However, the ghosts of the past threaten to consume him. Can you keep control against the siege of his inner demons?\n\nDisentangle the gruesome secrets that impregnate each floorboard and each crack on the walls. Each discovery will reveal a story of pain and horror that beggars belief.\n\nSubmerge yourself into a world where beauty and terror coexist in a macabre dance. The visual design will transport you to a kingdom where the grotesque is fascinating.\n\nEach objective, each note and each whisper contribute towards weaving the plot. Your perseverance in the face of fear will be rewarded with chilling revelations that will keep you on edge until the very end.",
-    "videos": [
-      {
-        "id": 151944,
-        "video_id": "aKJ870lSUYs"
-      },
-      {
-        "id": 140812,
-        "video_id": "e_PR4qgC7TY"
-      },
-      {
-        "id": 143057,
-        "video_id": "26mJMQmRz58"
-      },
-      {
-        "id": 164042,
-        "video_id": "9BCGzdSJ0pA"
-      },
-      {
-        "id": 171533,
-        "video_id": "ZKCGQUiZPi0"
-      },
-      {
-        "id": 185749,
-        "video_id": "uAmRknBDq78"
-      },
-      {
-        "id": 193319,
-        "video_id": "1GE0muVn6uU"
-      },
-      {
-        "id": 198839,
-        "video_id": "v_IKwhxbwv4"
-      }
-    ],
-    "websites": [
-      {
-        "id": 745043,
-        "url": "https://www.youtube.com/@firenutgames",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 745045,
-        "url": "https://bsky.app/profile/firenutgames.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 745041,
-        "url": "https://www.twitch.tv/directory/category/baptiste",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 745042,
-        "url": "https://x.com/firenutgames",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 745044,
-        "url": "https://discord.gg/invite/qsCzxnFCuF",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 954569,
-        "url": "https://www.xbox.com/en-US/games/store/baptiste/9P5V6JD1G30Q/0010",
-        "type": {
-          "id": 22,
-          "type": "Xbox"
-        }
-      },
-      {
-        "id": 954570,
-        "url": "https://store.playstation.com/en-us/concept/10013181",
-        "type": {
-          "id": 23,
-          "type": "Playstation"
-        }
-      },
-      {
-        "id": 712784,
-        "url": "https://store.steampowered.com/app/2922250/Baptiste/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      }
-    ]
-  },
-  {
-    "id": 253915,
-    "cover": {
-      "id": 486960,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coafqo.jpg"
-    },
-    "first_release_date": 1793491200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 3,
-    "involved_companies": [
-      {
-        "id": 345260,
-        "company": {
-          "id": 68777,
-          "name": "Duck \u0027n\u0027 Run Games"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Light of Atlantis",
-    "platforms": [
-      {
-        "id": 3,
-        "name": "Linux"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 918649,
-        "date": 1793491200,
-        "platform": {
-          "id": 3,
-          "name": "Linux"
-        }
-      },
-      {
-        "id": 918650,
-        "date": 1793491200,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 918651,
-        "date": 1793491200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1075004,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scn1h8.jpg"
-      },
-      {
-        "id": 1075005,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scn1h9.jpg"
-      },
-      {
-        "id": 1075007,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scn1hb.jpg"
-      },
-      {
-        "id": 1075009,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scn1hd.jpg"
-      },
-      {
-        "id": 1075011,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scn1hf.jpg"
-      },
-      {
-        "id": 1075013,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scn1hh.jpg"
-      }
-    ],
-    "summary": "In this 2D-Puzzle-Metroidvania you dive into the ruins of Atlantis. As a small robot you control the water level in various rooms to solve puzzles and discover the mysteries of an ancient society.",
-    "videos": [
-      {
-        "id": 185164,
-        "video_id": "RmgPMwZxG4E"
-      }
-    ],
-    "websites": [
-      {
-        "id": 790413,
-        "url": "https://x.com/LightAtlantis",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 790415,
-        "url": "https://instagram.com/lightofatlantis",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 790416,
-        "url": "https://www.youtube.com/@lightofatlantis6935/",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 790417,
-        "url": "https://bsky.app/profile/lightofatlantis.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 559504,
-        "url": "https://store.steampowered.com/app/2387740",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      }
-    ]
-  },
-  {
-    "id": 341980,
-    "cover": {
-      "id": 557109,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobxv9.jpg"
-    },
-    "first_release_date": 1793491200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 9,
-        "name": "Puzzle"
-      },
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      },
-      {
-        "id": 35,
-        "name": "Card \u0026 Board Game"
-      }
-    ],
-    "hypes": 8,
-    "involved_companies": [
-      {
-        "id": 381807,
-        "company": {
-          "id": 68166,
-          "name": "UmiArt"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 381808,
-        "company": {
-          "id": 58557,
-          "name": "offbrand games"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Demon Bluff",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 975358,
-        "date": 1793491200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1818807,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12zef.jpg"
-      },
-      {
-        "id": 1818809,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12zeh.jpg"
-      },
-      {
-        "id": 1818811,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12zej.jpg"
-      },
-      {
-        "id": 1818804,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12zec.jpg"
-      },
-      {
-        "id": 1818806,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12zee.jpg"
-      },
-      {
-        "id": 1818805,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12zed.jpg"
-      },
-      {
-        "id": 1818808,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12zeg.jpg"
-      },
-      {
-        "id": 1818810,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12zei.jpg"
-      }
-    ],
-    "status": 3,
-    "summary": "The cards lie! In this single-player social deduction game, demons have infiltrated your village and disguised themselves as allies. Every card you turn over is either a friend or a foe. Can you see through their bluff?",
-    "videos": [
-      {
-        "id": 190540,
-        "video_id": "qw3uyq22VMU"
-      },
-      {
-        "id": 156584,
-        "video_id": "xHF5IZXS6Z8"
-      },
-      {
-        "id": 181485,
-        "video_id": "A9ta1lvocxI"
-      },
-      {
-        "id": 199076,
-        "video_id": "EzXDk_rXj7w"
-      }
-    ],
-    "websites": [
-      {
-        "id": 738425,
-        "url": "https://store.steampowered.com/app/3522600",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 739434,
-        "url": "https://www.twitch.tv/directory/category/demon-bluff",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 862691,
-        "url": "https://demonbluff.wiki.gg/",
-        "type": {
-          "id": 2,
-          "type": "Community Wiki"
-        }
-      },
-      {
-        "id": 862690,
-        "url": "https://uzabiart.itch.io/demon-bluff",
-        "type": {
-          "id": 15,
-          "type": "Itch"
-        }
-      },
-      {
-        "id": 1044120,
-        "url": "https://bsky.app/profile/demonbluff.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 1044121,
-        "url": "https://www.youtube.com/user/Uzabi",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1044122,
-        "url": "https://www.instagram.com/uzabiart/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 1044719,
-        "url": "https://x.com/DemonBluff",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1044721,
-        "url": "https://discord.gg/AkDNWCVg",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 1044720,
-        "url": "https://www.reddit.com/r/DemonBluff/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      }
-    ]
-  },
-  {
-    "id": 397816,
-    "cover": {
-      "id": 555333,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobwhx.jpg"
-    },
-    "first_release_date": 1793577600,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      },
-      {
-        "id": 4,
-        "name": "Split screen"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 380616,
-        "company": {
-          "id": 46856,
-          "name": "Blobfish"
-        },
-        "developer": true,
-        "publisher": true
-      },
-      {
-        "id": 380617,
-        "company": {
-          "id": 39329,
-          "name": "Evil Empire"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Brotato: Primal Dread",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 48,
-        "name": "PlayStation 4"
-      },
-      {
-        "id": 3,
-        "name": "Linux"
-      },
-      {
-        "id": 34,
-        "name": "Android"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 39,
-        "name": "iOS"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      },
-      {
-        "id": 49,
-        "name": "Xbox One"
-      },
-      {
-        "id": 130,
-        "name": "Nintendo Switch"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 975189,
-        "date": 1793577600,
-        "platform": {
-          "id": 3,
-          "name": "Linux"
-        }
-      },
-      {
-        "id": 975190,
-        "date": 1793577600,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 975191,
-        "date": 1793577600,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 975466,
-        "date": 1806451200,
-        "platform": {
-          "id": 39,
-          "name": "iOS"
-        }
-      },
-      {
-        "id": 975467,
-        "date": 1806451200,
-        "platform": {
-          "id": 34,
-          "name": "Android"
-        }
-      },
-      {
-        "id": 975468,
-        "date": 1806451200,
-        "platform": {
-          "id": 48,
-          "name": "PlayStation 4"
-        }
-      },
-      {
-        "id": 975469,
-        "date": 1806451200,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 975470,
-        "date": 1806451200,
-        "platform": {
-          "id": 49,
-          "name": "Xbox One"
-        }
-      },
-      {
-        "id": 975471,
-        "date": 1806451200,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      },
-      {
-        "id": 975472,
-        "date": 1806451200,
-        "platform": {
-          "id": 130,
-          "name": "Nintendo Switch"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1814414,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12w0e.jpg"
-      }
-    ],
-    "summary": "Brotato is a top-down arena shooter roguelite where you play a potato wielding up to 6 weapons at a time to fight off hordes of aliens. Choose from a variety of traits and items to create unique builds and survive until help arrives.",
-    "videos": [
-      {
-        "id": 180768,
-        "video_id": "F516QyTSzus"
-      },
-      {
-        "id": 199009,
-        "video_id": "2AvmACnnkps"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1041321,
-        "url": "https://store.steampowered.com/app/4498220",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1041424,
-        "url": "https://blobfishgames.com/press/brotato/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1041425,
-        "url": "https://discord.gg/j39jE6k",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 1041426,
-        "url": "https://x.com/blobfgames",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1041427,
-        "url": "https://www.youtube.com/@blobfish_games",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1055157,
-        "url": "https://www.gog.com/en/game/brotato_primal_dread",
-        "type": {
-          "id": 17,
-          "type": "GOG"
-        }
-      }
-    ]
-  },
-  {
-    "id": 354269,
-    "cover": {
-      "id": 472055,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coa48n.jpg"
-    },
-    "first_release_date": 1793664000,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 8,
-        "name": "Platform"
-      },
-      {
-        "id": 14,
-        "name": "Sport"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 3,
-    "involved_companies": [
-      {
-        "id": 419395,
-        "company": {
-          "id": 82400,
-          "name": "nospacelost"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 393160,
-        "company": {
-          "id": 60332,
-          "name": "Shoreline Games"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Kick",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 975354,
-        "date": 1793664000,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1584608,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxyow.jpg"
-      },
-      {
-        "id": 1584603,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxyor.jpg"
-      },
-      {
-        "id": 1584604,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxyos.jpg"
-      },
-      {
-        "id": 1584605,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxyot.jpg"
-      },
-      {
-        "id": 1584607,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxyov.jpg"
-      },
-      {
-        "id": 1584606,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxyou.jpg"
-      }
-    ],
-    "summary": "Kick It is a Jump\u0027n Run with a soccer ball. Navigate your ball with skill and finesse through a happy adventure.",
-    "videos": [
-      {
-        "id": 190587,
-        "video_id": "xYAN8XD4EQM"
-      },
-      {
-        "id": 190848,
-        "video_id": "L-267ixxyy4"
-      },
-      {
-        "id": 187164,
-        "video_id": "rO76U6eQjpk"
-      },
-      {
-        "id": 194938,
-        "video_id": "yfPyWMIsEC0"
-      },
-      {
-        "id": 199073,
-        "video_id": "UL0t43LKLoY"
-      }
-    ],
-    "websites": [
-      {
-        "id": 830949,
-        "url": "https://store.steampowered.com/app/3760370/Kick/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1046128,
-        "url": "https://bsky.app/profile/kickthegame.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 1046129,
-        "url": "https://x.com/kick_thegame",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1046130,
-        "url": "https://www.instagram.com/kick.thegame/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      }
-    ]
-  },
-  {
-    "id": 400112,
-    "cover": {
-      "id": 559990,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc03a.jpg"
-    },
-    "first_release_date": 1793664000,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 5,
-    "involved_companies": [
-      {
-        "id": 383760,
-        "company": {
-          "id": 9456,
-          "name": "Team Junkfish"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 383761,
-        "company": {
-          "id": 14193,
-          "name": "Junkfish Limited"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Wilderdark",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 943060,
-        "date": 1793664000,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1826364,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1358c.jpg"
-      },
-      {
-        "id": 1826363,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1358b.jpg"
-      },
-      {
-        "id": 1826365,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1358d.jpg"
-      },
-      {
-        "id": 1826361,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13589.jpg"
-      },
-      {
-        "id": 1826362,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1358a.jpg"
-      },
-      {
-        "id": 1826360,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13588.jpg"
-      },
-      {
-        "id": 1826366,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1358e.jpg"
-      }
-    ],
-    "summary": "Something dangerous is lurking in the wilderness. Wilderdark is a first-person survival horror game where you must navigate a strange island inhabited by ectoparasitic dinosaurs and organisms. You must remain vigilant to stealthily obtain evidence, samples, and craft tools to survive.",
-    "videos": [
-      {
-        "id": 190585,
-        "video_id": "d5OeAGH957I"
-      },
-      {
-        "id": 182583,
-        "video_id": "87V_uOzAM18"
-      },
-      {
-        "id": 185812,
-        "video_id": "V5G9pjEPK5o"
-      },
-      {
-        "id": 198927,
-        "video_id": "ytVAmr_47MA"
-      },
-      {
-        "id": 199089,
-        "video_id": "AbYQvQpo8Oo"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1049941,
-        "url": "https://www.instagram.com/teamjunkfish",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 1049942,
-        "url": "https://www.facebook.com/TeamJunkfish",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 1049943,
-        "url": "https://bsky.app/profile/teamjunkfish.com",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 1049936,
-        "url": "https://store.steampowered.com/app/2735850",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1049937,
-        "url": "https://www.teamjunkfish.com",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1049938,
-        "url": "https://discord.gg/junkfish",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 1049939,
-        "url": "https://www.youtube.com/@teamjunkfish/",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1049940,
-        "url": "https://x.com/TeamJunkfish",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
         }
       }
     ]
