@@ -60466,6 +60466,10 @@
     ],
     "genres": [
       {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
         "id": 31,
         "name": "Adventure"
       }
@@ -87649,7 +87653,8 @@
         }
       },
       {
-        "id": 970718,
+        "id": 980481,
+        "date": 1792454400,
         "platform": {
           "id": 169,
           "name": "Xbox Series X|S"
@@ -89728,6 +89733,14 @@
         "type": {
           "id": 6,
           "type": "Twitch"
+        }
+      },
+      {
+        "id": 1140024,
+        "url": "https://www.gog.com/en/game/hungry_horrors",
+        "type": {
+          "id": 17,
+          "type": "GOG"
         }
       }
     ]
@@ -96004,8 +96017,8 @@
   {
     "id": 216692,
     "cover": {
-      "id": 599724,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocur0.jpg"
+      "id": 615784,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cod754.jpg"
     },
     "first_release_date": 1792108800,
     "game_modes": [
@@ -98040,8 +98053,8 @@
   {
     "id": 341891,
     "cover": {
-      "id": 544995,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coboir.jpg"
+      "id": 615499,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cod6x7.jpg"
     },
     "first_release_date": 1792454400,
     "game_modes": [
@@ -98068,7 +98081,7 @@
         "publisher": false
       }
     ],
-    "name": "Cucina Stellata: Starred Cuisine",
+    "name": "Cucina Stellata",
     "platforms": [
       {
         "id": 6,
@@ -98823,6 +98836,24 @@
         }
       }
     ],
+    "screenshots": [
+      {
+        "id": 1958861,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15zgt.jpg"
+      },
+      {
+        "id": 1958862,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15zgu.jpg"
+      },
+      {
+        "id": 1958864,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15zgw.jpg"
+      },
+      {
+        "id": 1958863,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15zgv.jpg"
+      }
+    ],
     "summary": "A port of Dino Crisis 2 originally released on the PlayStation, enhanced with up-rendering, rewind, quick save, and custom video filters.",
     "websites": [
       {
@@ -99041,7 +99072,7 @@
     "hypes": 4,
     "involved_companies": [
       {
-        "id": 372810,
+        "id": 422141,
         "company": {
           "id": 9064,
           "name": "Question"
@@ -100135,7 +100166,7 @@
         "name": "Sport"
       }
     ],
-    "hypes": 18,
+    "hypes": 19,
     "involved_companies": [
       {
         "id": 393341,
@@ -100787,7 +100818,7 @@
         "name": "Shooter"
       }
     ],
-    "hypes": 58,
+    "hypes": 59,
     "involved_companies": [
       {
         "id": 390299,
@@ -104329,6 +104360,139 @@
     ]
   },
   {
+    "id": 183657,
+    "cover": {
+      "id": 348287,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co7gqn.jpg"
+    },
+    "first_release_date": 1793232000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 7,
+    "involved_companies": [
+      {
+        "id": 247673,
+        "company": {
+          "id": 39373,
+          "name": "targim."
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Cop Bastard",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 979221,
+        "date": 1793232000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 695049,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scewax.jpg"
+      },
+      {
+        "id": 695050,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sceway.jpg"
+      },
+      {
+        "id": 695047,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scewav.jpg"
+      },
+      {
+        "id": 695048,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scewaw.jpg"
+      },
+      {
+        "id": 695046,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scewau.jpg"
+      }
+    ],
+    "status": 3,
+    "summary": "Cop Bastard - is a сlassic FPS takes place in the early 90s in Japan. Fight against yakuza, and other mobs...",
+    "videos": [
+      {
+        "id": 104626,
+        "video_id": "QlpNUxtGFCw"
+      }
+    ],
+    "websites": [
+      {
+        "id": 249690,
+        "url": "https://store.steampowered.com/app/1742440/COP_BASTARD",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 249691,
+        "url": "https://twitter.com/TARGIM6",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 478238,
+        "url": "https://www.twitch.tv/directory/game/COP%20BASTARD",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 606685,
+        "url": "https://www.instagram.com/targim.games",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 606684,
+        "url": "https://www.youtube.com/channel/UCRn0dDIgcaAK9EsrBbTSiWg",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1135548,
+        "url": "https://discord.com/invite/XDVgyFkXxc",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      }
+    ]
+  },
+  {
     "id": 250618,
     "cover": {
       "id": 591422,
@@ -104576,8 +104740,8 @@
   {
     "id": 265267,
     "cover": {
-      "id": 388194,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8bj6.jpg"
+      "id": 615724,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cod73g.jpg"
     },
     "first_release_date": 1793232000,
     "game_modes": [
@@ -104603,13 +104767,22 @@
     "hypes": 12,
     "involved_companies": [
       {
-        "id": 270735,
+        "id": 422402,
+        "company": {
+          "id": 9403,
+          "name": "ARTE France"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 422401,
         "company": {
           "id": 54846,
           "name": "Oopsie Daisies Studio"
         },
         "developer": true,
-        "publisher": true
+        "publisher": false
       }
     ],
     "name": "Tom the Postgirl",
@@ -104655,31 +104828,31 @@
     ],
     "screenshots": [
       {
-        "id": 1136786,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scod5e.jpg"
+        "id": 1960784,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc160y8.jpg"
       },
       {
-        "id": 1136791,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scod5j.jpg"
+        "id": 1960783,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc160y7.jpg"
       },
       {
-        "id": 1136781,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scod59.jpg"
+        "id": 1960785,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc160y9.jpg"
       },
       {
-        "id": 1136783,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scod5b.jpg"
+        "id": 1960786,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc160ya.jpg"
       },
       {
-        "id": 1136796,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scod5o.jpg"
+        "id": 1960787,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc160yb.jpg"
       },
       {
-        "id": 1136799,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scod5r.jpg"
+        "id": 1960782,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc160y6.jpg"
       }
     ],
-    "summary": "Take a ride with Tom through her village and discover a great deal—perhaps too much—about the locals. Her approach, although controversial, is highly effective: intense and obsessive stalking.",
+    "summary": "Join Tom, the village’s new postgirl, and get to know the locals, perhaps a little too well. Her method, although controversial, is highly effective: intense, obsessive stalking.",
     "videos": [
       {
         "id": 116494,
@@ -104745,6 +104918,14 @@
         "type": {
           "id": 1,
           "type": "Official Website"
+        }
+      },
+      {
+        "id": 1139623,
+        "url": "https://www.nintendo.com/us/store/products/tom-the-postgirl-switch/",
+        "type": {
+          "id": 24,
+          "type": "Nintendo"
         }
       },
       {
@@ -106072,7 +106253,7 @@
         "name": "Adventure"
       }
     ],
-    "hypes": 29,
+    "hypes": 30,
     "involved_companies": [
       {
         "id": 417614,
@@ -107250,198 +107431,6 @@
         "type": {
           "id": 22,
           "type": "Xbox"
-        }
-      }
-    ]
-  },
-  {
-    "id": 332274,
-    "cover": {
-      "id": 585114,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocjh6.jpg"
-    },
-    "first_release_date": 1793318400,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 8,
-        "name": "Platform"
-      },
-      {
-        "id": 9,
-        "name": "Puzzle"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 403198,
-        "company": {
-          "id": 74784,
-          "name": "POLYCAST LABS"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Bobo and the Chest of Nightmares",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 961585,
-        "date": 1793318400,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 961586,
-        "date": 1793318400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1798834,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12jzm.jpg"
-      },
-      {
-        "id": 1798835,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12jzn.jpg"
-      },
-      {
-        "id": 1798836,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12jzo.jpg"
-      },
-      {
-        "id": 1883003,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14cxn.jpg"
-      },
-      {
-        "id": 1798837,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12jzp.jpg"
-      },
-      {
-        "id": 1798838,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12jzq.jpg"
-      },
-      {
-        "id": 1798839,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12jzr.jpg"
-      },
-      {
-        "id": 1883004,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14cxo.jpg"
-      }
-    ],
-    "summary": "Jump, glide, and outsmart traps in this spooky 3D platformer! Smash obstacles, solve puzzles, and fend off evil spirits to defeat The Dream Master. Collect hidden treasures and restore joy to a world shrouded in darkness!",
-    "videos": [
-      {
-        "id": 190738,
-        "video_id": "vFAp0Q-m3p8"
-      },
-      {
-        "id": 178444,
-        "video_id": "OyFti-zh8Ig"
-      }
-    ],
-    "websites": [
-      {
-        "id": 969360,
-        "url": "https://x.com/polycastlabs",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 969359,
-        "url": "https://bsky.app/profile/polycastlabs.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 712667,
-        "url": "https://store.steampowered.com/app/456140",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1113635,
-        "url": "https://www.xbox.com/en-us/games/store/bobo-and-the-chest-of-nightmares/9p10jghrz69s",
-        "type": {
-          "id": 22,
-          "type": "Xbox"
-        }
-      },
-      {
-        "id": 1028009,
-        "url": "https://discord.gg/X37kwcXCQk",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 1028005,
-        "url": "https://polycastlabs.com/presskit/bobo/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1028006,
-        "url": "https://www.facebook.com/polycastlabs",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 1028007,
-        "url": "https://www.instagram.com/polycastlabs/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 1028008,
-        "url": "https://www.youtube.com/@PolycastLabs",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
         }
       }
     ]
