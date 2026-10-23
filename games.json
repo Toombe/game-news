@@ -9434,6 +9434,10 @@
       {
         "id": 12,
         "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
       }
     ],
     "hypes": 2,
@@ -10274,6 +10278,386 @@
         "type": {
           "id": 14,
           "type": "Subreddit"
+        }
+      }
+    ]
+  },
+  {
+    "id": 115425,
+    "cover": {
+      "id": 301669,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6grp.jpg"
+    },
+    "first_release_date": 1683504000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 5,
+    "involved_companies": [
+      {
+        "id": 422715,
+        "company": {
+          "id": 7912,
+          "name": "Red Hook Studios"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Darkest Dungeon II",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 508,
+        "name": "Nintendo Switch 2"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 605278,
+        "date": 1721001600,
+        "platform": {
+          "id": 130,
+          "name": "Nintendo Switch"
+        }
+      },
+      {
+        "id": 611895,
+        "date": 1721001600,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      },
+      {
+        "id": 470567,
+        "date": 1635206400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 470568,
+        "date": 1683504000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 586600,
+        "date": 1721001600,
+        "platform": {
+          "id": 48,
+          "name": "PlayStation 4"
+        }
+      },
+      {
+        "id": 611894,
+        "date": 1721001600,
+        "platform": {
+          "id": 49,
+          "name": "Xbox One"
+        }
+      },
+      {
+        "id": 586601,
+        "date": 1721001600,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 795666,
+        "date": 1724371200,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      },
+      {
+        "id": 981460,
+        "date": 1792627200,
+        "platform": {
+          "id": 508,
+          "name": "Nintendo Switch 2"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1047821,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmgi5.jpg"
+      },
+      {
+        "id": 1047826,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmgia.jpg"
+      },
+      {
+        "id": 1047822,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmgi6.jpg"
+      },
+      {
+        "id": 1047824,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmgi8.jpg"
+      },
+      {
+        "id": 1047825,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmgi9.jpg"
+      },
+      {
+        "id": 1047830,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmgie.jpg"
+      },
+      {
+        "id": 1047832,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmgig.jpg"
+      },
+      {
+        "id": 1047833,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmgih.jpg"
+      },
+      {
+        "id": 1047834,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmgii.jpg"
+      },
+      {
+        "id": 1047823,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmgi7.jpg"
+      },
+      {
+        "id": 1047827,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmgib.jpg"
+      },
+      {
+        "id": 1047828,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmgic.jpg"
+      },
+      {
+        "id": 1047829,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmgid.jpg"
+      },
+      {
+        "id": 1047831,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmgif.jpg"
+      }
+    ],
+    "summary": "The eagerly awaited follow-up to Red Hook\u0027s smash hit gothic horror RPG! DDII will test your mettle and drive you to the brink of madness. Armor yourself with purpose and provision your party for the journey ahead. It will be arduous.",
+    "videos": [
+      {
+        "id": 25047,
+        "video_id": "JlGMsJgyORk"
+      },
+      {
+        "id": 73160,
+        "video_id": "Kxom3MTlODI"
+      },
+      {
+        "id": 89201,
+        "video_id": "fq53pdxY-0U"
+      },
+      {
+        "id": 111846,
+        "video_id": "gNwTL98TmEg"
+      },
+      {
+        "id": 116656,
+        "video_id": "tjvI9W7WUhc"
+      }
+    ],
+    "websites": [
+      {
+        "id": 862376,
+        "url": "https://www.nintendo.com/us/store/products/darkest-dungeon-ii-switch/",
+        "type": {
+          "id": 24,
+          "type": "Nintendo"
+        }
+      },
+      {
+        "id": 862375,
+        "url": "https://store.playstation.com/en-us/concept/10009597",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
+        }
+      },
+      {
+        "id": 101099,
+        "url": "https://twitter.com/DarkestDungeon",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 101100,
+        "url": "https://www.youtube.com/user/RedHookStudios",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 101098,
+        "url": "https://www.darkestdungeon.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 158629,
+        "url": "https://www.epicgames.com/product/darkest-dungeon-2",
+        "type": {
+          "id": 16,
+          "type": "Epic"
+        }
+      },
+      {
+        "id": 253055,
+        "url": "https://darkestdungeon.fandom.com/wiki/Darkest_Dungeon_II",
+        "type": {
+          "id": 2,
+          "type": "Community Wiki"
+        }
+      },
+      {
+        "id": 253056,
+        "url": "https://en.wikipedia.org/wiki/Darkest_Dungeon_II",
+        "type": {
+          "id": 3,
+          "type": "Wikipedia"
+        }
+      },
+      {
+        "id": 292289,
+        "url": "https://store.steampowered.com/app/1940340",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 312628,
+        "url": "https://instagram.com/redhookstudios",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 387605,
+        "url": "https://www.twitch.tv/directory/game/Darkest%20Dungeon%202",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 101101,
+        "url": "https://www.reddit.com/r/darkestdungeon",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 312630,
+        "url": "https://www.facebook.com/DarkestDungeon",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 312629,
+        "url": "https://discord.gg/darkestdungeon",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 712790,
+        "url": "https://bsky.app/profile/darkestdungeon.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 1031000,
+        "url": "https://www.gog.com/game/darkest_dungeonr_ii",
+        "type": {
+          "id": 17,
+          "type": "GOG"
+        }
+      },
+      {
+        "id": 1104932,
+        "url": "https://www.xbox.com/en-us/games/store/darkest-dungeon-ii/9N0Q3TGWHG1F",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
         }
       }
     ]
@@ -13544,6 +13928,14 @@
           "id": 4,
           "type": "Facebook"
         }
+      },
+      {
+        "id": 1140546,
+        "url": "https://www.instagram.com/focus_entmt/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
       }
     ]
   },
@@ -16315,6 +16707,14 @@
         "type": {
           "id": 13,
           "type": "Steam"
+        }
+      },
+      {
+        "id": 1142480,
+        "url": "https://store.playstation.com/en-us/concept/10013833/",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
         }
       },
       {
@@ -24747,6 +25147,14 @@
         "type": {
           "id": 13,
           "type": "Steam"
+        }
+      },
+      {
+        "id": 1142671,
+        "url": "https://store.epicgames.com/en-US/p/hell-is-us-b9c06d",
+        "type": {
+          "id": 16,
+          "type": "Epic"
         }
       },
       {
@@ -39490,278 +39898,6 @@
         "type": {
           "id": 23,
           "type": "Playstation"
-        }
-      }
-    ]
-  },
-  {
-    "id": 361880,
-    "cover": {
-      "id": 546061,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobpcd.jpg"
-    },
-    "first_release_date": 1779321600,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 2,
-        "name": "Point-and-click"
-      },
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 43,
-    "involved_companies": [
-      {
-        "id": 348983,
-        "company": {
-          "id": 15094,
-          "name": "ZA/UM"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Zero Parades: For Dead Spies",
-    "platforms": [
-      {
-        "id": 508,
-        "name": "Nintendo Switch 2"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 978686,
-        "date": 1793664000,
-        "platform": {
-          "id": 508,
-          "name": "Nintendo Switch 2"
-        }
-      },
-      {
-        "id": 895131,
-        "date": 1779321600,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 966139,
-        "date": 1793664000,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1615225,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scymbd.jpg"
-      },
-      {
-        "id": 1615226,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scymbe.jpg"
-      },
-      {
-        "id": 1830748,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc138m4.jpg"
-      },
-      {
-        "id": 1615222,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scymba.jpg"
-      },
-      {
-        "id": 1615223,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scymbb.jpg"
-      },
-      {
-        "id": 1615224,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scymbc.jpg"
-      },
-      {
-        "id": 1830740,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc138lw.jpg"
-      },
-      {
-        "id": 1830745,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc138m1.jpg"
-      },
-      {
-        "id": 1830741,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc138lx.jpg"
-      },
-      {
-        "id": 1830742,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc138ly.jpg"
-      },
-      {
-        "id": 1830743,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc138lz.jpg"
-      },
-      {
-        "id": 1830744,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc138m0.jpg"
-      },
-      {
-        "id": 1830746,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc138m2.jpg"
-      },
-      {
-        "id": 1830747,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc138m3.jpg"
-      }
-    ],
-    "summary": "From ZA/UM comes ZERO PARADES: For Dead Spies – a story-rich espionage RPG. You\u0027re a brilliant but tormented operant on a desperate assignment. Pick up the pieces of your broken network, untangle a bloody web of intrigue at the End of History, and prove yourself on the big stage or blow it all up – again.",
-    "videos": [
-      {
-        "id": 159536,
-        "video_id": "D4JVY8rR-XQ"
-      },
-      {
-        "id": 163181,
-        "video_id": "hx42cSlFs7Q"
-      },
-      {
-        "id": 177162,
-        "video_id": "dKSXvrjedUE"
-      },
-      {
-        "id": 180122,
-        "video_id": "p540bCD_Hac"
-      },
-      {
-        "id": 183135,
-        "video_id": "LmFscw4n1gU"
-      },
-      {
-        "id": 183136,
-        "video_id": "6QCWM7WnovE"
-      },
-      {
-        "id": 184131,
-        "video_id": "cMrfwqMlSpQ"
-      },
-      {
-        "id": 184407,
-        "video_id": "iZG4Oc54BUg"
-      },
-      {
-        "id": 196759,
-        "video_id": "C_acH7Wx1Ew"
-      }
-    ],
-    "websites": [
-      {
-        "id": 853963,
-        "url": "https://www.twitch.tv/directory/category/zero-parades",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 1075397,
-        "url": "https://en.wikipedia.org/wiki/Zero_Parades:_For_Dead_Spies",
-        "type": {
-          "id": 3,
-          "type": "Wikipedia"
-        }
-      },
-      {
-        "id": 878830,
-        "url": "https://store.playstation.com/en-us/concept/10016673",
-        "type": {
-          "id": 23,
-          "type": "Playstation"
-        }
-      },
-      {
-        "id": 878842,
-        "url": "https://store.epicgames.com/p/zero-parades-ed90f8",
-        "type": {
-          "id": 16,
-          "type": "Epic"
-        }
-      },
-      {
-        "id": 853962,
-        "url": "https://store.steampowered.com/app/2863680",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1005803,
-        "url": "https://x.com/studiozaum",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1005804,
-        "url": "https://bsky.app/profile/zaumstudio.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 1005805,
-        "url": "https://www.instagram.com/zaumstudio/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 1012368,
-        "url": "https://www.gog.com/en/game/zero_parades",
-        "type": {
-          "id": 17,
-          "type": "GOG"
-        }
-      },
-      {
-        "id": 1012369,
-        "url": "https://www.youtube.com/@studiozaum",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1026848,
-        "url": "https://zeroparades.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
         }
       }
     ]
@@ -60078,6 +60214,10 @@
       {
         "id": 31,
         "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
       }
     ],
     "hypes": 14,
@@ -80433,7 +80573,7 @@
         "name": "Indie"
       }
     ],
-    "hypes": 7,
+    "hypes": 8,
     "name": "Nomad Drive",
     "platforms": [
       {
@@ -98298,6 +98438,10 @@
       {
         "id": 197016,
         "video_id": "uggR1kFcdck"
+      },
+      {
+        "id": 200518,
+        "video_id": "XXOJcbzeBqE"
       }
     ],
     "websites": [
@@ -100502,6 +100646,155 @@
     ]
   },
   {
+    "id": 301087,
+    "cover": {
+      "id": 388544,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8bsw.jpg"
+    },
+    "first_release_date": 1792713600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 407429,
+        "company": {
+          "id": 33365,
+          "name": "Novemtails"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 407430,
+        "company": {
+          "id": 12419,
+          "name": "Assemble Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Under Canopies",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 971936,
+        "date": 1792713600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1315460,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scs70k.jpg"
+      },
+      {
+        "id": 1315457,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scs70h.jpg"
+      },
+      {
+        "id": 1315458,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scs70i.jpg"
+      },
+      {
+        "id": 1315456,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scs70g.jpg"
+      },
+      {
+        "id": 1315459,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scs70j.jpg"
+      }
+    ],
+    "summary": "Under Canopies is a serene exploration and survival experience. Set your own pace as you immerse yourself in activities like building and decorating your cabin, animal husbandry, crafting delicious meals, and uncovering the hidden secrets and valuable resources scattered throughout nature.",
+    "videos": [
+      {
+        "id": 115873,
+        "video_id": "XsomTSj96_E"
+      },
+      {
+        "id": 186252,
+        "video_id": "kIY9HBd_Q4E"
+      }
+    ],
+    "websites": [
+      {
+        "id": 824773,
+        "url": "https://discord.gg/PsqsJkAsMJ",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 952991,
+        "url": "https://undercanopiesgame.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 637038,
+        "url": "https://store.steampowered.com/app/2939510",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1084854,
+        "url": "https://www.youtube.com/channel/UCgdLpxXSklLAkjGiamTNSkQ",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1068765,
+        "url": "https://x.com/novemtails",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1068766,
+        "url": "https://www.instagram.com/novemtails/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      }
+    ]
+  },
+  {
     "id": 346933,
     "cover": {
       "id": 462354,
@@ -100818,7 +101111,7 @@
         "name": "Shooter"
       }
     ],
-    "hypes": 59,
+    "hypes": 60,
     "involved_companies": [
       {
         "id": 390299,
@@ -101119,7 +101412,7 @@
         "name": "Simulator"
       }
     ],
-    "hypes": 5,
+    "hypes": 6,
     "involved_companies": [
       {
         "id": 393318,
@@ -102415,44 +102708,52 @@
     ],
     "screenshots": [
       {
-        "id": 1929222,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15cli.jpg"
+        "id": 1963246,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc162um.jpg"
       },
       {
-        "id": 1929223,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15clj.jpg"
+        "id": 1963247,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc162un.jpg"
       },
       {
-        "id": 1929224,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15clk.jpg"
+        "id": 1963245,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc162ul.jpg"
       },
       {
-        "id": 1929226,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15clm.jpg"
+        "id": 1963253,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc162ut.jpg"
       },
       {
-        "id": 1929225,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15cll.jpg"
+        "id": 1963254,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc162uu.jpg"
       },
       {
-        "id": 1929227,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15cln.jpg"
+        "id": 1963256,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc162uw.jpg"
       },
       {
-        "id": 1929228,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15clo.jpg"
+        "id": 1963249,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc162up.jpg"
       },
       {
-        "id": 1929229,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15clp.jpg"
+        "id": 1963251,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc162ur.jpg"
       },
       {
-        "id": 1929230,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15clq.jpg"
+        "id": 1963252,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc162us.jpg"
       },
       {
-        "id": 1929231,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15clr.jpg"
+        "id": 1963248,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc162uo.jpg"
+      },
+      {
+        "id": 1963250,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc162uq.jpg"
+      },
+      {
+        "id": 1963255,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc162uv.jpg"
       }
     ],
     "summary": "Night Plane is a job-sim horror game where you work as a flight attendant on a doomed plane. Check tickets, serve passengers, and decide who stays onboard as demons hide among innocent souls. Naturally, management says it’s your problem.",
@@ -102807,6 +103108,10 @@
       {
         "id": 190655,
         "video_id": "E1zVDIFC5jA"
+      },
+      {
+        "id": 200680,
+        "video_id": "_i16jpL9V1M"
       }
     ],
     "websites": [
@@ -104628,6 +104933,10 @@
       {
         "id": 193631,
         "video_id": "blh1v1dGJ2s"
+      },
+      {
+        "id": 200739,
+        "video_id": "qgJBFa952mY"
       }
     ],
     "websites": [
@@ -107029,7 +107338,7 @@
         "name": "Adventure"
       }
     ],
-    "hypes": 4,
+    "hypes": 5,
     "involved_companies": [
       {
         "id": 411742,
@@ -107230,207 +107539,6 @@
         "type": {
           "id": 14,
           "type": "Subreddit"
-        }
-      }
-    ]
-  },
-  {
-    "id": 258775,
-    "cover": {
-      "id": 510943,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coay8v.jpg"
-    },
-    "first_release_date": 1793318400,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 14,
-    "involved_companies": [
-      {
-        "id": 361329,
-        "company": {
-          "id": 27828,
-          "name": "Future Friends Games"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 404449,
-        "company": {
-          "id": 77339,
-          "name": "Freshly Baked Games"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Queen\u0027s Domain",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 508,
-        "name": "Nintendo Switch 2"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 971424,
-        "date": 1793318400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 971425,
-        "date": 1793318400,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 971426,
-        "date": 1793318400,
-        "platform": {
-          "id": 508,
-          "name": "Nintendo Switch 2"
-        }
-      },
-      {
-        "id": 971427,
-        "date": 1793318400,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1100983,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scnliv.jpg"
-      },
-      {
-        "id": 1100966,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scnlie.jpg"
-      },
-      {
-        "id": 1100969,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scnlih.jpg"
-      },
-      {
-        "id": 1100972,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scnlik.jpg"
-      },
-      {
-        "id": 1100975,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scnlin.jpg"
-      },
-      {
-        "id": 1100977,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scnlip.jpg"
-      },
-      {
-        "id": 1100979,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scnlir.jpg"
-      },
-      {
-        "id": 1100981,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scnlit.jpg"
-      }
-    ],
-    "summary": "A retro-fantasy action RPG with brutal combat and traversal-focused exploration. Embark on a quest to find your father who disappeared on the mysterious Isle of Neasied, where sinister forces gather, secrets hide everywhere, and the sleeping Queen has begun to stir…",
-    "videos": [
-      {
-        "id": 170140,
-        "video_id": "ShsY9k1stzY"
-      },
-      {
-        "id": 170219,
-        "video_id": "GYnBVbaGWK4"
-      },
-      {
-        "id": 197999,
-        "video_id": "mzTRC1SE69E"
-      }
-    ],
-    "websites": [
-      {
-        "id": 927936,
-        "url": "https://x.com/QueensDomain_",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 927937,
-        "url": "https://www.instagram.com/queensdomain_game/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 929903,
-        "url": "https://bsky.app/profile/queensdomain.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 947387,
-        "url": "https://www.threads.com/@queensdomain_game",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 568614,
-        "url": "https://store.steampowered.com/app/1799840",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1129537,
-        "url": "https://www.xbox.com/en-us/games/store/-/9N98V6N3PXKK",
-        "type": {
-          "id": 22,
-          "type": "Xbox"
         }
       }
     ]
