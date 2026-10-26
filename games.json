@@ -1815,6 +1815,339 @@
     ]
   },
   {
+    "id": 27421,
+    "cover": {
+      "id": 94238,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co20pq.jpg"
+    },
+    "first_release_date": 1507593600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 78,
+    "involved_companies": [
+      {
+        "id": 51834,
+        "company": {
+          "id": 50,
+          "name": "WB Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 51835,
+        "company": {
+          "id": 407,
+          "name": "Monolith Productions"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Middle-earth: Shadow of War",
+    "platforms": [
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 508,
+        "name": "Nintendo Switch 2"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 79482,
+        "date": 1507593600,
+        "platform": {
+          "id": 49,
+          "name": "Xbox One"
+        }
+      },
+      {
+        "id": 108072,
+        "date": 1507593600,
+        "platform": {
+          "id": 48,
+          "name": "PlayStation 4"
+        }
+      },
+      {
+        "id": 79480,
+        "date": 1507593600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 79481,
+        "date": 1507593600,
+        "platform": {
+          "id": 48,
+          "name": "PlayStation 4"
+        }
+      },
+      {
+        "id": 136147,
+        "date": 1507593600,
+        "platform": {
+          "id": 49,
+          "name": "Xbox One"
+        }
+      },
+      {
+        "id": 108071,
+        "date": 1507593600,
+        "platform": {
+          "id": 48,
+          "name": "PlayStation 4"
+        }
+      },
+      {
+        "id": 982460,
+        "date": 1790726400,
+        "platform": {
+          "id": 508,
+          "name": "Nintendo Switch 2"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 43024,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qfxnxpyj7dnjfxcfbhvg.jpg"
+      },
+      {
+        "id": 37268,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/bgrkid38ifj8szgdx9y8.jpg"
+      },
+      {
+        "id": 43022,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/d5olq3gfovwdm8kifmav.jpg"
+      },
+      {
+        "id": 43023,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/qrkvefuadtvpg5hbop5y.jpg"
+      },
+      {
+        "id": 211039,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/ijgi6z59kd9vxtb1djrt.jpg"
+      },
+      {
+        "id": 211043,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/jap8yvyzwjx6wez2m8cm.jpg"
+      },
+      {
+        "id": 211041,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/bzhreqzciyaheoourok7.jpg"
+      },
+      {
+        "id": 211042,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fr8s79zejqtqp4sfjblt.jpg"
+      },
+      {
+        "id": 211038,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/fledxgtnwiyqramipjq6.jpg"
+      },
+      {
+        "id": 37186,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/lcak6gdsite8tqdhtawh.jpg"
+      },
+      {
+        "id": 211040,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/b2b97ug48cknkvdlt96w.jpg"
+      }
+    ],
+    "summary": "Go behind enemy lines to forge your army, conquer Fortresses and dominate Mordor from within. Experience how the award winning Nemesis System creates unique personal stories with every enemy and follower, and confront the full power of the Dark Lord Sauron and his Ringwraiths in this epic new story of Middle-earth.",
+    "videos": [
+      {
+        "id": 12555,
+        "video_id": "ZR8XW5iLadk"
+      },
+      {
+        "id": 13844,
+        "video_id": "228VbUHiqDA"
+      },
+      {
+        "id": 15074,
+        "video_id": "k0wqKmBOr4Y"
+      },
+      {
+        "id": 14429,
+        "video_id": "bKooTfKZ1ls"
+      },
+      {
+        "id": 15357,
+        "video_id": "PldBatVPQR0"
+      },
+      {
+        "id": 14817,
+        "video_id": "C2NSDkdKQWw"
+      },
+      {
+        "id": 15595,
+        "video_id": "4on6xoSvc5U"
+      },
+      {
+        "id": 12556,
+        "video_id": "L77tFiJVVoQ"
+      },
+      {
+        "id": 15155,
+        "video_id": "IeZx4zHJxng"
+      },
+      {
+        "id": 16281,
+        "video_id": "5QhwpwGZIoo"
+      },
+      {
+        "id": 14212,
+        "video_id": "NKVa1lnoORY"
+      },
+      {
+        "id": 14572,
+        "video_id": "UIyKkHnyUDo"
+      },
+      {
+        "id": 12554,
+        "video_id": "B1tLIi932JM"
+      },
+      {
+        "id": 120930,
+        "video_id": "vlBZNbSIsBI"
+      }
+    ],
+    "websites": [
+      {
+        "id": 15263,
+        "url": "https://www.instagram.com/ShadowofWarGame",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 875021,
+        "url": "https://www.xbox.com/en-us/games/store/middle-earth-shadow-of-war/9PDV8FKWP3B4",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
+      },
+      {
+        "id": 875022,
+        "url": "https://store.playstation.com/en-us/concept/216695",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
+        }
+      },
+      {
+        "id": 15258,
+        "url": "https://www.shadowofwar.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 39590,
+        "url": "https://en.wikipedia.org/wiki/Middle-earth:_Shadow_of_War",
+        "type": {
+          "id": 3,
+          "type": "Wikipedia"
+        }
+      },
+      {
+        "id": 341460,
+        "url": "https://www.twitch.tv/directory/game/Middle-earth:%20Shadow%20of%20War",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 314309,
+        "url": "https://www.gog.com/game/middleearth_shadow_of_war",
+        "type": {
+          "id": 17,
+          "type": "GOG"
+        }
+      },
+      {
+        "id": 15265,
+        "url": "https://store.steampowered.com/app/356190",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 15259,
+        "url": "http://lotr.wikia.com/wiki/Middle-earth%3A_Shadow_of_War",
+        "type": {
+          "id": 2,
+          "type": "Community Wiki"
+        }
+      },
+      {
+        "id": 15264,
+        "url": "https://www.youtube.com/ShadowofWarGame",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 15260,
+        "url": "https://www.facebook.com/ShadowofWarGame",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 658486,
+        "url": "https://www.reddit.com/r/shadowofmordor/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 15261,
+        "url": "https://www.twitter.com/ShadowofWarGame",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      }
+    ]
+  },
+  {
     "id": 28289,
     "cover": {
       "id": 97374,
@@ -8528,6 +8861,371 @@
     ]
   },
   {
+    "id": 165351,
+    "cover": {
+      "id": 528643,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobbwj.jpg"
+    },
+    "first_release_date": 1660176000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 8,
+    "involved_companies": [
+      {
+        "id": 415838,
+        "company": {
+          "id": 634,
+          "name": "Devolver Digital"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 415839,
+        "company": {
+          "id": 15232,
+          "name": "Massive Monster"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Cult of the Lamb",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 508,
+        "name": "Nintendo Switch 2"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 628787,
+        "date": 1660176000,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      },
+      {
+        "id": 628786,
+        "date": 1660176000,
+        "platform": {
+          "id": 49,
+          "name": "Xbox One"
+        }
+      },
+      {
+        "id": 628783,
+        "date": 1660176000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 628784,
+        "date": 1660176000,
+        "platform": {
+          "id": 48,
+          "name": "PlayStation 4"
+        }
+      },
+      {
+        "id": 628781,
+        "date": 1660176000,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      },
+      {
+        "id": 628782,
+        "date": 1660176000,
+        "platform": {
+          "id": 130,
+          "name": "Nintendo Switch"
+        }
+      },
+      {
+        "id": 628785,
+        "date": 1660176000,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 982605,
+        "date": 1792627200,
+        "platform": {
+          "id": 508,
+          "name": "Nintendo Switch 2"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 595483,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sccrh7.jpg"
+      },
+      {
+        "id": 595482,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sccrh6.jpg"
+      },
+      {
+        "id": 595492,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sccrhg.jpg"
+      },
+      {
+        "id": 595484,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sccrh8.jpg"
+      },
+      {
+        "id": 595485,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sccrh9.jpg"
+      },
+      {
+        "id": 595487,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sccrhb.jpg"
+      },
+      {
+        "id": 595481,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sccrh5.jpg"
+      },
+      {
+        "id": 595490,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sccrhe.jpg"
+      },
+      {
+        "id": 595486,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sccrha.jpg"
+      },
+      {
+        "id": 595488,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sccrhc.jpg"
+      },
+      {
+        "id": 595491,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sccrhf.jpg"
+      },
+      {
+        "id": 595489,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sccrhd.jpg"
+      }
+    ],
+    "summary": "Cult of the Lamb casts players in the role of a possessed lamb saved from annihilation by an ominous stranger, and must repay their debt by building a loyal following in his name. Start your own cult in a land of false prophets, venturing out into diverse and mysterious regions to build a loyal community of woodland worshippers and spread your Word to become the one true cult.",
+    "videos": [
+      {
+        "id": 53805,
+        "video_id": "6uM7CQGZ6rE"
+      },
+      {
+        "id": 65427,
+        "video_id": "ll9ibInadZ0"
+      },
+      {
+        "id": 69370,
+        "video_id": "CI6D2iYCTcU"
+      },
+      {
+        "id": 197267,
+        "video_id": "xsPtUNB1z-Q"
+      }
+    ],
+    "websites": [
+      {
+        "id": 466560,
+        "url": "https://www.twitch.tv/directory/game/Cult%20of%20the%20Lamb",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 753985,
+        "url": "https://www.youtube.com/devolverdigital/",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 768328,
+        "url": "https://www.xbox.com/en-us/games/store/cult-of-the-lamb/9PNLPMP1GGH5",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
+      },
+      {
+        "id": 768329,
+        "url": "https://store.playstation.com/en-us/concept/10004484",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
+        }
+      },
+      {
+        "id": 768326,
+        "url": "https://www.nintendo.com/store/products/cult-of-the-lamb-switch/",
+        "type": {
+          "id": 24,
+          "type": "Nintendo"
+        }
+      },
+      {
+        "id": 215391,
+        "url": "https://store.steampowered.com/app/1313140/Cult_of_the_Lamb",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 215392,
+        "url": "https://www.cultofthelamb.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 256018,
+        "url": "https://twitter.com/cultofthelamb",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 263907,
+        "url": "https://www.gog.com/game/cult_of_the_lamb",
+        "type": {
+          "id": 17,
+          "type": "GOG"
+        }
+      },
+      {
+        "id": 290604,
+        "url": "https://www.facebook.com/massivemonster",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 302813,
+        "url": "https://en.wikipedia.org/wiki/Cult_of_the_Lamb",
+        "type": {
+          "id": 3,
+          "type": "Wikipedia"
+        }
+      },
+      {
+        "id": 312825,
+        "url": "https://cult-of-the-lamb.fandom.com/",
+        "type": {
+          "id": 2,
+          "type": "Community Wiki"
+        }
+      },
+      {
+        "id": 215418,
+        "url": "https://discord.gg/massivemonster",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 263908,
+        "url": "https://www.reddit.com/r/CultOfTheLamb",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 1094657,
+        "url": "https://apps.apple.com/us/app/cult-of-the-lamb/id1639580858",
+        "type": {
+          "id": 10,
+          "type": "App Store (iPhone)"
+        }
+      }
+    ]
+  },
+  {
     "id": 217815,
     "cover": {
       "id": 477589,
@@ -13515,204 +14213,6 @@
         "type": {
           "id": 22,
           "type": "Xbox"
-        }
-      }
-    ]
-  },
-  {
-    "id": 211347,
-    "cover": {
-      "id": 262052,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5m78.jpg"
-    },
-    "first_release_date": 1726099200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 10,
-    "involved_companies": [
-      {
-        "id": 263728,
-        "company": {
-          "id": 41013,
-          "name": "Fireshine Games"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 263727,
-        "company": {
-          "id": 47960,
-          "name": "Emberstorm Entertainment"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Reka",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 629921,
-        "date": 1726099200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 964759,
-        "date": 1792972800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 842831,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sci2bz.jpg"
-      },
-      {
-        "id": 842833,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sci2c1.jpg"
-      },
-      {
-        "id": 842837,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sci2c5.jpg"
-      },
-      {
-        "id": 842836,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sci2c4.jpg"
-      },
-      {
-        "id": 842835,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sci2c3.jpg"
-      },
-      {
-        "id": 842830,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sci2by.jpg"
-      },
-      {
-        "id": 842832,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sci2c0.jpg"
-      },
-      {
-        "id": 842834,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sci2c2.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Start your life as an apprentice witch to the legendary Baba Jaga and venture across a mysterious, natural landscape with your companion, chicken-legged cottage. Develop your magical powers, customise your home, craft potions, help or hinder villagers find your way in the world.",
-    "videos": [
-      {
-        "id": 91431,
-        "video_id": "X5CDteG81_A"
-      },
-      {
-        "id": 91455,
-        "video_id": "hhZiJ1AFfyw"
-      },
-      {
-        "id": 115766,
-        "video_id": "VGYF6cQXwzg"
-      },
-      {
-        "id": 115990,
-        "video_id": "89Gp9vhRRoU"
-      },
-      {
-        "id": 185649,
-        "video_id": "vx5PtGjGPqA"
-      }
-    ],
-    "websites": [
-      {
-        "id": 637892,
-        "url": "https://twitter.com/emberstorm_de",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 826761,
-        "url": "https://reka.wiki.gg/",
-        "type": {
-          "id": 2,
-          "type": "Community Wiki"
-        }
-      },
-      {
-        "id": 826762,
-        "url": "https://www.reddit.com/r/REKA/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 637891,
-        "url": "https://www.youtube.com/@emberstormentertainment",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 300497,
-        "url": "https://store.steampowered.com/app/1737870",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 633018,
-        "url": "https://discord.gg/invite/nZ4mx8sk4a",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 557280,
-        "url": "https://fireshinegames.co.uk/games/reka/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 671999,
-        "url": "https://www.twitch.tv/directory/category/reka",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
         }
       }
     ]
@@ -23182,6 +23682,218 @@
     ]
   },
   {
+    "id": 250620,
+    "cover": {
+      "id": 463862,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9xx2.jpg"
+    },
+    "first_release_date": 1755561600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 46,
+    "involved_companies": [
+      {
+        "id": 217819,
+        "company": {
+          "id": 4681,
+          "name": "Giant Squid"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Sword of the Sea",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 751038,
+        "date": 1755561600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 751039,
+        "date": 1755561600,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 982617,
+        "date": 1793232000,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1056847,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmngv.jpg"
+      },
+      {
+        "id": 1056848,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmngw.jpg"
+      },
+      {
+        "id": 1056849,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scmngx.jpg"
+      }
+    ],
+    "summary": "Sword of the Sea is an action-adventure game developed by Giant Squid, the studio behind Abzû and The Pathless.\n\nSet in a vast desert landscape, players control a character known as the Wraith, exploring ruins and uncovering a lost world. Movement is centered on the \"Hoversword,\" a tool that combines surfing, skateboarding, and snowboarding mechanics. The game emphasizes fluid traversal, atmospheric exploration, and light puzzle-solving.",
+    "videos": [
+      {
+        "id": 90740,
+        "video_id": "9c3d2lRbKOw"
+      },
+      {
+        "id": 152586,
+        "video_id": "i4It2znTQqY"
+      },
+      {
+        "id": 159540,
+        "video_id": "nXUoygORW_U"
+      }
+    ],
+    "websites": [
+      {
+        "id": 557896,
+        "url": "https://store.steampowered.com/app/2453160/Sword_of_the_Sea/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 808345,
+        "url": "https://store.playstation.com/en-us/concept/10011227",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
+        }
+      },
+      {
+        "id": 874347,
+        "url": "https://www.twitch.tv/directory/category/sword-of-the-sea",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 806712,
+        "url": "https://www.youtube.com/@giantsquidology/",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 806713,
+        "url": "https://bsky.app/profile/giantsquidstudios.com",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 806716,
+        "url": "https://www.instagram.com/giantsquidstudios/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 806714,
+        "url": "https://x.com/GiantSquidology",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 806711,
+        "url": "https://discord.gg/giantsquid",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 806715,
+        "url": "https://www.facebook.com/giantsquidstudios",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 855235,
+        "url": "https://en.wikipedia.org/wiki/Sword_of_the_Sea",
+        "type": {
+          "id": 3,
+          "type": "Wikipedia"
+        }
+      },
+      {
+        "id": 832886,
+        "url": "https://store.epicgames.com/en-US/p/sword-of-the-sea-385364",
+        "type": {
+          "id": 16,
+          "type": "Epic"
+        }
+      },
+      {
+        "id": 554621,
+        "url": "https://swordoftheseagame.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1144106,
+        "url": "https://www.xbox.com/en-us/games/store/-/9n65wlp4cscl",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
+      }
+    ]
+  },
+  {
     "id": 339626,
     "cover": {
       "id": 450496,
@@ -23666,242 +24378,6 @@
         "type": {
           "id": 22,
           "type": "Xbox"
-        }
-      }
-    ]
-  },
-  {
-    "id": 312555,
-    "cover": {
-      "id": 479145,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coa9pl.jpg"
-    },
-    "first_release_date": 1756252800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 9,
-        "name": "Puzzle"
-      },
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 401176,
-        "company": {
-          "id": 79000,
-          "name": "GD Studio"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Whisper of the House",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      },
-      {
-        "id": 130,
-        "name": "Nintendo Switch"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 781655,
-        "date": 1756252800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 781656,
-        "date": 1756252800,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 955903,
-        "date": 1787788800,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      },
-      {
-        "id": 955902,
-        "date": 1787788800,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 927523,
-        "date": 1781654400,
-        "platform": {
-          "id": 130,
-          "name": "Nintendo Switch"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1377518,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctiwe.jpg"
-      },
-      {
-        "id": 1377520,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctiwg.jpg"
-      },
-      {
-        "id": 1377519,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctiwf.jpg"
-      },
-      {
-        "id": 1377521,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctiwh.jpg"
-      },
-      {
-        "id": 1377522,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctiwi.jpg"
-      }
-    ],
-    "summary": "What\u0027s happening in this seemingly peaceful town? Strange residents, bizarre incidents, and unexpected storylines! Please be sure to let go of all your human lifestyle preferences and strive to meet the special requests of your otherworldly employers. Decorate this house with peculiar furniture!",
-    "videos": [
-      {
-        "id": 133657,
-        "video_id": "5BAs28YwULY"
-      },
-      {
-        "id": 177618,
-        "video_id": "7Xf7BIvLZEk"
-      },
-      {
-        "id": 194677,
-        "video_id": "C-T7QgCnBWY"
-      }
-    ],
-    "websites": [
-      {
-        "id": 693953,
-        "url": "https://twitter.com/GD_whisperrr",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 693952,
-        "url": "https://www.twitch.tv/directory/category/whisper-of-the-house",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 693954,
-        "url": "https://www.instagram.com/gds_whisperrr",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 693956,
-        "url": "https://www.reddit.com/user/WhisperrrHouse/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 660805,
-        "url": "https://store.steampowered.com/app/2589500",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1082696,
-        "url": "https://linktr.ee/WhisperoftheHouse",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1082697,
-        "url": "https://www.youtube.com/@WhisperoftheHouse",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1082698,
-        "url": "https://discord.gg/MgSgzTVa",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 1131609,
-        "url": "https://www.xbox.com/en-us/games/store/-/9NQ6XPGTPX86",
-        "type": {
-          "id": 22,
-          "type": "Xbox"
-        }
-      },
-      {
-        "id": 1069684,
-        "url": "https://www.nintendo.com/us/store/products/whisper-of-the-house-switch/",
-        "type": {
-          "id": 24,
-          "type": "Nintendo"
-        }
-      },
-      {
-        "id": 1099791,
-        "url": "https://store.playstation.com/en-us/concept/10018215/",
-        "type": {
-          "id": 23,
-          "type": "Playstation"
         }
       }
     ]
@@ -26485,219 +26961,6 @@
         "type": {
           "id": 16,
           "type": "Epic"
-        }
-      }
-    ]
-  },
-  {
-    "id": 236519,
-    "cover": {
-      "id": 451147,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9o3v.jpg"
-    },
-    "first_release_date": 1759017600,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 407959,
-        "company": {
-          "id": 61086,
-          "name": "Indoor Sunglasses"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 407960,
-        "company": {
-          "id": 23125,
-          "name": "PLAYISM"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Mind Diver",
-    "platforms": [
-      {
-        "id": 508,
-        "name": "Nintendo Switch 2"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 804032,
-        "date": 1759017600,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 953386,
-        "date": 1787788800,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 953031,
-        "date": 1787788800,
-        "platform": {
-          "id": 508,
-          "name": "Nintendo Switch 2"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 986960,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scl5jk.jpg"
-      },
-      {
-        "id": 986953,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scl5jd.jpg"
-      },
-      {
-        "id": 986957,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scl5jh.jpg"
-      },
-      {
-        "id": 986941,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scl5j1.jpg"
-      },
-      {
-        "id": 986935,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scl5iv.jpg"
-      },
-      {
-        "id": 986926,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scl5im.jpg"
-      },
-      {
-        "id": 986930,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scl5iq.jpg"
-      },
-      {
-        "id": 986962,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scl5jm.jpg"
-      },
-      {
-        "id": 986947,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scl5j7.jpg"
-      }
-    ],
-    "summary": "Restore a broken mind to solve a twisted case. Investigate a couple\u0027s most intimate moments and piece together the events of a fateful night. Pick what to investigate, deduce awful truths, and solve a dark mystery. But most of all, Mind Diver: find the lost love. Before it\u0027s too late.",
-    "videos": [
-      {
-        "id": 148377,
-        "video_id": "3slLnnozOoM"
-      },
-      {
-        "id": 163781,
-        "video_id": "5hnBjO4Un1M"
-      },
-      {
-        "id": 192831,
-        "video_id": "w7wYd8aYE_M"
-      }
-    ],
-    "websites": [
-      {
-        "id": 730535,
-        "url": "https://www.youtube.com/@minddivergame",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 813085,
-        "url": "https://discord.gg/YjszY9gpED",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 730533,
-        "url": "https://www.instagram.com/minddivergame/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 730529,
-        "url": "https://mind-diver.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 730539,
-        "url": "https://bsky.app/profile/minddivergame.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 730538,
-        "url": "https://x.com/MindDiverGame",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 528543,
-        "url": "https://store.steampowered.com/app/2259330",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1100788,
-        "url": "https://store.playstation.com/en-us/concept/10019543",
-        "type": {
-          "id": 23,
-          "type": "Playstation"
-        }
-      },
-      {
-        "id": 1110628,
-        "url": "https://www.nintendo.com/us/store/products/mind-diver-switch-2/",
-        "type": {
-          "id": 24,
-          "type": "Nintendo"
         }
       }
     ]
@@ -31782,270 +32045,6 @@
         "type": {
           "id": 22,
           "type": "Xbox"
-        }
-      }
-    ]
-  },
-  {
-    "id": 318752,
-    "cover": {
-      "id": 432640,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co99ts.jpg"
-    },
-    "first_release_date": 1769990400,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 4,
-        "name": "Fighting"
-      },
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 3,
-    "involved_companies": [
-      {
-        "id": 303582,
-        "company": {
-          "id": 60914,
-          "name": "NERDS TAKE OVER"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Tearscape",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 3,
-        "name": "Linux"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      },
-      {
-        "id": 130,
-        "name": "Nintendo Switch"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 795752,
-        "date": 1769990400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 866897,
-        "date": 1769990400,
-        "platform": {
-          "id": 3,
-          "name": "Linux"
-        }
-      },
-      {
-        "id": 866898,
-        "date": 1769990400,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 966723,
-        "date": 1787788800,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 966724,
-        "date": 1787788800,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      },
-      {
-        "id": 953434,
-        "date": 1787788800,
-        "platform": {
-          "id": 130,
-          "name": "Nintendo Switch"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1448227,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scv1gj.jpg"
-      },
-      {
-        "id": 1403134,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu2ny.jpg"
-      },
-      {
-        "id": 1403135,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu2nz.jpg"
-      },
-      {
-        "id": 1403139,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu2o3.jpg"
-      },
-      {
-        "id": 1403137,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu2o1.jpg"
-      },
-      {
-        "id": 1448228,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scv1gk.jpg"
-      },
-      {
-        "id": 1403138,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu2o2.jpg"
-      },
-      {
-        "id": 1403136,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scu2o0.jpg"
-      }
-    ],
-    "summary": "Discover a Gothic world in this 2D top-down action-adventure, blending fast-paced combat, exploration, and pixel art inspired by Game Boy Color classics. Fight monstrous foes, unlock new abilities, and explore a non-linear map filled with hidden secrets and dangerous challenges.\n\nMaster precise combat, where every strike and dodge matters. Strategically manage your stamina by carefully considering each move as you face off against grotesque enemies. You have a limited number of healing flasks—use them wisely and plan your moments to recover carefully. Upgrade your character\u0027s stats to remain effective and competitive in combat.\n\nDiscover powerful items hidden in the dungeons that enhance both combat and exploration. Unlock new abilities to defeat enemies more effectively and access hidden paths, uncovering deeper secrets within the world.\n\nUncover hidden dungeons throughout Tearscape\u0027s dark, interconnected world. Each dungeon holds unique challenges, powerful items, and deadly enemies, pushing your combat and exploration skills to the limit.\n\nFace off against challenging bosses—massive, grotesque creatures born from dark experiments. Each encounter demands precise timing, strategy, and mastery of your abilities to emerge victorious.\n\nExplore the vast, interconnected map filled with branching paths, hidden shortcuts, and secret areas. The non-linear design encourages exploration, rewarding you with powerful items and new abilities.\n\nEncounter a diverse cast of NPCs, some offering guidance, others seeking your help, and a few with their own hidden agendas. Every interaction adds depth to the story.",
-    "videos": [
-      {
-        "id": 137986,
-        "video_id": "SpnSwc7Tzqk"
-      },
-      {
-        "id": 175103,
-        "video_id": "aZ8gbiJ_Cg4"
-      }
-    ],
-    "websites": [
-      {
-        "id": 704624,
-        "url": "https://discord.gg/YGcupnQZWp",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 679673,
-        "url": "https://store.steampowered.com/app/3216340/Tearscape/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 707572,
-        "url": "https://tearscape.itch.io/",
-        "type": {
-          "id": 15,
-          "type": "Itch"
-        }
-      },
-      {
-        "id": 997346,
-        "url": "https://tearscape.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 707573,
-        "url": "https://bsky.app/profile/nerdstakeover.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 704623,
-        "url": "https://twitter.com/nerdstakeover",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 704622,
-        "url": "https://www.youtube.com/@TearscapeGameDev",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1002720,
-        "url": "https://www.twitch.tv/directory/category/tearscape",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 1096258,
-        "url": "https://www.nintendo.com/us/store/products/tearscape-switch/",
-        "type": {
-          "id": 24,
-          "type": "Nintendo"
-        }
-      },
-      {
-        "id": 1131608,
-        "url": "https://www.xbox.com/en-us/games/store/-/9P72PP1P22GJ",
-        "type": {
-          "id": 22,
-          "type": "Xbox"
-        }
-      },
-      {
-        "id": 1111614,
-        "url": "https://store.playstation.com/en-us/concept/10019232",
-        "type": {
-          "id": 23,
-          "type": "Playstation"
         }
       }
     ]
@@ -44727,1771 +44726,6 @@
         "type": {
           "id": 9,
           "type": "YouTube"
-        }
-      }
-    ]
-  },
-  {
-    "id": 214706,
-    "cover": {
-      "id": 572230,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc9ja.jpg"
-    },
-    "first_release_date": 1787788800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      }
-    ],
-    "hypes": 13,
-    "involved_companies": [
-      {
-        "id": 275520,
-        "company": {
-          "id": 55424,
-          "name": "Megabit Publishing"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 275519,
-        "company": {
-          "id": 16360,
-          "name": "rokaplay"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 275521,
-        "company": {
-          "id": 27366,
-          "name": "Tiny Roar"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Lou\u0027s Lagoon",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 508,
-        "name": "Nintendo Switch 2"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      },
-      {
-        "id": 130,
-        "name": "Nintendo Switch"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 942965,
-        "date": 1787788800,
-        "platform": {
-          "id": 508,
-          "name": "Nintendo Switch 2"
-        }
-      },
-      {
-        "id": 923391,
-        "date": 1787788800,
-        "platform": {
-          "id": 130,
-          "name": "Nintendo Switch"
-        }
-      },
-      {
-        "id": 923392,
-        "date": 1787788800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 923393,
-        "date": 1787788800,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 923394,
-        "date": 1787788800,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1897405,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14o1p.jpg"
-      },
-      {
-        "id": 1897407,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14o1r.jpg"
-      },
-      {
-        "id": 1862427,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13x23.jpg"
-      },
-      {
-        "id": 1862426,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13x22.jpg"
-      },
-      {
-        "id": 1862428,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13x24.jpg"
-      },
-      {
-        "id": 1897406,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14o1q.jpg"
-      },
-      {
-        "id": 1862425,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13x21.jpg"
-      },
-      {
-        "id": 1862429,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13x25.jpg"
-      }
-    ],
-    "summary": "A cozy exploration-and-crafting adventure: fly your seaplane between tropical islands, collect resources with the Swirler 2000, rebuild storm damaged communities, and unravel the mystery surrounding Uncle Lou’s disappearance.",
-    "videos": [
-      {
-        "id": 73917,
-        "video_id": "LGHzRx6vqsg"
-      },
-      {
-        "id": 118861,
-        "video_id": "w3br7VT0rQo"
-      },
-      {
-        "id": 128138,
-        "video_id": "Y7VS947hZMk"
-      },
-      {
-        "id": 133694,
-        "video_id": "uZ-Tk1MTTjs"
-      },
-      {
-        "id": 135121,
-        "video_id": "lIhVm2yuI9M"
-      },
-      {
-        "id": 146374,
-        "video_id": "8-rCz23bRyA"
-      },
-      {
-        "id": 162617,
-        "video_id": "a4e9quGn6bM"
-      },
-      {
-        "id": 178249,
-        "video_id": "RhD6vaJ6w5g"
-      },
-      {
-        "id": 185306,
-        "video_id": "L7p6bqC5IRY"
-      },
-      {
-        "id": 186796,
-        "video_id": "1651j6KDffg"
-      }
-    ],
-    "websites": [
-      {
-        "id": 306436,
-        "url": "https://store.steampowered.com/app/2100020/Lous_Lagoon",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 790140,
-        "url": "https://bsky.app/profile/tinyroargames.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 694500,
-        "url": "https://www.youtube.com/@tinyroar_Devs",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 694503,
-        "url": "https://discord.gg/invite/tinyroar",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 694501,
-        "url": "https://twitter.com/Lous_Lagoon",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 694502,
-        "url": "https://www.instagram.com/louslagoon_game",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 1027332,
-        "url": "https://www.twitch.tv/directory/category/lous-lagoon",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 1027331,
-        "url": "https://store.playstation.com/en-us/concept/10012807",
-        "type": {
-          "id": 23,
-          "type": "Playstation"
-        }
-      },
-      {
-        "id": 1085743,
-        "url": "https://www.nintendo.com/us/store/products/lous-lagoon-switch/",
-        "type": {
-          "id": 24,
-          "type": "Nintendo"
-        }
-      },
-      {
-        "id": 1073258,
-        "url": "https://megabit-publishing.com/games/lous-lagoon",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1073257,
-        "url": "https://www.xbox.com/en-GB/games/store/lous-lagoon/9NDPVFFZF6SK",
-        "type": {
-          "id": 22,
-          "type": "Xbox"
-        }
-      }
-    ]
-  },
-  {
-    "id": 215036,
-    "cover": {
-      "id": 240379,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co55h7.jpg"
-    },
-    "first_release_date": 1787788800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 11,
-        "name": "Real Time Strategy (RTS)"
-      },
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 3,
-    "involved_companies": [
-      {
-        "id": 262205,
-        "company": {
-          "id": 18476,
-          "name": "Games Operators"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 262204,
-        "company": {
-          "id": 10634,
-          "name": "Jutsu Games"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Infection Free Zone",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 583574,
-        "date": 1712793600,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 976513,
-        "date": 1787788800,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      },
-      {
-        "id": 974608,
-        "date": 1787788800,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 866241,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scike9.jpg"
-      },
-      {
-        "id": 866242,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scikea.jpg"
-      },
-      {
-        "id": 866246,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scikee.jpg"
-      },
-      {
-        "id": 866244,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scikec.jpg"
-      },
-      {
-        "id": 866243,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scikeb.jpg"
-      },
-      {
-        "id": 866245,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sciked.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Take charge of a group of survivors from your city. Choose your base of operations, then rebuild and readapt the buildings around you to create a self-sustaining settlement. And when the night falls - Defend the zone from the infected! Play on any city in the world, using real geographical data!",
-    "videos": [
-      {
-        "id": 74135,
-        "video_id": "BWyIpyAYP3M"
-      },
-      {
-        "id": 74136,
-        "video_id": "SmgGurtXDPw"
-      },
-      {
-        "id": 74137,
-        "video_id": "9iuSOgENPi8"
-      },
-      {
-        "id": 111299,
-        "video_id": "PAB3k7dgep0"
-      }
-    ],
-    "websites": [
-      {
-        "id": 794929,
-        "url": "https://discord.gg/TZxRW2WYGX",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 794930,
-        "url": "https://x.com/GamesOperators",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 307174,
-        "url": "https://store.steampowered.com/app/1465460/Infection_Free_Zone",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 795657,
-        "url": "https://store.epicgames.com/en-US/p/infection-free-zone-f9c219",
-        "type": {
-          "id": 16,
-          "type": "Epic"
-        }
-      },
-      {
-        "id": 823019,
-        "url": "https://store.playstation.com/en-us/concept/10010589/",
-        "type": {
-          "id": 23,
-          "type": "Playstation"
-        }
-      },
-      {
-        "id": 307175,
-        "url": "http://infection-free-zone.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 687705,
-        "url": "https://www.twitch.tv/directory/category/infection-free-zone",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 307176,
-        "url": "https://www.youtube.com/channel/UCjG7CF2rhNRpB1CURzORtow",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1131872,
-        "url": "https://www.xbox.com/en-us/games/store/-/9PLS38PR0FKJ",
-        "type": {
-          "id": 22,
-          "type": "Xbox"
-        }
-      }
-    ]
-  },
-  {
-    "id": 340113,
-    "cover": {
-      "id": 569304,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc7a0.jpg"
-    },
-    "first_release_date": 1787788800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 16,
-        "name": "Turn-based strategy (TBS)"
-      },
-      {
-        "id": 24,
-        "name": "Tactical"
-      }
-    ],
-    "hypes": 62,
-    "involved_companies": [
-      {
-        "id": 317475,
-        "company": {
-          "id": 1,
-          "name": "Electronic Arts"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 317476,
-        "company": {
-          "id": 63040,
-          "name": "Bit Reactor"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 317716,
-        "company": {
-          "id": 1002,
-          "name": "Respawn Entertainment"
-        },
-        "developer": false,
-        "publisher": false
-      }
-    ],
-    "name": "Star Wars Zero Company",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 922769,
-        "date": 1787788800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 922770,
-        "date": 1787788800,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 922771,
-        "date": 1787788800,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1510258,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwdbm.jpg"
-      },
-      {
-        "id": 1510259,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwdbn.jpg"
-      },
-      {
-        "id": 1510261,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwdbp.jpg"
-      },
-      {
-        "id": 1510260,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwdbo.jpg"
-      },
-      {
-        "id": 1510257,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scwdbl.jpg"
-      }
-    ],
-    "summary": "Command an elite squad through a gritty and authentic story in Star Wars Zero Company, a single-player turn-based tactics game.",
-    "videos": [
-      {
-        "id": 146549,
-        "video_id": "rcxnRaZ6slU"
-      },
-      {
-        "id": 186488,
-        "video_id": "ARhmUsy_kuA"
-      },
-      {
-        "id": 186515,
-        "video_id": "WxLUZ1omFA8"
-      },
-      {
-        "id": 193488,
-        "video_id": "AxAgeglgSeA"
-      }
-    ],
-    "websites": [
-      {
-        "id": 727320,
-        "url": "https://www.ea.com/games/starwars/zero-company",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 731433,
-        "url": "https://store.epicgames.com/en-US/p/star-wars-zero-company-21b5c6",
-        "type": {
-          "id": 16,
-          "type": "Epic"
-        }
-      },
-      {
-        "id": 731432,
-        "url": "https://store.steampowered.com/app/2075800/STAR_WARS_Zero_Company/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 980702,
-        "url": "https://www.xbox.com/en-us/games/store/star-wars-zero-company/9ppt228dzk4n",
-        "type": {
-          "id": 22,
-          "type": "Xbox"
-        }
-      },
-      {
-        "id": 980703,
-        "url": "https://store.playstation.com/en-us/concept/10009029",
-        "type": {
-          "id": 23,
-          "type": "Playstation"
-        }
-      },
-      {
-        "id": 980704,
-        "url": "https://www.twitch.tv/directory/category/star-wars-zero-company",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 1079784,
-        "url": "https://discord.com/invite/EAStarWars",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 1065839,
-        "url": "https://www.youtube.com/@eastarwars",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1065840,
-        "url": "https://www.facebook.com/EAStarWars",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 1065841,
-        "url": "https://x.com/eastarwars?lang\u003den",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1069224,
-        "url": "https://en.wikipedia.org/wiki/Star_Wars_Zero_Company",
-        "type": {
-          "id": 3,
-          "type": "Wikipedia"
-        }
-      }
-    ]
-  },
-  {
-    "id": 348168,
-    "cover": {
-      "id": 569298,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc79u.jpg"
-    },
-    "first_release_date": 1787788800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 31,
-        "name": "Adventure"
-      }
-    ],
-    "hypes": 128,
-    "involved_companies": [
-      {
-        "id": 324523,
-        "company": {
-          "id": 442,
-          "name": "Asobo Studio"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 324524,
-        "company": {
-          "id": 110,
-          "name": "Focus Entertainment"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Resonance: A Plague Tale Legacy",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 924179,
-        "date": 1787788800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 924180,
-        "date": 1787788800,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      },
-      {
-        "id": 924181,
-        "date": 1787788800,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1554260,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxb9w.jpg"
-      },
-      {
-        "id": 1554261,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxb9x.jpg"
-      },
-      {
-        "id": 1554262,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxb9y.jpg"
-      },
-      {
-        "id": 1554263,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxb9z.jpg"
-      },
-      {
-        "id": 1554264,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxba0.jpg"
-      },
-      {
-        "id": 1853321,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13q15.jpg"
-      },
-      {
-        "id": 1853322,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13q16.jpg"
-      },
-      {
-        "id": 1853323,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13q17.jpg"
-      },
-      {
-        "id": 1853324,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13q18.jpg"
-      },
-      {
-        "id": 1853325,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13q19.jpg"
-      }
-    ],
-    "summary": "Resonance: A Plague Tale Legacy is an upcoming action-adventure game developed by Asobo Studio and published by Focus Entertainment. Set 15 years before A Plague Tale: Requiem, it follows Sophia, a young plunderer, as she travels to Minotaur’s Island and searches for answers about her past. The game is described as an original story set in the A Plague Tale universe, featuring combat, puzzles, and mythological elements tied to the series’ wider history.",
-    "videos": [
-      {
-        "id": 153035,
-        "video_id": "lfssswW0qf4"
-      },
-      {
-        "id": 192769,
-        "video_id": "urw_rXXYp_Q"
-      },
-      {
-        "id": 193891,
-        "video_id": "ULLFxFm6vvk"
-      },
-      {
-        "id": 194103,
-        "video_id": "6NpD2HYHzUc"
-      },
-      {
-        "id": 186935,
-        "video_id": "jtuXbs8Wue8"
-      },
-      {
-        "id": 187560,
-        "video_id": "ZPQFsx9XXoM"
-      }
-    ],
-    "websites": [
-      {
-        "id": 927775,
-        "url": "https://store.epicgames.com/en-US/p/resonance-a-plague-tale-legacy-d3f169",
-        "type": {
-          "id": 16,
-          "type": "Epic"
-        }
-      },
-      {
-        "id": 810624,
-        "url": "https://www.xbox.com/en-us/games/store/resonance-a-plague-tale-legacy/9ppbncxp0096",
-        "type": {
-          "id": 22,
-          "type": "Xbox"
-        }
-      },
-      {
-        "id": 810623,
-        "url": "https://store.steampowered.com/app/2713000",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 810640,
-        "url": "https://store.playstation.com/en-us/concept/10015413",
-        "type": {
-          "id": 23,
-          "type": "Playstation"
-        }
-      },
-      {
-        "id": 811018,
-        "url": "https://www.focus-entmt.com/en/games/resonance-a-plague-tale-legacy",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1095645,
-        "url": "https://bsky.app/profile/focus-entmt.com",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 1095643,
-        "url": "https://www.facebook.com/FocusEntertainmentOfficial",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 1095644,
-        "url": "https://www.instagram.com/focus_entmt/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 1072434,
-        "url": "https://www.twitch.tv/directory/category/resonance-a-plague-tale-legacy",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 1072435,
-        "url": "https://aplaguetale.fandom.com/wiki/Resonance:_A_Plague_Tale_Legacy",
-        "type": {
-          "id": 2,
-          "type": "Community Wiki"
-        }
-      },
-      {
-        "id": 1072436,
-        "url": "https://en.wikipedia.org/wiki/Resonance:_A_Plague_Tale_Legacy",
-        "type": {
-          "id": 3,
-          "type": "Wikipedia"
-        }
-      }
-    ]
-  },
-  {
-    "id": 389433,
-    "cover": {
-      "id": 537166,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobiha.jpg"
-    },
-    "first_release_date": 1787788800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 31,
-        "name": "Adventure"
-      }
-    ],
-    "hypes": 27,
-    "involved_companies": [
-      {
-        "id": 371990,
-        "company": {
-          "id": 129,
-          "name": "Konami"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Metal Gear Solid Master Collection: Volume 2",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 508,
-        "name": "Nintendo Switch 2"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      },
-      {
-        "id": 130,
-        "name": "Nintendo Switch"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 874111,
-        "date": 1787788800,
-        "platform": {
-          "id": 130,
-          "name": "Nintendo Switch"
-        }
-      },
-      {
-        "id": 874097,
-        "date": 1787788800,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 874112,
-        "date": 1787788800,
-        "platform": {
-          "id": 508,
-          "name": "Nintendo Switch 2"
-        }
-      },
-      {
-        "id": 874113,
-        "date": 1787788800,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      },
-      {
-        "id": 874114,
-        "date": 1787788800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1769341,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11x8d.jpg"
-      },
-      {
-        "id": 1769346,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11x8i.jpg"
-      },
-      {
-        "id": 1769345,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11x8h.jpg"
-      },
-      {
-        "id": 1769347,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11x8j.jpg"
-      },
-      {
-        "id": 1769348,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11x8k.jpg"
-      },
-      {
-        "id": 1769339,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11x8b.jpg"
-      },
-      {
-        "id": 1769342,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11x8e.jpg"
-      },
-      {
-        "id": 1769343,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11x8f.jpg"
-      },
-      {
-        "id": 1769344,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11x8g.jpg"
-      },
-      {
-        "id": 1769338,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11x8a.jpg"
-      },
-      {
-        "id": 1769340,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11x8c.jpg"
-      },
-      {
-        "id": 1769337,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11x89.jpg"
-      }
-    ],
-    "summary": "This second installment to the collection features “Metal Gear Solid 4: Guns of the Patriots” and “Metal Gear Solid: Peace Walker (HD Collection version),” and also a digital soundtrack and \"Metal Gear: Ghost Babel\" as bonus content.",
-    "videos": [
-      {
-        "id": 176085,
-        "video_id": "a3AujdsJvjI"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1008446,
-        "url": "https://store.steampowered.com/app/3859630/METAL_GEAR_SOLID_MASTER_COLLECTION_Vol2",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1012395,
-        "url": "https://www.konami.com/mg/mc2/us/en/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1016614,
-        "url": "https://www.nintendo.com/us/store/products/metal-gear-solid-master-collection-vol-2-switch/",
-        "type": {
-          "id": 24,
-          "type": "Nintendo"
-        }
-      },
-      {
-        "id": 1030378,
-        "url": "https://store.playstation.com/en-us/concept/10009075",
-        "type": {
-          "id": 23,
-          "type": "Playstation"
-        }
-      },
-      {
-        "id": 1095753,
-        "url": "https://en.wikipedia.org/wiki/Metal_Gear_Solid:_Master_Collection",
-        "type": {
-          "id": 3,
-          "type": "Wikipedia"
-        }
-      },
-      {
-        "id": 1090260,
-        "url": "https://www.xbox.com/en-us/games/store/metal-gear-solid-master-collection-vol2/9pdmvgh0vgxd?msockid\u003d3b7696149bb964f339cc80e19a7b6562",
-        "type": {
-          "id": 22,
-          "type": "Xbox"
-        }
-      }
-    ]
-  },
-  {
-    "id": 391780,
-    "cover": {
-      "id": 541056,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coblhc.jpg"
-    },
-    "first_release_date": 1787788800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 5,
-        "name": "Shooter"
-      },
-      {
-        "id": 24,
-        "name": "Tactical"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      }
-    ],
-    "hypes": 7,
-    "involved_companies": [
-      {
-        "id": 372942,
-        "company": {
-          "id": 129,
-          "name": "Konami"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Metal Gear Solid 4: Guns of the Patriots - Master Collection Version",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 508,
-        "name": "Nintendo Switch 2"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      },
-      {
-        "id": 130,
-        "name": "Nintendo Switch"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 878306,
-        "date": 1787788800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 878307,
-        "date": 1787788800,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 878308,
-        "date": 1787788800,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      },
-      {
-        "id": 878309,
-        "date": 1787788800,
-        "platform": {
-          "id": 130,
-          "name": "Nintendo Switch"
-        }
-      },
-      {
-        "id": 878310,
-        "date": 1787788800,
-        "platform": {
-          "id": 508,
-          "name": "Nintendo Switch 2"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1784429,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc128vh.jpg"
-      },
-      {
-        "id": 1784430,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc128vi.jpg"
-      },
-      {
-        "id": 1784431,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc128vj.jpg"
-      },
-      {
-        "id": 1784432,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc128vk.jpg"
-      },
-      {
-        "id": 1784433,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc128vl.jpg"
-      },
-      {
-        "id": 1784434,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc128vm.jpg"
-      }
-    ],
-    "summary": "The extreme tension of infiltrating without being detected.\n\nMetal Gear series, the pinnacle of “stealth action” Immerse yourself in the Metal Gear series, the pinnacle of “stealth action” where you can infiltrate and elude your enemies to complete missions.\n\nThe game takes place five years after the Big Shell incident in Metal Gear Solid 2: Sons of Liberty, in a world where war has become a business.\n\nTo stop Liquid Ocelot\u0027s uprising, Solid Snake throws himself into his final battle.\n\nThe battle against Liquid and the Patriots draws to a close, and the mysteries woven throughout the series are now revealed!",
-    "websites": [
-      {
-        "id": 1016267,
-        "url": "https://www.konami.com/mg/mc2/eu/en/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1016605,
-        "url": "https://www.nintendo.com/us/store/products/metal-gear-solid-4-guns-of-the-patriots-master-collection-version-switch-2/",
-        "type": {
-          "id": 24,
-          "type": "Nintendo"
-        }
-      },
-      {
-        "id": 1092623,
-        "url": "https://store.steampowered.com/app/2492670/METAL_GEAR_SOLID_4_Guns_of_the_Patriots__Master_Collection_Version/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      }
-    ]
-  },
-  {
-    "id": 391792,
-    "cover": {
-      "id": 541069,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coblhp.jpg"
-    },
-    "first_release_date": 1787788800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 5,
-        "name": "Shooter"
-      },
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 24,
-        "name": "Tactical"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 372945,
-        "company": {
-          "id": 129,
-          "name": "Konami"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Metal Gear Solid: Peace Walker - Master Collection Version",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 508,
-        "name": "Nintendo Switch 2"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      },
-      {
-        "id": 130,
-        "name": "Nintendo Switch"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 878329,
-        "date": 1787788800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 878330,
-        "date": 1787788800,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 878331,
-        "date": 1787788800,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      },
-      {
-        "id": 878332,
-        "date": 1787788800,
-        "platform": {
-          "id": 130,
-          "name": "Nintendo Switch"
-        }
-      },
-      {
-        "id": 878333,
-        "date": 1787788800,
-        "platform": {
-          "id": 508,
-          "name": "Nintendo Switch 2"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1784510,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc128xq.jpg"
-      },
-      {
-        "id": 1784511,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc128xr.jpg"
-      },
-      {
-        "id": 1784506,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc128xm.jpg"
-      },
-      {
-        "id": 1784507,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc128xn.jpg"
-      },
-      {
-        "id": 1784508,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc128xo.jpg"
-      },
-      {
-        "id": 1784509,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc128xp.jpg"
-      }
-    ],
-    "summary": "The extreme tension of infiltrating without being detected.\n\nMetal Gear series, the pinnacle of “stealth action” where you avoid combat and complete missions while hiding.\n\nThe game take place 10 years after Metal Gear Solid 3: Snake Eater.\n\nAmidst the swirling conspiracies behind the East-West Cold War, Snake confronts them while leading a private military force.\n\nThis is the story of how one soldier, “Snake”, becomes “Big Boss”.",
-    "videos": [
-      {
-        "id": 194219,
-        "video_id": "s36nzOirTiU"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1016309,
-        "url": "https://store.steampowered.com/app/4184360/METAL_GEAR_SOLID_Peace_Walker__Master_Collection_Version/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1016310,
-        "url": "https://www.konami.com/mg/mc2/eu/en/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1016604,
-        "url": "https://www.nintendo.com/us/store/products/metal-gear-solid-peace-walker-master-collection-version-switch/",
-        "type": {
-          "id": 24,
-          "type": "Nintendo"
-        }
-      }
-    ]
-  },
-  {
-    "id": 398960,
-    "cover": {
-      "id": 558109,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobyn1.jpg"
-    },
-    "first_release_date": 1787788800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      },
-      {
-        "id": 35,
-        "name": "Card \u0026 Board Game"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 382542,
-        "company": {
-          "id": 43424,
-          "name": "Twisted Corridor"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "The Cabin Game",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 958689,
-        "date": 1787788800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1820425,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc130nd.jpg"
-      },
-      {
-        "id": 1820426,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc130ne.jpg"
-      },
-      {
-        "id": 1820427,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc130nf.jpg"
-      },
-      {
-        "id": 1820428,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc130ng.jpg"
-      },
-      {
-        "id": 1820429,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc130nh.jpg"
-      },
-      {
-        "id": 1820430,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc130ni.jpg"
-      },
-      {
-        "id": 1821182,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1318e.jpg"
-      },
-      {
-        "id": 1821185,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1318h.jpg"
-      },
-      {
-        "id": 1820433,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc130nl.jpg"
-      },
-      {
-        "id": 1820434,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc130nm.jpg"
-      },
-      {
-        "id": 1820432,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc130nk.jpg"
-      },
-      {
-        "id": 1820431,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc130nj.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "The Cabin Game is a 1-4 player, chaotic horror game where you are trapped inside a cabin and the only way out is through a game of cards. Just beware, as the cards you play have a surprising twist on this humble abode...",
-    "videos": [
-      {
-        "id": 181710,
-        "video_id": "7wDI8pc_tcc"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1046486,
-        "url": "https://store.steampowered.com/app/4406280",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1046487,
-        "url": "https://discord.gg/n54VXN5AaJ",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      }
-    ]
-  },
-  {
-    "id": 400492,
-    "cover": {
-      "id": 560755,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc0oj.jpg"
-    },
-    "first_release_date": 1787788800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      }
-    ],
-    "hypes": 3,
-    "involved_companies": [
-      {
-        "id": 384148,
-        "company": {
-          "id": 1956,
-          "name": "Idea Factory"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Hyperdimension Neptunia Unlimited",
-    "platforms": [
-      {
-        "id": 48,
-        "name": "PlayStation 4"
-      },
-      {
-        "id": 508,
-        "name": "Nintendo Switch 2"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      },
-      {
-        "id": 130,
-        "name": "Nintendo Switch"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 906591,
-        "date": 1787788800,
-        "platform": {
-          "id": 508,
-          "name": "Nintendo Switch 2"
-        }
-      },
-      {
-        "id": 906592,
-        "date": 1787788800,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 906685,
-        "date": 1787788800,
-        "platform": {
-          "id": 130,
-          "name": "Nintendo Switch"
-        }
-      },
-      {
-        "id": 906686,
-        "date": 1787788800,
-        "platform": {
-          "id": 48,
-          "name": "PlayStation 4"
-        }
-      },
-      {
-        "id": 906593,
-        "date": 1787788800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "status": 3,
-    "summary": "Hyperdimension Neptunia ∞ (Unlimited) is an upcoming entry in the series where the world faces an apocalyptic loop triggered by a mysterious “meteorite.” As reality repeatedly resets, Neptune awakens alone in a white void and gains the power to “retry” fate itself. Alongside new allies, she must endure countless defeats, uncover the truth behind the cycle, and challenge the ultimate ending to save the world by venturing into a new spacetime.",
-    "videos": [
-      {
-        "id": 182856,
-        "video_id": "-i8paCBE0zU"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1051369,
-        "url": "https://www.compileheart.com/neptune/unlimited/product/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
         }
       }
     ]
@@ -65464,6 +63698,10 @@
     ],
     "genres": [
       {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
         "id": 13,
         "name": "Simulator"
       },
@@ -78585,7 +76823,7 @@
         "name": "Indie"
       }
     ],
-    "hypes": 8,
+    "hypes": 9,
     "name": "Nomad Drive",
     "platforms": [
       {
@@ -97545,6 +95783,14 @@
         }
       },
       {
+        "id": 1144235,
+        "url": "https://store.epicgames.com/en-US/p/the-killing-stone-6a1e24",
+        "type": {
+          "id": 16,
+          "type": "Epic"
+        }
+      },
+      {
         "id": 1138966,
         "url": "https://www.xbox.com/en-us/games/store/the-killing-stone/9nclqthj5f94",
         "type": {
@@ -99101,6 +97347,14 @@
           "id": 6,
           "type": "Twitch"
         }
+      },
+      {
+        "id": 1144036,
+        "url": "https://www.instagram.com/dreamwiregames",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
       }
     ]
   },
@@ -99803,6 +98057,204 @@
         "type": {
           "id": 9,
           "type": "YouTube"
+        }
+      }
+    ]
+  },
+  {
+    "id": 211347,
+    "cover": {
+      "id": 262052,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co5m78.jpg"
+    },
+    "first_release_date": 1792972800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 10,
+    "involved_companies": [
+      {
+        "id": 263728,
+        "company": {
+          "id": 41013,
+          "name": "Fireshine Games"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 263727,
+        "company": {
+          "id": 47960,
+          "name": "Emberstorm Entertainment"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Reka",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 629921,
+        "date": 1726099200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 964759,
+        "date": 1792972800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 842831,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sci2bz.jpg"
+      },
+      {
+        "id": 842833,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sci2c1.jpg"
+      },
+      {
+        "id": 842837,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sci2c5.jpg"
+      },
+      {
+        "id": 842836,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sci2c4.jpg"
+      },
+      {
+        "id": 842835,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sci2c3.jpg"
+      },
+      {
+        "id": 842830,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sci2by.jpg"
+      },
+      {
+        "id": 842832,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sci2c0.jpg"
+      },
+      {
+        "id": 842834,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sci2c2.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Start your life as an apprentice witch to the legendary Baba Jaga and venture across a mysterious, natural landscape with your companion, chicken-legged cottage. Develop your magical powers, customise your home, craft potions, help or hinder villagers find your way in the world.",
+    "videos": [
+      {
+        "id": 91431,
+        "video_id": "X5CDteG81_A"
+      },
+      {
+        "id": 91455,
+        "video_id": "hhZiJ1AFfyw"
+      },
+      {
+        "id": 115766,
+        "video_id": "VGYF6cQXwzg"
+      },
+      {
+        "id": 115990,
+        "video_id": "89Gp9vhRRoU"
+      },
+      {
+        "id": 185649,
+        "video_id": "vx5PtGjGPqA"
+      }
+    ],
+    "websites": [
+      {
+        "id": 637892,
+        "url": "https://twitter.com/emberstorm_de",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 826761,
+        "url": "https://reka.wiki.gg/",
+        "type": {
+          "id": 2,
+          "type": "Community Wiki"
+        }
+      },
+      {
+        "id": 826762,
+        "url": "https://www.reddit.com/r/REKA/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 637891,
+        "url": "https://www.youtube.com/@emberstormentertainment",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 300497,
+        "url": "https://store.steampowered.com/app/1737870",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 633018,
+        "url": "https://discord.gg/invite/nZ4mx8sk4a",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 557280,
+        "url": "https://fireshinegames.co.uk/games/reka/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 671999,
+        "url": "https://www.twitch.tv/directory/category/reka",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
         }
       }
     ]
@@ -102018,6 +100470,130 @@
     ]
   },
   {
+    "id": 411924,
+    "cover": {
+      "id": 587880,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coclm0.jpg"
+    },
+    "first_release_date": 1793059200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 405150,
+        "company": {
+          "id": 79702,
+          "name": "5J6B Works"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Anti-Anti",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 972029,
+        "date": 1793059200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1889622,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14i1i.jpg"
+      },
+      {
+        "id": 1889623,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14i1j.jpg"
+      },
+      {
+        "id": 1889624,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14i1k.jpg"
+      },
+      {
+        "id": 1889621,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14i1h.jpg"
+      }
+    ],
+    "summary": "A choice-driven psychological mystery visual novel, Anti-Anti. In a world once devastated by slime monsters, you are forced into a suspicious audition. A locked-room mystery, ensemble drama, adventure, thriller, and romance!",
+    "videos": [
+      {
+        "id": 191787,
+        "video_id": "sehaKrpOuw8"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1142868,
+        "url": "https://x.com/AntiAntiOff",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1091246,
+        "url": "https://store.steampowered.com/app/4982060/_Antianti/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1091248,
+        "url": "https://www.instagram.com/5j6bworks/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1091249,
+        "url": "https://www.youtube.com/@5J6B",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1131800,
+        "url": "https://discord.gg/z6xx35nrTm",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      }
+    ]
+  },
+  {
     "id": 414126,
     "cover": {
       "id": 597335,
@@ -102844,7 +101420,7 @@
         "name": "Adventure"
       }
     ],
-    "hypes": 222,
+    "hypes": 223,
     "involved_companies": [
       {
         "id": 217373,
@@ -107366,6 +105942,1365 @@
         "type": {
           "id": 5,
           "type": "Twitter"
+        }
+      }
+    ]
+  },
+  {
+    "id": 404711,
+    "cover": {
+      "id": 568523,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc6ob.jpg"
+    },
+    "first_release_date": 1793664000,
+    "hypes": 2,
+    "name": "Sonic Racing: CrossWorlds - Godzilla Pack",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 508,
+        "name": "Nintendo Switch 2"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 976631,
+        "date": 1793664000,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      },
+      {
+        "id": 976625,
+        "date": 1793664000,
+        "platform": {
+          "id": 130,
+          "name": "Nintendo Switch"
+        }
+      },
+      {
+        "id": 976626,
+        "date": 1793664000,
+        "platform": {
+          "id": 508,
+          "name": "Nintendo Switch 2"
+        }
+      },
+      {
+        "id": 976627,
+        "date": 1793664000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 976628,
+        "date": 1793664000,
+        "platform": {
+          "id": 48,
+          "name": "PlayStation 4"
+        }
+      },
+      {
+        "id": 976629,
+        "date": 1793664000,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 976630,
+        "date": 1793664000,
+        "platform": {
+          "id": 49,
+          "name": "Xbox One"
+        }
+      }
+    ],
+    "videos": [
+      {
+        "id": 186552,
+        "video_id": "VNpgSR6UWH8"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1132015,
+        "url": "https://www.nintendo.com/us/store/products/sonic-racing-crossworlds-godzilla-pack-70050000080175-switch/",
+        "type": {
+          "id": 24,
+          "type": "Nintendo"
+        }
+      }
+    ]
+  },
+  {
+    "id": 404939,
+    "cover": {
+      "id": 597972,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coctec.jpg"
+    },
+    "first_release_date": 1793664000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      }
+    ],
+    "hypes": 5,
+    "involved_companies": [
+      {
+        "id": 392603,
+        "company": {
+          "id": 26816,
+          "name": "Pipeworks Studios"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 392604,
+        "company": {
+          "id": 82,
+          "name": "Atari"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Godzilla: Destroy All Monsters Melee Remastered",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 508,
+        "name": "Nintendo Switch 2"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 923638,
+        "date": 1793664000,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      },
+      {
+        "id": 923637,
+        "date": 1793664000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 923639,
+        "date": 1793664000,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 923640,
+        "date": 1793664000,
+        "platform": {
+          "id": 508,
+          "name": "Nintendo Switch 2"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1851591,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13op3.jpg"
+      },
+      {
+        "id": 1851590,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13op2.jpg"
+      },
+      {
+        "id": 1851592,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13op4.jpg"
+      },
+      {
+        "id": 1851593,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13op5.jpg"
+      },
+      {
+        "id": 1851594,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13op6.jpg"
+      },
+      {
+        "id": 1851595,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13op7.jpg"
+      }
+    ],
+    "summary": "The ultimate Godzilla arena brawler is back, completely remastered. Choose your monster and battle it out with a range of brutal attacks through recreated cities and other locations. Face off against your friends and foes in local co-op or new online multiplayer.",
+    "videos": [
+      {
+        "id": 186664,
+        "video_id": "8N9QN4X1pIk"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1117311,
+        "url": "https://www.nintendo.com/us/store/products/godzilla-destroy-all-monsters-melee-remastered-switch-2/",
+        "type": {
+          "id": 24,
+          "type": "Nintendo"
+        }
+      },
+      {
+        "id": 1130968,
+        "url": "https://www.xbox.com/en-us/games/store/-/9P8Q9HV5X96Q",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
+      },
+      {
+        "id": 1066535,
+        "url": "https://store.steampowered.com/app/4251460",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1066536,
+        "url": "https://atari.com/products/godzilla-destroy-all-monsters-melee-remastered",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1066537,
+        "url": "https://bsky.app/profile/atari.com",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 1066538,
+        "url": "https://discord.gg/atariclub",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1066539,
+        "url": "https://www.facebook.com/Atari",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 1066540,
+        "url": "https://www.instagram.com/atari/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1066541,
+        "url": "https://x.com/atari",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1066542,
+        "url": "https://www.youtube.com/@atari",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1066543,
+        "url": "https://store.playstation.com/en-us/concept/10018112",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
+        }
+      }
+    ]
+  },
+  {
+    "id": 292419,
+    "cover": {
+      "id": 557528,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coby6w.jpg"
+    },
+    "first_release_date": 1793750400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 6,
+    "involved_companies": [
+      {
+        "id": 330599,
+        "company": {
+          "id": 65483,
+          "name": "Good Story Guild"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Cat Secretary",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 958048,
+        "date": 1793750400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1820116,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc130es.jpg"
+      },
+      {
+        "id": 1820118,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc130eu.jpg"
+      },
+      {
+        "id": 1820120,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc130ew.jpg"
+      },
+      {
+        "id": 1820117,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc130et.jpg"
+      },
+      {
+        "id": 1820121,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc130ex.jpg"
+      },
+      {
+        "id": 1820122,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc130ey.jpg"
+      },
+      {
+        "id": 1820125,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc130f1.jpg"
+      },
+      {
+        "id": 1820123,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc130ez.jpg"
+      },
+      {
+        "id": 1820119,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc130ev.jpg"
+      },
+      {
+        "id": 1820124,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc130f0.jpg"
+      },
+      {
+        "id": 1820126,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc130f2.jpg"
+      }
+    ],
+    "summary": "Keep your job by day. At night, sneak around the office and solve your colleagues\u0027 problems. Who\u0027s a good Cat Secretary? You are!",
+    "videos": [
+      {
+        "id": 161861,
+        "video_id": "oaZLe_Vhqe0"
+      },
+      {
+        "id": 169779,
+        "video_id": "67jSEnQ5AYo"
+      },
+      {
+        "id": 181667,
+        "video_id": "oc4v78TvZjI"
+      }
+    ],
+    "websites": [
+      {
+        "id": 924840,
+        "url": "https://www.catsecretary.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 924841,
+        "url": "https://bsky.app/profile/goodstoryguild.co",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 732502,
+        "url": "https://www.instagram.com/goodstoryguild/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 732501,
+        "url": "https://discord.gg/wGsYUx9xJq",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 623620,
+        "url": "https://store.steampowered.com/app/2783280",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      }
+    ]
+  },
+  {
+    "id": 378896,
+    "cover": {
+      "id": 517528,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cob3bs.jpg"
+    },
+    "first_release_date": 1793750400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 7,
+    "involved_companies": [
+      {
+        "id": 406003,
+        "company": {
+          "id": 79889,
+          "name": "Gest.LT"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Lost Host",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 981453,
+        "date": 1830211200,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 970685,
+        "date": 1793750400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1703588,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ihw.jpg"
+      },
+      {
+        "id": 1703590,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ihy.jpg"
+      },
+      {
+        "id": 1703591,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ihz.jpg"
+      },
+      {
+        "id": 1703587,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ihv.jpg"
+      },
+      {
+        "id": 1703585,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10iht.jpg"
+      },
+      {
+        "id": 1703586,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ihu.jpg"
+      },
+      {
+        "id": 1703592,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ii0.jpg"
+      },
+      {
+        "id": 1703589,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ihx.jpg"
+      }
+    ],
+    "summary": "Lost Host is a story-driven adventure puzzle game about a small toy car searching for its missing owner.\nWhen the boy mysteriously disappears, the toy car begins a journey through the house and beyond, exploring dark rooms, hallways, foggy streets, and abandoned places while following clues to uncover what happened.\n\nPlayers control the toy car as it navigates dangerous environments, solves physics-based puzzles, and interacts with objects to progress. The world is full of hazards for a tiny toy car - heights, fire, water - as well as enemies such as dogs, robotic vacuums, and hostile toy creatures.\n\nThe game combines atmospheric exploration, light horror elements, and emotional storytelling, creating a family-friendly adventure centered on mystery, discovery, and survival in a large, human-sized world.",
+    "videos": [
+      {
+        "id": 169288,
+        "video_id": "yzPZGDb9ZSc"
+      },
+      {
+        "id": 172704,
+        "video_id": "thtniwVuDkw"
+      },
+      {
+        "id": 200751,
+        "video_id": "XTGS_oyB6iI"
+      }
+    ],
+    "websites": [
+      {
+        "id": 921927,
+        "url": "https://store.steampowered.com/app/3273260/Lost_Host/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 921930,
+        "url": "https://x.com/gestLTstudio",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 921931,
+        "url": "https://www.facebook.com/gestLT3D",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 921932,
+        "url": "https://www.instagram.com/gest.lt/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 921933,
+        "url": "https://www.youtube.com/@Gestlt",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 921934,
+        "url": "https://discord.gg/Cd3zzMQPuA",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 921935,
+        "url": "https://bsky.app/profile/gestlt.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 953060,
+        "url": "https://gest.lt/projects/JvElVz",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 979789,
+        "url": "https://www.twitch.tv/directory/category/lost-host",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 1142538,
+        "url": "https://store.playstation.com/en-us/concept/10020878",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
+        }
+      }
+    ]
+  },
+  {
+    "id": 394023,
+    "cover": {
+      "id": 549979,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobsd7.jpg"
+    },
+    "first_release_date": 1793750400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "hypes": 6,
+    "involved_companies": [
+      {
+        "id": 383970,
+        "company": {
+          "id": 74994,
+          "name": "Parasol Corp"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Cozy Game Restoration",
+    "platforms": [
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 968892,
+        "date": 1793750400,
+        "platform": {
+          "id": 3,
+          "name": "Linux"
+        }
+      },
+      {
+        "id": 968893,
+        "date": 1793750400,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      },
+      {
+        "id": 968894,
+        "date": 1793750400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1797689,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12j3t.jpg"
+      },
+      {
+        "id": 1797690,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12j3u.jpg"
+      },
+      {
+        "id": 1797691,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12j3v.jpg"
+      },
+      {
+        "id": 1797692,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12j3w.jpg"
+      },
+      {
+        "id": 1797693,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12j3x.jpg"
+      },
+      {
+        "id": 1797694,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12j3y.jpg"
+      },
+      {
+        "id": 1797688,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12j3s.jpg"
+      }
+    ],
+    "summary": "Cozy Game Restoration is a soothing simulator where you gently bring forgotten video game cartridges back to life. Tear wrapping paper, peel old stickers, lift away grime, and transform dusty relics into cherished collectibles. No pressure or failure, just the quiet joy of restoring memories.",
+    "videos": [
+      {
+        "id": 177944,
+        "video_id": "uLCavsYuyhQ"
+      },
+      {
+        "id": 186783,
+        "video_id": "CTEZ8G7zFMI"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1026071,
+        "url": "https://store.steampowered.com/app/3581230/Cozy_Game_Restoration/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1026072,
+        "url": "https://cozygamerestoration.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1026074,
+        "url": "https://bsky.app/profile/parasolcorp.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 1026958,
+        "url": "https://www.instagram.com/parasol_corp/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1029947,
+        "url": "https://discord.com/invite/rupSUd7eYA",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1050800,
+        "url": "https://www.youtube.com/@parasol_corp",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      }
+    ]
+  },
+  {
+    "id": 399255,
+    "cover": {
+      "id": 558445,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobywd.jpg"
+    },
+    "first_release_date": 1793750400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 382735,
+        "company": {
+          "id": 18487,
+          "name": "Konfa Games"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 382736,
+        "company": {
+          "id": 5040,
+          "name": "tinyBuild"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Hull Rupture",
+    "platforms": [
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 965277,
+        "date": 1793750400,
+        "platform": {
+          "id": 3,
+          "name": "Linux"
+        }
+      },
+      {
+        "id": 965278,
+        "date": 1793750400,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      },
+      {
+        "id": 965279,
+        "date": 1793750400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1822095,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc131xr.jpg"
+      },
+      {
+        "id": 1822096,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc131xs.jpg"
+      },
+      {
+        "id": 1822097,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc131xt.jpg"
+      },
+      {
+        "id": 1822098,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc131xu.jpg"
+      },
+      {
+        "id": 1822099,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc131xv.jpg"
+      },
+      {
+        "id": 1822100,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc131xw.jpg"
+      },
+      {
+        "id": 1822101,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc131xx.jpg"
+      },
+      {
+        "id": 1822102,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc131xy.jpg"
+      },
+      {
+        "id": 1822103,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc131xz.jpg"
+      },
+      {
+        "id": 1822104,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc131y0.jpg"
+      }
+    ],
+    "summary": "If the ship stops, humanity ends. Manage a spaceship, treat puny humans as resources, and repel relentless alien assaults in a base-management tower-defense roguelite where every choice seemed reasonable at the time.",
+    "videos": [
+      {
+        "id": 181985,
+        "video_id": "S0JFcbftJ0U"
+      },
+      {
+        "id": 196297,
+        "video_id": "UfDsXS0FyiA"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1047065,
+        "url": "https://store.steampowered.com/app/4358660",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1047066,
+        "url": "https://konfagames.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1047067,
+        "url": "https://x.com/DespotsGames",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1047068,
+        "url": "https://discord.com/invite/despotsgames",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      }
+    ]
+  },
+  {
+    "id": 403819,
+    "cover": {
+      "id": 566877,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc5el.jpg"
+    },
+    "first_release_date": 1793750400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 4,
+    "involved_companies": [
+      {
+        "id": 390945,
+        "company": {
+          "id": 18687,
+          "name": "Triskell Interactive"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 390946,
+        "company": {
+          "id": 4501,
+          "name": "DotEmu"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Theos: Cities of Myth",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 969138,
+        "date": 1793750400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1845787,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13k7v.jpg"
+      },
+      {
+        "id": 1845788,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13k7w.jpg"
+      },
+      {
+        "id": 1845789,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13k7x.jpg"
+      },
+      {
+        "id": 1845791,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13k7z.jpg"
+      },
+      {
+        "id": 1845792,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13k80.jpg"
+      },
+      {
+        "id": 1845785,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13k7t.jpg"
+      },
+      {
+        "id": 1845786,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13k7u.jpg"
+      },
+      {
+        "id": 1845790,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13k7y.jpg"
+      }
+    ],
+    "summary": "A modern take on classic city-builders, Theos: Cities of Myth lets you develop a thriving metropolis dedicated to one of 7 Greek Deities. Raise an imposing sanctuary, meet your citizens needs, and found a city worthy of the Gods.",
+    "videos": [
+      {
+        "id": 192752,
+        "video_id": "wK96Es5yxEU"
+      },
+      {
+        "id": 197348,
+        "video_id": "zBWvKW52ELQ"
+      },
+      {
+        "id": 185627,
+        "video_id": "hy1mqbooAiM"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1130055,
+        "url": "https://www.dotemu.com/games/theos-cities-of-myth/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1130056,
+        "url": "https://discord.com/invite/r69YzYZ",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1130057,
+        "url": "https://x.com/Dotemu",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1130058,
+        "url": "https://www.instagram.com/dotemugames/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1130059,
+        "url": "https://www.facebook.com/gaming/dotemu",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 1130060,
+        "url": "https://www.youtube.com/@Dotemuofficial",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1062548,
+        "url": "https://store.steampowered.com/app/3002130",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1062549,
+        "url": "https://www.twitch.tv/directory/category/theos-cities-of-myth",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      }
+    ]
+  },
+  {
+    "id": 417650,
+    "cover": {
+      "id": 603326,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocxj2.jpg"
+    },
+    "first_release_date": 1793750400,
+    "game_modes": [
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 5,
+        "name": "Massively Multiplayer Online (MMO)"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 9,
+    "involved_companies": [
+      {
+        "id": 413297,
+        "company": {
+          "id": 51,
+          "name": "Blizzard Entertainment"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "World of Warcraft: Forever",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 964479,
+        "date": 1793750400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 964480,
+        "date": 1789603200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "summary": "World of Warcraft: Forever is an invitation to take your first steps in a legendary world of untamed frontiers, warring factions, untold perils, and unseen mysteries. Experience an Azeroth that grows from the roots of WoW’s first age, continually evolving through regular content patches and updates that promise never-ending adventure.",
+    "videos": [
+      {
+        "id": 196055,
+        "video_id": "uQuKE0KDgiM"
+      },
+      {
+        "id": 196054,
+        "video_id": "xXaXYxcbA6A"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1120175,
+        "url": "https://x.com/warcraft",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1121092,
+        "url": "https://en.wikipedia.org/wiki/World_of_Warcraft:_Forever",
+        "type": {
+          "id": 3,
+          "type": "Wikipedia"
+        }
+      },
+      {
+        "id": 1116772,
+        "url": "https://www.facebook.com/WorldofWarcraft.eu",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 1116773,
+        "url": "https://www.instagram.com/warcraft",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1116774,
+        "url": "https://www.youtube.com/user/WorldofWarcraft",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1116775,
+        "url": "https://www.reddit.com/r/wow",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 1116776,
+        "url": "https://discord.gg/invite/wow",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1116777,
+        "url": "https://bsky.app/profile/worldofwarcraft.blizzard.com",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 1117012,
+        "url": "https://worldofwarcraft.blizzard.com/forever",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
         }
       }
     ]
