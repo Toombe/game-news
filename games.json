@@ -12008,6 +12008,320 @@
     ]
   },
   {
+    "id": 117170,
+    "cover": {
+      "id": 456221,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9s0t.jpg"
+    },
+    "first_release_date": 1714089600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 64,
+    "involved_companies": [
+      {
+        "id": 268093,
+        "company": {
+          "id": 11687,
+          "name": "Sony XDev"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 325282,
+        "company": {
+          "id": 16996,
+          "name": "SHIFT UP"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 325283,
+        "company": {
+          "id": 10100,
+          "name": "Sony Interactive Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Stellar Blade",
+    "platforms": [
+      {
+        "id": 508,
+        "name": "Nintendo Switch 2"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 560323,
+        "date": 1714089600,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 739773,
+        "date": 1749600000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 981983,
+        "date": 1793836800,
+        "platform": {
+          "id": 508,
+          "name": "Nintendo Switch 2"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1428922,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scumka.jpg"
+      },
+      {
+        "id": 1428923,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scumkb.jpg"
+      },
+      {
+        "id": 297724,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc6dq4.jpg"
+      },
+      {
+        "id": 882798,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scix66.jpg"
+      },
+      {
+        "id": 297725,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc6dq5.jpg"
+      },
+      {
+        "id": 1428924,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scumkc.jpg"
+      },
+      {
+        "id": 882797,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scix65.jpg"
+      },
+      {
+        "id": 297723,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc6dq3.jpg"
+      },
+      {
+        "id": 297726,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc6dq6.jpg"
+      },
+      {
+        "id": 297728,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc6dq8.jpg"
+      },
+      {
+        "id": 297727,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc6dq7.jpg"
+      },
+      {
+        "id": 882799,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scix67.jpg"
+      }
+    ],
+    "summary": "Stellar Blade is a third-person action-adventure game set on a post-apocalyptic Earth. Players control Eve, an elite soldier deployed from an orbital colony to reclaim the planet from hostile creatures called Naytibas. The combat system emphasizes timing-based parrying and evasion, with skill gauges that unlock powerful attacks and buffs. The game features exploration across ruined environments, side quests from NPC survivors in the last human city of Xion, and a narrative with multiple endings based on player choices.",
+    "videos": [
+      {
+        "id": 26267,
+        "video_id": "vLsSuuSAIys"
+      },
+      {
+        "id": 54550,
+        "video_id": "3X3JR3pG0I8"
+      },
+      {
+        "id": 74670,
+        "video_id": "ayek3ZzWb1E"
+      },
+      {
+        "id": 106285,
+        "video_id": "WQpFj2rfkKQ"
+      },
+      {
+        "id": 110537,
+        "video_id": "U8V--DUxheg"
+      },
+      {
+        "id": 112655,
+        "video_id": "DSznLWimMlU"
+      },
+      {
+        "id": 114869,
+        "video_id": "p3YKZJhbctY"
+      },
+      {
+        "id": 114870,
+        "video_id": "HZ9B0lKgTCs"
+      },
+      {
+        "id": 114871,
+        "video_id": "Jp6IyW0mZ9g"
+      },
+      {
+        "id": 114872,
+        "video_id": "lURBM0Mgtes"
+      },
+      {
+        "id": 153777,
+        "video_id": "CF7bEkfNays"
+      },
+      {
+        "id": 153778,
+        "video_id": "_VyeH5uteVk"
+      },
+      {
+        "id": 150022,
+        "video_id": "Pex7jW3Tqwo"
+      },
+      {
+        "id": 187236,
+        "video_id": "mksoTJiejl4"
+      }
+    ],
+    "websites": [
+      {
+        "id": 752052,
+        "url": "https://www.twitch.tv/directory/category/stellar-blade",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 790090,
+        "url": "https://store.playstation.com/en-us/concept/10006891",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
+        }
+      },
+      {
+        "id": 752051,
+        "url": "https://store.epicgames.com/en-US/p/stellar-blade-fa21c3",
+        "type": {
+          "id": 16,
+          "type": "Epic"
+        }
+      },
+      {
+        "id": 311747,
+        "url": "https://www.stellar-blade.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 635412,
+        "url": "https://en.wikipedia.org/wiki/Stellar_Blade",
+        "type": {
+          "id": 3,
+          "type": "Wikipedia"
+        }
+      },
+      {
+        "id": 311748,
+        "url": "https://twitter.com/stellarblade",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1115124,
+        "url": "https://store.steampowered.com/app/3489700",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1115129,
+        "url": "https://www.reddit.com/r/stellarblade",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 1115125,
+        "url": "https://stellarblade.fandom.com/wiki/Stellar_Blade",
+        "type": {
+          "id": 2,
+          "type": "Community Wiki"
+        }
+      },
+      {
+        "id": 1115126,
+        "url": "https://www.facebook.com/StellarBladeOfficial",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 1115128,
+        "url": "https://www.youtube.com/@SHIFTUP_Corp",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1115127,
+        "url": "https://www.instagram.com/stellarblade_official",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1115130,
+        "url": "https://discord.gg/stellarblade",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      }
+    ]
+  },
+  {
     "id": 145937,
     "cover": {
       "id": 308873,
@@ -15356,302 +15670,6 @@
         "type": {
           "id": 22,
           "type": "Xbox"
-        }
-      }
-    ]
-  },
-  {
-    "id": 233970,
-    "cover": {
-      "id": 293144,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6a6w.jpg"
-    },
-    "first_release_date": 1730073600,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 5,
-        "name": "Shooter"
-      },
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 4,
-    "involved_companies": [
-      {
-        "id": 281944,
-        "company": {
-          "id": 46299,
-          "name": "Perfect Random"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Sulfur",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 48,
-        "name": "PlayStation 4"
-      },
-      {
-        "id": 508,
-        "name": "Nintendo Switch 2"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      },
-      {
-        "id": 49,
-        "name": "Xbox One"
-      },
-      {
-        "id": 130,
-        "name": "Nintendo Switch"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 655272,
-        "date": 1730073600,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 975227,
-        "date": 1793145600,
-        "platform": {
-          "id": 48,
-          "name": "PlayStation 4"
-        }
-      },
-      {
-        "id": 975228,
-        "date": 1793145600,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 975229,
-        "date": 1793145600,
-        "platform": {
-          "id": 49,
-          "name": "Xbox One"
-        }
-      },
-      {
-        "id": 975230,
-        "date": 1793145600,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      },
-      {
-        "id": 975226,
-        "date": 1793145600,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 975231,
-        "date": 1793145600,
-        "platform": {
-          "id": 508,
-          "name": "Nintendo Switch 2"
-        }
-      },
-      {
-        "id": 975232,
-        "date": 1793145600,
-        "platform": {
-          "id": 130,
-          "name": "Nintendo Switch"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1015945,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sclrwp.jpg"
-      },
-      {
-        "id": 1015948,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sclrws.jpg"
-      },
-      {
-        "id": 1015946,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sclrwq.jpg"
-      },
-      {
-        "id": 1015949,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sclrwt.jpg"
-      },
-      {
-        "id": 1015947,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sclrwr.jpg"
-      }
-    ],
-    "summary": "Sulfur is a modern old-school action-adventure: Outsmart enemies, find treasure, improve weapons, harness powers. Delve deeper, find answers, make it end.",
-    "videos": [
-      {
-        "id": 86549,
-        "video_id": "9WsdFbJF228"
-      },
-      {
-        "id": 86550,
-        "video_id": "DRPK46hqDEQ"
-      },
-      {
-        "id": 91754,
-        "video_id": "KGoK5qpBK-E"
-      },
-      {
-        "id": 102904,
-        "video_id": "T8ZUk4UdZVA"
-      },
-      {
-        "id": 112476,
-        "video_id": "TqNgPposb00"
-      },
-      {
-        "id": 115959,
-        "video_id": "9-JnUVmysHo"
-      },
-      {
-        "id": 122927,
-        "video_id": "TOweLa82_m0"
-      },
-      {
-        "id": 195622,
-        "video_id": "d8-NfzoT86Q"
-      },
-      {
-        "id": 199044,
-        "video_id": "8DS-ExBDSFQ"
-      }
-    ],
-    "websites": [
-      {
-        "id": 733963,
-        "url": "https://www.instagram.com/sulfur_the_game/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 733962,
-        "url": "https://www.facebook.com/sulfurgame",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 869376,
-        "url": "https://www.youtube.com/@sulfurgame",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 815695,
-        "url": "https://bsky.app/profile/perfectrandom.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 935861,
-        "url": "https://www.xbox.com/en-US/games/store/sulfur/9P37QQCPTR8M/0010",
-        "type": {
-          "id": 22,
-          "type": "Xbox"
-        }
-      },
-      {
-        "id": 935862,
-        "url": "https://store.playstation.com/en-us/concept/10007890",
-        "type": {
-          "id": 23,
-          "type": "Playstation"
-        }
-      },
-      {
-        "id": 523361,
-        "url": "https://store.steampowered.com/app/2124120/SULFUR",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 538915,
-        "url": "https://discord.gg/p5CPkfAnTn",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 538914,
-        "url": "https://twitter.com/perfectrandom_",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 569419,
-        "url": "https://www.sulfur.tv/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 663431,
-        "url": "https://www.twitch.tv/directory/category/sulfur",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
         }
       }
     ]
@@ -23364,6 +23382,22 @@
         "type": {
           "id": 1,
           "type": "Official Website"
+        }
+      },
+      {
+        "id": 1145594,
+        "url": "https://www.instagram.com/yaldigames/?hl\u003den",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1145596,
+        "url": "https://discord.gg/sR7zhJMFsk",
+        "type": {
+          "id": 18,
+          "type": "Discord"
         }
       }
     ]
@@ -79343,6 +79377,10 @@
         "name": "Xbox Series X|S"
       },
       {
+        "id": 508,
+        "name": "Nintendo Switch 2"
+      },
+      {
         "id": 6,
         "name": "PC (Microsoft Windows)"
       },
@@ -79357,7 +79395,15 @@
     ],
     "release_dates": [
       {
-        "id": 920380,
+        "id": 983284,
+        "date": 1791417600,
+        "platform": {
+          "id": 508,
+          "name": "Nintendo Switch 2"
+        }
+      },
+      {
+        "id": 983285,
         "date": 1791417600,
         "platform": {
           "id": 130,
@@ -99783,6 +99829,421 @@
     ]
   },
   {
+    "id": 233970,
+    "cover": {
+      "id": 293144,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6a6w.jpg"
+    },
+    "first_release_date": 1793145600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 4,
+    "involved_companies": [
+      {
+        "id": 281944,
+        "company": {
+          "id": 46299,
+          "name": "Perfect Random"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Sulfur",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 508,
+        "name": "Nintendo Switch 2"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 655272,
+        "date": 1730073600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 975227,
+        "date": 1793145600,
+        "platform": {
+          "id": 48,
+          "name": "PlayStation 4"
+        }
+      },
+      {
+        "id": 975228,
+        "date": 1793145600,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 975229,
+        "date": 1793145600,
+        "platform": {
+          "id": 49,
+          "name": "Xbox One"
+        }
+      },
+      {
+        "id": 975230,
+        "date": 1793145600,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      },
+      {
+        "id": 975226,
+        "date": 1793145600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 975231,
+        "date": 1793145600,
+        "platform": {
+          "id": 508,
+          "name": "Nintendo Switch 2"
+        }
+      },
+      {
+        "id": 975232,
+        "date": 1793145600,
+        "platform": {
+          "id": 130,
+          "name": "Nintendo Switch"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1015945,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sclrwp.jpg"
+      },
+      {
+        "id": 1015948,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sclrws.jpg"
+      },
+      {
+        "id": 1015946,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sclrwq.jpg"
+      },
+      {
+        "id": 1015949,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sclrwt.jpg"
+      },
+      {
+        "id": 1015947,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sclrwr.jpg"
+      }
+    ],
+    "summary": "Sulfur is a modern old-school action-adventure: Outsmart enemies, find treasure, improve weapons, harness powers. Delve deeper, find answers, make it end.",
+    "videos": [
+      {
+        "id": 86549,
+        "video_id": "9WsdFbJF228"
+      },
+      {
+        "id": 86550,
+        "video_id": "DRPK46hqDEQ"
+      },
+      {
+        "id": 91754,
+        "video_id": "KGoK5qpBK-E"
+      },
+      {
+        "id": 102904,
+        "video_id": "T8ZUk4UdZVA"
+      },
+      {
+        "id": 112476,
+        "video_id": "TqNgPposb00"
+      },
+      {
+        "id": 115959,
+        "video_id": "9-JnUVmysHo"
+      },
+      {
+        "id": 122927,
+        "video_id": "TOweLa82_m0"
+      },
+      {
+        "id": 195622,
+        "video_id": "d8-NfzoT86Q"
+      },
+      {
+        "id": 199044,
+        "video_id": "8DS-ExBDSFQ"
+      }
+    ],
+    "websites": [
+      {
+        "id": 733963,
+        "url": "https://www.instagram.com/sulfur_the_game/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 733962,
+        "url": "https://www.facebook.com/sulfurgame",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 869376,
+        "url": "https://www.youtube.com/@sulfurgame",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 815695,
+        "url": "https://bsky.app/profile/perfectrandom.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 935861,
+        "url": "https://www.xbox.com/en-US/games/store/sulfur/9P37QQCPTR8M/0010",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
+      },
+      {
+        "id": 935862,
+        "url": "https://store.playstation.com/en-us/concept/10007890",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
+        }
+      },
+      {
+        "id": 523361,
+        "url": "https://store.steampowered.com/app/2124120/SULFUR",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 538915,
+        "url": "https://discord.gg/p5CPkfAnTn",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 538914,
+        "url": "https://twitter.com/perfectrandom_",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 569419,
+        "url": "https://www.sulfur.tv/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 663431,
+        "url": "https://www.twitch.tv/directory/category/sulfur",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      }
+    ]
+  },
+  {
+    "id": 302224,
+    "cover": {
+      "id": 586501,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cockjp.jpg"
+    },
+    "first_release_date": 1793145600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 404181,
+        "company": {
+          "id": 79529,
+          "name": "glass Pixel Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Fuel Station Simulator",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 907793,
+        "date": 1793145600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1321665,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsbsx.jpg"
+      },
+      {
+        "id": 1321666,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsbsy.jpg"
+      },
+      {
+        "id": 1321667,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsbsz.jpg"
+      },
+      {
+        "id": 1321668,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsbt0.jpg"
+      },
+      {
+        "id": 1321669,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsbt1.jpg"
+      },
+      {
+        "id": 1321672,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsbt4.jpg"
+      },
+      {
+        "id": 1321670,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsbt2.jpg"
+      },
+      {
+        "id": 1321671,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsbt3.jpg"
+      },
+      {
+        "id": 1321664,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsbsw.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Are you ready for the most comprehensive fuel station simulation ever? Manage your fuel station, your shop, the car wash, the workshop, your employees and much more…",
+    "websites": [
+      {
+        "id": 887908,
+        "url": "https://discord.gg/ZQFTGxhFqJ",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 639090,
+        "url": "https://store.steampowered.com/app/2876130",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      }
+    ]
+  },
+  {
     "id": 402530,
     "cover": {
       "id": 564459,
@@ -100267,7 +100728,7 @@
         "name": "Adventure"
       }
     ],
-    "hypes": 225,
+    "hypes": 227,
     "involved_companies": [
       {
         "id": 217373,
@@ -105489,6 +105950,14 @@
           "id": 23,
           "type": "Playstation"
         }
+      },
+      {
+        "id": 1145350,
+        "url": "https://www.xbox.com/en-us/games/store/-/9P2V5Z29J6SQ",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
       }
     ]
   },
@@ -105679,7 +106148,7 @@
         "name": "Indie"
       }
     ],
-    "hypes": 2,
+    "hypes": 3,
     "involved_companies": [
       {
         "id": 382735,
@@ -106033,7 +106502,7 @@
         "name": "Adventure"
       }
     ],
-    "hypes": 9,
+    "hypes": 10,
     "involved_companies": [
       {
         "id": 413297,
@@ -106614,375 +107083,6 @@
         "type": {
           "id": 1,
           "type": "Official Website"
-        }
-      }
-    ]
-  },
-  {
-    "id": 347671,
-    "cover": {
-      "id": 463305,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9xhl.jpg"
-    },
-    "first_release_date": 1793836800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      },
-      {
-        "id": 4,
-        "name": "Split screen"
-      }
-    ],
-    "genres": [
-      {
-        "id": 9,
-        "name": "Puzzle"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      }
-    ],
-    "hypes": 7,
-    "involved_companies": [
-      {
-        "id": 420447,
-        "company": {
-          "id": 5442,
-          "name": "iam8bit"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 420446,
-        "company": {
-          "id": 40493,
-          "name": "Coin Crew Games"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Escape Academy 2: Back 2 School",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 982214,
-        "date": 1793836800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 982215,
-        "date": 1793836800,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      },
-      {
-        "id": 982596,
-        "date": 1793836800,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1552145,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx9n5.jpg"
-      },
-      {
-        "id": 1552146,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx9n6.jpg"
-      },
-      {
-        "id": 1552143,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx9n3.jpg"
-      },
-      {
-        "id": 1552141,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx9n1.jpg"
-      },
-      {
-        "id": 1552140,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx9n0.jpg"
-      },
-      {
-        "id": 1552142,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx9n2.jpg"
-      },
-      {
-        "id": 1552147,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx9n7.jpg"
-      },
-      {
-        "id": 1552139,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx9mz.jpg"
-      },
-      {
-        "id": 1552144,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx9n4.jpg"
-      }
-    ],
-    "summary": "Class is (back) in session with Escape Academy 2: Back 2 School! Play in solo or co-op and explore an all-new campus, escape life-threatening puzzle rooms, and unravel a conspiracy as old as the school itself — all before the bell rings.",
-    "videos": [
-      {
-        "id": 152778,
-        "video_id": "owh9OAeOMYQ"
-      },
-      {
-        "id": 170730,
-        "video_id": "UzavsMn8vxM"
-      },
-      {
-        "id": 181961,
-        "video_id": "9eWaNP4Xh-g"
-      },
-      {
-        "id": 185153,
-        "video_id": "YVWFAHxLE0g"
-      }
-    ],
-    "websites": [
-      {
-        "id": 884964,
-        "url": "https://discord.gg/sSnvMhmYUD",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 808716,
-        "url": "https://www.twitch.tv/directory/category/escape-academy-2-back-2-school",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 808713,
-        "url": "https://store.steampowered.com/app/3296060",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 808714,
-        "url": "https://www.coincrew.games/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 808715,
-        "url": "https://x.com/coincrewgames",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 832978,
-        "url": "https://store.epicgames.com/en-US/p/escape-academy-2-back-2-school-cf1bf4",
-        "type": {
-          "id": 16,
-          "type": "Epic"
-        }
-      },
-      {
-        "id": 1135648,
-        "url": "https://www.xbox.com/en-us/games/store/escape-academy-2-back-2-school/9p743p6195q5",
-        "type": {
-          "id": 22,
-          "type": "Xbox"
-        }
-      },
-      {
-        "id": 1144086,
-        "url": "https://store.playstation.com/en-us/concept/10019469",
-        "type": {
-          "id": 23,
-          "type": "Playstation"
-        }
-      },
-      {
-        "id": 1064741,
-        "url": "https://www.instagram.com/coincrewgames",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      }
-    ]
-  },
-  {
-    "id": 349756,
-    "cover": {
-      "id": 568670,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc6se.jpg"
-    },
-    "first_release_date": 1793836800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 3,
-    "involved_companies": [
-      {
-        "id": 420143,
-        "company": {
-          "id": 82600,
-          "name": "Obleak Games"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "In Full Bloom",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 971305,
-        "date": 1793836800,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 971306,
-        "date": 1793836800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1565243,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxjqz.jpg"
-      },
-      {
-        "id": 1565245,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxjr1.jpg"
-      },
-      {
-        "id": 1565244,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxjr0.jpg"
-      },
-      {
-        "id": 1565246,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxjr2.jpg"
-      },
-      {
-        "id": 1565242,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxjqy.jpg"
-      }
-    ],
-    "summary": "Feed and raise your little baby. Watch it grow and feed on every and anything. In Full Bloom is a Tamagotchi inspired Katamari-like about a creature with never-ending hunger for anything around it. There is only one way.",
-    "videos": [
-      {
-        "id": 186741,
-        "video_id": "IwnYdqhtGn4"
-      },
-      {
-        "id": 199524,
-        "video_id": "HuazOdI7xyU"
-      }
-    ],
-    "websites": [
-      {
-        "id": 816673,
-        "url": "https://www.instagram.com/obleakgames/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 816671,
-        "url": "https://discord.gg/RVZ2zWtvZf",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 816672,
-        "url": "https://bsky.app/profile/obleakgames.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 816670,
-        "url": "https://infullbloom.ch/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 816669,
-        "url": "https://store.steampowered.com/app/3810240",
-        "type": {
-          "id": 13,
-          "type": "Steam"
         }
       }
     ]
