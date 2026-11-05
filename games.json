@@ -16934,6 +16934,178 @@
     ]
   },
   {
+    "id": 262865,
+    "cover": {
+      "id": 325633,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6z9d.jpg"
+    },
+    "first_release_date": 1733702400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 425354,
+        "company": {
+          "id": 49205,
+          "name": "Paper Cat Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Paper Perjury",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 669350,
+        "date": 1733702400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 675298,
+        "date": 1733702400,
+        "platform": {
+          "id": 3,
+          "name": "Linux"
+        }
+      },
+      {
+        "id": 985701,
+        "date": 1802649600,
+        "platform": {
+          "id": 49,
+          "name": "Xbox One"
+        }
+      },
+      {
+        "id": 985702,
+        "date": 1802649600,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1122834,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sco2du.jpg"
+      },
+      {
+        "id": 1122833,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sco2dt.jpg"
+      },
+      {
+        "id": 1122830,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sco2dq.jpg"
+      },
+      {
+        "id": 1122831,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sco2dr.jpg"
+      },
+      {
+        "id": 1122832,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sco2ds.jpg"
+      }
+    ],
+    "summary": "Investigating a simple robbery reveals a tapestry of mysteries!\n\nSolve a series of cases as newly hired police clerk Justina Smith and find out the truth behind a string of suspicious crimes. Work with the energetic detective Ernest Hunt and dig for clues in the paper trail to discover the secrets that paperwork can hide.",
+    "videos": [
+      {
+        "id": 96391,
+        "video_id": "mvKB5AkDQko"
+      },
+      {
+        "id": 126613,
+        "video_id": "3Zf-Xq9QyD8"
+      }
+    ],
+    "websites": [
+      {
+        "id": 576082,
+        "url": "https://store.steampowered.com/app/1919600/Paper_Perjury/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 697127,
+        "url": "https://papercatgames.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 697128,
+        "url": "https://discord.gg/tjjrNReeMH",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 576083,
+        "url": "https://www.youtube.com/@PaperCatGames1",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 576084,
+        "url": "https://twitter.com/Papercatgames",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1149630,
+        "url": "https://www.xbox.com/en-US/games/store/-/9MW4KTK04QW2",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
+      }
+    ]
+  },
+  {
     "id": 211029,
     "cover": {
       "id": 338903,
@@ -33178,15 +33350,6 @@
         "publisher": true
       },
       {
-        "id": 419283,
-        "company": {
-          "id": 24337,
-          "name": "Console Labs S.A."
-        },
-        "developer": false,
-        "publisher": false
-      },
-      {
         "id": 419281,
         "company": {
           "id": 9005,
@@ -33202,6 +33365,15 @@
           "name": "Live Motion Games"
         },
         "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 419283,
+        "company": {
+          "id": 24337,
+          "name": "Console Labs S.A."
+        },
+        "developer": false,
         "publisher": false
       }
     ],
@@ -34021,6 +34193,188 @@
         "type": {
           "id": 22,
           "type": "Xbox"
+        }
+      }
+    ]
+  },
+  {
+    "id": 127152,
+    "cover": {
+      "id": 554375,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobvrb.jpg"
+    },
+    "first_release_date": 1775088000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 5,
+    "involved_companies": [
+      {
+        "id": 88136,
+        "company": {
+          "id": 9005,
+          "name": "PlayWay S.A."
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 246486,
+        "company": {
+          "id": 22821,
+          "name": "SimulaM"
+        },
+        "developer": false,
+        "publisher": false
+      },
+      {
+        "id": 246487,
+        "company": {
+          "id": 9122,
+          "name": "Space Boat Studios"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "I Am Jesus Christ",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 986105,
+        "date": 1796947200,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      },
+      {
+        "id": 986303,
+        "date": 1796947200,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 888572,
+        "date": 1775088000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 346523,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7fdn.jpg"
+      },
+      {
+        "id": 346519,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7fdj.jpg"
+      },
+      {
+        "id": 346520,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7fdk.jpg"
+      },
+      {
+        "id": 346521,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7fdl.jpg"
+      },
+      {
+        "id": 346522,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc7fdm.jpg"
+      }
+    ],
+    "summary": "Walk in the footsteps of Jesus in this immersive first-person retelling of His life, from baptism to resurrection. Perform iconic miracles, meet biblical figures, and explore the Holy Land from Jerusalem to Galilee. Experience the story of the Messiah in I Am Jesus Christ.",
+    "videos": [
+      {
+        "id": 31695,
+        "video_id": "2gQLDdSy2cU"
+      },
+      {
+        "id": 181254,
+        "video_id": "dpffXb5y9uU"
+      }
+    ],
+    "websites": [
+      {
+        "id": 126504,
+        "url": "https://store.steampowered.com/app/1198970/I_Am_Jesus_Christ/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 605329,
+        "url": "https://www.youtube.com/channel/UCrGMrWqg1Rn9o253Dfr5JWw",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 586483,
+        "url": "https://discord.gg/invite/sTjHkZ943C",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1039538,
+        "url": "https://www.twitch.tv/directory/category/i-am-jesus-christ",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 1150582,
+        "url": "https://www.xbox.com/en-us/games/store/-/9PKJ0WF7PTHH",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
+      },
+      {
+        "id": 1151335,
+        "url": "https://store.playstation.com/en-us/concept/10020620",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
         }
       }
     ]
@@ -56648,8 +57002,8 @@
   {
     "id": 318625,
     "cover": {
-      "id": 604622,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocyj2.jpg"
+      "id": 619847,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coda9z.jpg"
     },
     "first_release_date": 1789603200,
     "game_modes": [
@@ -56672,8 +57026,20 @@
         "name": "Role-playing (RPG)"
       },
       {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
         "id": 32,
         "name": "Indie"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
       }
     ],
     "hypes": 7,
@@ -70155,7 +70521,7 @@
         "name": "Indie"
       }
     ],
-    "hypes": 11,
+    "hypes": 10,
     "name": "Nomad Drive",
     "platforms": [
       {
@@ -84325,10 +84691,6 @@
         "name": "Role-playing (RPG)"
       },
       {
-        "id": 25,
-        "name": "Hack and slash/Beat \u0027em up"
-      },
-      {
         "id": 31,
         "name": "Adventure"
       }
@@ -93513,28 +93875,8 @@
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16cbq.jpg"
       },
       {
-        "id": 1975527,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16cbr.jpg"
-      },
-      {
-        "id": 1975528,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16cbs.jpg"
-      },
-      {
-        "id": 1975524,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16cbo.jpg"
-      },
-      {
         "id": 1975525,
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16cbp.jpg"
-      },
-      {
-        "id": 1971295,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16927.jpg"
-      },
-      {
-        "id": 1971296,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16928.jpg"
       }
     ],
     "summary": "Hunter’s Moon is a first-person historical narrative folk-horror set over the course of one fateful night. Meet mummers dressed in folk costumes, evade capture by the witch hunters, and eavesdrop on a characterful cast of regular folk worn down by war and misfortune. Discover the secrets of this dysfunctional village on the brink as you embody an accused “witch” on the run for her life.",
@@ -93824,6 +94166,18 @@
       {
         "id": 131114,
         "video_id": "uIpznqoBoe8"
+      },
+      {
+        "id": 202036,
+        "video_id": "QEnpP14AGvc"
+      },
+      {
+        "id": 202037,
+        "video_id": "N5Bm3M3tJaU"
+      },
+      {
+        "id": 202038,
+        "video_id": "fwmbaR3_ueQ"
       }
     ],
     "websites": [
@@ -99083,6 +99437,17 @@
       }
     ],
     "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 425224,
+        "company": {
+          "id": 25803,
+          "name": "Bandai Digital Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
     "name": "Hello Kitty: Party Land",
     "platforms": [
       {
@@ -105808,7 +106173,7 @@
         "name": "Adventure"
       }
     ],
-    "hypes": 81,
+    "hypes": 82,
     "involved_companies": [
       {
         "id": 425192,
@@ -107681,429 +108046,6 @@
         "type": {
           "id": 18,
           "type": "Discord"
-        }
-      }
-    ]
-  },
-  {
-    "id": 359885,
-    "cover": {
-      "id": 484870,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coae4m.jpg"
-    },
-    "first_release_date": 1794268800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 11,
-        "name": "Real Time Strategy (RTS)"
-      },
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 15,
-        "name": "Strategy"
-      }
-    ],
-    "hypes": 4,
-    "involved_companies": [
-      {
-        "id": 335051,
-        "company": {
-          "id": 7101,
-          "name": "Oxide Games"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 335052,
-        "company": {
-          "id": 13083,
-          "name": "Stardock Entertainment"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Ashes of the Singularity II",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 978169,
-        "date": 1794268800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1663738,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scznqy.jpg"
-      },
-      {
-        "id": 1715260,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ri4.jpg"
-      },
-      {
-        "id": 1715261,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ri5.jpg"
-      },
-      {
-        "id": 1715262,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ri6.jpg"
-      },
-      {
-        "id": 1715263,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ri7.jpg"
-      },
-      {
-        "id": 1715264,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ri8.jpg"
-      },
-      {
-        "id": 1715265,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10ri9.jpg"
-      }
-    ],
-    "summary": "In this massive RTS game, command vast armies fighting for control of entire worlds. Control the forces of Earth, the mechanical AI Substrate, or the enigmatic Post-Human Coalition as you battle across the solar system in single player, cooperative multiplayer, or competitive multiplayer.",
-    "videos": [
-      {
-        "id": 158243,
-        "video_id": "SV3k4yxWKS0"
-      },
-      {
-        "id": 170123,
-        "video_id": "sBA1YGNB4wE"
-      },
-      {
-        "id": 199762,
-        "video_id": "ZIlrouJPiSU"
-      },
-      {
-        "id": 199763,
-        "video_id": "Q1jKEnJIuNc"
-      },
-      {
-        "id": 199765,
-        "video_id": "BYMxXeeQqFw"
-      },
-      {
-        "id": 199766,
-        "video_id": "NnHNuGypuwQ"
-      },
-      {
-        "id": 199764,
-        "video_id": "ywxYfamCwVg"
-      },
-      {
-        "id": 199767,
-        "video_id": "GSMDmHC-794"
-      },
-      {
-        "id": 199768,
-        "video_id": "8jT7DxF3r8w"
-      },
-      {
-        "id": 199769,
-        "video_id": "o1AM-NV-HE8"
-      }
-    ],
-    "websites": [
-      {
-        "id": 890794,
-        "url": "https://www.ashesofthesingularity.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 847013,
-        "url": "https://store.steampowered.com/app/3499790",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 937715,
-        "url": "https://x.com/ashesgame",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 937716,
-        "url": "https://www.facebook.com/ashesofthesingularity",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 937718,
-        "url": "https://www.youtube.com/user/StardockGames",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 937720,
-        "url": "https://discord.gg/HAvPYMxqyK",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 937963,
-        "url": "https://www.twitch.tv/directory/category/ashes-of-the-singularity-ii",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 937717,
-        "url": "https://www.instagram.com/official.stardock/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 937719,
-        "url": "https://www.reddit.com/r/AshesoftheSingularity/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      }
-    ]
-  },
-  {
-    "id": 365278,
-    "cover": {
-      "id": 613633,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cod5hd.jpg"
-    },
-    "first_release_date": 1794268800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 16,
-        "name": "Turn-based strategy (TBS)"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 343096,
-        "company": {
-          "id": 64941,
-          "name": "Mystic Forge"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 343097,
-        "company": {
-          "id": 66785,
-          "name": "Aesthetician Labs"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 343098,
-        "company": {
-          "id": 68249,
-          "name": "Rami Ismail"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Australia Did It: End-of-the-World Railway Defense Business",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 978459,
-        "date": 1794268800,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 978460,
-        "date": 1794268800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1629236,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyx4k.jpg"
-      },
-      {
-        "id": 1629231,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyx4f.jpg"
-      },
-      {
-        "id": 1629232,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyx4g.jpg"
-      },
-      {
-        "id": 1629233,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyx4h.jpg"
-      },
-      {
-        "id": 1629234,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyx4i.jpg"
-      },
-      {
-        "id": 1629235,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyx4j.jpg"
-      },
-      {
-        "id": 1629228,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyx4c.jpg"
-      },
-      {
-        "id": 1629229,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyx4d.jpg"
-      },
-      {
-        "id": 1629230,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyx4e.jpg"
-      }
-    ],
-    "summary": "Join our mercenary team: high-risk, low-benefit positions available! Defend cargo trains in this innovative Turn-Based Tower Defense meets Reverse Bullet Hell. Deploy units, merge them to create powerful new types and variations, withstand relentless waves, deliver the goods.",
-    "videos": [
-      {
-        "id": 161133,
-        "video_id": "eHNfqtkQRm4"
-      },
-      {
-        "id": 177223,
-        "video_id": "Psj_poW6hCA"
-      },
-      {
-        "id": 199909,
-        "video_id": "pBFlZ8MmbFA"
-      }
-    ],
-    "websites": [
-      {
-        "id": 864136,
-        "url": "https://www.twitch.tv/directory/category/australia-did-it",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 863343,
-        "url": "https://www.youtube.com/@MysticForge-Ent",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 863346,
-        "url": "https://discord.gg/6tN7uz3kvS",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 863345,
-        "url": "https://store.steampowered.com/app/2396130",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 863347,
-        "url": "https://x.com/AustraliaDidIt",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 863350,
-        "url": "https://www.facebook.com/profile.php?id\u003d61577417372702",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 863349,
-        "url": "https://www.instagram.com/australiadidit_game/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 863348,
-        "url": "https://bsky.app/profile/australiadidit.gg",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
         }
       }
     ]
