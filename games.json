@@ -45154,187 +45154,6 @@
     ]
   },
   {
-    "id": 412303,
-    "cover": {
-      "id": 588954,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocmfu.jpg"
-    },
-    "first_release_date": 1789171200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 8,
-        "name": "Platform"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      }
-    ],
-    "hypes": 8,
-    "involved_companies": [
-      {
-        "id": 405821,
-        "company": {
-          "id": 79840,
-          "name": "Luduvo Corporation"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Luduvo",
-    "platforms": [
-      {
-        "id": 3,
-        "name": "Linux"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 949817,
-        "date": 1789171200,
-        "platform": {
-          "id": 3,
-          "name": "Linux"
-        }
-      },
-      {
-        "id": 949815,
-        "date": 1789171200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 949816,
-        "date": 1789171200,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1892336,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14k4w.jpg"
-      }
-    ],
-    "status": 2,
-    "summary": "Luduvo is a user-generated content (UGC) sandbox gaming platform built on a proprietary engine. The platform allows players to create, share, and play community-designed games using a suite of built-in development tools and custom avatar configurations. Emphasizing digital safety and moderation, Luduvo features an in-game economy driven by virtual currency (Lunes).",
-    "videos": [
-      {
-        "id": 192074,
-        "video_id": "B5rzxVG-3nQ"
-      },
-      {
-        "id": 192068,
-        "video_id": "1x5Lu6qxdEg"
-      },
-      {
-        "id": 192069,
-        "video_id": "7JpOw9JGwog"
-      },
-      {
-        "id": 192070,
-        "video_id": "msQo8fTjGQA"
-      },
-      {
-        "id": 192075,
-        "video_id": "NxPckVD8zfg"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1092547,
-        "url": "https://luduvo.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1092548,
-        "url": "https://www.twitch.tv/luduvoapp",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 1092549,
-        "url": "https://luduvo.miraheze.org/",
-        "type": {
-          "id": 2,
-          "type": "Community Wiki"
-        }
-      },
-      {
-        "id": 1092550,
-        "url": "https://x.com/@luduvoapp",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1092551,
-        "url": "https://www.instagram.com/luduvoapp/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 1092552,
-        "url": "https://www.youtube.com/@Luduvo",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1092553,
-        "url": "https://www.reddit.com/r/Luduvo",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 1092554,
-        "url": "https://discord.gg/luduvo",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      }
-    ]
-  },
-  {
     "id": 320131,
     "cover": {
       "id": 539021,
@@ -95681,6 +95500,54 @@
         }
       },
       {
+        "id": 1154913,
+        "url": "https://store.steampowered.com/app/4836560",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1154914,
+        "url": "https://x.com/sonic_hedgehog",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1154915,
+        "url": "https://facebook.com/sonic",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 1154916,
+        "url": "https://instagram.com/sonicthehedgehog",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1154917,
+        "url": "https://www.youtube.com/@SonictheHedgehog",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1154918,
+        "url": "https://discord.com/invite/sonicofficial",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
         "id": 1132015,
         "url": "https://www.nintendo.com/us/store/products/sonic-racing-crossworlds-godzilla-pack-70050000080175-switch/",
         "type": {
@@ -97744,6 +97611,199 @@
         "type": {
           "id": 6,
           "type": "Twitch"
+        }
+      }
+    ]
+  },
+  {
+    "id": 416015,
+    "cover": {
+      "id": 613586,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cod5g2.jpg"
+    },
+    "first_release_date": 1793750400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 5,
+        "name": "Massively Multiplayer Online (MMO)"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      }
+    ],
+    "hypes": 8,
+    "involved_companies": [
+      {
+        "id": 422072,
+        "company": {
+          "id": 13122,
+          "name": "Kefir"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Rob Run",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 989723,
+        "date": 1793750400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 980342,
+        "date": 1798675200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1953211,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15v3v.jpg"
+      },
+      {
+        "id": 1953210,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15v3u.jpg"
+      },
+      {
+        "id": 1953212,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15v3w.jpg"
+      },
+      {
+        "id": 1953213,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15v3x.jpg"
+      },
+      {
+        "id": 1953214,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15v3y.jpg"
+      },
+      {
+        "id": 1913692,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc150m4.jpg"
+      },
+      {
+        "id": 1913693,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc150m5.jpg"
+      },
+      {
+        "id": 1913690,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc150m2.jpg"
+      },
+      {
+        "id": 1913689,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc150m1.jpg"
+      },
+      {
+        "id": 1913701,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc150md.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Rob Run is a brutal crime sandbox featuring thousands of players. Rise above everyone through the grit, the grime, and the struggle. Break free and take yourself from squalor by any means.",
+    "videos": [
+      {
+        "id": 194880,
+        "video_id": "ViCR4Ox964c"
+      },
+      {
+        "id": 194881,
+        "video_id": "gjB58WcZcsU"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1139691,
+        "url": "https://www.facebook.com/robrungame?utm_source\u003dsteam",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 1139692,
+        "url": "https://x.com/ROBRUNGame?utm_source\u003dsteam",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1112546,
+        "url": "https://store.steampowered.com/app/4262460/ROB_RUN/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1112547,
+        "url": "https://kefirgames.com/games/rob-run",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1112548,
+        "url": "https://instagram.com/robrungame",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1112549,
+        "url": "https://www.youtube.com/@robrungame",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1112551,
+        "url": "https://discord.gg/robrun",
+        "type": {
+          "id": 18,
+          "type": "Discord"
         }
       }
     ]
@@ -101175,8 +101235,8 @@
         }
       },
       {
-        "id": 1045546,
-        "url": "https://store.steampowered.com/app/4576490/Casualties_Unknown/",
+        "id": 1155203,
+        "url": "https://store.steampowered.com/app/4576490",
         "type": {
           "id": 13,
           "type": "Steam"
@@ -101188,6 +101248,124 @@
         "type": {
           "id": 3,
           "type": "Wikipedia"
+        }
+      }
+    ]
+  },
+  {
+    "id": 393250,
+    "cover": {
+      "id": 550474,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobsqy.jpg"
+    },
+    "first_release_date": 1794182400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 5,
+    "involved_companies": [
+      {
+        "id": 383869,
+        "company": {
+          "id": 13159,
+          "name": "Pelikan13"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Takeover 2",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 989795,
+        "date": 1794182400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1793211,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12fnf.jpg"
+      },
+      {
+        "id": 1793212,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12fng.jpg"
+      },
+      {
+        "id": 1793213,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12fnh.jpg"
+      },
+      {
+        "id": 1793206,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12fna.jpg"
+      },
+      {
+        "id": 1793207,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12fnb.jpg"
+      },
+      {
+        "id": 1793208,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12fnc.jpg"
+      },
+      {
+        "id": 1793209,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12fnd.jpg"
+      },
+      {
+        "id": 1793210,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12fne.jpg"
+      },
+      {
+        "id": 1793214,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12fni.jpg"
+      }
+    ],
+    "summary": "Take to the streets solo or with a partner in this fast paced, high-impact arcade beat ’em up. Takeover returns with refined gameplay, upgraded visuals and a pulse-pounding new soundtrack.",
+    "websites": [
+      {
+        "id": 1022497,
+        "url": "https://store.steampowered.com/app/4423270",
+        "type": {
+          "id": 13,
+          "type": "Steam"
         }
       }
     ]
@@ -101447,6 +101625,7 @@
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/scsook.jpg"
       }
     ],
+    "status": 4,
     "summary": "Stormforge is an open-world survival crafting game for up to 8 players. You are Stormforged, with the ability to brave and harness power from magical storms. Explore, fight, forage, craft, build, and defeat bosses in this epic, fantasy game. Survive the Storms and thrive!",
     "videos": [
       {
@@ -102177,199 +102356,6 @@
     ]
   },
   {
-    "id": 345164,
-    "cover": {
-      "id": 459686,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9up2.jpg"
-    },
-    "first_release_date": 1794268800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      },
-      {
-        "id": 35,
-        "name": "Card \u0026 Board Game"
-      }
-    ],
-    "hypes": 3,
-    "involved_companies": [
-      {
-        "id": 423575,
-        "company": {
-          "id": 68785,
-          "name": "Vsoo Games"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 349352,
-        "company": {
-          "id": 59848,
-          "name": "Games People Play"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "The Devil\u0027s Due",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 982625,
-        "date": 1794268800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1966453,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc165bp.jpg"
-      },
-      {
-        "id": 1966456,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc165bs.jpg"
-      },
-      {
-        "id": 1966448,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc165bk.jpg"
-      },
-      {
-        "id": 1966451,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc165bn.jpg"
-      },
-      {
-        "id": 1966454,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc165bq.jpg"
-      },
-      {
-        "id": 1966458,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc165bu.jpg"
-      },
-      {
-        "id": 1966447,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc165bj.jpg"
-      },
-      {
-        "id": 1966452,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc165bo.jpg"
-      },
-      {
-        "id": 1966457,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc165bt.jpg"
-      },
-      {
-        "id": 1966460,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc165bw.jpg"
-      },
-      {
-        "id": 1966449,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc165bl.jpg"
-      },
-      {
-        "id": 1966450,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc165bm.jpg"
-      },
-      {
-        "id": 1966459,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc165bv.jpg"
-      },
-      {
-        "id": 1966455,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc165br.jpg"
-      },
-      {
-        "id": 1966461,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc165bx.jpg"
-      }
-    ],
-    "summary": "You lost your soul in a poker game against the Devil. Now, trapped in the infernal depths, your only hope is to fight your way back to freedom. You’ll face a diverse gallery of monstrous foes in nearly impossible poker battles - but luckily, you’re a cheater.",
-    "videos": [
-      {
-        "id": 189150,
-        "video_id": "NEsZFi-2nQU"
-      }
-    ],
-    "websites": [
-      {
-        "id": 797859,
-        "url": "https://store.steampowered.com/app/3699850",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 880164,
-        "url": "https://www.reddit.com/r/TheDevilsDue",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 880163,
-        "url": "https://www.twitch.tv/directory/category/the-devils-due",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 799260,
-        "url": "https://bsky.app/profile/gamespeopleplayas.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 799259,
-        "url": "https://www.youtube.com/@killerinthecabin5932",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 799261,
-        "url": "https://x.com/KillerInCabin",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 799258,
-        "url": "https://discord.gg/gkyEvk9cpa",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      }
-    ]
-  },
-  {
     "id": 347898,
     "cover": {
       "id": 464078,
@@ -103040,6 +103026,14 @@
     ],
     "release_dates": [
       {
+        "id": 989980,
+        "date": 1794268800,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      },
+      {
         "id": 988343,
         "date": 1794268800,
         "platform": {
@@ -103319,6 +103313,10 @@
       {
         "id": 198659,
         "video_id": "LgFI-Zzs4C4"
+      },
+      {
+        "id": 202796,
+        "video_id": "58FJB38HFJY"
       }
     ],
     "websites": [
@@ -103647,57 +103645,54 @@
     ]
   },
   {
-    "id": 393250,
+    "id": 396520,
     "cover": {
-      "id": 550474,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobsqy.jpg"
+      "id": 622685,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/codcgt.jpg"
     },
     "first_release_date": 1794268800,
     "game_modes": [
       {
         "id": 1,
         "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      },
-      {
-        "id": 4,
-        "name": "Split screen"
       }
     ],
     "genres": [
       {
-        "id": 4,
-        "name": "Fighting"
+        "id": 13,
+        "name": "Simulator"
       },
       {
-        "id": 25,
-        "name": "Hack and slash/Beat \u0027em up"
+        "id": 15,
+        "name": "Strategy"
       },
       {
         "id": 32,
         "name": "Indie"
       }
     ],
-    "hypes": 5,
+    "hypes": 2,
     "involved_companies": [
       {
-        "id": 383869,
+        "id": 378581,
         "company": {
-          "id": 13159,
-          "name": "Pelikan13"
+          "id": 75318,
+          "name": "Nested Loop Studios"
         },
         "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 378580,
+        "company": {
+          "id": 63126,
+          "name": "Pantaloon"
+        },
+        "developer": false,
         "publisher": true
       }
     ],
-    "name": "Takeover 2",
+    "name": "Boxroom",
     "platforms": [
       {
         "id": 6,
@@ -103706,8 +103701,16 @@
     ],
     "release_dates": [
       {
-        "id": 985584,
+        "id": 989797,
         "date": 1794268800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 989798,
+        "date": 1781136000,
         "platform": {
           "id": 6,
           "name": "PC (Microsoft Windows)"
@@ -103716,50 +103719,97 @@
     ],
     "screenshots": [
       {
-        "id": 1793211,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12fnf.jpg"
+        "id": 1985856,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16kao.jpg"
       },
       {
-        "id": 1793212,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12fng.jpg"
+        "id": 1985859,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16kar.jpg"
       },
       {
-        "id": 1793213,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12fnh.jpg"
+        "id": 1985855,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16kan.jpg"
       },
       {
-        "id": 1793206,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12fna.jpg"
+        "id": 1985860,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16kas.jpg"
       },
       {
-        "id": 1793207,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12fnb.jpg"
+        "id": 1985861,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16kat.jpg"
       },
       {
-        "id": 1793208,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12fnc.jpg"
+        "id": 1985857,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16kap.jpg"
       },
       {
-        "id": 1793209,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12fnd.jpg"
+        "id": 1985858,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16kaq.jpg"
       },
       {
-        "id": 1793210,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12fne.jpg"
-      },
-      {
-        "id": 1793214,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12fni.jpg"
+        "id": 1985862,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16kau.jpg"
       }
     ],
-    "summary": "Take to the streets solo or with a partner in this fast paced, high-impact arcade beat ’em up. Takeover returns with refined gameplay, upgraded visuals and a pulse-pounding new soundtrack.",
+    "status": 4,
+    "summary": "Boxroom is a builder/designer sim giving you the space to put a stamp on your Steam library. After setting up your room and preferred shelving arrangement, the game will boot your ACTUAL steam library onto the shelves - giving you space to arrange, curate and explore your collection as you see fit",
+    "videos": [
+      {
+        "id": 180030,
+        "video_id": "Ma5wnXOI1C4"
+      },
+      {
+        "id": 184932,
+        "video_id": "on1Uepoz5KY"
+      }
+    ],
     "websites": [
       {
-        "id": 1022497,
-        "url": "https://store.steampowered.com/app/4423270",
+        "id": 1036662,
+        "url": "https://store.steampowered.com/app/4335460/BOXROOM/",
         "type": {
           "id": 13,
           "type": "Steam"
+        }
+      },
+      {
+        "id": 1037616,
+        "url": "https://www.pantaloon.io/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1037618,
+        "url": "https://bsky.app/profile/pantaloon.io",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 1038433,
+        "url": "https://www.youtube.com/@Pantaloon_interactive",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1155076,
+        "url": "https://discord.gg/Zp7Rh5hbAy",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1155075,
+        "url": "https://www.instagram.com/pantaloon_io/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
         }
       }
     ]
@@ -103818,12 +103868,20 @@
         "name": "Xbox Series X|S"
       },
       {
+        "id": 508,
+        "name": "Nintendo Switch 2"
+      },
+      {
         "id": 6,
         "name": "PC (Microsoft Windows)"
       },
       {
         "id": 167,
         "name": "PlayStation 5"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
       }
     ],
     "release_dates": [
@@ -103849,6 +103907,22 @@
         "platform": {
           "id": 167,
           "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 989940,
+        "date": 1794268800,
+        "platform": {
+          "id": 130,
+          "name": "Nintendo Switch"
+        }
+      },
+      {
+        "id": 989941,
+        "date": 1794268800,
+        "platform": {
+          "id": 508,
+          "name": "Nintendo Switch 2"
         }
       }
     ],
@@ -103899,6 +103973,10 @@
       {
         "id": 200522,
         "video_id": "6qjCMqy1fAk"
+      },
+      {
+        "id": 202855,
+        "video_id": "f5_eYmaqeL8"
       }
     ],
     "websites": [
@@ -104510,6 +104588,227 @@
         "type": {
           "id": 13,
           "type": "Steam"
+        }
+      }
+    ]
+  },
+  {
+    "id": 390730,
+    "cover": {
+      "id": 591424,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cococg.jpg"
+    },
+    "first_release_date": 1794355200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 4,
+    "involved_companies": [
+      {
+        "id": 386250,
+        "company": {
+          "id": 74290,
+          "name": "Banana Blitz Studio"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 386251,
+        "company": {
+          "id": 73434,
+          "name": "Entalto Publishing"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Void Reaver",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 988413,
+        "date": 1794355200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1901188,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14qys.jpg"
+      },
+      {
+        "id": 1901189,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14qyt.jpg"
+      },
+      {
+        "id": 1901190,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14qyu.jpg"
+      },
+      {
+        "id": 1777412,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc123gk.jpg"
+      },
+      {
+        "id": 1897554,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14o5u.jpg"
+      },
+      {
+        "id": 1897555,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14o5v.jpg"
+      },
+      {
+        "id": 1897556,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14o5w.jpg"
+      },
+      {
+        "id": 1897557,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14o5x.jpg"
+      },
+      {
+        "id": 1897558,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14o5y.jpg"
+      },
+      {
+        "id": 1897559,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14o5z.jpg"
+      },
+      {
+        "id": 1897560,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14o60.jpg"
+      },
+      {
+        "id": 1897561,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14o61.jpg"
+      },
+      {
+        "id": 1897562,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14o62.jpg"
+      },
+      {
+        "id": 1897563,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14o63.jpg"
+      },
+      {
+        "id": 1897564,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14o64.jpg"
+      },
+      {
+        "id": 1777408,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc123gg.jpg"
+      },
+      {
+        "id": 1777413,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc123gl.jpg"
+      }
+    ],
+    "summary": "Inventory management meets bullet heaven. In this sci-fi roguelite, your backpack determines your fate. Master the art of item layout to create game-breaking synergies and turn a humble arsenal into a screen-clearing storm of destruction. Collect 300+ items and annihilate the Void.",
+    "videos": [
+      {
+        "id": 177273,
+        "video_id": "XfKP4qwwwVU"
+      },
+      {
+        "id": 192751,
+        "video_id": "UM9nzf5XBag"
+      },
+      {
+        "id": 194753,
+        "video_id": "0bdpi8Y90pQ"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1012822,
+        "url": "https://store.steampowered.com/app/4096910",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1012823,
+        "url": "https://entaltostudios.com/our-games/void-reaver/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1020450,
+        "url": "https://discord.gg/P9rj9n4QKs",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1021542,
+        "url": "https://x.com/BananaBlitzStud",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1021544,
+        "url": "https://www.instagram.com/bananablitz_studio",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1021543,
+        "url": "https://www.facebook.com/bananablitzstudio",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 1021545,
+        "url": "https://www.youtube.com/@BananaBlitzStudio",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1097779,
+        "url": "https://www.gog.com/en/game/void_reaver",
+        "type": {
+          "id": 17,
+          "type": "GOG"
         }
       }
     ]
@@ -105799,6 +106098,22 @@
         "type": {
           "id": 15,
           "type": "Itch"
+        }
+      },
+      {
+        "id": 1155223,
+        "url": "https://www.gog.com/en/game/derelikt",
+        "type": {
+          "id": 17,
+          "type": "GOG"
+        }
+      },
+      {
+        "id": 1155224,
+        "url": "https://store.epicgames.com/p/derelikt-80b75e",
+        "type": {
+          "id": 16,
+          "type": "Epic"
         }
       },
       {
@@ -107359,95 +107674,6 @@
         "type": {
           "id": 18,
           "type": "Discord"
-        }
-      }
-    ]
-  },
-  {
-    "id": 416114,
-    "cover": {
-      "id": 598180,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coctk4.jpg"
-    },
-    "first_release_date": 1794873600,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 5,
-        "name": "Shooter"
-      },
-      {
-        "id": 8,
-        "name": "Platform"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      }
-    ],
-    "hypes": 4,
-    "involved_companies": [
-      {
-        "id": 411724,
-        "company": {
-          "id": 834,
-          "name": "Insomniac Games"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 411725,
-        "company": {
-          "id": 10100,
-          "name": "Sony Interactive Entertainment"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Ratchet \u0026 Clank",
-    "platforms": [
-      {
-        "id": 48,
-        "name": "PlayStation 4"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 985003,
-        "date": 1794873600,
-        "platform": {
-          "id": 48,
-          "name": "PlayStation 4"
-        }
-      },
-      {
-        "id": 985004,
-        "date": 1794873600,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      }
-    ],
-    "summary": "A port of Ratchet \u0026 Clank, originally released on PS2, enhanced with up-rendering, rewind, quick save, and custom video filters.",
-    "websites": [
-      {
-        "id": 1113035,
-        "url": "https://en.wikipedia.org/wiki/Ratchet_%26_Clank_(2002_video_game)",
-        "type": {
-          "id": 3,
-          "type": "Wikipedia"
         }
       }
     ]
