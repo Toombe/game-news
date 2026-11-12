@@ -8746,6 +8746,323 @@
     ]
   },
   {
+    "id": 152180,
+    "cover": {
+      "id": 383881,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co887d.jpg"
+    },
+    "first_release_date": 1667865600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 330911,
+        "company": {
+          "id": 36610,
+          "name": "Secret Mode"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 330912,
+        "company": {
+          "id": 35008,
+          "name": "Max Inferno"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "A Little to the Left",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 48,
+        "name": "PlayStation 4"
+      },
+      {
+        "id": 508,
+        "name": "Nintendo Switch 2"
+      },
+      {
+        "id": 34,
+        "name": "Android"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 39,
+        "name": "iOS"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      },
+      {
+        "id": 49,
+        "name": "Xbox One"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 687026,
+        "date": 1667865600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 687028,
+        "date": 1707955200,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 687027,
+        "date": 1707955200,
+        "platform": {
+          "id": 48,
+          "name": "PlayStation 4"
+        }
+      },
+      {
+        "id": 687030,
+        "date": 1707955200,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      },
+      {
+        "id": 687033,
+        "date": 1727827200,
+        "platform": {
+          "id": 34,
+          "name": "Android"
+        }
+      },
+      {
+        "id": 687029,
+        "date": 1707955200,
+        "platform": {
+          "id": 49,
+          "name": "Xbox One"
+        }
+      },
+      {
+        "id": 687031,
+        "date": 1728259200,
+        "platform": {
+          "id": 39,
+          "name": "iOS"
+        }
+      },
+      {
+        "id": 687024,
+        "date": 1667865600,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      },
+      {
+        "id": 687025,
+        "date": 1667952000,
+        "platform": {
+          "id": 130,
+          "name": "Nintendo Switch"
+        }
+      },
+      {
+        "id": 989303,
+        "date": 1794182400,
+        "platform": {
+          "id": 508,
+          "name": "Nintendo Switch 2"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 488491,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scagx7.jpg"
+      },
+      {
+        "id": 488489,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scagx5.jpg"
+      },
+      {
+        "id": 488493,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scagx9.jpg"
+      },
+      {
+        "id": 488492,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scagx8.jpg"
+      },
+      {
+        "id": 488490,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scagx6.jpg"
+      }
+    ],
+    "summary": "A Little To The Left is a cozy puzzle game that has you sort, stack, and organize household items into pleasing arrangements while you keep an eye out for a mischievous cat with an inclination for chaos. Check out this playful and intuitive puzzler with 75+ satisfying messes to tidy.",
+    "videos": [
+      {
+        "id": 69852,
+        "video_id": "L8VZVkzmAg8"
+      },
+      {
+        "id": 78205,
+        "video_id": "iNtWMokTKlM"
+      },
+      {
+        "id": 73785,
+        "video_id": "N72AO0fvbYQ"
+      },
+      {
+        "id": 78184,
+        "video_id": "zzrbTsfKVrg"
+      }
+    ],
+    "websites": [
+      {
+        "id": 701248,
+        "url": "https://apps.apple.com/do/app/a-little-to-the-left/id1613352146",
+        "type": {
+          "id": 10,
+          "type": "App Store (iPhone)"
+        }
+      },
+      {
+        "id": 288634,
+        "url": "https://twitter.com/maxinfernogames",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 833850,
+        "url": "https://store.playstation.com/en-us/concept/10008945",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
+        }
+      },
+      {
+        "id": 833851,
+        "url": "https://www.nintendo.com/store/products/a-little-to-the-left-switch/",
+        "type": {
+          "id": 24,
+          "type": "Nintendo"
+        }
+      },
+      {
+        "id": 186327,
+        "url": "https://store.steampowered.com/app/1629520/A_Little_To_The_Left",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 186335,
+        "url": "https://maxinferno.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 288633,
+        "url": "https://www.youtube.com/channel/UCxkgJuNelJaHYpuROqzCxmg",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 288635,
+        "url": "https://www.instagram.com/maxinfernogames",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 459479,
+        "url": "https://www.twitch.tv/directory/game/A%20Little%20To%20The%20Left",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 702890,
+        "url": "https://play.google.com/store/apps/details?id\u003dcom.SecretModeLimited.ALittletotheLeft\u0026hl\u003den",
+        "type": {
+          "id": 12,
+          "type": "Google Play"
+        }
+      },
+      {
+        "id": 701249,
+        "url": "https://apps.apple.com/do/app/a-little-to-the-left/id1613352146",
+        "type": {
+          "id": 11,
+          "type": "App Store (iPad)"
+        }
+      },
+      {
+        "id": 1025751,
+        "url": "https://bsky.app/profile/maxinfernogames.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 1106361,
+        "url": "https://www.xbox.com/en-us/games/store/a-little-to-the-left/9NLDDF97GTJ0",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
+      }
+    ]
+  },
+  {
     "id": 217815,
     "cover": {
       "id": 477589,
@@ -14256,8 +14573,8 @@
         }
       },
       {
-        "id": 907922,
-        "date": 1798675200,
+        "id": 989874,
+        "date": 1796860800,
         "platform": {
           "id": 508,
           "name": "Nintendo Switch 2"
@@ -14359,6 +14676,10 @@
       {
         "id": 142412,
         "video_id": "SlMItG92hTw"
+      },
+      {
+        "id": 202823,
+        "video_id": "qxGpUDgezxA"
       }
     ],
     "websites": [
@@ -16548,6 +16869,154 @@
         "type": {
           "id": 22,
           "type": "Xbox"
+        }
+      }
+    ]
+  },
+  {
+    "id": 312331,
+    "cover": {
+      "id": 510456,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coaxvc.jpg"
+    },
+    "first_release_date": 1733961600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 33,
+        "name": "Arcade"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 418559,
+        "company": {
+          "id": 13900,
+          "name": "Pixel"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Angelian Trigger",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 625005,
+        "date": 1733961600,
+        "platform": {
+          "id": 130,
+          "name": "Nintendo Switch"
+        }
+      },
+      {
+        "id": 974247,
+        "date": 1796860800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 974248,
+        "date": 1830211200,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1375996,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scthq4.jpg"
+      },
+      {
+        "id": 1376002,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scthqa.jpg"
+      },
+      {
+        "id": 1375994,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scthq2.jpg"
+      },
+      {
+        "id": 1375995,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scthq3.jpg"
+      },
+      {
+        "id": 1375997,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scthq5.jpg"
+      },
+      {
+        "id": 1375998,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scthq6.jpg"
+      },
+      {
+        "id": 1375999,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scthq7.jpg"
+      },
+      {
+        "id": 1376000,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scthq8.jpg"
+      },
+      {
+        "id": 1376001,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scthq9.jpg"
+      }
+    ],
+    "summary": "Angelian Trigger is a 3D shooting game in which you run through the screen while shooting down enemies.",
+    "videos": [
+      {
+        "id": 121620,
+        "video_id": "C7e_jMw5lV4"
+      },
+      {
+        "id": 198622,
+        "video_id": "vfg4VK2ojik"
+      }
+    ],
+    "websites": [
+      {
+        "id": 704618,
+        "url": "https://store.steampowered.com/app/3428830/AngelianTrigger/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 989723,
+        "url": "https://x.com/pixel_japan",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
         }
       }
     ]
@@ -23646,14 +24115,6 @@
         }
       },
       {
-        "id": 831444,
-        "url": "https://www.xbox.com/en-US/games/store/hell-is-us-deluxe-edition/9P6ZBXSVCWRV/0017",
-        "type": {
-          "id": 22,
-          "type": "Xbox"
-        }
-      },
-      {
         "id": 831445,
         "url": "https://store.playstation.com/en-us/product/EP6665-PPSA09259_00-HIU00DELUXE00001",
         "type": {
@@ -23662,19 +24123,35 @@
         }
       },
       {
-        "id": 711391,
-        "url": "https://store.steampowered.com/app/1620730",
+        "id": 1154009,
+        "url": "https://store.steampowered.com/sub/1237358/",
         "type": {
           "id": 13,
           "type": "Steam"
         }
       },
       {
-        "id": 1142671,
-        "url": "https://store.epicgames.com/en-US/p/hell-is-us-b9c06d",
+        "id": 1154011,
+        "url": "https://store.epicgames.com/p/hell-is-us-hell-is-us-deluxe-edition-82792d",
         "type": {
           "id": 16,
           "type": "Epic"
+        }
+      },
+      {
+        "id": 1154012,
+        "url": "https://www.xbox.com/en-US/games/store/hell-is-us-deluxe-edition/9ns0rx8f5865",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
+      },
+      {
+        "id": 1154010,
+        "url": "https://www.gog.com/en/game/hell_is_us_deluxe_edition",
+        "type": {
+          "id": 17,
+          "type": "GOG"
         }
       },
       {
@@ -31466,14 +31943,6 @@
         }
       },
       {
-        "id": 822506,
-        "date": 1774915200,
-        "platform": {
-          "id": 130,
-          "name": "Nintendo Switch"
-        }
-      },
-      {
         "id": 950828,
         "date": 1789603200,
         "platform": {
@@ -36006,6 +36475,186 @@
         "type": {
           "id": 23,
           "type": "Playstation"
+        }
+      }
+    ]
+  },
+  {
+    "id": 343635,
+    "cover": {
+      "id": 544522,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobo5m.jpg"
+    },
+    "first_release_date": 1777593600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 2,
+        "name": "Point-and-click"
+      },
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 7,
+    "involved_companies": [
+      {
+        "id": 320417,
+        "company": {
+          "id": 49979,
+          "name": "AppsGears"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "LeMrosh in the Lazy Kingdom",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 990322,
+        "date": 1793491200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 902191,
+        "date": 1777593600,
+        "platform": {
+          "id": 130,
+          "name": "Nintendo Switch"
+        }
+      },
+      {
+        "id": 902192,
+        "date": 1778716800,
+        "platform": {
+          "id": 130,
+          "name": "Nintendo Switch"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1792588,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12f64.jpg"
+      },
+      {
+        "id": 1792590,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12f66.jpg"
+      },
+      {
+        "id": 1792589,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12f65.jpg"
+      },
+      {
+        "id": 1792584,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12f60.jpg"
+      },
+      {
+        "id": 1792585,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12f61.jpg"
+      },
+      {
+        "id": 1792586,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12f62.jpg"
+      },
+      {
+        "id": 1792587,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12f63.jpg"
+      }
+    ],
+    "summary": "LeMrosh in the Lazy Kingdom is a funny point-and-click adventure game set in a medieval kingdom where nothing is as it seems. What starts out as a simple quest quickly turns into a tangle of puzzles, strange items and quirky characters. Explore, combine, question - just don\u0027t get more involved than necessary!\n\nGet ready for hours of fun, unexpected twists and turns... and a little love story.",
+    "videos": [
+      {
+        "id": 183791,
+        "video_id": "0kUqGvWNnhs"
+      },
+      {
+        "id": 202896,
+        "video_id": "F5_6vYOP3WY"
+      }
+    ],
+    "websites": [
+      {
+        "id": 790967,
+        "url": "https://lemrosh.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1046078,
+        "url": "https://www.facebook.com/lemrosh",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 1046079,
+        "url": "https://discord.gg/DmyCtQnEuv",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1056261,
+        "url": "https://store.epicgames.com/p/lemrosh-in-the-lazy-kingdom-478809",
+        "type": {
+          "id": 16,
+          "type": "Epic"
+        }
+      },
+      {
+        "id": 1056262,
+        "url": "https://www.nintendo.com/us/store/products/lemrosh-in-the-lazy-kingdom-switch/",
+        "type": {
+          "id": 24,
+          "type": "Nintendo"
+        }
+      },
+      {
+        "id": 1056263,
+        "url": "https://www.twitch.tv/directory/category/lemrosh-in-the-lazy-kingdom",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 1056264,
+        "url": "https://www.reddit.com/r/LeMrosh",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
         }
       }
     ]
@@ -62373,7 +63022,7 @@
         "name": "Adventure"
       }
     ],
-    "hypes": 6,
+    "hypes": 7,
     "involved_companies": [
       {
         "id": 402460,
@@ -66033,28 +66682,6 @@
       }
     ],
     "summary": "Superhero Simulator is an open-world superhero game where you fight villains and save lives! But being a hero isn’t free! You’ll need to work, pay rent, and survive. Can you handle both sides of the superhero life?",
-    "videos": [
-      {
-        "id": 153633,
-        "video_id": "wHtvQdsVn5I"
-      },
-      {
-        "id": 153634,
-        "video_id": "IwG-dZMnU2o"
-      },
-      {
-        "id": 153635,
-        "video_id": "ykdDdgyFWMw"
-      },
-      {
-        "id": 154064,
-        "video_id": "AR7X6LfeuRA"
-      },
-      {
-        "id": 198792,
-        "video_id": "EwC9TtZMqwQ"
-      }
-    ],
     "websites": [
       {
         "id": 814609,
@@ -91190,6 +91817,14 @@
           "id": 17,
           "type": "GOG"
         }
+      },
+      {
+        "id": 1155951,
+        "url": "https://store.epicgames.com/en-US/p/cairn-cairn-on-the-trail-deep-water-a69317",
+        "type": {
+          "id": 16,
+          "type": "Epic"
+        }
       }
     ]
   },
@@ -92151,6 +92786,10 @@
       }
     ],
     "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
       {
         "id": 31,
         "name": "Adventure"
@@ -99073,8 +99712,16 @@
         "name": "Puzzle"
       },
       {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
         "id": 31,
         "name": "Adventure"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
       }
     ],
     "hypes": 8,
@@ -99285,6 +99932,10 @@
       }
     ],
     "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
       {
         "id": 31,
         "name": "Adventure"
@@ -99788,6 +100439,202 @@
         "type": {
           "id": 2,
           "type": "Community Wiki"
+        }
+      }
+    ]
+  },
+  {
+    "id": 389656,
+    "cover": {
+      "id": 537683,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobivn.jpg"
+    },
+    "first_release_date": 1793836800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      }
+    ],
+    "genres": [
+      {
+        "id": 7,
+        "name": "Music"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 372201,
+        "company": {
+          "id": 74024,
+          "name": "Finley Studios"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Mupo",
+    "platforms": [
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 874693,
+        "date": 1770940800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 874694,
+        "date": 1770940800,
+        "platform": {
+          "id": 3,
+          "name": "Linux"
+        }
+      },
+      {
+        "id": 874695,
+        "date": 1770940800,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      },
+      {
+        "id": 990687,
+        "date": 1793836800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 990688,
+        "date": 1793836800,
+        "platform": {
+          "id": 3,
+          "name": "Linux"
+        }
+      },
+      {
+        "id": 990689,
+        "date": 1793836800,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1770262,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11xxy.jpg"
+      },
+      {
+        "id": 1770261,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11xxx.jpg"
+      },
+      {
+        "id": 1770257,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11xxt.jpg"
+      },
+      {
+        "id": 1770258,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11xxu.jpg"
+      },
+      {
+        "id": 1770259,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11xxv.jpg"
+      },
+      {
+        "id": 1770256,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11xxs.jpg"
+      },
+      {
+        "id": 1770260,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11xxw.jpg"
+      },
+      {
+        "id": 1770263,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc11xxz.jpg"
+      }
+    ],
+    "summary": "Grab your keyboard and jump into the rhythm in MUPO. This fast-paced rhythm game is driven by skill, creativity, and community. Build maps, climb leaderboards, and shape the game’s future. And there’s so much more to come—stay tuned. Be part of the MUPO journey!",
+    "videos": [
+      {
+        "id": 176169,
+        "video_id": "gEnWfEZMXfM"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1009317,
+        "url": "https://mupo.app/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1009318,
+        "url": "https://x.com/Finley_Studios",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1009319,
+        "url": "https://www.instagram.com/finley.studios",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1009320,
+        "url": "https://www.youtube.com/@Finley.Studios",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1009321,
+        "url": "https://discord.gg/4Ej9b2sxHN",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1156216,
+        "url": "https://store.steampowered.com/app/4146650",
+        "type": {
+          "id": 13,
+          "type": "Steam"
         }
       }
     ]
@@ -102356,198 +103203,6 @@
     ]
   },
   {
-    "id": 347898,
-    "cover": {
-      "id": 464078,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9y32.jpg"
-    },
-    "first_release_date": 1794268800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 9,
-        "name": "Puzzle"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 7,
-    "involved_companies": [
-      {
-        "id": 414501,
-        "company": {
-          "id": 25747,
-          "name": "Lofty Sky Entertainment"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Hope in the City",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 966165,
-        "date": 1794268800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 966168,
-        "date": 1794268800,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1553245,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxahp.jpg"
-      },
-      {
-        "id": 1553249,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxaht.jpg"
-      },
-      {
-        "id": 1553246,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxahq.jpg"
-      },
-      {
-        "id": 1553248,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxahs.jpg"
-      },
-      {
-        "id": 1553247,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxahr.jpg"
-      }
-    ],
-    "summary": "17-year-old Hope Song returns home from school to find her parents missing. Use Hope’s observant eye as an artist to investigate, piece together clues, and uncover a dark world beneath the surface of her peaceful life in this non-linear narrative mystery game.",
-    "videos": [
-      {
-        "id": 153270,
-        "video_id": "4_CEBsFPjzY"
-      },
-      {
-        "id": 159823,
-        "video_id": "UKSzGnIToq0"
-      },
-      {
-        "id": 190786,
-        "video_id": "QAlVsk970oU"
-      },
-      {
-        "id": 195079,
-        "video_id": "K3PTFj9xOFs"
-      },
-      {
-        "id": 185529,
-        "video_id": "KSXay8ILTZk"
-      },
-      {
-        "id": 185930,
-        "video_id": "-8HUNU4CrjI"
-      },
-      {
-        "id": 186348,
-        "video_id": "r6FL5Z671mc"
-      },
-      {
-        "id": 196562,
-        "video_id": "aeSj0-tQqxY"
-      }
-    ],
-    "websites": [
-      {
-        "id": 809590,
-        "url": "https://www.facebook.com/loftyskygames",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 809593,
-        "url": "https://bsky.app/profile/loftyskygames.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 809592,
-        "url": "https://www.instagram.com/loftyskygames/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 809591,
-        "url": "https://x.com/LoftySkyGames",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 809589,
-        "url": "https://store.steampowered.com/app/3610790/Hope_in_the_City/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1128435,
-        "url": "https://www.xbox.com/en-us/games/store/-/9P1S707BPW6W",
-        "type": {
-          "id": 22,
-          "type": "Xbox"
-        }
-      },
-      {
-        "id": 1063432,
-        "url": "https://www.youtube.com/@loftyskygames4571",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1063433,
-        "url": "https://discord.gg/invite/rWt4cJn",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      }
-    ]
-  },
-  {
     "id": 359885,
     "cover": {
       "id": 484870,
@@ -102769,208 +103424,6 @@
     ]
   },
   {
-    "id": 365278,
-    "cover": {
-      "id": 613633,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cod5hd.jpg"
-    },
-    "first_release_date": 1794268800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 16,
-        "name": "Turn-based strategy (TBS)"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 343096,
-        "company": {
-          "id": 64941,
-          "name": "Mystic Forge"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 343097,
-        "company": {
-          "id": 66785,
-          "name": "Aesthetician Labs"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 343098,
-        "company": {
-          "id": 68249,
-          "name": "Rami Ismail"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Australia Did It: End-of-the-World Railway Defense Business",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 978459,
-        "date": 1794268800,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 978460,
-        "date": 1794268800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1629236,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyx4k.jpg"
-      },
-      {
-        "id": 1629231,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyx4f.jpg"
-      },
-      {
-        "id": 1629232,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyx4g.jpg"
-      },
-      {
-        "id": 1629233,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyx4h.jpg"
-      },
-      {
-        "id": 1629234,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyx4i.jpg"
-      },
-      {
-        "id": 1629235,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyx4j.jpg"
-      },
-      {
-        "id": 1629228,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyx4c.jpg"
-      },
-      {
-        "id": 1629229,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyx4d.jpg"
-      },
-      {
-        "id": 1629230,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scyx4e.jpg"
-      }
-    ],
-    "summary": "Join our mercenary team: high-risk, low-benefit positions available! Defend cargo trains in this innovative Turn-Based Tower Defense meets Reverse Bullet Hell. Deploy units, merge them to create powerful new types and variations, withstand relentless waves, deliver the goods.",
-    "videos": [
-      {
-        "id": 161133,
-        "video_id": "eHNfqtkQRm4"
-      },
-      {
-        "id": 177223,
-        "video_id": "Psj_poW6hCA"
-      },
-      {
-        "id": 199909,
-        "video_id": "pBFlZ8MmbFA"
-      }
-    ],
-    "websites": [
-      {
-        "id": 864136,
-        "url": "https://www.twitch.tv/directory/category/australia-did-it",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 863343,
-        "url": "https://www.youtube.com/@MysticForge-Ent",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 863346,
-        "url": "https://discord.gg/6tN7uz3kvS",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 863345,
-        "url": "https://store.steampowered.com/app/2396130",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 863347,
-        "url": "https://x.com/AustraliaDidIt",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 863350,
-        "url": "https://www.facebook.com/profile.php?id\u003d61577417372702",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 863349,
-        "url": "https://www.instagram.com/australiadidit_game/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 863348,
-        "url": "https://bsky.app/profile/australiadidit.gg",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      }
-    ]
-  },
-  {
     "id": 368905,
     "cover": {
       "id": 552967,
@@ -103145,8 +103598,8 @@
   {
     "id": 376145,
     "cover": {
-      "id": 503722,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coasoa.jpg"
+      "id": 622988,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/codcp8.jpg"
     },
     "first_release_date": 1794268800,
     "game_modes": [
@@ -104068,13 +104521,22 @@
     "hypes": 3,
     "involved_companies": [
       {
-        "id": 248696,
+        "id": 426981,
         "company": {
           "id": 40004,
           "name": "Abiding Bridge"
         },
-        "developer": true,
+        "developer": false,
         "publisher": true
+      },
+      {
+        "id": 426982,
+        "company": {
+          "id": 53624,
+          "name": "Synstoria"
+        },
+        "developer": true,
+        "publisher": false
       }
     ],
     "name": "Imperial Grace",
@@ -104460,6 +104922,206 @@
         "type": {
           "id": 13,
           "type": "Steam"
+        }
+      }
+    ]
+  },
+  {
+    "id": 347898,
+    "cover": {
+      "id": 464078,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9y32.jpg"
+    },
+    "first_release_date": 1794355200,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 7,
+    "involved_companies": [
+      {
+        "id": 414501,
+        "company": {
+          "id": 25747,
+          "name": "Lofty Sky Entertainment"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Hope in the City",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 990503,
+        "date": 1794355200,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 990504,
+        "date": 1794355200,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1553245,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxahp.jpg"
+      },
+      {
+        "id": 1553249,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxaht.jpg"
+      },
+      {
+        "id": 1553246,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxahq.jpg"
+      },
+      {
+        "id": 1553248,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxahs.jpg"
+      },
+      {
+        "id": 1553247,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scxahr.jpg"
+      }
+    ],
+    "summary": "17-year-old Hope Song returns home from school to find her parents missing. Use Hope’s observant eye as an artist to investigate, piece together clues, and uncover a dark world beneath the surface of her peaceful life in this non-linear narrative mystery game.",
+    "videos": [
+      {
+        "id": 153270,
+        "video_id": "4_CEBsFPjzY"
+      },
+      {
+        "id": 159823,
+        "video_id": "UKSzGnIToq0"
+      },
+      {
+        "id": 190786,
+        "video_id": "QAlVsk970oU"
+      },
+      {
+        "id": 195079,
+        "video_id": "K3PTFj9xOFs"
+      },
+      {
+        "id": 185529,
+        "video_id": "KSXay8ILTZk"
+      },
+      {
+        "id": 185930,
+        "video_id": "-8HUNU4CrjI"
+      },
+      {
+        "id": 186348,
+        "video_id": "r6FL5Z671mc"
+      },
+      {
+        "id": 196562,
+        "video_id": "aeSj0-tQqxY"
+      }
+    ],
+    "websites": [
+      {
+        "id": 809590,
+        "url": "https://www.facebook.com/loftyskygames",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 809593,
+        "url": "https://bsky.app/profile/loftyskygames.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 809592,
+        "url": "https://www.instagram.com/loftyskygames/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 809591,
+        "url": "https://x.com/LoftySkyGames",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1128435,
+        "url": "https://www.xbox.com/en-us/games/store/-/9P1S707BPW6W",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
+      },
+      {
+        "id": 1156025,
+        "url": "https://store.steampowered.com/app/3610790",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1156026,
+        "url": "https://www.twitch.tv/directory/category/hope-in-the-city",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 1063432,
+        "url": "https://www.youtube.com/@loftyskygames4571",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1063433,
+        "url": "https://discord.gg/invite/rWt4cJn",
+        "type": {
+          "id": 18,
+          "type": "Discord"
         }
       }
     ]
@@ -105916,7 +106578,7 @@
         "name": "Indie"
       }
     ],
-    "hypes": 3,
+    "hypes": 4,
     "involved_companies": [
       {
         "id": 425390,
@@ -107121,559 +107783,6 @@
         "type": {
           "id": 6,
           "type": "Twitch"
-        }
-      }
-    ]
-  },
-  {
-    "id": 310733,
-    "cover": {
-      "id": 551718,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobtpi.jpg"
-    },
-    "first_release_date": 1794873600,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 11,
-        "name": "Real Time Strategy (RTS)"
-      },
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 24,
-        "name": "Tactical"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 5,
-    "involved_companies": [
-      {
-        "id": 377761,
-        "company": {
-          "id": 56831,
-          "name": "6side Studio"
-        },
-        "developer": true,
-        "publisher": true
-      },
-      {
-        "id": 425947,
-        "company": {
-          "id": 42648,
-          "name": "Gamersky Games"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 425946,
-        "company": {
-          "id": 78091,
-          "name": "Rekoup"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Dawn of Defense",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 893424,
-        "date": 1727913600,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 985721,
-        "date": 1794873600,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1805394,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12p1u.jpg"
-      },
-      {
-        "id": 1805396,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12p1w.jpg"
-      },
-      {
-        "id": 1805397,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12p1x.jpg"
-      },
-      {
-        "id": 1805399,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12p1z.jpg"
-      },
-      {
-        "id": 1805400,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12p20.jpg"
-      },
-      {
-        "id": 1805395,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12p1v.jpg"
-      },
-      {
-        "id": 1805398,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12p1y.jpg"
-      }
-    ],
-    "status": 2,
-    "summary": "Dawn of Defense blends RTS, Tower Defense, and Roguelite progression. In a last defense, lead your tribe against the Empire: Command warriors in battle, fortify defenses, and build an economy as you fight to reclaim your ancestral homeland.",
-    "videos": [
-      {
-        "id": 121427,
-        "video_id": "pCXT2YVOyBA"
-      },
-      {
-        "id": 179599,
-        "video_id": "QGnYwtWLs_8"
-      },
-      {
-        "id": 193736,
-        "video_id": "KRR6TEUnVeY"
-      },
-      {
-        "id": 181377,
-        "video_id": "iwtkN45g4IY"
-      }
-    ],
-    "websites": [
-      {
-        "id": 658214,
-        "url": "https://store.steampowered.com/app/2781660",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 679334,
-        "url": "https://6side.itch.io/dawn-of-defense",
-        "type": {
-          "id": 15,
-          "type": "Itch"
-        }
-      },
-      {
-        "id": 659994,
-        "url": "https://6side.de/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 659995,
-        "url": "https://youtube.com/@6sidestudio",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 659997,
-        "url": "https://twitter.com/6sideStudio",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1112248,
-        "url": "https://bsky.app/profile/6side-studio.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 1034103,
-        "url": "https://www.instagram.com/6side.studio/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 1091889,
-        "url": "https://discord.gg/invite/4yysrfB3xe",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      }
-    ]
-  },
-  {
-    "id": 385308,
-    "cover": {
-      "id": 541457,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coblsh.jpg"
-    },
-    "first_release_date": 1794873600,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 8,
-    "involved_companies": [
-      {
-        "id": 391685,
-        "company": {
-          "id": 44896,
-          "name": "Doot"
-        },
-        "developer": true,
-        "publisher": true
-      },
-      {
-        "id": 391686,
-        "company": {
-          "id": 48688,
-          "name": "blibloop"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 391687,
-        "company": {
-          "id": 61238,
-          "name": "Wholesome Games Presents"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Milki Delivery",
-    "platforms": [
-      {
-        "id": 3,
-        "name": "Linux"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 961260,
-        "date": 1794873600,
-        "platform": {
-          "id": 3,
-          "name": "Linux"
-        }
-      },
-      {
-        "id": 961261,
-        "date": 1794873600,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 961262,
-        "date": 1794873600,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1738978,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc119sy.jpg"
-      },
-      {
-        "id": 1738979,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc119sz.jpg"
-      },
-      {
-        "id": 1738980,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc119t0.jpg"
-      },
-      {
-        "id": 1738981,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc119t1.jpg"
-      },
-      {
-        "id": 1738983,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc119t3.jpg"
-      },
-      {
-        "id": 1738987,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc119t7.jpg"
-      },
-      {
-        "id": 1738982,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc119t2.jpg"
-      },
-      {
-        "id": 1738984,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc119t4.jpg"
-      },
-      {
-        "id": 1738985,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc119t5.jpg"
-      },
-      {
-        "id": 1738986,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc119t6.jpg"
-      },
-      {
-        "id": 1738988,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc119t8.jpg"
-      }
-    ],
-    "summary": "Grab your bike and milk bottles, let\u0027s hit the road! Explore the countryside in this short cozy delivery adventure. Befriend folks and gently help them rebuild their community, one bottle at a time. Upgrade your bike, your dairy farm, and venture deeper into a once-lively region.",
-    "videos": [
-      {
-        "id": 176692,
-        "video_id": "gzkUyE4z1xI"
-      },
-      {
-        "id": 186795,
-        "video_id": "B2NUM2wJmRs"
-      }
-    ],
-    "websites": [
-      {
-        "id": 984077,
-        "url": "https://store.steampowered.com/app/4259360",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1132523,
-        "url": "https://discord.gg/yMR4DUyWab?proof\u003d22cf8a20e76c1be0",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 1132524,
-        "url": "https://www.instagram.com/blibloop/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 1132525,
-        "url": "https://x.com/doot_dodo",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1132526,
-        "url": "https://bsky.app/profile/dodoot.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      }
-    ]
-  },
-  {
-    "id": 412590,
-    "cover": {
-      "id": 610575,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cod34f.jpg"
-    },
-    "first_release_date": 1794873600,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 406288,
-        "company": {
-          "id": 76391,
-          "name": "Indie Souls Studio"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Ball Picker: Clean Up the Golf Yard",
-    "platforms": [
-      {
-        "id": 3,
-        "name": "Linux"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 986647,
-        "date": 1794873600,
-        "platform": {
-          "id": 3,
-          "name": "Linux"
-        }
-      },
-      {
-        "id": 986648,
-        "date": 1794873600,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 986649,
-        "date": 1794873600,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1893967,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14le7.jpg"
-      },
-      {
-        "id": 1893968,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14le8.jpg"
-      },
-      {
-        "id": 1893963,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14le3.jpg"
-      },
-      {
-        "id": 1893964,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14le4.jpg"
-      },
-      {
-        "id": 1893965,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14le5.jpg"
-      },
-      {
-        "id": 1893966,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14le6.jpg"
-      }
-    ],
-    "summary": "Collect +1,000,000 golf balls, earn money, buy new vehicles, and clean up the golf yard. Ball Picker - Clean up the Golf Yard is an active incremental game centered on an organizing and relaxing experience.",
-    "videos": [
-      {
-        "id": 192289,
-        "video_id": "dTkj9opcm5Q"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1093629,
-        "url": "https://x.com/IndieSoulStudio",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1093630,
-        "url": "https://www.instagram.com/studio.indiesouls/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 1093900,
-        "url": "https://store.steampowered.com/app/5035380",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1112509,
-        "url": "https://discord.gg/Ay3fupajzS",
-        "type": {
-          "id": 18,
-          "type": "Discord"
         }
       }
     ]
