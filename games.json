@@ -30544,220 +30544,6 @@
     ]
   },
   {
-    "id": 366709,
-    "cover": {
-      "id": 487238,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coafye.jpg"
-    },
-    "first_release_date": 1773100800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      }
-    ],
-    "hypes": 4,
-    "involved_companies": [
-      {
-        "id": 345565,
-        "company": {
-          "id": 27331,
-          "name": "astragon Entertainment"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 345566,
-        "company": {
-          "id": 68827,
-          "name": "To-Go Games"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Ranger’s Path: National Park Simulator",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 966346,
-        "date": 1794873600,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 966347,
-        "date": 1794873600,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 966348,
-        "date": 1794873600,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      },
-      {
-        "id": 889791,
-        "date": 1773100800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1636755,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz2xf.jpg"
-      },
-      {
-        "id": 1636754,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz2xe.jpg"
-      },
-      {
-        "id": 1636756,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz2xg.jpg"
-      },
-      {
-        "id": 1636757,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz2xh.jpg"
-      },
-      {
-        "id": 1636753,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz2xd.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Begin your park ranger journey in Ranger’s Path: National Park Simulator. Maintain trails, assist visitors, check permits and respond to emergencies. Explore diverse biomes and observe varied animal behaviors across a wide range of species.",
-    "videos": [
-      {
-        "id": 161787,
-        "video_id": "yytJLrj86V4"
-      }
-    ],
-    "websites": [
-      {
-        "id": 887781,
-        "url": "https://discord.gg/astragon",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 887782,
-        "url": "https://www.youtube.com/astragon?sub_confirmation\u003d1",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 868479,
-        "url": "https://store.steampowered.com/app/2502780/Rangers_Path_National_Park_Simulator/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 868480,
-        "url": "https://rangerspathgame.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 887612,
-        "url": "https://store.epicgames.com/p/rangers-path-national-park-simulator-b7ea25",
-        "type": {
-          "id": 16,
-          "type": "Epic"
-        }
-      },
-      {
-        "id": 887613,
-        "url": "https://x.com/RangersPathGame",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 887614,
-        "url": "https://www.facebook.com/RangersPathGame",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 887615,
-        "url": "https://www.instagram.com/rangerspathgame",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 1010017,
-        "url": "https://www.twitch.tv/directory/category/rangers-path-national-park-simulator",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 1127499,
-        "url": "https://www.xbox.com/en-us/games/store/-/9NF2BSCRCPFT",
-        "type": {
-          "id": 22,
-          "type": "Xbox"
-        }
-      },
-      {
-        "id": 1156609,
-        "url": "https://store.playstation.com/en-us/concept/10009391",
-        "type": {
-          "id": 23,
-          "type": "Playstation"
-        }
-      }
-    ]
-  },
-  {
     "id": 356955,
     "cover": {
       "id": 509512,
@@ -34253,295 +34039,6 @@
     ]
   },
   {
-    "id": 348272,
-    "cover": {
-      "id": 542436,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobmjo.jpg"
-    },
-    "first_release_date": 1777248000,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 9,
-        "name": "Puzzle"
-      },
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 17,
-    "involved_companies": [
-      {
-        "id": 324577,
-        "company": {
-          "id": 10980,
-          "name": "Hyper Games"
-        },
-        "developer": true,
-        "publisher": true
-      },
-      {
-        "id": 373527,
-        "company": {
-          "id": 9790,
-          "name": "Kakehashi Games"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Moomintroll: Winter\u0027s Warmth",
-    "platforms": [
-      {
-        "id": 508,
-        "name": "Nintendo Switch 2"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      },
-      {
-        "id": 130,
-        "name": "Nintendo Switch"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 878367,
-        "date": 1777248000,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 878368,
-        "date": 1777248000,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 896085,
-        "date": 1777248000,
-        "platform": {
-          "id": 130,
-          "name": "Nintendo Switch"
-        }
-      },
-      {
-        "id": 959980,
-        "date": 1789689600,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 983254,
-        "date": 1789689600,
-        "platform": {
-          "id": 508,
-          "name": "Nintendo Switch 2"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1789281,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12cm9.jpg"
-      },
-      {
-        "id": 1789282,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12cma.jpg"
-      },
-      {
-        "id": 1789283,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12cmb.jpg"
-      },
-      {
-        "id": 1789284,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12cmc.jpg"
-      },
-      {
-        "id": 1789285,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12cmd.jpg"
-      },
-      {
-        "id": 1789286,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12cme.jpg"
-      }
-    ],
-    "summary": "From the creators of Snufkin: Melody of Moominvalley comes a heartwarming new adventure inspired by the beloved Moomin stories by Tove Jansson. This time, join Moomintroll himself on a charming but cold winter journey.",
-    "videos": [
-      {
-        "id": 153406,
-        "video_id": "N_15Rvj6NeI"
-      },
-      {
-        "id": 160604,
-        "video_id": "Q7HKgUuny7k"
-      },
-      {
-        "id": 163768,
-        "video_id": "uBeGHehvH-U"
-      },
-      {
-        "id": 168465,
-        "video_id": "GUZJsHmK1Bg"
-      },
-      {
-        "id": 169968,
-        "video_id": "Rl8-8c_VfDI"
-      },
-      {
-        "id": 170564,
-        "video_id": "_sjtXdLkJCI"
-      },
-      {
-        "id": 170743,
-        "video_id": "ouiFnHRx5IE"
-      },
-      {
-        "id": 176936,
-        "video_id": "5ePphEutTJ8"
-      },
-      {
-        "id": 177248,
-        "video_id": "7QYNsnQsc7Q"
-      },
-      {
-        "id": 182480,
-        "video_id": "Hu3PZTQ09yk"
-      },
-      {
-        "id": 185125,
-        "video_id": "WFsUnSjRXQc"
-      }
-    ],
-    "websites": [
-      {
-        "id": 810789,
-        "url": "https://bsky.app/profile/hypergames.no",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 810788,
-        "url": "https://discord.gg/bV9ZAyHpav",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 810787,
-        "url": "https://www.moomintroll.game",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 918222,
-        "url": "https://www.reddit.com/r/SnufkinGame/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 810792,
-        "url": "https://www.youtube.com/channel/UCSDjjdZVxZ2jERe5bf5vf-w",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 810793,
-        "url": "https://x.com/hypergames",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 810790,
-        "url": "https://facebook.com/hyper.games.studio/",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 810786,
-        "url": "https://store.steampowered.com/app/3256150",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 810791,
-        "url": "https://instagram.com/hyper.games.studio/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 1112165,
-        "url": "https://store.playstation.com/en-us/concept/10018175/",
-        "type": {
-          "id": 23,
-          "type": "Playstation"
-        }
-      },
-      {
-        "id": 1038141,
-        "url": "https://www.nintendo.com/us/store/products/moomintroll-winters-warmth-switch/",
-        "type": {
-          "id": 24,
-          "type": "Nintendo"
-        }
-      },
-      {
-        "id": 1058391,
-        "url": "https://en.wikipedia.org/wiki/Moomintroll:_Winter%27s_Warmth",
-        "type": {
-          "id": 3,
-          "type": "Wikipedia"
-        }
-      }
-    ]
-  },
-  {
     "id": 343635,
     "cover": {
       "id": 544522,
@@ -36942,329 +36439,6 @@
         "type": {
           "id": 23,
           "type": "Playstation"
-        }
-      }
-    ]
-  },
-  {
-    "id": 361855,
-    "cover": {
-      "id": 480825,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coab09.jpg"
-    },
-    "first_release_date": 1779408000,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      },
-      {
-        "id": 4,
-        "name": "Split screen"
-      }
-    ],
-    "genres": [
-      {
-        "id": 9,
-        "name": "Puzzle"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      }
-    ],
-    "hypes": 85,
-    "involved_companies": [
-      {
-        "id": 390490,
-        "company": {
-          "id": 937,
-          "name": "WB Games Montréal"
-        },
-        "developer": false,
-        "publisher": false
-      },
-      {
-        "id": 390488,
-        "company": {
-          "id": 292,
-          "name": "Traveller\u0027s Tales"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 390491,
-        "company": {
-          "id": 164,
-          "name": "Rocksteady Studios"
-        },
-        "developer": false,
-        "publisher": false
-      },
-      {
-        "id": 390489,
-        "company": {
-          "id": 50,
-          "name": "WB Games"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "LEGO Batman: Legacy of the Dark Knight",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 508,
-        "name": "Nintendo Switch 2"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 890014,
-        "date": 1779148800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 890015,
-        "date": 1779408000,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 890016,
-        "date": 1779408000,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 890017,
-        "date": 1779148800,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 890018,
-        "date": 1779408000,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      },
-      {
-        "id": 890019,
-        "date": 1779148800,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      },
-      {
-        "id": 921318,
-        "date": 1789689600,
-        "platform": {
-          "id": 508,
-          "name": "Nintendo Switch 2"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1615314,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scymdu.jpg"
-      },
-      {
-        "id": 1615315,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scymdv.jpg"
-      },
-      {
-        "id": 1615319,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scymdz.jpg"
-      },
-      {
-        "id": 1615316,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scymdw.jpg"
-      },
-      {
-        "id": 1615317,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scymdx.jpg"
-      },
-      {
-        "id": 1615318,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scymdy.jpg"
-      }
-    ],
-    "summary": "Rise as the Dark Knight and experience the essential Batman story in a bold, action-packed adventure with hard-hitting combat, an open-world Gotham City, and the signature LEGO charm that fans know and love.",
-    "videos": [
-      {
-        "id": 159571,
-        "video_id": "1hQAoGj01Rc"
-      },
-      {
-        "id": 170964,
-        "video_id": "G4iE5A3R_rM"
-      },
-      {
-        "id": 177211,
-        "video_id": "n4LYtP_TPJg"
-      },
-      {
-        "id": 178599,
-        "video_id": "7o_5mtrXyQ8"
-      },
-      {
-        "id": 178909,
-        "video_id": "wCGdYd_Uj44"
-      },
-      {
-        "id": 183081,
-        "video_id": "DfJaUpW_P00"
-      },
-      {
-        "id": 185697,
-        "video_id": "8_6jXkUo2fQ"
-      },
-      {
-        "id": 186038,
-        "video_id": "tl612oZLaOc"
-      },
-      {
-        "id": 195743,
-        "video_id": "IWjpIPYlBho"
-      }
-    ],
-    "websites": [
-      {
-        "id": 854119,
-        "url": "https://store.playstation.com/en-us/concept/10008537",
-        "type": {
-          "id": 23,
-          "type": "Playstation"
-        }
-      },
-      {
-        "id": 855335,
-        "url": "https://en.wikipedia.org/wiki/Lego_Batman:_Legacy_of_the_Dark_Knight",
-        "type": {
-          "id": 3,
-          "type": "Wikipedia"
-        }
-      },
-      {
-        "id": 867455,
-        "url": "https://www.youtube.com/@WBGAMES",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 867452,
-        "url": "https://x.com/LEGODCGame",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 867453,
-        "url": "https://www.instagram.com/legodcgame/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 867454,
-        "url": "https://www.facebook.com/LEGOBatmanGame/",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 854081,
-        "url": "https://store.steampowered.com/app/2215200",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 854114,
-        "url": "https://legobatmangame.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 854143,
-        "url": "https://epicgames.com/p/lego-batman-legacy-of-the-dark-knight-c82b6b",
-        "type": {
-          "id": 16,
-          "type": "Epic"
-        }
-      },
-      {
-        "id": 972979,
-        "url": "https://www.nintendo.com/us/store/products/lego-batman-legacy-of-the-dark-knight-switch-2/",
-        "type": {
-          "id": 24,
-          "type": "Nintendo"
-        }
-      },
-      {
-        "id": 994329,
-        "url": "https://www.xbox.com/en-US/games/store/lego-batman-legacy-of-the-dark-knight/9PFKP8Z66G1J/0010",
-        "type": {
-          "id": 22,
-          "type": "Xbox"
-        }
-      },
-      {
-        "id": 1057495,
-        "url": "https://www.twitch.tv/directory/category/lego-batman-legacy-of-the-dark-knight",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 1061428,
-        "url": "https://brickipedia.fandom.com/wiki/LEGO_Batman:_Legacy_of_the_Dark_Knight",
-        "type": {
-          "id": 2,
-          "type": "Community Wiki"
         }
       }
     ]
@@ -43725,395 +42899,6 @@
         "type": {
           "id": 14,
           "type": "Subreddit"
-        }
-      }
-    ]
-  },
-  {
-    "id": 409384,
-    "cover": {
-      "id": 589658,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocmze.jpg"
-    },
-    "first_release_date": 1789689600,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 25,
-        "name": "Hack and slash/Beat \u0027em up"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 33,
-        "name": "Arcade"
-      }
-    ],
-    "hypes": 3,
-    "involved_companies": [
-      {
-        "id": 406295,
-        "company": {
-          "id": 79918,
-          "name": "Trailmark Games"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 406296,
-        "company": {
-          "id": 56442,
-          "name": "Odaclick Game Studio"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "The Walking Dead: Streets of Survival",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 508,
-        "name": "Nintendo Switch 2"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      },
-      {
-        "id": 130,
-        "name": "Nintendo Switch"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 950888,
-        "date": 1789689600,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      },
-      {
-        "id": 950884,
-        "date": 1789689600,
-        "platform": {
-          "id": 508,
-          "name": "Nintendo Switch 2"
-        }
-      },
-      {
-        "id": 950885,
-        "date": 1789689600,
-        "platform": {
-          "id": 130,
-          "name": "Nintendo Switch"
-        }
-      },
-      {
-        "id": 950886,
-        "date": 1789689600,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 950887,
-        "date": 1789689600,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1893101,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14kq5.jpg"
-      },
-      {
-        "id": 1893102,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14kq6.jpg"
-      },
-      {
-        "id": 1893103,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14kq7.jpg"
-      },
-      {
-        "id": 1893104,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14kq8.jpg"
-      },
-      {
-        "id": 1893105,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14kq9.jpg"
-      },
-      {
-        "id": 1893106,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14kqa.jpg"
-      }
-    ],
-    "summary": "Fight walkers as Rick Grimes, Daryl Dixon and Michonne in a brutal arcade brawler set in the world of AMC’s The Walking Dead. Face ruthless enemies like the Saviors and overwhelming walker swarms as you unleash relentless combos, signature weapon attacks, and crushing finishers.",
-    "videos": [
-      {
-        "id": 192299,
-        "video_id": "bdDN5F1FnV8"
-      },
-      {
-        "id": 194061,
-        "video_id": "Qwh15MucvKQ"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1093556,
-        "url": "https://www.nintendo.com/us/store/products/the-walking-dead-streets-of-survival-switch-2/",
-        "type": {
-          "id": 24,
-          "type": "Nintendo"
-        }
-      },
-      {
-        "id": 1093654,
-        "url": "https://store.playstation.com/en-us/concept/10019963/",
-        "type": {
-          "id": 23,
-          "type": "Playstation"
-        }
-      },
-      {
-        "id": 1082688,
-        "url": "https://store.steampowered.com/app/3777850/The_Walking_Dead_Streets_of_Survival/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1128103,
-        "url": "https://www.xbox.com/en-us/games/store/-/9NP5QDMCJF5W",
-        "type": {
-          "id": 22,
-          "type": "Xbox"
-        }
-      },
-      {
-        "id": 1093259,
-        "url": "https://trailmarkgames.com/games/the-walking-dead-streets-of-survival/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1093260,
-        "url": "https://www.instagram.com/trailmarkgames",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 1093261,
-        "url": "https://x.com/trailmarkgames",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1093262,
-        "url": "https://www.youtube.com/@TrailmarkGames",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1093263,
-        "url": "https://discord.gg/B9upcQSHT3",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      }
-    ]
-  },
-  {
-    "id": 412990,
-    "cover": {
-      "id": 590553,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocno9.jpg"
-    },
-    "first_release_date": 1789689600,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      }
-    ],
-    "genres": [
-      {
-        "id": 10,
-        "name": "Racing"
-      },
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 14,
-        "name": "Sport"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 407023,
-        "company": {
-          "id": 8373,
-          "name": "iRacing.com Motorsport Simulations"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "NASCAR 26",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 968299,
-        "date": 1789689600,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 968300,
-        "date": 1789689600,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 968301,
-        "date": 1789689600,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1895917,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14mwd.jpg"
-      },
-      {
-        "id": 1895913,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14mw9.jpg"
-      },
-      {
-        "id": 1895914,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14mwa.jpg"
-      },
-      {
-        "id": 1895915,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14mwb.jpg"
-      },
-      {
-        "id": 1895916,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14mwc.jpg"
-      }
-    ],
-    "summary": "The official game of NASCAR is back and better than ever with NASCAR 26! Battle your way through all four NASCAR National Series in Career, Quick Race, Championship, Multiplayer, or our all new mode featuring The Chase!",
-    "videos": [
-      {
-        "id": 192526,
-        "video_id": "f_h_LPYH7iM"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1112409,
-        "url": "https://www.xbox.com/en-US/games/store/nascar-26/9PFKG4BSV6PN/0017?wfExp\u003d382A",
-        "type": {
-          "id": 22,
-          "type": "Xbox"
-        }
-      },
-      {
-        "id": 1112410,
-        "url": "https://store.playstation.com/en-us/product/UP1456-PPSA37433_00-NASCAR26BASEGAME",
-        "type": {
-          "id": 23,
-          "type": "Playstation"
-        }
-      },
-      {
-        "id": 1094706,
-        "url": "https://store.steampowered.com/app/4883590/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1101579,
-        "url": "https://nascar26.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1101580,
-        "url": "https://x.com/NASCAR26TheGame",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1131517,
-        "url": "https://en.wikipedia.org/wiki/NASCAR_26",
-        "type": {
-          "id": 3,
-          "type": "Wikipedia"
         }
       }
     ]
@@ -95890,6 +94675,14 @@
         }
       },
       {
+        "id": 1158923,
+        "url": "https://store.epicgames.com/en-US/p/wall-world-strategy-27e9a3",
+        "type": {
+          "id": 16,
+          "type": "Epic"
+        }
+      },
+      {
         "id": 1044257,
         "url": "https://store.steampowered.com/app/4218360",
         "type": {
@@ -96222,7 +95015,7 @@
     "hypes": 6,
     "involved_companies": [
       {
-        "id": 392805,
+        "id": 428022,
         "company": {
           "id": 38487,
           "name": "TECOPARK"
@@ -96339,6 +95132,38 @@
       {
         "id": 186519,
         "video_id": "RFg-S2seDqU"
+      },
+      {
+        "id": 203234,
+        "video_id": "jpMemeSR0fQ"
+      },
+      {
+        "id": 203235,
+        "video_id": "kFbk3IXkO-4"
+      },
+      {
+        "id": 203236,
+        "video_id": "H0UOggLIU84"
+      },
+      {
+        "id": 203237,
+        "video_id": "KuuzULUrpzU"
+      },
+      {
+        "id": 203238,
+        "video_id": "UmdFpsxAlzU"
+      },
+      {
+        "id": 203239,
+        "video_id": "zMl36CPVMac"
+      },
+      {
+        "id": 203240,
+        "video_id": "1-yhjIUjLZU"
+      },
+      {
+        "id": 203241,
+        "video_id": "OBEnO6WCfBw"
       }
     ],
     "websites": [
@@ -98624,6 +97449,154 @@
     ]
   },
   {
+    "id": 272780,
+    "cover": {
+      "id": 412981,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8unp.jpg"
+    },
+    "first_release_date": 1794873600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 25,
+        "name": "Hack and slash/Beat \u0027em up"
+      }
+    ],
+    "hypes": 7,
+    "involved_companies": [
+      {
+        "id": 418794,
+        "company": {
+          "id": 74587,
+          "name": "Rising Tide Publishing"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Burning Sword: Death Sun",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 985720,
+        "date": 1794873600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1170589,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp38d.jpg"
+      },
+      {
+        "id": 1170577,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp381.jpg"
+      },
+      {
+        "id": 1170580,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp384.jpg"
+      },
+      {
+        "id": 1170583,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp387.jpg"
+      },
+      {
+        "id": 1170585,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp389.jpg"
+      },
+      {
+        "id": 1170587,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scp38b.jpg"
+      }
+    ],
+    "summary": "Burning Sword: Death Sun is a Wuxia hack n\u0027 slash game. Play as the great fighter, Zhāng Yì Xiàn, who seeks revenge for the death of his family at the hands of China\u0027s powerful Gāo Tiān Qí. Dive into a tale of revenge, redemption, martial arts, and intense swordplay.",
+    "videos": [
+      {
+        "id": 127372,
+        "video_id": "nij0wIc3DMo"
+      },
+      {
+        "id": 143387,
+        "video_id": "KDo2nnBQ078"
+      },
+      {
+        "id": 153200,
+        "video_id": "9LwHnaMWTxE"
+      }
+    ],
+    "websites": [
+      {
+        "id": 590541,
+        "url": "https://www.facebook.com/BurningSwordDeathSun/",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 683413,
+        "url": "https://discord.gg/invite/UAv6R64eWB",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 683412,
+        "url": "https://twitter.com/BurningSword_DS",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 683410,
+        "url": "https://www.twitch.tv/directory/category/burning-sword-death-sun",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 683411,
+        "url": "https://www.youtube.com/@BurningSwordDeathSun",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 590540,
+        "url": "https://store.steampowered.com/app/2561460",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 676094,
+        "url": "https://www.nomadic-games.com/burning-sword-death-sun/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      }
+    ]
+  },
+  {
     "id": 310733,
     "cover": {
       "id": 551718,
@@ -99012,6 +97985,220 @@
         "type": {
           "id": 19,
           "type": "Bluesky"
+        }
+      }
+    ]
+  },
+  {
+    "id": 366709,
+    "cover": {
+      "id": 487238,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coafye.jpg"
+    },
+    "first_release_date": 1794873600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 4,
+    "involved_companies": [
+      {
+        "id": 345565,
+        "company": {
+          "id": 27331,
+          "name": "astragon Entertainment"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 345566,
+        "company": {
+          "id": 68827,
+          "name": "To-Go Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Ranger’s Path: National Park Simulator",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 966346,
+        "date": 1794873600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 966347,
+        "date": 1794873600,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 966348,
+        "date": 1794873600,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      },
+      {
+        "id": 889791,
+        "date": 1773100800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1636755,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz2xf.jpg"
+      },
+      {
+        "id": 1636754,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz2xe.jpg"
+      },
+      {
+        "id": 1636756,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz2xg.jpg"
+      },
+      {
+        "id": 1636757,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz2xh.jpg"
+      },
+      {
+        "id": 1636753,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz2xd.jpg"
+      }
+    ],
+    "status": 4,
+    "summary": "Begin your park ranger journey in Ranger’s Path: National Park Simulator. Maintain trails, assist visitors, check permits and respond to emergencies. Explore diverse biomes and observe varied animal behaviors across a wide range of species.",
+    "videos": [
+      {
+        "id": 161787,
+        "video_id": "yytJLrj86V4"
+      }
+    ],
+    "websites": [
+      {
+        "id": 887781,
+        "url": "https://discord.gg/astragon",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 887782,
+        "url": "https://www.youtube.com/astragon?sub_confirmation\u003d1",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 868479,
+        "url": "https://store.steampowered.com/app/2502780/Rangers_Path_National_Park_Simulator/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 868480,
+        "url": "https://rangerspathgame.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 887612,
+        "url": "https://store.epicgames.com/p/rangers-path-national-park-simulator-b7ea25",
+        "type": {
+          "id": 16,
+          "type": "Epic"
+        }
+      },
+      {
+        "id": 887613,
+        "url": "https://x.com/RangersPathGame",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 887614,
+        "url": "https://www.facebook.com/RangersPathGame",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 887615,
+        "url": "https://www.instagram.com/rangerspathgame",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1010017,
+        "url": "https://www.twitch.tv/directory/category/rangers-path-national-park-simulator",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 1127499,
+        "url": "https://www.xbox.com/en-us/games/store/-/9NF2BSCRCPFT",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
+      },
+      {
+        "id": 1156609,
+        "url": "https://store.playstation.com/en-us/concept/10009391",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
         }
       }
     ]
@@ -99490,7 +98677,7 @@
         "name": "Adventure"
       }
     ],
-    "hypes": 1159,
+    "hypes": 1162,
     "involved_companies": [
       {
         "id": 423819,
@@ -105061,7 +104248,7 @@
         "name": "Indie"
       }
     ],
-    "hypes": 3,
+    "hypes": 4,
     "involved_companies": [
       {
         "id": 424763,
@@ -105564,6 +104751,10 @@
       {
         "id": 14,
         "name": "Mac"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
       }
     ],
     "release_dates": [
@@ -105589,6 +104780,14 @@
         "platform": {
           "id": 14,
           "name": "Mac"
+        }
+      },
+      {
+        "id": 992892,
+        "date": 1800489600,
+        "platform": {
+          "id": 130,
+          "name": "Nintendo Switch"
         }
       }
     ],
@@ -106887,6 +106086,462 @@
         "type": {
           "id": 5,
           "type": "Twitter"
+        }
+      }
+    ]
+  },
+  {
+    "id": 420600,
+    "cover": {
+      "id": 606960,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cod0c0.jpg"
+    },
+    "first_release_date": 1796601600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      }
+    ],
+    "hypes": 3,
+    "involved_companies": [
+      {
+        "id": 417072,
+        "company": {
+          "id": 73674,
+          "name": "SkorpionDev"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Unharvest",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 981629,
+        "date": 1796601600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1934120,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15gdk.jpg"
+      },
+      {
+        "id": 1934121,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15gdl.jpg"
+      },
+      {
+        "id": 1934122,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15gdm.jpg"
+      },
+      {
+        "id": 1934123,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15gdn.jpg"
+      },
+      {
+        "id": 1934124,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15gdo.jpg"
+      },
+      {
+        "id": 1934125,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15gdp.jpg"
+      }
+    ],
+    "summary": "Drain the life from everything around you in this reverse-farming incremental game. Infect all that grows and upgrade your plagues as the land slowly dies. How far can the decay reach?",
+    "videos": [
+      {
+        "id": 197849,
+        "video_id": "W29z_4XsF_8"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1124844,
+        "url": "https://x.com/skorpiongamedev",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1124845,
+        "url": "https://www.instagram.com/skorpiondev/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1124846,
+        "url": "https://www.youtube.com/@SkorpionDev",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1124847,
+        "url": "https://discord.gg/XCXVYkcR6M",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1143035,
+        "url": "https://store.steampowered.com/app/5138990",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1143036,
+        "url": "https://www.twitch.tv/directory/category/unharvest",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 1143038,
+        "url": "https://impress.games/press-kit/skorpiondev/unharvest",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      }
+    ]
+  },
+  {
+    "id": 289433,
+    "cover": {
+      "id": 568855,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc6xj.jpg"
+    },
+    "first_release_date": 1796688000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 7,
+        "name": "Music"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 8,
+    "involved_companies": [
+      {
+        "id": 419624,
+        "company": {
+          "id": 70858,
+          "name": "Digital Pajamas"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 419625,
+        "company": {
+          "id": 70857,
+          "name": "Scary Kid Studios"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Don\u0027t Fret",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 990564,
+        "date": 1796688000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 990565,
+        "date": 1796688000,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 990566,
+        "date": 1796688000,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1255121,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqwgh.jpg"
+      },
+      {
+        "id": 1255122,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqwgi.jpg"
+      },
+      {
+        "id": 1255117,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqwgd.jpg"
+      },
+      {
+        "id": 1255119,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scqwgf.jpg"
+      }
+    ],
+    "summary": "Don\u0027t! Fret is stylized first-person psychological mascot-horror game set in a musically themed world. Play as a guitar named Fret to solve puzzles, escape from foes, and uncover the mystery behind Harmonic Heights.",
+    "videos": [
+      {
+        "id": 130194,
+        "video_id": "KJ1zRWHP78A"
+      },
+      {
+        "id": 166502,
+        "video_id": "YEHcO3rpyT4"
+      },
+      {
+        "id": 185804,
+        "video_id": "NiZYLa4pl0E"
+      },
+      {
+        "id": 186694,
+        "video_id": "bodsFo5y-Ao"
+      },
+      {
+        "id": 202951,
+        "video_id": "lj2z4bGKfRI"
+      }
+    ],
+    "websites": [
+      {
+        "id": 684822,
+        "url": "https://twitter.com/DontFretGame",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 684820,
+        "url": "https://dontfretgame.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 684821,
+        "url": "https://www.youtube.com/@SCARYKIDSTUDIOS",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 684824,
+        "url": "https://discord.gg/vHkv6HQztB",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 684823,
+        "url": "https://www.instagram.com/scary_kid_studios/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 619229,
+        "url": "https://store.steampowered.com/app/2716830",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1080576,
+        "url": "https://www.xbox.com/en-US/games/store/-/9N6H2HHKDVNK",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
+      }
+    ]
+  },
+  {
+    "id": 310840,
+    "cover": {
+      "id": 400782,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8l8u.jpg"
+    },
+    "first_release_date": 1796688000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 3,
+    "involved_companies": [
+      {
+        "id": 424770,
+        "company": {
+          "id": 84098,
+          "name": "Jonas Jensen"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 424771,
+        "company": {
+          "id": 84099,
+          "name": "Wes Larkin"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Never Be Alone",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 984055,
+        "date": 1796688000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1367860,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctbg4.jpg"
+      },
+      {
+        "id": 1367862,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctbg6.jpg"
+      },
+      {
+        "id": 1367871,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctbgf.jpg"
+      },
+      {
+        "id": 1367858,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctbg2.jpg"
+      },
+      {
+        "id": 1367865,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctbg9.jpg"
+      },
+      {
+        "id": 1367867,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctbgb.jpg"
+      },
+      {
+        "id": 1367863,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctbg7.jpg"
+      },
+      {
+        "id": 1367869,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctbgd.jpg"
+      }
+    ],
+    "summary": "Dive into the post-apocalyptic realm of \u0027Never Be Alone,\u0027 an expansive open-world game designed for both solo and multiplayer experiences. In this zombie survival adventure, you can seamlessly team up with friends or brave the dangers alone.",
+    "websites": [
+      {
+        "id": 842745,
+        "url": "https://discord.gg/U2zgJMfh5D",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 974013,
+        "url": "https://www.youtube.com/@BeastStudios_Official",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 658346,
+        "url": "https://store.steampowered.com/app/2988120",
+        "type": {
+          "id": 13,
+          "type": "Steam"
         }
       }
     ]
