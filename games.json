@@ -35107,43 +35107,32 @@
         }
       },
       {
-        "id": 902160,
-        "date": 1790726400,
+        "id": 993560,
+        "date": 1800489600,
         "platform": {
           "id": 130,
           "name": "Nintendo Switch"
         }
       },
       {
-        "id": 902161,
-        "date": 1790726400,
+        "id": 993561,
         "platform": {
           "id": 48,
           "name": "PlayStation 4"
         }
       },
       {
-        "id": 902162,
-        "date": 1790726400,
+        "id": 993562,
         "platform": {
           "id": 167,
           "name": "PlayStation 5"
         }
       },
       {
-        "id": 902163,
-        "date": 1790726400,
+        "id": 993563,
         "platform": {
           "id": 169,
           "name": "Xbox Series X|S"
-        }
-      },
-      {
-        "id": 970925,
-        "date": 1794441600,
-        "platform": {
-          "id": 130,
-          "name": "Nintendo Switch"
         }
       }
     ],
@@ -35343,6 +35332,14 @@
         "type": {
           "id": 22,
           "type": "Xbox"
+        }
+      },
+      {
+        "id": 1159728,
+        "url": "https://store.playstation.com/en-us/concept/10018356",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
         }
       }
     ]
@@ -42904,116 +42901,6 @@
     ]
   },
   {
-    "id": 405696,
-    "cover": {
-      "id": 574314,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocb56.jpg"
-    },
-    "first_release_date": 1789776000,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 397244,
-        "company": {
-          "id": 78524,
-          "name": "Althera Studio"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Night Record: Thin Walls",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 968219,
-        "date": 1789776000,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1859349,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13uol.jpg"
-      },
-      {
-        "id": 1859350,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13uom.jpg"
-      },
-      {
-        "id": 1859352,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13uoo.jpg"
-      },
-      {
-        "id": 1859351,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13uon.jpg"
-      },
-      {
-        "id": 1859347,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13uoj.jpg"
-      },
-      {
-        "id": 1859353,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13uop.jpg"
-      },
-      {
-        "id": 1859348,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc13uok.jpg"
-      }
-    ],
-    "summary": "Vadim, a maintenance worker in a decaying post-Soviet apartment, leaves town to care for his sick mother, asking his wife to take over his duties. As she settles into the routine, the building begins to feel off quiet in all the wrong ways.",
-    "websites": [
-      {
-        "id": 1068629,
-        "url": "https://store.steampowered.com/app/4652040",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1071238,
-        "url": "https://www.altheragames.com",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1071239,
-        "url": "https://www.instagram.com/altheragames/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      }
-    ]
-  },
-  {
     "id": 217549,
     "cover": {
       "id": 298455,
@@ -48339,6 +48226,46 @@
         "type": {
           "id": 18,
           "type": "Discord"
+        }
+      },
+      {
+        "id": 1159414,
+        "url": "https://apps.apple.com/us/app/bang-dream-our-notes/id6757695187?platform\u003dipad",
+        "type": {
+          "id": 11,
+          "type": "App Store (iPad)"
+        }
+      },
+      {
+        "id": 1159415,
+        "url": "https://play.google.com/store/apps/details?id\u003dcom.bilibili.sirius",
+        "type": {
+          "id": 12,
+          "type": "Google Play"
+        }
+      },
+      {
+        "id": 1159416,
+        "url": "https://apps.apple.com/us/app/bang-dream-our-notes/id6757695187",
+        "type": {
+          "id": 10,
+          "type": "App Store (iPhone)"
+        }
+      },
+      {
+        "id": 1159417,
+        "url": "https://twitter.com/bangdreamon_EN",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1159418,
+        "url": "https://www.youtube.com/bangdreamon_EN",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
         }
       }
     ]
@@ -90347,99 +90274,6 @@
     ]
   },
   {
-    "id": 412628,
-    "cover": {
-      "id": 608833,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cod1s1.jpg"
-    },
-    "first_release_date": 1794096000,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 15,
-        "name": "Strategy"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 3,
-    "involved_companies": [
-      {
-        "id": 406329,
-        "company": {
-          "id": 79942,
-          "name": "Arcana Interactive"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Company Tycoon",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 973495,
-        "date": 1792281600,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 973496,
-        "date": 1794096000,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "status": 3,
-    "summary": "A cyberpunk-styled business simulation and tycoon game where players build, scale, and manage their own tech empire.",
-    "websites": [
-      {
-        "id": 1142464,
-        "url": "https://arcanainteractive.pages.dev/en",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1142465,
-        "url": "https://www.youtube.com/@rebelorcs_official/shorts",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1142466,
-        "url": "https://discord.gg/rrxXQbvdZD",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      }
-    ]
-  },
-  {
     "id": 258341,
     "cover": {
       "id": 413146,
@@ -95704,6 +95538,96 @@
     ]
   },
   {
+    "id": 414867,
+    "cover": {
+      "id": 595242,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocrai.jpg"
+    },
+    "first_release_date": 1794441600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 427841,
+        "company": {
+          "id": 69907,
+          "name": "SwyTapp Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Scawy Game",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 992440,
+        "date": 1794441600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1906458,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14v16.jpg"
+      },
+      {
+        "id": 1906459,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14v17.jpg"
+      },
+      {
+        "id": 1906460,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14v18.jpg"
+      },
+      {
+        "id": 1906455,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14v13.jpg"
+      },
+      {
+        "id": 1906456,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14v14.jpg"
+      },
+      {
+        "id": 1906457,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14v15.jpg"
+      }
+    ],
+    "summary": "Kenguin Sting, a failed horror writer, buys a cheap asset-store house to write his masterpiece. His only job: feed the cats. And keep Grandma on her pills. And survive 4 days and 4 nights. An absurd parody horror game.",
+    "websites": [
+      {
+        "id": 1101100,
+        "url": "https://store.steampowered.com/app/4992660",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      }
+    ]
+  },
+  {
     "id": 206842,
     "cover": {
       "id": 466834,
@@ -98412,14 +98336,6 @@
       {
         "id": 1,
         "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
       }
     ],
     "genres": [
@@ -98677,7 +98593,7 @@
         "name": "Adventure"
       }
     ],
-    "hypes": 1162,
+    "hypes": 1167,
     "involved_companies": [
       {
         "id": 423819,
@@ -99279,6 +99195,14 @@
           "id": 18,
           "type": "Discord"
         }
+      },
+      {
+        "id": 1159501,
+        "url": "https://www.youtube.com/@CozyFlameGames",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
       }
     ]
   },
@@ -99520,6 +99444,152 @@
       {
         "id": 1077431,
         "url": "https://bsky.app/profile/rockstargames.com",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      }
+    ]
+  },
+  {
+    "id": 417016,
+    "cover": {
+      "id": 600146,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocv2q.jpg"
+    },
+    "first_release_date": 1795046400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 412613,
+        "company": {
+          "id": 81057,
+          "name": "Cattrall Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Salt of the Earth",
+    "platforms": [
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 962945,
+        "date": 1795046400,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      },
+      {
+        "id": 962946,
+        "date": 1795046400,
+        "platform": {
+          "id": 3,
+          "name": "Linux"
+        }
+      },
+      {
+        "id": 962944,
+        "date": 1795046400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1917640,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc153ns.jpg"
+      },
+      {
+        "id": 1917641,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc153nt.jpg"
+      },
+      {
+        "id": 1917642,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc153nu.jpg"
+      },
+      {
+        "id": 1917645,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc153nx.jpg"
+      },
+      {
+        "id": 1917643,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc153nv.jpg"
+      },
+      {
+        "id": 1917644,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc153nw.jpg"
+      },
+      {
+        "id": 1917646,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc153ny.jpg"
+      },
+      {
+        "id": 1917647,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc153nz.jpg"
+      },
+      {
+        "id": 1917648,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc153o0.jpg"
+      }
+    ],
+    "summary": "An isometric medieval city builder. You hold one manor by charter: lay the roads, work the fields, and raise hovels into town houses by meeting what each household needs. Winters take stores, the Crown takes dues, and raiders take whatever will burn.",
+    "websites": [
+      {
+        "id": 1114913,
+        "url": "https://store.steampowered.com/app/5127260",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1114914,
+        "url": "https://cattrall.games/games/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1114915,
+        "url": "https://bsky.app/profile/cattrall.itch.io",
         "type": {
           "id": 19,
           "type": "Bluesky"
@@ -104007,7 +104077,7 @@
         "name": "Adventure"
       }
     ],
-    "hypes": 3,
+    "hypes": 2,
     "involved_companies": [
       {
         "id": 403759,
