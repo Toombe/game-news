@@ -38,15 +38,6 @@
         "publisher": true
       },
       {
-        "id": 417683,
-        "company": {
-          "id": 423,
-          "name": "Deep Silver"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
         "id": 417684,
         "company": {
           "id": 314,
@@ -54,6 +45,15 @@
         },
         "developer": true,
         "publisher": false
+      },
+      {
+        "id": 417683,
+        "company": {
+          "id": 423,
+          "name": "Deep Silver"
+        },
+        "developer": false,
+        "publisher": true
       }
     ],
     "name": "Metro Redux",
@@ -5628,291 +5628,6 @@
         "type": {
           "id": 1,
           "type": "Official Website"
-        }
-      }
-    ]
-  },
-  {
-    "id": 131868,
-    "cover": {
-      "id": 208098,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co4gki.jpg"
-    },
-    "first_release_date": 1612396800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 8,
-        "name": "Platform"
-      },
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 25,
-        "name": "Hack and slash/Beat \u0027em up"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 3,
-    "involved_companies": [
-      {
-        "id": 364847,
-        "company": {
-          "id": 15257,
-          "name": "Graffiti Games"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 364848,
-        "company": {
-          "id": 24710,
-          "name": "ROBI Studios"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Blue Fire",
-    "platforms": [
-      {
-        "id": 170,
-        "name": "Google Stadia"
-      },
-      {
-        "id": 48,
-        "name": "PlayStation 4"
-      },
-      {
-        "id": 34,
-        "name": "Android"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 39,
-        "name": "iOS"
-      },
-      {
-        "id": 49,
-        "name": "Xbox One"
-      },
-      {
-        "id": 130,
-        "name": "Nintendo Switch"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 251574,
-        "date": 1622505600,
-        "platform": {
-          "id": 170,
-          "name": "Google Stadia"
-        }
-      },
-      {
-        "id": 303534,
-        "date": 1625788800,
-        "platform": {
-          "id": 49,
-          "name": "Xbox One"
-        }
-      },
-      {
-        "id": 338379,
-        "date": 1624579200,
-        "platform": {
-          "id": 130,
-          "name": "Nintendo Switch"
-        }
-      },
-      {
-        "id": 227448,
-        "date": 1612396800,
-        "platform": {
-          "id": 130,
-          "name": "Nintendo Switch"
-        }
-      },
-      {
-        "id": 240186,
-        "date": 1612396800,
-        "platform": {
-          "id": 48,
-          "name": "PlayStation 4"
-        }
-      },
-      {
-        "id": 854024,
-        "date": 1612396800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 922026,
-        "date": 1790726400,
-        "platform": {
-          "id": 34,
-          "name": "Android"
-        }
-      },
-      {
-        "id": 922242,
-        "date": 1790726400,
-        "platform": {
-          "id": 39,
-          "name": "iOS"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 375867,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc820r.jpg"
-      },
-      {
-        "id": 375866,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc820q.jpg"
-      },
-      {
-        "id": 375864,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc820o.jpg"
-      },
-      {
-        "id": 375865,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc820p.jpg"
-      },
-      {
-        "id": 375868,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc820s.jpg"
-      }
-    ],
-    "summary": "Embark on an extraordinary journey through the desolated kingdom of Penumbra and discover the hidden secrets of this long-forgotten land. Explore mystical temples, encounter survivors and take on strange quests to collect valuable items. Along your adventure, slash your way through daunting adversaries, roam across mysterious and abandoned regions, leap through deadly traps and ultimately master the art of movement.",
-    "videos": [
-      {
-        "id": 156612,
-        "video_id": "FMeLoF_mZsE"
-      },
-      {
-        "id": 186263,
-        "video_id": "6j3IyqfdUKw"
-      }
-    ],
-    "websites": [
-      {
-        "id": 144070,
-        "url": "https://store.steampowered.com/app/1220150",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 137311,
-        "url": "https://twitter.com/Graffiti_Games",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 835376,
-        "url": "https://store.playstation.com/en-us/concept/10000627",
-        "type": {
-          "id": 23,
-          "type": "Playstation"
-        }
-      },
-      {
-        "id": 835377,
-        "url": "https://www.nintendo.com/games/detail/blue-fire-switch/",
-        "type": {
-          "id": 24,
-          "type": "Nintendo"
-        }
-      },
-      {
-        "id": 200193,
-        "url": "https://www.robistudios.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 203515,
-        "url": "https://www.gog.com/game/blue_fire",
-        "type": {
-          "id": 17,
-          "type": "GOG"
-        }
-      },
-      {
-        "id": 971800,
-        "url": "https://www.twitch.tv/directory/category/blue-fire",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 971801,
-        "url": "https://www.youtube.com/@Robistudios",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 203516,
-        "url": "https://graffiti-games.itch.io/blue-fire",
-        "type": {
-          "id": 15,
-          "type": "Itch"
-        }
-      },
-      {
-        "id": 203517,
-        "url": "https://discord.gg/q4ydWSG",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 271200,
-        "url": "https://store.epicgames.com/p/blue-fire-9c1dac",
-        "type": {
-          "id": 16,
-          "type": "Epic"
-        }
-      },
-      {
-        "id": 1105534,
-        "url": "https://www.xbox.com/en-us/games/store/blue-fire/9P19V385GM8T",
-        "type": {
-          "id": 22,
-          "type": "Xbox"
         }
       }
     ]
@@ -32825,242 +32540,6 @@
     ]
   },
   {
-    "id": 347665,
-    "cover": {
-      "id": 551819,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobtsb.jpg"
-    },
-    "first_release_date": 1776124800,
-    "game_modes": [
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      }
-    ],
-    "genres": [
-      {
-        "id": 5,
-        "name": "Shooter"
-      },
-      {
-        "id": 36,
-        "name": "MOBA"
-      }
-    ],
-    "hypes": 9,
-    "involved_companies": [
-      {
-        "id": 377841,
-        "company": {
-          "id": 72535,
-          "name": "Night Street Games"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Last Flag",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 888666,
-        "date": 1790726400,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 888667,
-        "date": 1790726400,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      },
-      {
-        "id": 900369,
-        "date": 1776124800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1552122,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx9mi.jpg"
-      },
-      {
-        "id": 1552124,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scx9mk.jpg"
-      },
-      {
-        "id": 1805616,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12p80.jpg"
-      },
-      {
-        "id": 1805617,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12p81.jpg"
-      },
-      {
-        "id": 1805618,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12p82.jpg"
-      },
-      {
-        "id": 1805619,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12p83.jpg"
-      },
-      {
-        "id": 1805620,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12p84.jpg"
-      },
-      {
-        "id": 1805621,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc12p85.jpg"
-      }
-    ],
-    "summary": "Hide your flag. Find the enemy flag. Run it back, then defend for a minute to win it. Welcome to Last Flag: a fast-paced 5v5 shooter with showstopping contestants, set in a televised competition where strategy, teamwork, and chaos blend in the ultimate game of Capture the Flag.",
-    "videos": [
-      {
-        "id": 152770,
-        "video_id": "v4YiTj82Hb8"
-      },
-      {
-        "id": 159825,
-        "video_id": "VXOpwfMG6hM"
-      },
-      {
-        "id": 170144,
-        "video_id": "ZBwEOQgdMIk"
-      },
-      {
-        "id": 175424,
-        "video_id": "wIaNNtoBeb4"
-      },
-      {
-        "id": 178649,
-        "video_id": "o8IXuDiGLF8"
-      },
-      {
-        "id": 181265,
-        "video_id": "9giWh-QEThA"
-      }
-    ],
-    "websites": [
-      {
-        "id": 808649,
-        "url": "https://bsky.app/profile/playlastflag.bsky.social",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 808648,
-        "url": "https://x.com/playlastflag",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 808646,
-        "url": "https://discord.gg/lastflag",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 808647,
-        "url": "https://www.youtube.com/@PlayLastFlag",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 808645,
-        "url": "https://store.steampowered.com/app/2721340",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 808650,
-        "url": "https://www.instagram.com/playlastflag",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 832965,
-        "url": "https://lastflag.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 832964,
-        "url": "https://store.epicgames.com/en-US/p/last-flag-ec8a73",
-        "type": {
-          "id": 16,
-          "type": "Epic"
-        }
-      },
-      {
-        "id": 1034284,
-        "url": "https://www.facebook.com/playlastflag",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 1034291,
-        "url": "https://www.twitch.tv/directory/category/last-flag",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 1034285,
-        "url": "https://www.reddit.com/r/LastFlag/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 1091806,
-        "url": "https://en.wikipedia.org/wiki/Last_Flag",
-        "type": {
-          "id": 3,
-          "type": "Wikipedia"
-        }
-      }
-    ]
-  },
-  {
     "id": 234662,
     "cover": {
       "id": 283894,
@@ -38801,230 +38280,6 @@
     ]
   },
   {
-    "id": 309518,
-    "cover": {
-      "id": 549379,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobrwj.jpg"
-    },
-    "first_release_date": 1784678400,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 8,
-        "name": "Platform"
-      },
-      {
-        "id": 9,
-        "name": "Puzzle"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 5,
-    "involved_companies": [
-      {
-        "id": 332802,
-        "company": {
-          "id": 65460,
-          "name": "Adventure Works"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Lifted",
-    "platforms": [
-      {
-        "id": 3,
-        "name": "Linux"
-      },
-      {
-        "id": 508,
-        "name": "Nintendo Switch 2"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 887905,
-        "date": 1790726400,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 919992,
-        "date": 1784678400,
-        "platform": {
-          "id": 3,
-          "name": "Linux"
-        }
-      },
-      {
-        "id": 919993,
-        "date": 1784678400,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 919994,
-        "date": 1790726400,
-        "platform": {
-          "id": 508,
-          "name": "Nintendo Switch 2"
-        }
-      },
-      {
-        "id": 919995,
-        "date": 1784678400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1359317,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sct4ut.jpg"
-      },
-      {
-        "id": 1359318,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sct4uu.jpg"
-      },
-      {
-        "id": 1359319,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sct4uv.jpg"
-      },
-      {
-        "id": 1359312,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sct4uo.jpg"
-      },
-      {
-        "id": 1359313,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sct4up.jpg"
-      },
-      {
-        "id": 1359314,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sct4uq.jpg"
-      },
-      {
-        "id": 1359315,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sct4ur.jpg"
-      },
-      {
-        "id": 1359316,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sct4us.jpg"
-      },
-      {
-        "id": 1359320,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sct4uw.jpg"
-      },
-      {
-        "id": 1359321,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sct4ux.jpg"
-      }
-    ],
-    "summary": "Step into the Anytime Elevator and get LIFTED — a cinematic single-player 2.5D puzzle-platform adventure from a former Disney ride designer.\n\nSlacker Ari Buktu only pokes his head into Professor Raventhorpe’s lab for extra credit; seconds later he’s hurtling through history on a reckless mission to steal a legendary tiara and fix the professor’s love-life. Each stop opens a new era, a bigger puzzle, and the shadow of a rival tomb-raider who’s always one jump behind…",
-    "videos": [
-      {
-        "id": 164150,
-        "video_id": "dxHYIWSY3Z4"
-      },
-      {
-        "id": 191907,
-        "video_id": "k1FoAuP_TqY"
-      },
-      {
-        "id": 129407,
-        "video_id": "PrF3Loz9Y4o"
-      },
-      {
-        "id": 129408,
-        "video_id": "mh6Fo0WNths"
-      },
-      {
-        "id": 185631,
-        "video_id": "FXuxX3qQ2U4"
-      }
-    ],
-    "websites": [
-      {
-        "id": 682269,
-        "url": "https://www.twitch.tv/directory/category/ari-buktu-and-the-anytime-elevator",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 682268,
-        "url": "https://adventure.works/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 884717,
-        "url": "https://www.youtube.com/@LIFTEDGame",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 796243,
-        "url": "https://www.instagram.com/adventureworks/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 682271,
-        "url": "https://twitter.com/Adventure_Works",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 655846,
-        "url": "https://store.steampowered.com/app/2184020",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      }
-    ]
-  },
-  {
     "id": 342305,
     "cover": {
       "id": 591374,
@@ -39744,8 +38999,8 @@
   {
     "id": 165397,
     "cover": {
-      "id": 388570,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8btm.jpg"
+      "id": 625395,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/codek3.jpg"
     },
     "first_release_date": 1785456000,
     "game_modes": [
@@ -39814,8 +39069,8 @@
     ],
     "release_dates": [
       {
-        "id": 898385,
-        "date": 1790726400,
+        "id": 993686,
+        "date": 1791504000,
         "platform": {
           "id": 508,
           "name": "Nintendo Switch 2"
@@ -39954,6 +39209,14 @@
         "type": {
           "id": 22,
           "type": "Xbox"
+        }
+      },
+      {
+        "id": 1159790,
+        "url": "https://www.nintendo.com/us/store/products/the-relic-first-guardian-switch-2/",
+        "type": {
+          "id": 24,
+          "type": "Nintendo"
         }
       },
       {
@@ -42298,6 +41561,14 @@
         "type": {
           "id": 5,
           "type": "Twitter"
+        }
+      },
+      {
+        "id": 1160215,
+        "url": "https://www.xbox.com/en-us/games/store/-/9MVHWTRSV1VN",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
         }
       },
       {
@@ -52326,8 +51597,8 @@
   {
     "id": 277846,
     "cover": {
-      "id": 622696,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/codch4.jpg"
+      "id": 625379,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/codejn.jpg"
     },
     "first_release_date": 1790726400,
     "game_modes": [
@@ -52544,223 +51815,6 @@
         "type": {
           "id": 6,
           "type": "Twitch"
-        }
-      }
-    ]
-  },
-  {
-    "id": 289983,
-    "cover": {
-      "id": 469948,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coa2m4.jpg"
-    },
-    "first_release_date": 1790726400,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 5,
-        "name": "Shooter"
-      },
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 25,
-        "name": "Hack and slash/Beat \u0027em up"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 14,
-    "involved_companies": [
-      {
-        "id": 352731,
-        "company": {
-          "id": 64063,
-          "name": "Oneway Ticket Studio"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "The Midnight Walkers",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 818136,
-        "date": 1790726400,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 818137,
-        "date": 1790726400,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      },
-      {
-        "id": 818135,
-        "date": 1790726400,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 836411,
-        "date": 1769644800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1664131,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczo1v.jpg"
-      },
-      {
-        "id": 1664132,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczo1w.jpg"
-      },
-      {
-        "id": 1664133,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczo1x.jpg"
-      },
-      {
-        "id": 1664134,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczo1y.jpg"
-      },
-      {
-        "id": 1664130,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczo1u.jpg"
-      },
-      {
-        "id": 1664265,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczo5l.jpg"
-      },
-      {
-        "id": 1664266,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczo5m.jpg"
-      },
-      {
-        "id": 1664264,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczo5k.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "Fight, Scavenge, and Extract in The Midnight Walkers, a hardcore FPS game with deadly zombies, dangerous players, and valuable loot. Craft weapons, armor, and consumables; trade items; and maintain your hideout. Escape Liberty Grand Center mega complex, and thrive...or die and lose everything.",
-    "videos": [
-      {
-        "id": 164916,
-        "video_id": "EHkAKLQpJZk"
-      },
-      {
-        "id": 150917,
-        "video_id": "5KOGgkem7dU"
-      },
-      {
-        "id": 155006,
-        "video_id": "1gp1Vn7IU0c"
-      }
-    ],
-    "websites": [
-      {
-        "id": 826455,
-        "url": "https://www.twitch.tv/directory/category/the-midnight-walkers",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 822248,
-        "url": "https://www.instagram.com/themidnightwalkers",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 798485,
-        "url": "https://www.youtube.com/@TheMidnightWalkersDev",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 798484,
-        "url": "https://x.com/owt_official_x",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 798482,
-        "url": "https://onewayticketstudio.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 798486,
-        "url": "https://www.reddit.com/r/themidnightwalkers/",
-        "type": {
-          "id": 14,
-          "type": "Subreddit"
-        }
-      },
-      {
-        "id": 798487,
-        "url": "https://discord.gg/themidnightwalkers",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 619934,
-        "url": "https://store.steampowered.com/app/2795540",
-        "type": {
-          "id": 13,
-          "type": "Steam"
         }
       }
     ]
@@ -97071,8 +96125,8 @@
   {
     "id": 396555,
     "cover": {
-      "id": 553008,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobupc.jpg"
+      "id": 625396,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/codek4.jpg"
     },
     "first_release_date": 1794787200,
     "game_modes": [
@@ -98593,7 +97647,7 @@
         "name": "Adventure"
       }
     ],
-    "hypes": 1167,
+    "hypes": 1584,
     "involved_companies": [
       {
         "id": 423819,
@@ -99241,7 +98295,7 @@
         "name": "Adventure"
       }
     ],
-    "hypes": 7,
+    "hypes": 11,
     "involved_companies": [
       {
         "id": 397714,
@@ -102067,7 +101121,7 @@
         "name": "Adventure"
       }
     ],
-    "hypes": 5,
+    "hypes": 6,
     "involved_companies": [
       {
         "id": 419038,
@@ -102275,7 +101329,7 @@
         "name": "Adventure"
       }
     ],
-    "hypes": 20,
+    "hypes": 19,
     "involved_companies": [
       {
         "id": 309513,
@@ -103342,7 +102396,7 @@
         "name": "Indie"
       }
     ],
-    "hypes": 7,
+    "hypes": 6,
     "involved_companies": [
       {
         "id": 423722,
@@ -106609,6 +105663,678 @@
       {
         "id": 658346,
         "url": "https://store.steampowered.com/app/2988120",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      }
+    ]
+  },
+  {
+    "id": 399414,
+    "cover": {
+      "id": 558805,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cobz6d.jpg"
+    },
+    "first_release_date": 1796688000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 6,
+    "involved_companies": [
+      {
+        "id": 383036,
+        "company": {
+          "id": 48816,
+          "name": "Alliance Arts"
+        },
+        "developer": true,
+        "publisher": true
+      },
+      {
+        "id": 383037,
+        "company": {
+          "id": 54988,
+          "name": "WHO YOU"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Drunken Goddess Reflux",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 975197,
+        "date": 1796688000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1823150,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc132r2.jpg"
+      },
+      {
+        "id": 1823151,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc132r3.jpg"
+      },
+      {
+        "id": 1823152,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc132r4.jpg"
+      },
+      {
+        "id": 1823153,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc132r5.jpg"
+      },
+      {
+        "id": 1823155,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc132r7.jpg"
+      },
+      {
+        "id": 1823154,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc132r6.jpg"
+      }
+    ],
+    "summary": "Face off in a Russian roulette drinking survival with a demon who\u0027d kill for you—or kill you—where it\u0027s puke or be puked on for your soul. The more you drink, the more the rules break down, until it all spills into one hell of a night you\u0027ll never forget.",
+    "videos": [
+      {
+        "id": 182132,
+        "video_id": "SRFDW2Pm9nk"
+      },
+      {
+        "id": 188840,
+        "video_id": "nUrg6xkw3WA"
+      },
+      {
+        "id": 199014,
+        "video_id": "VrQPbptH3eQ"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1047828,
+        "url": "https://store.steampowered.com/app/4150720",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1156351,
+        "url": "https://x.com/pukeygoddess",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1156352,
+        "url": "https://discord.gg/BNe3Mutbam",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1156353,
+        "url": "https://www.youtube.com/@AllianceArtsOfficial",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      }
+    ]
+  },
+  {
+    "id": 408607,
+    "cover": {
+      "id": 595834,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocrqy.jpg"
+    },
+    "first_release_date": 1796688000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 5,
+        "name": "Shooter"
+      }
+    ],
+    "hypes": 19,
+    "involved_companies": [
+      {
+        "id": 398855,
+        "company": {
+          "id": 78752,
+          "name": "Eschatology Entertainment"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 398854,
+        "company": {
+          "id": 53692,
+          "name": "4Divinity"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Guns of Eschaton",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 978582,
+        "date": 1796688000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 978583,
+        "date": 1796688000,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      },
+      {
+        "id": 978584,
+        "date": 1796688000,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1872269,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc144nh.jpg"
+      },
+      {
+        "id": 1872262,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc144na.jpg"
+      },
+      {
+        "id": 1872263,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc144nb.jpg"
+      },
+      {
+        "id": 1872264,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc144nc.jpg"
+      },
+      {
+        "id": 1872265,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc144nd.jpg"
+      },
+      {
+        "id": 1872266,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc144ne.jpg"
+      },
+      {
+        "id": 1872267,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc144nf.jpg"
+      },
+      {
+        "id": 1872268,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc144ng.jpg"
+      },
+      {
+        "id": 1872270,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc144ni.jpg"
+      },
+      {
+        "id": 1872271,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc144nj.jpg"
+      },
+      {
+        "id": 1872272,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc144nk.jpg"
+      },
+      {
+        "id": 1872273,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc144nl.jpg"
+      }
+    ],
+    "summary": "The worlds first soulslike FPS pulls you into an apocalyptic Western by the legendary Viktor Antonov: a land of dust, blood, and horror. Study your enemies, count your bullets, forge your own style with gunpowder and prayers. Solo or in co-opgo West, gunslinger, go West and die with the country!",
+    "videos": [
+      {
+        "id": 191459,
+        "video_id": "2H3tbbfQ5GI"
+      },
+      {
+        "id": 191667,
+        "video_id": "pyCnsas1VGo"
+      },
+      {
+        "id": 194093,
+        "video_id": "Byiy5vHyuMo"
+      },
+      {
+        "id": 189300,
+        "video_id": "C58D98I3MyE"
+      },
+      {
+        "id": 199970,
+        "video_id": "he2VMTBlseI"
+      },
+      {
+        "id": 201069,
+        "video_id": "kMa8uFUSrNo"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1079673,
+        "url": "https://store.steampowered.com/app/3734220",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1079674,
+        "url": "https://store.playstation.com/en-us/concept/10016017/",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
+        }
+      },
+      {
+        "id": 1079676,
+        "url": "https://x.com/GunsOfEschaton",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1079677,
+        "url": "https://www.facebook.com/profile/GunsOfEschaton",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 1079678,
+        "url": "https://www.instagram.com/gunsofeschaton/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      },
+      {
+        "id": 1079675,
+        "url": "https://www.4divinity.com/gunsofeschaton",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1144257,
+        "url": "https://www.reddit.com/r/GunsOfEschaton/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 1144241,
+        "url": "https://www.youtube.com/@GoE_Game",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1144248,
+        "url": "https://discord.gg/P3JvQPE6gR",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1086064,
+        "url": "https://www.xbox.com/en-US/games/store/guns-of-eschaton/9nc7z1z6hw8r",
+        "type": {
+          "id": 22,
+          "type": "Xbox"
+        }
+      }
+    ]
+  },
+  {
+    "id": 421268,
+    "cover": {
+      "id": 608531,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cod1jn.jpg"
+    },
+    "first_release_date": 1796688000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 15,
+        "name": "Strategy"
+      },
+      {
+        "id": 16,
+        "name": "Turn-based strategy (TBS)"
+      },
+      {
+        "id": 24,
+        "name": "Tactical"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 35,
+        "name": "Card \u0026 Board Game"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 417884,
+        "company": {
+          "id": 82014,
+          "name": "Jumi Interactive"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Diorama Tactics",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 972942,
+        "date": 1796688000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1937499,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15izf.jpg"
+      },
+      {
+        "id": 1937500,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15izg.jpg"
+      },
+      {
+        "id": 1937501,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15izh.jpg"
+      },
+      {
+        "id": 1937502,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15izi.jpg"
+      },
+      {
+        "id": 1937503,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15izj.jpg"
+      }
+    ],
+    "summary": "Diorama Tactics is a strategic roguelite auto-battler inspired by fantasy board games. Players build a team of unique units, place them on a grid-based battlefield, and watch them fight automatically. Each unit has different strengths, roles, and abilities, while positioning and team composition determine the outcome of battles. Players progress through increasingly difficult encounters, collect new units, and face different enemy factions and powerful bosses.",
+    "videos": [
+      {
+        "id": 198357,
+        "video_id": "Y3aN_rikvkI"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1126890,
+        "url": "https://store.steampowered.com/app/5331130/Diorama_Tactics/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1126891,
+        "url": "https://jumiinteractive.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1126893,
+        "url": "https://www.youtube.com/@JuMiInteractive",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1126894,
+        "url": "https://discord.gg/fMHrkxFehB",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      }
+    ]
+  },
+  {
+    "id": 236665,
+    "cover": {
+      "id": 288838,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co66va.jpg"
+    },
+    "first_release_date": 1796860800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 9,
+        "name": "Puzzle"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 36,
+    "involved_companies": [
+      {
+        "id": 380729,
+        "company": {
+          "id": 837,
+          "name": "LEVEL-5"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Professor Layton and the New World of Steam",
+    "platforms": [
+      {
+        "id": 508,
+        "name": "Nintendo Switch 2"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 167,
+        "name": "PlayStation 5"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 963151,
+        "date": 1796860800,
+        "platform": {
+          "id": 130,
+          "name": "Nintendo Switch"
+        }
+      },
+      {
+        "id": 963152,
+        "date": 1796860800,
+        "platform": {
+          "id": 508,
+          "name": "Nintendo Switch 2"
+        }
+      },
+      {
+        "id": 963153,
+        "date": 1796860800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 963154,
+        "date": 1796860800,
+        "platform": {
+          "id": 167,
+          "name": "PlayStation 5"
+        }
+      }
+    ],
+    "summary": "Professor Layton and the New World of Steam depicts the world one year after the events of \"Professor Layton and the Unwound Future\".\n\nDue to a mysterious incident in Steam Bison, a new adventure for Layton and Luke begins!",
+    "videos": [
+      {
+        "id": 86253,
+        "video_id": "h1IxYs46wg0"
+      },
+      {
+        "id": 83958,
+        "video_id": "yr50WwktW6E"
+      },
+      {
+        "id": 102414,
+        "video_id": "lap19DzT_Co"
+      },
+      {
+        "id": 127408,
+        "video_id": "RKwpKw2v6RE"
+      },
+      {
+        "id": 163260,
+        "video_id": "lGg-DYmG3fI"
+      },
+      {
+        "id": 180821,
+        "video_id": "cP05Iaq_eP8"
+      },
+      {
+        "id": 195707,
+        "video_id": "A9T4tpsxjkQ"
+      },
+      {
+        "id": 195863,
+        "video_id": "slNnCS6Rn3g"
+      }
+    ],
+    "websites": [
+      {
+        "id": 528867,
+        "url": "https://www.layton.jp/jouki/en",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 529653,
+        "url": "https://twitter.com/laytonseries",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1157056,
+        "url": "https://store.steampowered.com/app/3384600",
         "type": {
           "id": 13,
           "type": "Steam"
