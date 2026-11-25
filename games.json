@@ -39724,136 +39724,6 @@
     ]
   },
   {
-    "id": 369176,
-    "cover": {
-      "id": 491026,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coaivm.jpg"
-    },
-    "first_release_date": 1790380800,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 4,
-        "name": "Split screen"
-      }
-    ],
-    "genres": [
-      {
-        "id": 10,
-        "name": "Racing"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 347735,
-        "company": {
-          "id": 49631,
-          "name": "SlyBalto"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Hyperboard Extreme",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 813627,
-        "date": 1755388800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 971219,
-        "date": 1790380800,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1645895,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz9zb.jpg"
-      },
-      {
-        "id": 1645891,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz9z7.jpg"
-      },
-      {
-        "id": 1645896,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz9zc.jpg"
-      },
-      {
-        "id": 1645893,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz9z9.jpg"
-      },
-      {
-        "id": 1645894,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz9za.jpg"
-      },
-      {
-        "id": 1645892,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scz9z8.jpg"
-      }
-    ],
-    "summary": "Hyperboard Extreme revives PS2-era arcade-style racing with cool girls, crazy powerups, and intense, speedy action.",
-    "websites": [
-      {
-        "id": 883796,
-        "url": "https://www.twitch.tv/directory/category/hyperboard-extreme",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 882166,
-        "url": "https://slybalto.itch.io/hyperboard-extreme",
-        "type": {
-          "id": 15,
-          "type": "Itch"
-        }
-      },
-      {
-        "id": 1094067,
-        "url": "https://store.steampowered.com/app/4892910",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1094068,
-        "url": "https://www.youtube.com/@SlyBalto",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      }
-    ]
-  },
-  {
     "id": 384325,
     "cover": {
       "id": 523677,
@@ -71559,6 +71429,14 @@
     ],
     "websites": [
       {
+        "id": 1163615,
+        "url": "https://www.nintendo.com/US/store/products/the-wolf-among-us-remastered-switch/",
+        "type": {
+          "id": 24,
+          "type": "Nintendo"
+        }
+      },
+      {
         "id": 1065814,
         "url": "https://store.epicgames.com/p/the-wolf-among-us-remastered-73d444",
         "type": {
@@ -77673,6 +77551,14 @@
         "type": {
           "id": 18,
           "type": "Discord"
+        }
+      },
+      {
+        "id": 1163374,
+        "url": "https://robrunwiki.net/",
+        "type": {
+          "id": 2,
+          "type": "Community Wiki"
         }
       }
     ]
@@ -90588,6 +90474,438 @@
     ]
   },
   {
+    "id": 313810,
+    "cover": {
+      "id": 406469,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8pmt.jpg"
+    },
+    "first_release_date": 1795564800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 283023,
+        "company": {
+          "id": 29343,
+          "name": "Roost Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Cat Cafe Manager 2: Big City Bliss",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 995272,
+        "date": 1795564800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1383452,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctnh8.jpg"
+      },
+      {
+        "id": 1383456,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctnhc.jpg"
+      },
+      {
+        "id": 1383458,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctnhe.jpg"
+      },
+      {
+        "id": 1383453,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctnh9.jpg"
+      },
+      {
+        "id": 1383451,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctnh7.jpg"
+      },
+      {
+        "id": 1383455,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctnhb.jpg"
+      },
+      {
+        "id": 1383450,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctnh6.jpg"
+      },
+      {
+        "id": 1383457,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctnhd.jpg"
+      },
+      {
+        "id": 1383454,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctnha.jpg"
+      }
+    ],
+    "summary": "In this cozy management lifesim, care for cute cats \u0026 customers while exploring a bustling folkloric city. Build the cat cafe of your dreams and fill hearts with delight using the power of cats, coffee and community",
+    "videos": [
+      {
+        "id": 123632,
+        "video_id": "nCgaxPtl4S8"
+      }
+    ],
+    "websites": [
+      {
+        "id": 666377,
+        "url": "https://www.twitch.tv/directory/category/cat-cafe-manager-2-big-city-bliss",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 874186,
+        "url": "https://bsky.app/profile/roostgames.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 874187,
+        "url": "https://www.reddit.com/r/catcafemanager/",
+        "type": {
+          "id": 14,
+          "type": "Subreddit"
+        }
+      },
+      {
+        "id": 664473,
+        "url": "https://store.steampowered.com/app/3109590",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 666380,
+        "url": "https://twitter.com/roostgames",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 666379,
+        "url": "https://www.facebook.com/catcafemanager/",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 666376,
+        "url": "https://catcafemanager.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 666378,
+        "url": "https://www.youtube.com/channel/UCzlCha43UlfRPkvEVtejfsw",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 666381,
+        "url": "https://discord.gg/invite/sAXW2mx",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1130826,
+        "url": "https://www.instagram.com/catcafemanager/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      }
+    ]
+  },
+  {
+    "id": 370782,
+    "cover": {
+      "id": 559899,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coc00r.jpg"
+    },
+    "first_release_date": 1795564800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 3,
+        "name": "Co-operative"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      },
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 383690,
+        "company": {
+          "id": 24294,
+          "name": "PlayTogether Studio"
+        },
+        "developer": true,
+        "publisher": false
+      },
+      {
+        "id": 383691,
+        "company": {
+          "id": 26856,
+          "name": "Bonus Stage Publishing"
+        },
+        "developer": false,
+        "publisher": true
+      },
+      {
+        "id": 383692,
+        "company": {
+          "id": 54969,
+          "name": "Pebbles Games"
+        },
+        "developer": true,
+        "publisher": false
+      }
+    ],
+    "name": "Arctic Drive",
+    "platforms": [
+      {
+        "id": 169,
+        "name": "Xbox Series X|S"
+      },
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 969316,
+        "date": 1795564800,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 969317,
+        "date": 1795564800,
+        "platform": {
+          "id": 169,
+          "name": "Xbox Series X|S"
+        }
+      },
+      {
+        "id": 878510,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      },
+      {
+        "id": 878511,
+        "platform": {
+          "id": 3,
+          "name": "Linux"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1929193,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15ckp.jpg"
+      },
+      {
+        "id": 1929194,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15ckq.jpg"
+      },
+      {
+        "id": 1929195,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15ckr.jpg"
+      },
+      {
+        "id": 1929196,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15cks.jpg"
+      },
+      {
+        "id": 1929197,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15ckt.jpg"
+      },
+      {
+        "id": 1929198,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15cku.jpg"
+      },
+      {
+        "id": 1929199,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15ckv.jpg"
+      },
+      {
+        "id": 1929200,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15ckw.jpg"
+      },
+      {
+        "id": 1941623,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15m5z.jpg"
+      },
+      {
+        "id": 1653437,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczfst.jpg"
+      },
+      {
+        "id": 1653441,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczfsx.jpg"
+      },
+      {
+        "id": 1653442,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczfsy.jpg"
+      },
+      {
+        "id": 1653440,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczfsw.jpg"
+      },
+      {
+        "id": 1653438,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczfsu.jpg"
+      },
+      {
+        "id": 1653439,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczfsv.jpg"
+      }
+    ],
+    "summary": "Explore and survive in the Arctic, where your car is the only thing keeping you alive. Arctic Drive is a 1–4 player co-op survival sim set in a procedurally generated winter wilderness. Find supplies, repair your rig, and haul it all onwards with only one hope left: there must be safety out there.",
+    "videos": [
+      {
+        "id": 163839,
+        "video_id": "wHJwFbLFi0Y"
+      },
+      {
+        "id": 176619,
+        "video_id": "1Q_DHp3eZ40"
+      },
+      {
+        "id": 197424,
+        "video_id": "m2-2LgVoicc"
+      },
+      {
+        "id": 198960,
+        "video_id": "I3X7G3zAKKY"
+      }
+    ],
+    "websites": [
+      {
+        "id": 883056,
+        "url": "https://store.steampowered.com/app/4009490/Arctic_Drive/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 883057,
+        "url": "https://www.youtube.com/channel/UCEPcgcrI-lbKf4ypyrgFGeg/",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 941781,
+        "url": "https://discord.gg/NKgZPmzvAw",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 1047359,
+        "url": "https://x.com/ArcticDriveGame",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 1047360,
+        "url": "https://www.facebook.com/arcticdrivegame",
+        "type": {
+          "id": 4,
+          "type": "Facebook"
+        }
+      },
+      {
+        "id": 1122054,
+        "url": "https://www.instagram.com/arcticdrivegame/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      }
+    ]
+  },
+  {
     "id": 292809,
     "cover": {
       "id": 452875,
@@ -91778,6 +92096,14 @@
           "id": 13,
           "type": "Steam"
         }
+      },
+      {
+        "id": 1163864,
+        "url": "https://store.playstation.com/en-us/concept/10014269",
+        "type": {
+          "id": 23,
+          "type": "Playstation"
+        }
       }
     ]
   },
@@ -91987,7 +92313,7 @@
         "name": "Adventure"
       }
     ],
-    "hypes": 51,
+    "hypes": 52,
     "involved_companies": [
       {
         "id": 386394,
@@ -98165,6 +98491,44 @@
           "id": 167,
           "name": "PlayStation 5"
         }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1996940,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16suk.jpg"
+      },
+      {
+        "id": 1996939,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16suj.jpg"
+      },
+      {
+        "id": 1996937,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16suh.jpg"
+      },
+      {
+        "id": 1996943,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16sun.jpg"
+      },
+      {
+        "id": 1996942,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16sum.jpg"
+      },
+      {
+        "id": 1996938,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16sui.jpg"
+      },
+      {
+        "id": 1996936,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16sug.jpg"
+      },
+      {
+        "id": 1996944,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16suo.jpg"
+      },
+      {
+        "id": 1996941,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16sul.jpg"
       }
     ],
     "summary": "Professor Layton and the New World of Steam depicts the world one year after the events of \"Professor Layton and the Unwound Future\".\n\nDue to a mysterious incident in Steam Bison, a new adventure for Layton and Luke begins!",
@@ -104470,207 +104834,6 @@
         "type": {
           "id": 13,
           "type": "Steam"
-        }
-      }
-    ]
-  },
-  {
-    "id": 250031,
-    "cover": {
-      "id": 303297,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6i0x.jpg"
-    },
-    "first_release_date": 1798675200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 8,
-        "name": "Platform"
-      },
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 3,
-    "involved_companies": [
-      {
-        "id": 215336,
-        "company": {
-          "id": 32086,
-          "name": "Christophe Galati"
-        },
-        "developer": true,
-        "publisher": false
-      },
-      {
-        "id": 235452,
-        "company": {
-          "id": 50429,
-          "name": "Deneos"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Tako no Himitsu: Ocean of Secrets",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 130,
-        "name": "Nintendo Switch"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 747287,
-        "date": 1798675200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 747288,
-        "date": 1798675200,
-        "platform": {
-          "id": 130,
-          "name": "Nintendo Switch"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1053889,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scml6p.jpg"
-      },
-      {
-        "id": 1053890,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scml6q.jpg"
-      },
-      {
-        "id": 1053891,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scml6r.jpg"
-      },
-      {
-        "id": 1053892,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scml6s.jpg"
-      },
-      {
-        "id": 1053893,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scml6t.jpg"
-      },
-      {
-        "id": 1053894,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scml6u.jpg"
-      },
-      {
-        "id": 1053895,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scml6v.jpg"
-      },
-      {
-        "id": 1053896,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scml6w.jpg"
-      },
-      {
-        "id": 1053897,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scml6x.jpg"
-      },
-      {
-        "id": 1053898,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scml6y.jpg"
-      }
-    ],
-    "summary": "Tako no Himitsu: Ocean of Secrets is an indie Action RPG made as a tribute to the Game Boy Advance era of gaming. A spiritual successor to Save me Mr Tako, play in a world where Octopuses were erased from history.",
-    "videos": [
-      {
-        "id": 89636,
-        "video_id": "1OSjg_zyKb8"
-      },
-      {
-        "id": 131779,
-        "video_id": "CPNuTy0fmh0"
-      },
-      {
-        "id": 151543,
-        "video_id": "XkHYhPsGFG8"
-      }
-    ],
-    "websites": [
-      {
-        "id": 793239,
-        "url": "https://www.facebook.com/chrisDeneos",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 793237,
-        "url": "https://bsky.app/profile/deneosproduction.com",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      },
-      {
-        "id": 793238,
-        "url": "https://www.instagram.com/chrisdeneos/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 551923,
-        "url": "https://store.steampowered.com/app/2357380/Tako_no_Himitsu_Ocean_of_Secrets/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 551925,
-        "url": "https://twitter.com/DeneosGames",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 551924,
-        "url": "https://www.deneosproduction.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 551926,
-        "url": "https://discord.gg/3628JbhN",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 688444,
-        "url": "https://www.youtube.com/@DeneosGames",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
         }
       }
     ]
