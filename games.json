@@ -9993,6 +9993,246 @@
     ]
   },
   {
+    "id": 266712,
+    "cover": {
+      "id": 444984,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co9jco.jpg"
+    },
+    "first_release_date": 1708560000,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 31,
+        "name": "Adventure"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 231294,
+        "company": {
+          "id": 18011,
+          "name": "Neos Corporation"
+        },
+        "developer": false,
+        "publisher": true
+      }
+    ],
+    "name": "Shin-chan: Shiro and the Coal Town",
+    "platforms": [
+      {
+        "id": 508,
+        "name": "Nintendo Switch 2"
+      },
+      {
+        "id": 34,
+        "name": "Android"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 39,
+        "name": "iOS"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 624055,
+        "date": 1708560000,
+        "platform": {
+          "id": 130,
+          "name": "Nintendo Switch"
+        }
+      },
+      {
+        "id": 624057,
+        "date": 1729728000,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 624056,
+        "date": 1729728000,
+        "platform": {
+          "id": 130,
+          "name": "Nintendo Switch"
+        }
+      },
+      {
+        "id": 977683,
+        "date": 1804118400,
+        "platform": {
+          "id": 508,
+          "name": "Nintendo Switch 2"
+        }
+      },
+      {
+        "id": 977689,
+        "date": 1747699200,
+        "platform": {
+          "id": 34,
+          "name": "Android"
+        }
+      },
+      {
+        "id": 977690,
+        "date": 1747699200,
+        "platform": {
+          "id": 39,
+          "name": "iOS"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1481791,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvrcv.jpg"
+      },
+      {
+        "id": 1481792,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvrcw.jpg"
+      },
+      {
+        "id": 1481796,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvrd0.jpg"
+      },
+      {
+        "id": 1481788,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvrcs.jpg"
+      },
+      {
+        "id": 1481795,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvrcz.jpg"
+      },
+      {
+        "id": 1481798,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvrd2.jpg"
+      },
+      {
+        "id": 1481789,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvrct.jpg"
+      },
+      {
+        "id": 1481790,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvrcu.jpg"
+      },
+      {
+        "id": 1481799,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvrd3.jpg"
+      },
+      {
+        "id": 1481797,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvrd1.jpg"
+      },
+      {
+        "id": 1481793,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvrcx.jpg"
+      },
+      {
+        "id": 1481794,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scvrcy.jpg"
+      }
+    ],
+    "summary": "Shin chan starts a mysterious daily routine, traveling between two worlds: the Village in Akita and Coal Town.",
+    "videos": [
+      {
+        "id": 97922,
+        "video_id": "mnAY1CQ6Yoc"
+      },
+      {
+        "id": 107669,
+        "video_id": "saMShwisYu8"
+      },
+      {
+        "id": 121420,
+        "video_id": "0prrCLPdk5M"
+      }
+    ],
+    "websites": [
+      {
+        "id": 817151,
+        "url": "https://www.nintendo.com/us/store/products/shin-chan-shiro-and-the-coal-town-switch/",
+        "type": {
+          "id": 24,
+          "type": "Nintendo"
+        }
+      },
+      {
+        "id": 799130,
+        "url": "https://x.com/crayon_natsu",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 659952,
+        "url": "https://www.twitch.tv/directory/category/shin-chan-the-castle-of-coal-town",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 582072,
+        "url": "https://game.neoscorp.jp/shinchan_coaltown/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 659803,
+        "url": "https://store.steampowered.com/app/2699820",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1134253,
+        "url": "https://apps.apple.com/us/app/shin-chan-shiro-coal-town/id6742214262",
+        "type": {
+          "id": 11,
+          "type": "App Store (iPad)"
+        }
+      },
+      {
+        "id": 1134254,
+        "url": "https://play.google.com/store/apps/details?id\u003dcom.crunchyroll.gv.shinchanshiroandcoal.game",
+        "type": {
+          "id": 12,
+          "type": "Google Play"
+        }
+      },
+      {
+        "id": 1134255,
+        "url": "https://apps.apple.com/us/app/shin-chan-shiro-coal-town/id6742214262",
+        "type": {
+          "id": 10,
+          "type": "App Store (iPhone)"
+        }
+      }
+    ]
+  },
+  {
     "id": 127165,
     "cover": {
       "id": 578103,
@@ -16782,263 +17022,6 @@
         "type": {
           "id": 16,
           "type": "Epic"
-        }
-      }
-    ]
-  },
-  {
-    "id": 310904,
-    "cover": {
-      "id": 417994,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co8yiy.jpg"
-    },
-    "first_release_date": 1738800000,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 16,
-        "name": "Turn-based strategy (TBS)"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 11,
-    "involved_companies": [
-      {
-        "id": 414820,
-        "company": {
-          "id": 6561,
-          "name": "YCJY Games"
-        },
-        "developer": true,
-        "publisher": true
-      },
-      {
-        "id": 414821,
-        "company": {
-          "id": 70731,
-          "name": "Kepler Ghost"
-        },
-        "developer": false,
-        "publisher": true
-      }
-    ],
-    "name": "Keep Driving",
-    "platforms": [
-      {
-        "id": 169,
-        "name": "Xbox Series X|S"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 167,
-        "name": "PlayStation 5"
-      },
-      {
-        "id": 130,
-        "name": "Nintendo Switch"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 692637,
-        "date": 1738800000,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 966643,
-        "date": 1790553600,
-        "platform": {
-          "id": 167,
-          "name": "PlayStation 5"
-        }
-      },
-      {
-        "id": 966644,
-        "date": 1790553600,
-        "platform": {
-          "id": 169,
-          "name": "Xbox Series X|S"
-        }
-      },
-      {
-        "id": 966645,
-        "date": 1790553600,
-        "platform": {
-          "id": 130,
-          "name": "Nintendo Switch"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1396578,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctxlu.jpg"
-      },
-      {
-        "id": 1396580,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctxlw.jpg"
-      },
-      {
-        "id": 1396582,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctxly.jpg"
-      },
-      {
-        "id": 1368382,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctbum.jpg"
-      },
-      {
-        "id": 1368380,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctbuk.jpg"
-      },
-      {
-        "id": 1396579,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctxlv.jpg"
-      },
-      {
-        "id": 1396581,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctxlx.jpg"
-      }
-    ],
-    "summary": "An atmospheric management RPG about life on the open road. Pick up hitchhikers, work odd jobs, customize and repair your car, and map your route across the country. Use upgrades, skills and items to overcome challenges. And remember to take it easy. You’re young. You have time.",
-    "videos": [
-      {
-        "id": 129998,
-        "video_id": "ag7Ss-Hxdw0"
-      },
-      {
-        "id": 139628,
-        "video_id": "k6eFgU9XiHg"
-      },
-      {
-        "id": 138409,
-        "video_id": "nT5YZlFKDgA"
-      },
-      {
-        "id": 196753,
-        "video_id": "EWqXkxl1BRY"
-      }
-    ],
-    "websites": [
-      {
-        "id": 658424,
-        "url": "https://store.steampowered.com/app/2756920",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 674573,
-        "url": "https://twitter.com/YCJYgames",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 684141,
-        "url": "https://www.facebook.com/ycjygames/",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 684142,
-        "url": "https://www.instagram.com/YCJYgames",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 684143,
-        "url": "https://discord.gg/j3zjBjR",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 684140,
-        "url": "https://www.youtube.com/YCJYgames",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 674572,
-        "url": "http://www.whycjwhy.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 705853,
-        "url": "https://www.twitch.tv/directory/category/keep-driving",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 1147880,
-        "url": "https://www.gog.com/en/game/keep_driving",
-        "type": {
-          "id": 17,
-          "type": "GOG"
-        }
-      },
-      {
-        "id": 1119745,
-        "url": "https://store.playstation.com/en-us/concept/10017559",
-        "type": {
-          "id": 23,
-          "type": "Playstation"
-        }
-      },
-      {
-        "id": 1096541,
-        "url": "https://en.wikipedia.org/wiki/Keep_Driving_(video_game)",
-        "type": {
-          "id": 3,
-          "type": "Wikipedia"
-        }
-      },
-      {
-        "id": 1127176,
-        "url": "https://www.xbox.com/en-us/games/store/-/9NHQPX82SJR3",
-        "type": {
-          "id": 22,
-          "type": "Xbox"
         }
       }
     ]
@@ -34489,6 +34472,250 @@
     ]
   },
   {
+    "id": 380953,
+    "cover": {
+      "id": 512789,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coazo5.jpg"
+    },
+    "first_release_date": 1779062400,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 6,
+    "involved_companies": [
+      {
+        "id": 430021,
+        "company": {
+          "id": 46073,
+          "name": "Spellgarden Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Thrifty Business",
+    "platforms": [
+      {
+        "id": 34,
+        "name": "Android"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      },
+      {
+        "id": 39,
+        "name": "iOS"
+      },
+      {
+        "id": 14,
+        "name": "Mac"
+      },
+      {
+        "id": 130,
+        "name": "Nintendo Switch"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 997274,
+        "date": 1794268800,
+        "platform": {
+          "id": 34,
+          "name": "Android"
+        }
+      },
+      {
+        "id": 997275,
+        "date": 1794268800,
+        "platform": {
+          "id": 39,
+          "name": "iOS"
+        }
+      },
+      {
+        "id": 997276,
+        "date": 1795651200,
+        "platform": {
+          "id": 130,
+          "name": "Nintendo Switch"
+        }
+      },
+      {
+        "id": 895467,
+        "date": 1779062400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 914804,
+        "date": 1779062400,
+        "platform": {
+          "id": 14,
+          "name": "Mac"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1715313,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10rjl.jpg"
+      },
+      {
+        "id": 1715316,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10rjo.jpg"
+      },
+      {
+        "id": 1715315,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10rjn.jpg"
+      },
+      {
+        "id": 1715317,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10rjp.jpg"
+      },
+      {
+        "id": 1715314,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10rjm.jpg"
+      },
+      {
+        "id": 1715311,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10rjj.jpg"
+      },
+      {
+        "id": 1715312,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc10rjk.jpg"
+      }
+    ],
+    "summary": "Run your very own thrift shop in this laid-back management sim! Sort through boxes to find hidden treasures and arrange nostalgic displays of clothes, antiques, toys \u0026 more. Befriend the regulars, help with their requests and expand your store into a hub for the local community!",
+    "videos": [
+      {
+        "id": 170561,
+        "video_id": "Ckw-Dk3I4qg"
+      },
+      {
+        "id": 177272,
+        "video_id": "uMQY_fnIUDg"
+      },
+      {
+        "id": 204522,
+        "video_id": "dbEetLPwBGs"
+      }
+    ],
+    "websites": [
+      {
+        "id": 937795,
+        "url": "https://spellgardengames.com",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 937797,
+        "url": "https://bsky.app/profile/spellgardengames.com",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      },
+      {
+        "id": 937799,
+        "url": "https://x.com/SpellgardenDevs/",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 937794,
+        "url": "https://store.steampowered.com/app/3693650",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 937796,
+        "url": "https://discord.gg/qvJnThC76u",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 937798,
+        "url": "https://www.youtube.com/@spellgardengames",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1165165,
+        "url": "https://apps.apple.com/us/app/thrifty-business/id6778380721",
+        "type": {
+          "id": 10,
+          "type": "App Store (iPhone)"
+        }
+      },
+      {
+        "id": 1165166,
+        "url": "https://www.nintendo.com/us/store/products/thrifty-business-switch/",
+        "type": {
+          "id": 24,
+          "type": "Nintendo"
+        }
+      },
+      {
+        "id": 1165164,
+        "url": "https://play.google.com/store/apps/details?id\u003dcom.spellgarden.thriftybusiness\u0026hl\u003den_CA",
+        "type": {
+          "id": 12,
+          "type": "Google Play"
+        }
+      },
+      {
+        "id": 1165163,
+        "url": "https://apps.apple.com/us/app/thrifty-business/id6778380721?platform\u003dipad",
+        "type": {
+          "id": 11,
+          "type": "App Store (iPad)"
+        }
+      },
+      {
+        "id": 1024468,
+        "url": "https://www.twitch.tv/directory/category/thrifty-business",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 1082549,
+        "url": "https://www.instagram.com/spellgardengames/",
+        "type": {
+          "id": 8,
+          "type": "Instagram"
+        }
+      }
+    ]
+  },
+  {
     "id": 348330,
     "cover": {
       "id": 528971,
@@ -41648,250 +41875,6 @@
     ]
   },
   {
-    "id": 384325,
-    "cover": {
-      "id": 523677,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cob82l.jpg"
-    },
-    "first_release_date": 1790553600,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 12,
-        "name": "Role-playing (RPG)"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      },
-      {
-        "id": 33,
-        "name": "Arcade"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 365873,
-        "company": {
-          "id": 72850,
-          "name": "Shaun Hammond Business Solutions Limited"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Antivirus Survivors 2003 Professional",
-    "platforms": [
-      {
-        "id": 3,
-        "name": "Linux"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 963893,
-        "date": 1790553600,
-        "platform": {
-          "id": 3,
-          "name": "Linux"
-        }
-      },
-      {
-        "id": 963894,
-        "date": 1790553600,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 963895,
-        "date": 1790553600,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1919635,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15577.jpg"
-      },
-      {
-        "id": 1919642,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1557e.jpg"
-      },
-      {
-        "id": 1919648,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1557k.jpg"
-      },
-      {
-        "id": 1919649,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1557l.jpg"
-      },
-      {
-        "id": 1919636,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15578.jpg"
-      },
-      {
-        "id": 1919638,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1557a.jpg"
-      },
-      {
-        "id": 1919639,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1557b.jpg"
-      },
-      {
-        "id": 1919641,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1557d.jpg"
-      },
-      {
-        "id": 1919643,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1557f.jpg"
-      },
-      {
-        "id": 1919644,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1557g.jpg"
-      },
-      {
-        "id": 1919645,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1557h.jpg"
-      },
-      {
-        "id": 1919646,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1557i.jpg"
-      },
-      {
-        "id": 1919647,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1557j.jpg"
-      },
-      {
-        "id": 1919634,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15576.jpg"
-      },
-      {
-        "id": 1919637,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc15579.jpg"
-      },
-      {
-        "id": 1919640,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc1557c.jpg"
-      }
-    ],
-    "summary": "The family computer is infected again and it’s your job to fend off waves of viruses and adware foes with an arsenal of nostalgic Y2K-inspired weapons. Antivirus Survivors 2003 Professional is a survivor-like auto-shooter filled with nods to the days when computers were actually fun.",
-    "videos": [
-      {
-        "id": 172731,
-        "video_id": "wMd4Zv19UrQ"
-      },
-      {
-        "id": 172732,
-        "video_id": "VVnztiaWtn4"
-      },
-      {
-        "id": 192676,
-        "video_id": "dMveq0zJP4s"
-      },
-      {
-        "id": 192677,
-        "video_id": "lfPDcVYn19g"
-      },
-      {
-        "id": 176522,
-        "video_id": "tXH4Gaq6qLk"
-      },
-      {
-        "id": 195905,
-        "video_id": "6jnXSeCWIvk"
-      },
-      {
-        "id": 197815,
-        "video_id": "NfZQDX2qIJU"
-      }
-    ],
-    "websites": [
-      {
-        "id": 978609,
-        "url": "https://store.steampowered.com/app/3832490",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 979945,
-        "url": "https://avs03.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 979947,
-        "url": "https://www.instagram.com/shbsltd",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 979948,
-        "url": "https://www.youtube.com/@shbsltd",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1008353,
-        "url": "https://x.com/avs03pro",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1008352,
-        "url": "https://www.twitch.tv/directory/category/antivirus-survivors-2003-professional",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 1116079,
-        "url": "https://discord.gg/avs03",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 1116080,
-        "url": "https://bsky.app/profile/avs03.com",
-        "type": {
-          "id": 19,
-          "type": "Bluesky"
-        }
-      }
-    ]
-  },
-  {
     "id": 397601,
     "cover": {
       "id": 554922,
@@ -42072,192 +42055,6 @@
         "type": {
           "id": 18,
           "type": "Discord"
-        }
-      }
-    ]
-  },
-  {
-    "id": 409208,
-    "cover": {
-      "id": 592161,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cocowx.jpg"
-    },
-    "first_release_date": 1790553600,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 13,
-        "name": "Simulator"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 2,
-    "involved_companies": [
-      {
-        "id": 408969,
-        "company": {
-          "id": 77604,
-          "name": "Neuroticfly Games"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 408970,
-        "company": {
-          "id": 45449,
-          "name": "SolitaryStudios"
-        },
-        "developer": false,
-        "publisher": true
-      },
-      {
-        "id": 401403,
-        "company": {
-          "id": 79069,
-          "name": "Scratch Byte Studios"
-        },
-        "developer": true,
-        "publisher": false
-      }
-    ],
-    "name": "Twin Hotel, Spa, and More",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 972921,
-        "date": 1790553600,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1899205,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14pfp.jpg"
-      },
-      {
-        "id": 1899207,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14pfr.jpg"
-      },
-      {
-        "id": 1899208,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14pfs.jpg"
-      },
-      {
-        "id": 1899210,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14pfu.jpg"
-      },
-      {
-        "id": 1899211,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14pfv.jpg"
-      },
-      {
-        "id": 1899212,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14pfw.jpg"
-      },
-      {
-        "id": 1899206,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14pfq.jpg"
-      },
-      {
-        "id": 1899204,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14pfo.jpg"
-      },
-      {
-        "id": 1899209,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc14pft.jpg"
-      }
-    ],
-    "summary": "TWIN Hotel, Spa and More is a minimalist, point-and-click interactive experience.\n\nYou begin confined to an elevator cabin. Operate the lift and serve the hotel\u0027s guests using the control panel.\n\nAfter serving enough guests, you can leave the elevator and move around using the joystick on your wheelchair.\n\nYour next assignment is waiting in another elevator.",
-    "videos": [
-      {
-        "id": 192985,
-        "video_id": "DTjEMSQT2VA"
-      },
-      {
-        "id": 189753,
-        "video_id": "HcVMuNMQocg"
-      }
-    ],
-    "websites": [
-      {
-        "id": 1083018,
-        "url": "https://store.steampowered.com/app/4867650",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 1083019,
-        "url": "https://solitarystudios.itch.io/twin-hotel-spa-and-more",
-        "type": {
-          "id": 15,
-          "type": "Itch"
-        }
-      },
-      {
-        "id": 1092397,
-        "url": "https://neuroticfly.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 1092402,
-        "url": "https://www.instagram.com/neuroticfly/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      },
-      {
-        "id": 1092401,
-        "url": "https://x.com/neuroticfly",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 1092399,
-        "url": "https://www.youtube.com/@neuroticfly",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 1092398,
-        "url": "https://discord.gg/peFGsywsUy",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 1092400,
-        "url": "https://www.facebook.com/neuroticfly",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
         }
       }
     ]
@@ -88618,8 +88415,8 @@
   {
     "id": 373192,
     "cover": {
-      "id": 497975,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coao8n.jpg"
+      "id": 628132,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/codgo4.jpg"
     },
     "first_release_date": 1794528000,
     "game_modes": [
@@ -93198,6 +92995,7 @@
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/sctnha.jpg"
       }
     ],
+    "status": 4,
     "summary": "In this cozy management lifesim, care for cute cats \u0026 customers while exploring a bustling folkloric city. Build the cat cafe of your dreams and fill hearts with delight using the power of cats, coffee and community",
     "videos": [
       {
@@ -93531,20 +93329,6 @@
           "id": 169,
           "name": "Xbox Series X|S"
         }
-      },
-      {
-        "id": 878510,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 878511,
-        "platform": {
-          "id": 3,
-          "name": "Linux"
-        }
       }
     ],
     "screenshots": [
@@ -93609,6 +93393,7 @@
         "url": "//images.igdb.com/igdb/image/upload/t_thumb/sczfsv.jpg"
       }
     ],
+    "status": 4,
     "summary": "Explore and survive in the Arctic, where your car is the only thing keeping you alive. Arctic Drive is a 1–4 player co-op survival sim set in a procedurally generated winter wilderness. Find supplies, repair your rig, and haul it all onwards with only one hope left: there must be safety out there.",
     "videos": [
       {
@@ -93633,14 +93418,6 @@
       }
     ],
     "websites": [
-      {
-        "id": 883056,
-        "url": "https://store.steampowered.com/app/4009490/Arctic_Drive/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
       {
         "id": 883057,
         "url": "https://www.youtube.com/channel/UCEPcgcrI-lbKf4ypyrgFGeg/",
@@ -93687,6 +93464,22 @@
         "type": {
           "id": 8,
           "type": "Instagram"
+        }
+      },
+      {
+        "id": 1165070,
+        "url": "https://store.steampowered.com/app/4009490",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1165071,
+        "url": "https://www.arcticdrivegame.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
         }
       }
     ]
@@ -94149,6 +93942,204 @@
     ]
   },
   {
+    "id": 187392,
+    "cover": {
+      "id": 314476,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co6qng.jpg"
+    },
+    "first_release_date": 1795737600,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      }
+    ],
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      },
+      {
+        "id": 34,
+        "name": "Visual Novel"
+      }
+    ],
+    "hypes": 10,
+    "involved_companies": [
+      {
+        "id": 352243,
+        "company": {
+          "id": 22611,
+          "name": "GB Patch Games"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Our Life: Now \u0026 Forever",
+    "platforms": [
+      {
+        "id": 3,
+        "name": "Linux"
+      },
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 980631,
+        "date": 1795737600,
+        "platform": {
+          "id": 3,
+          "name": "Linux"
+        }
+      },
+      {
+        "id": 980632,
+        "date": 1795737600,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      },
+      {
+        "id": 980633,
+        "platform": {
+          "id": 3,
+          "name": "Linux"
+        }
+      },
+      {
+        "id": 980634,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 711737,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scf96h.jpg"
+      },
+      {
+        "id": 711740,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scf96k.jpg"
+      },
+      {
+        "id": 711735,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scf96f.jpg"
+      },
+      {
+        "id": 711738,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scf96i.jpg"
+      },
+      {
+        "id": 711743,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scf96n.jpg"
+      },
+      {
+        "id": 711747,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scf96r.jpg"
+      },
+      {
+        "id": 711745,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scf96p.jpg"
+      },
+      {
+        "id": 711733,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scf96d.jpg"
+      },
+      {
+        "id": 711749,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scf96t.jpg"
+      },
+      {
+        "id": 711748,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scf96s.jpg"
+      }
+    ],
+    "summary": "A paper airplane, two new neighbors, four autumns, and a one of a kind life. Create an experience that’s all your own in this near-fully customizable, choice-heavy story where you grow from childhood to adulthood.",
+    "videos": [
+      {
+        "id": 146676,
+        "video_id": "ysCYQMg7bo0"
+      }
+    ],
+    "websites": [
+      {
+        "id": 481407,
+        "url": "https://www.twitch.tv/directory/game/Our%20Life:%20Now%20\u0026%20Forever",
+        "type": {
+          "id": 6,
+          "type": "Twitch"
+        }
+      },
+      {
+        "id": 731996,
+        "url": "https://discord.gg/Q9YvQx2",
+        "type": {
+          "id": 18,
+          "type": "Discord"
+        }
+      },
+      {
+        "id": 731995,
+        "url": "https://x.com/Patch_Games",
+        "type": {
+          "id": 5,
+          "type": "Twitter"
+        }
+      },
+      {
+        "id": 732058,
+        "url": "https://www.youtube.com/@GBPatch",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 258051,
+        "url": "https://www.gbpatchgames.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 258050,
+        "url": "https://store.steampowered.com/app/1622130",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 298185,
+        "url": "https://gbpatch.itch.io/our-life-nf",
+        "type": {
+          "id": 15,
+          "type": "Itch"
+        }
+      },
+      {
+        "id": 948790,
+        "url": "https://bsky.app/profile/gbpatch.bsky.social",
+        "type": {
+          "id": 19,
+          "type": "Bluesky"
+        }
+      }
+    ]
+  },
+  {
     "id": 258306,
     "cover": {
       "id": 571951,
@@ -94583,6 +94574,14 @@
       }
     ],
     "genres": [
+      {
+        "id": 4,
+        "name": "Fighting"
+      },
+      {
+        "id": 12,
+        "name": "Role-playing (RPG)"
+      },
       {
         "id": 24,
         "name": "Tactical"
@@ -98291,7 +98290,7 @@
         "name": "Adventure"
       }
     ],
-    "hypes": 3,
+    "hypes": 4,
     "involved_companies": [
       {
         "id": 393312,
@@ -99386,6 +99385,136 @@
         "type": {
           "id": 1,
           "type": "Official Website"
+        }
+      }
+    ]
+  },
+  {
+    "id": 429690,
+    "cover": {
+      "id": 625499,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/codemz.jpg"
+    },
+    "first_release_date": 1796342400,
+    "genres": [
+      {
+        "id": 13,
+        "name": "Simulator"
+      },
+      {
+        "id": 32,
+        "name": "Indie"
+      }
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      {
+        "id": 428655,
+        "company": {
+          "id": 85242,
+          "name": "Skyturns"
+        },
+        "developer": true,
+        "publisher": true
+      }
+    ],
+    "name": "Dirt Town",
+    "platforms": [
+      {
+        "id": 6,
+        "name": "PC (Microsoft Windows)"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 993784,
+        "date": 1796342400,
+        "platform": {
+          "id": 6,
+          "name": "PC (Microsoft Windows)"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1992371,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16pbn.jpg"
+      },
+      {
+        "id": 1992374,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16pbq.jpg"
+      },
+      {
+        "id": 1992365,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16pbh.jpg"
+      },
+      {
+        "id": 1992372,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16pbo.jpg"
+      },
+      {
+        "id": 1992378,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16pbu.jpg"
+      },
+      {
+        "id": 1992363,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16pbf.jpg"
+      },
+      {
+        "id": 1992377,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16pbt.jpg"
+      },
+      {
+        "id": 1992368,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16pbk.jpg"
+      },
+      {
+        "id": 1992375,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16pbr.jpg"
+      },
+      {
+        "id": 1992369,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16pbl.jpg"
+      },
+      {
+        "id": 1992366,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16pbi.jpg"
+      },
+      {
+        "id": 1992380,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16pbw.jpg"
+      }
+    ],
+    "summary": "Use incredible physics to create roads by pushing dirt, felling trees, moving rocks, hauling gravel. Dig a pit for resources, build a race track for the dirt bike! Get paid and buy more machines. Multiplayer for up to four players.",
+    "videos": [
+      {
+        "id": 203296,
+        "video_id": "a1ctX3s-CG4"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1157493,
+        "url": "https://www.youtube.com/@dirttowngame",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      },
+      {
+        "id": 1157492,
+        "url": "https://store.steampowered.com/app/5275590/",
+        "type": {
+          "id": 13,
+          "type": "Steam"
+        }
+      },
+      {
+        "id": 1159128,
+        "url": "https://discord.gg/VQXkVbtYuW",
+        "type": {
+          "id": 18,
+          "type": "Discord"
         }
       }
     ]
@@ -102607,8 +102736,8 @@
   {
     "id": 428346,
     "cover": {
-      "id": 621155,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/codbab.jpg"
+      "id": 628323,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/codgtf.jpg"
     },
     "first_release_date": 1796860800,
     "game_modes": [
@@ -102783,7 +102912,7 @@
         "name": "Adventure"
       }
     ],
-    "hypes": 139,
+    "hypes": 140,
     "involved_companies": [
       {
         "id": 402153,
@@ -103224,6 +103353,147 @@
       {
         "id": 1091153,
         "url": "https://www.youtube.com/@donebypan",
+        "type": {
+          "id": 9,
+          "type": "YouTube"
+        }
+      }
+    ]
+  },
+  {
+    "id": 314559,
+    "cover": {
+      "id": 618606,
+      "url": "//images.igdb.com/igdb/image/upload/t_thumb/cod9bi.jpg"
+    },
+    "first_release_date": 1798156800,
+    "game_modes": [
+      {
+        "id": 1,
+        "name": "Single player"
+      },
+      {
+        "id": 2,
+        "name": "Multiplayer"
+      },
+      {
+        "id": 4,
+        "name": "Split screen"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10,
+        "name": "Racing"
+      }
+    ],
+    "hypes": 2,
+    "name": "Super Mario Kart Deluxe",
+    "platforms": [
+      {
+        "id": 19,
+        "name": "Super Nintendo Entertainment System"
+      }
+    ],
+    "release_dates": [
+      {
+        "id": 984096,
+        "date": 1798156800,
+        "platform": {
+          "id": 19,
+          "name": "Super Nintendo Entertainment System"
+        }
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1979718,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16fk6.jpg"
+      },
+      {
+        "id": 1979727,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16fkf.jpg"
+      },
+      {
+        "id": 1979723,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16fkb.jpg"
+      },
+      {
+        "id": 1979716,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16fk4.jpg"
+      },
+      {
+        "id": 1979717,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16fk5.jpg"
+      },
+      {
+        "id": 1979721,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16fk9.jpg"
+      },
+      {
+        "id": 1979715,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16fk3.jpg"
+      },
+      {
+        "id": 1979722,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16fka.jpg"
+      },
+      {
+        "id": 1979719,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16fk7.jpg"
+      },
+      {
+        "id": 1979726,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16fke.jpg"
+      },
+      {
+        "id": 1979724,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16fkc.jpg"
+      },
+      {
+        "id": 1979725,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16fkd.jpg"
+      },
+      {
+        "id": 1979728,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16fkg.jpg"
+      },
+      {
+        "id": 1979720,
+        "url": "//images.igdb.com/igdb/image/upload/t_thumb/sc16fk8.jpg"
+      }
+    ],
+    "summary": "An extension to the original Super Mario Kart with a great number of added features. More racers, more tracks, more speed, more modes, more items, new music, etc...",
+    "videos": [
+      {
+        "id": 124872,
+        "video_id": "KU4pqRfU_BU"
+      },
+      {
+        "id": 201458,
+        "video_id": "nMHgz4zoueU"
+      },
+      {
+        "id": 201459,
+        "video_id": "EhmaNejxw68"
+      },
+      {
+        "id": 201460,
+        "video_id": "0hcqu7R4NBo"
+      }
+    ],
+    "websites": [
+      {
+        "id": 1151389,
+        "url": "https://www.smkdx.com/",
+        "type": {
+          "id": 1,
+          "type": "Official Website"
+        }
+      },
+      {
+        "id": 1151338,
+        "url": "https://www.youtube.com/playlist?list\u003dPL-Hqpp0Hct_tW36RvyBRzAK-AUgNLKQa0",
         "type": {
           "id": 9,
           "type": "YouTube"
@@ -105263,327 +105533,6 @@
       {
         "id": 484588,
         "url": "https://www.twitch.tv/directory/game/Ardenfall",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      }
-    ]
-  },
-  {
-    "id": 194855,
-    "cover": {
-      "id": 501760,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/coar5s.jpg"
-    },
-    "first_release_date": 1798675200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      },
-      {
-        "id": 2,
-        "name": "Multiplayer"
-      },
-      {
-        "id": 3,
-        "name": "Co-operative"
-      }
-    ],
-    "genres": [
-      {
-        "id": 5,
-        "name": "Shooter"
-      },
-      {
-        "id": 31,
-        "name": "Adventure"
-      }
-    ],
-    "hypes": 18,
-    "involved_companies": [
-      {
-        "id": 226057,
-        "company": {
-          "id": 40637,
-          "name": "Cathedral Studios"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "The Bornless",
-    "platforms": [
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 860279,
-        "date": 1798675200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 1112728,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scnul4.jpg"
-      },
-      {
-        "id": 1112729,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scnul5.jpg"
-      },
-      {
-        "id": 1112730,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scnul6.jpg"
-      },
-      {
-        "id": 1112723,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scnukz.jpg"
-      },
-      {
-        "id": 1112724,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scnul0.jpg"
-      },
-      {
-        "id": 1112725,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scnul1.jpg"
-      },
-      {
-        "id": 1112726,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scnul2.jpg"
-      },
-      {
-        "id": 1112727,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/scnul3.jpg"
-      }
-    ],
-    "status": 4,
-    "summary": "The Bornless is an FPS action shooter packed with a variety of gameplay modes. Dive into last-man-standing co-op gameplay or try the thrilling demon versus disciple mode, all within a terror-filled world. Players pair up and form teams, conjure demons to aid in combat, and utilize strategic planning and resource management to survive. Whether you choose an aggressive playstyle or prefer a more cautious approach, the choice is yours.\n\nJoin or create a Faction and amass various resources to upgrade and enhance your Safehouse or personalize your gear to give a new look to your arsenal as you go to war with other Factions.\n\nYou will also experience deep lore and storyline involving all the characters within The Bornless universe, which will be revealed as facts are discovered by players.",
-    "videos": [
-      {
-        "id": 151962,
-        "video_id": "3zphqnRbLKA"
-      },
-      {
-        "id": 95318,
-        "video_id": "NpQOvVPyaKw"
-      },
-      {
-        "id": 95319,
-        "video_id": "Pv3hw7rlsU8"
-      },
-      {
-        "id": 95320,
-        "video_id": "JjJNm0GRHl0"
-      }
-    ],
-    "websites": [
-      {
-        "id": 572089,
-        "url": "https://facebook.com/BornlessFacebook",
-        "type": {
-          "id": 4,
-          "type": "Facebook"
-        }
-      },
-      {
-        "id": 271602,
-        "url": "https://twitter.com/TheBornlessGame",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 903553,
-        "url": "https://www.twitch.tv/directory/category/the-bornless",
-        "type": {
-          "id": 6,
-          "type": "Twitch"
-        }
-      },
-      {
-        "id": 572087,
-        "url": "https://store.epicgames.com/en-US/p/the-bornless-6671a5",
-        "type": {
-          "id": 16,
-          "type": "Epic"
-        }
-      },
-      {
-        "id": 572086,
-        "url": "https://store.steampowered.com/app/2411280/The_Bornless/",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 572090,
-        "url": "https://discord.gg/thebornless",
-        "type": {
-          "id": 18,
-          "type": "Discord"
-        }
-      },
-      {
-        "id": 271599,
-        "url": "https://www.thebornless.com/",
-        "type": {
-          "id": 1,
-          "type": "Official Website"
-        }
-      },
-      {
-        "id": 572088,
-        "url": "https://www.youtube.com/@The_Bornless",
-        "type": {
-          "id": 9,
-          "type": "YouTube"
-        }
-      },
-      {
-        "id": 572292,
-        "url": "https://www.instagram.com/thebornlessgame/",
-        "type": {
-          "id": 8,
-          "type": "Instagram"
-        }
-      }
-    ]
-  },
-  {
-    "id": 210905,
-    "cover": {
-      "id": 242667,
-      "url": "//images.igdb.com/igdb/image/upload/t_thumb/co578r.jpg"
-    },
-    "first_release_date": 1798675200,
-    "game_modes": [
-      {
-        "id": 1,
-        "name": "Single player"
-      }
-    ],
-    "genres": [
-      {
-        "id": 31,
-        "name": "Adventure"
-      },
-      {
-        "id": 32,
-        "name": "Indie"
-      }
-    ],
-    "hypes": 3,
-    "involved_companies": [
-      {
-        "id": 343392,
-        "company": {
-          "id": 22810,
-          "name": "Potata Company"
-        },
-        "developer": true,
-        "publisher": true
-      }
-    ],
-    "name": "Almost My Floor: Duality",
-    "platforms": [
-      {
-        "id": 3,
-        "name": "Linux"
-      },
-      {
-        "id": 6,
-        "name": "PC (Microsoft Windows)"
-      },
-      {
-        "id": 14,
-        "name": "Mac"
-      }
-    ],
-    "release_dates": [
-      {
-        "id": 796738,
-        "date": 1798675200,
-        "platform": {
-          "id": 6,
-          "name": "PC (Microsoft Windows)"
-        }
-      },
-      {
-        "id": 796739,
-        "date": 1798675200,
-        "platform": {
-          "id": 14,
-          "name": "Mac"
-        }
-      },
-      {
-        "id": 796740,
-        "date": 1798675200,
-        "platform": {
-          "id": 3,
-          "name": "Linux"
-        }
-      }
-    ],
-    "screenshots": [
-      {
-        "id": 839720,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/schzxk.jpg"
-      },
-      {
-        "id": 839721,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/schzxl.jpg"
-      },
-      {
-        "id": 839722,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/schzxm.jpg"
-      },
-      {
-        "id": 839723,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/schzxn.jpg"
-      },
-      {
-        "id": 839724,
-        "url": "//images.igdb.com/igdb/image/upload/t_thumb/schzxo.jpg"
-      }
-    ],
-    "summary": "Almost My Floor: Duality - a noir detective horror-adventure game about the internal struggle with depression and the impending darkness in a provincial town. The gameplay is based on decision-making mechanics and a branching storyline.",
-    "videos": [
-      {
-        "id": 130833,
-        "video_id": "5Gt9zrfsAbo"
-      }
-    ],
-    "websites": [
-      {
-        "id": 808532,
-        "url": "https://x.com/potata_game",
-        "type": {
-          "id": 5,
-          "type": "Twitter"
-        }
-      },
-      {
-        "id": 299756,
-        "url": "https://store.steampowered.com/app/2068190",
-        "type": {
-          "id": 13,
-          "type": "Steam"
-        }
-      },
-      {
-        "id": 498405,
-        "url": "https://www.twitch.tv/directory/game/Almost%20My%20Floor%202",
         "type": {
           "id": 6,
           "type": "Twitch"
